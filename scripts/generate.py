@@ -10,6 +10,7 @@ from __future__ import annotations
 import argparse
 import datetime as dt
 import json
+import re
 import sys
 
 import common
@@ -139,11 +140,38 @@ def claude_mode(raw: dict, date: dt.date) -> str:
         messages=[{"role": "user", "content": PROMPT.format(date=date.isoformat(), data=data)}],
     )
     text = "".join(block.text for block in msg.content if block.type == "text").strip()
+    return normalize_output(text, date)
 
-    # Claude 가 frontmatter 를 냈으면 그대로, 아니면 감싸기
+
+def normalize_output(text: str, date: dt.date) -> str:
+    """Claude 출력에서 title/summary 를 뽑아 항상 올바른 frontmatter 로 재조립한다.
+    닫는 --- 를 빠뜨리거나 따옴표가 깨져도 안전하게 처리한다."""
+    text = text.strip()
+    title, summary, body = "", "", text
+
     if text.startswith("---"):
-        return text + "\n"
-    return _frontmatter(f"{date.isoformat()} 전쟁 브리핑", date, "") + text + "\n"
+        rest = text[3:].lstrip("\n")
+        m = re.match(r"(.*?)\n---\s*\n(.*)$", rest, re.S)
+        if m:
+            fm, body = m.group(1), m.group(2)
+        else:  # 닫는 --- 누락: '##' 또는 첫 빈 줄까지를 frontmatter 로 간주
+            lines = rest.split("\n")
+            cut = len(lines)
+            fm_lines: list[str] = []
+            for i, ln in enumerate(lines):
+                if ln.strip().startswith("#") or (not ln.strip() and fm_lines):
+                    cut = i
+                    break
+                fm_lines.append(ln)
+            fm, body = "\n".join(fm_lines), "\n".join(lines[cut:])
+        for ln in fm.splitlines():
+            low = ln.lower()
+            if low.startswith("title:"):
+                title = ln.split(":", 1)[1].strip().strip('"').strip("'")
+            elif low.startswith("summary:"):
+                summary = ln.split(":", 1)[1].strip().strip('"').strip("'")
+
+    return _frontmatter(title or f"{date.isoformat()} 전쟁 브리핑", date, summary) + body.strip() + "\n"
 
 
 def main() -> None:
