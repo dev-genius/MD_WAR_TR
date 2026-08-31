@@ -7,8 +7,6 @@ on:
 
 permissions:
   contents: write   # content/ 커밋백
-  pages: write
-  id-token: write
 
 concurrency:
   group: daily-briefing
@@ -47,16 +45,13 @@ jobs:
       - name: Build site
         run: python scripts/build_site.py
 
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/setup-node@v4
         with:
-          path: site
+          node-version: "20"
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Deploy to Firebase Hosting
+        run: |
+          printf '%s' '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}' > "$RUNNER_TEMP/firebase-sa.json"
+          export GOOGLE_APPLICATION_CREDENTIALS="$RUNNER_TEMP/firebase-sa.json"
+          npx --yes firebase-tools@13 deploy --only hosting --non-interactive
+          rm -f "$RUNNER_TEMP/firebase-sa.json"

@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "public": "site",
+    "cleanUrls": true,
+    "trailingSlash": false,
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "headers": [
+      {
+        "source": "rss.xml",
+        "headers": [{ "key": "Content-Type", "value": "application/rss+xml; charset=utf-8" }]
+      }
+    ]
+  }
+}

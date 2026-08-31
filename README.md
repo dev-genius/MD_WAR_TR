@@ -33,15 +33,20 @@ python scripts/build_site.py
 python -m http.server -d site 8000   # http://localhost:8000
 ```
 
-## 배포 (요약)
+## 배포 (하이브리드: GitHub Actions 실행 + Firebase Hosting)
 
-1. 이 폴더를 새 **public** GitHub 레포로 push
-2. 레포 Settings → Secrets → Actions 에 `ANTHROPIC_API_KEY` 추가
-3. 레포 Settings → Pages → Source: **GitHub Actions**
-4. `.github/workflows/daily.yml` 의 cron 시간 확인 (기본 UTC 22:00 = KST 07:00)
+실행은 GitHub Actions(무료), 웹 호스팅은 Firebase Hosting.
+
+1. Firebase 콘솔에서 프로젝트 생성 (Spark 무료 요금제로 충분, 카드 불필요)
+2. `.firebaserc` 의 `REPLACE_WITH_FIREBASE_PROJECT_ID` 를 실제 프로젝트 ID로 교체
+3. Firebase 프로젝트 설정 → 서비스 계정 → 새 비공개 키 생성 (JSON 다운로드)
+4. GitHub 레포 Settings → Secrets and variables → Actions 에 추가:
+   - `FIREBASE_SERVICE_ACCOUNT` = 3번 JSON 파일 내용 전체
+   - `ANTHROPIC_API_KEY` = Claude API 키
+5. `.github/workflows/daily.yml` cron 확인 (기본 UTC 22:00 = KST 07:00)
 
 레포: https://github.com/dev-genius/MD_WAR_TR
-사이트: https://dev-genius.github.io/MD_WAR_TR
+사이트: https://<PROJECT_ID>.web.app
 
 ## 설정 파일
 
