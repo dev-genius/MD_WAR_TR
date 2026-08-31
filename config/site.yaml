@@ -1,6 +1,6 @@
 title: "일일 전쟁 브리핑"
-description: "매일 아침, 전쟁사 한 조각과 현대 전쟁 추적 요약"
-# GitHub Pages URL. 배포 후 실제 주소로 수정 (RSS 절대링크에 사용)
-base_url: "https://dev-genius.github.io/MD_WAR_TR"
+description: "매일 아침, 세계 전쟁·안보 정세 브리핑"
+# RSS 절대링크에 사용
+base_url: "https://mh-track-843d0.web.app"
 locale: "ko-KR"
 timezone: "Asia/Seoul"
