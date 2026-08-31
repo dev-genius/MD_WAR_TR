@@ -1,7 +1,8 @@
 """수집 단계.
 
-- [일일전쟁사] 후보: Wikipedia 'On this day' 군사 관련 사건
-- [현대전쟁 추적] 원자료: 구글뉴스 검색 RSS + 일반 RSS + ISW + 공개 텔레그램 채널
+- 일일 전쟁사 후보: Wikipedia 'On this day' 군사 관련 사건
+- 현대전 추적 원자료: 구글뉴스 검색 RSS + 일반 RSS + ISW
+- 북한 관련: 전용 구글뉴스 + RSS
 
 결과를 data/raw/YYYY-MM-DD.json 으로 저장한다. 네트워크 실패는 소스 단위로
 격리하여 나머지 수집은 계속 진행한다.
@@ -28,6 +29,16 @@ MIL_KEYWORDS = re.compile(
     re.I,
 )
 
+# 광역 뉴스피드(BBC, 알자지라 등)에서 분쟁 무관 기사를 거르는 필터
+CONFLICT_KEYWORDS = re.compile(
+    r"\b(war|strike|air ?strike|shelling|missile|drone|troops|military|"
+    r"offensive|frontline|front line|ceasefire|truce|army|militia|rebel|"
+    r"insurgent|jihadist|coup|junta|clashes?|killed|casualties|siege|"
+    r"occupation|artillery|bombard|combat|conflict|Gaza|Ukraine|Sudan|"
+    r"Myanmar|Sahel|Hezbollah|Hamas)\b",
+    re.I,
+)
+
 
 def _clean(text: str) -> str:
     return re.sub(r"\s+", " ", (text or "")).strip()
@@ -43,7 +54,7 @@ def _within(entry: Any, hours: int) -> bool:
 
 
 # --------------------------------------------------------------------------- #
-# 일일전쟁사 후보
+# 일일 전쟁사 후보
 # --------------------------------------------------------------------------- #
 def collect_history(date: dt.date) -> list[dict]:
     url = (
@@ -61,12 +72,7 @@ def collect_history(date: dt.date) -> list[dict]:
             pages = ev.get("pages", []) or []
             link = ""
             if pages:
-                link = (
-                    pages[0]
-                    .get("content_urls", {})
-                    .get("desktop", {})
-                    .get("page", "")
-                )
+                link = pages[0].get("content_urls", {}).get("desktop", {}).get("page", "")
             out.append({"year": ev.get("year"), "text": text, "link": link})
     except Exception as e:  # noqa: BLE001
         print(f"[history] 실패: {e}", file=sys.stderr)
@@ -74,11 +80,13 @@ def collect_history(date: dt.date) -> list[dict]:
     return out
 
 
-KOREA_WAR_RE = re.compile(r"korea|korean war|inchon|incheon|pusan|busan|38th parallel|panmunjom", re.I)
+KOREA_WAR_RE = re.compile(
+    r"korea|korean war|inchon|incheon|pusan|busan|38th parallel|panmunjom", re.I
+)
 
 
 def split_korea(events: list[dict]) -> tuple[list[dict], list[dict]]:
-    """일일전쟁사 후보에서 6·25 전쟁(1950-1953) 관련 항목을 분리."""
+    """일일 전쟁사 후보에서 6·25 전쟁(1950-1953) 관련 항목을 분리."""
     korea, rest = [], []
     for e in events:
         yr = e.get("year") or 0
@@ -90,7 +98,7 @@ def split_korea(events: list[dict]) -> tuple[list[dict], list[dict]]:
 
 
 # --------------------------------------------------------------------------- #
-# 현대전쟁: RSS / 구글뉴스
+# 뉴스: RSS / 구글뉴스
 # --------------------------------------------------------------------------- #
 def _google_news_url(query: str, lang: str) -> str:
     q = urllib.parse.quote(query)
@@ -99,18 +107,21 @@ def _google_news_url(query: str, lang: str) -> str:
     return f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
 
 
-def _parse_feed(url: str, label: str, limit: int, hours: int) -> list[dict]:
+def _parse_feed(url: str, label: str, limit: int, hours: int, conflict_only: bool = False) -> list[dict]:
     items: list[dict] = []
     try:
         feed = feedparser.parse(url, agent=common.USER_AGENT)
         for e in feed.entries:
             if not _within(e, hours):
                 continue
+            title = _clean(e.get("title", ""))
             summary = _clean(BeautifulSoup(e.get("summary", ""), "html.parser").get_text(" "))
+            if conflict_only and not CONFLICT_KEYWORDS.search(f"{title} {summary}"):
+                continue
             items.append(
                 {
                     "source": label,
-                    "title": _clean(e.get("title", "")),
+                    "title": title,
                     "summary": summary[:500],
                     "link": e.get("link", ""),
                     "published": e.get("published", e.get("updated", "")),
@@ -123,21 +134,22 @@ def _parse_feed(url: str, label: str, limit: int, hours: int) -> list[dict]:
     return items
 
 
-def collect_feeds(cfg: dict) -> list[dict]:
-    limit = int(cfg.get("max_items_per_source", 6))
-    hours = int(cfg.get("lookback_hours", 30))
+def collect_group(cfg: dict, limit: int, hours: int) -> list[dict]:
+    """{google_news: [...], rss: [...]} 형태의 그룹을 수집."""
     out: list[dict] = []
     for g in cfg.get("google_news", []) or []:
         out += _parse_feed(
             _google_news_url(g["query"], g.get("lang", "en")), g["label"], limit, hours
         )
     for rss in cfg.get("rss", []) or []:
-        out += _parse_feed(rss["url"], rss["label"], limit, hours)
+        out += _parse_feed(
+            rss["url"], rss["label"], limit, hours, conflict_only=(rss.get("filter") == "conflict")
+        )
     return out
 
 
 def collect_isw_fallback(cfg: dict) -> list[dict]:
-    """RSS가 비었을 때 ISW 목록 페이지에서 최신 리포트 링크만 긁는다."""
+    """RSS가 비었을 때 ISW 목록 페이지에서 최신 평가 링크만 긁는다."""
     url = cfg.get("isw_listing_url")
     if not url:
         return []
@@ -160,37 +172,14 @@ def collect_isw_fallback(cfg: dict) -> list[dict]:
     return out
 
 
-# --------------------------------------------------------------------------- #
-# 현대전쟁: 공개 텔레그램 채널 (t.me/s/ 웹 프리뷰)
-# --------------------------------------------------------------------------- #
-def collect_telegram(cfg: dict) -> list[dict]:
-    limit = int(cfg.get("max_messages_per_channel", 8))
-    out: list[dict] = []
-    for ch in cfg.get("channels", []) or []:
-        username = ch["username"].lstrip("@")
-        label = ch.get("label", username)
-        try:
-            r = common.http().get(f"https://t.me/s/{username}", timeout=20)
-            r.raise_for_status()
-            soup = BeautifulSoup(r.text, "html.parser")
-            bubbles = soup.select(".tgme_widget_message")
-            for b in bubbles[-limit:]:
-                text_el = b.select_one(".tgme_widget_message_text")
-                time_el = b.select_one("time[datetime]")
-                link_el = b.select_one("a.tgme_widget_message_date")
-                if not text_el:
-                    continue
-                out.append(
-                    {
-                        "source": f"Telegram · {label}",
-                        "title": "",
-                        "summary": _clean(text_el.get_text(" "))[:700],
-                        "link": link_el["href"] if link_el else f"https://t.me/{username}",
-                        "published": time_el["datetime"] if time_el else "",
-                    }
-                )
-        except Exception as e:  # noqa: BLE001
-            print(f"[telegram] {label} 실패: {e}", file=sys.stderr)
+def _dedupe(items: list[dict]) -> list[dict]:
+    seen, out = set(), []
+    for it in items:
+        key = re.sub(r"\W+", "", (it.get("title") or it.get("summary", "")).lower())[:80]
+        if key and key in seen:
+            continue
+        seen.add(key)
+        out.append(it)
     return out
 
 
@@ -204,16 +193,19 @@ def main() -> None:
     common.ensure_dirs()
     date = common.today(args.date)
 
-    feeds_cfg = common.load_yaml("feeds.yaml")
-    tg_cfg = common.load_yaml("telegram_channels.yaml")
+    cfg = common.load_yaml("feeds.yaml")
+    limit = int(cfg.get("max_items_per_source", 6))
+    hours = int(cfg.get("lookback_hours", 36))
 
     history_all = collect_history(date)
     korea, history = split_korea(history_all)
 
-    news = collect_feeds(feeds_cfg)
+    news = collect_group(cfg, limit, hours)
     if not any(i["source"] == "ISW" for i in news):
-        news += collect_isw_fallback(feeds_cfg)
-    telegram = collect_telegram(tg_cfg)
+        news += collect_isw_fallback(cfg)
+    news = _dedupe(news)
+
+    nk = _dedupe(collect_group(cfg.get("north_korea", {}) or {}, limit, hours))
 
     payload = {
         "date": date.isoformat(),
@@ -222,13 +214,13 @@ def main() -> None:
         "korean_war_hits": korea,
         "korean_war_date": {"month": date.month, "day": date.day},
         "news": news,
-        "telegram": telegram,
+        "north_korea": nk,
     }
     path = common.raw_path(date)
     path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     print(
         f"[collect] {path.name}: 전쟁사 후보 {len(history)} · 6·25 히트 {len(korea)} · "
-        f"뉴스 {len(news)} · 텔레그램 {len(telegram)}"
+        f"뉴스 {len(news)} · 북한 {len(nk)}"
     )
 
 

@@ -1,15 +1,33 @@
 {% extends "base.html" %}
 {% block title %}{{ issue.title }} · {{ site.title }}{% endblock %}
 {% block content %}
-  <article>
-    <h1 style="font-size:1.5rem; margin-bottom:.2rem;">{{ issue.title }}</h1>
-    <div class="meta">{{ issue.date.isoformat() }}</div>
-    {% if issue.summary %}<p><em>{{ issue.summary }}</em></p>{% endif %}
-    <hr>
-    {{ issue.body_html | safe }}
-  </article>
-  <nav class="nav">
-    <span>{% if prev %}<a href="{{ prev.slug }}.html">← {{ prev.date.isoformat() }}</a>{% endif %}</span>
-    <span>{% if next %}<a href="{{ next.slug }}.html">{{ next.date.isoformat() }} →</a>{% endif %}</span>
+<article class="briefing">
+  <div class="dateline">
+    <span class="accent">제{{ issue.number }}호</span>
+    <span>{{ issue.date.strftime('%Y년 %m월 %d일') }}</span>
+    <span>읽기 {{ issue.minutes }}분</span>
+  </div>
+
+  <h1 class="headline">{{ issue.title }}</h1>
+  {% if issue.summary %}<p class="lead">{{ issue.summary }}</p>{% endif %}
+
+  {% if issue.toc %}
+  <nav class="toc">
+    {% for s in issue.toc %}
+      <a href="#{{ s.id }}"><span class="n">{{ s.num }}</span>{{ s.title }}</a>
+    {% endfor %}
   </nav>
+  {% endif %}
+
+  {{ issue.body_html | safe }}
+</article>
+
+<nav class="issue-nav">
+  {% if prev %}
+  <a href="/{{ prev.slug }}"><span class="lbl">이전 · 제{{ prev.number }}호</span>{{ prev.date.strftime('%m월 %d일') }}</a>
+  {% endif %}
+  {% if next %}
+  <a class="fwd" href="/{{ next.slug }}"><span class="lbl">다음 · 제{{ next.number }}호</span>{{ next.date.strftime('%m월 %d일') }}</a>
+  {% endif %}
+</nav>
 {% endblock %}

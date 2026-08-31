@@ -1,14 +1,17 @@
 {% extends "base.html" %}
 {% block content %}
-  <ul class="issue-list">
-    {% for issue in issues %}
-    <li>
-      <h2><a href="{{ issue.slug }}.html">{{ issue.title }}</a></h2>
-      <div class="meta">{{ issue.date.isoformat() }}</div>
-      {% if issue.summary %}<p>{{ issue.summary }}</p>{% endif %}
-    </li>
-    {% else %}
-    <li>아직 발행된 호가 없습니다.</li>
-    {% endfor %}
-  </ul>
+<ul class="archive">
+  {% for issue in issues %}
+  <li>
+    <div class="meta">
+      <span class="accent">제{{ issue.number }}호</span> ·
+      {{ issue.date.strftime('%Y.%m.%d') }} · 읽기 {{ issue.minutes }}분
+    </div>
+    <h2><a href="/{{ issue.slug }}">{{ issue.title }}</a></h2>
+    {% if issue.summary %}<p>{{ issue.summary }}</p>{% endif %}
+  </li>
+  {% else %}
+  <li><p>아직 발행된 호가 없습니다.</p></li>
+  {% endfor %}
+</ul>
 {% endblock %}

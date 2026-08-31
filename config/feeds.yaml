@@ -1,30 +1,59 @@
-# 현대전쟁 추적 파트 수집 대상.
+# 수집 대상. 파트별로 분리해서 generate.py 가 라우팅한다.
 #
-# google_news: 구글뉴스 검색 RSS로 자동 변환됨. label 별로 최근 기사 상위 N개 수집.
-# rss: 일반 RSS/Atom 피드 직접 지정.
+# google_news : 구글뉴스 검색 RSS 로 자동 변환. label 별 최근 기사 상위 N개.
+# rss         : 일반 RSS/Atom. filter: conflict 를 주면 분쟁 키워드가 없는 기사는 버린다.
+# north_korea : 북한 파트 전용 (google_news / rss 동일 구조).
 
 max_items_per_source: 6
-lookback_hours: 30
+lookback_hours: 36
 
+# ── 현대전 추적 ──────────────────────────────────────────────
 google_news:
   - label: "우크라이나 전쟁"
-    query: "Ukraine war frontline OR offensive OR strike"
+    query: "Ukraine war frontline OR offensive OR strike OR drone"
     lang: "en"
-  - label: "이스라엘·가자"
-    query: "Israel Gaza OR Hamas OR Hezbollah ceasefire OR strike"
+  - label: "이스라엘·가자·레바논"
+    query: "Israel Gaza OR Hamas OR Hezbollah OR Lebanon strike OR ceasefire"
     lang: "en"
   - label: "수단 내전"
-    query: "Sudan RSF OR army conflict"
+    query: "Sudan RSF OR army OR el-Fasher conflict"
+    lang: "en"
+  - label: "미얀마 내전"
+    query: "Myanmar military junta OR resistance OR airstrike"
+    lang: "en"
+  - label: "사헬·서아프리카"
+    query: "Sahel OR Mali OR Burkina Faso OR Niger jihadist OR army"
     lang: "en"
   - label: "국내 보도 (한국어)"
-    query: "우크라이나 OR 가자 전황"
+    query: "우크라이나 전황 OR 가자 전쟁 OR 중동 정세"
     lang: "ko"
 
 rss:
-  - label: "ISW — Russian Offensive Campaign Assessment"
-    url: "https://www.understandingwar.org/publications?type=445&page=0&format=rss"
+  - label: "Al Jazeera"
+    url: "https://www.aljazeera.com/xml/rss/all.xml"
+    filter: conflict
+  - label: "BBC World"
+    url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+    filter: conflict
+  - label: "Bellingcat (OSINT)"
+    url: "https://www.bellingcat.com/feed/"
   - label: "UN News — Peace and Security"
     url: "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml"
 
-# ISW 리포트 목록 페이지(피드가 비어있을 때 폴백 스크랩)
+# ISW RSS 가 비어 목록 페이지에서 최신 평가 링크를 스크랩
 isw_listing_url: "https://www.understandingwar.org/publications"
+
+# ── 북한 관련 ────────────────────────────────────────────────
+north_korea:
+  google_news:
+    - label: "북한 (한국어)"
+      query: "북한 미사일 OR 도발 OR 김정은 OR 열병식 OR 위성"
+      lang: "ko"
+    - label: "North Korea (EN)"
+      query: "North Korea missile OR nuclear OR Kim Jong Un OR DMZ OR sanctions"
+      lang: "en"
+  rss:
+    - label: "38 North"
+      url: "https://www.38north.org/feed/"
+    - label: "NK News"
+      url: "https://www.nknews.org/feed/"
