@@ -71,6 +71,15 @@ def main() -> None:
         encoding="utf-8",
     )
 
+    # 항상 최신 호로: /latest (단톡방에 매일 같은 링크 붙여넣기용)
+    if issues:
+        latest = issues[0]
+        nxt = issues[1] if len(issues) > 1 else None
+        (common.SITE_DIR / "latest.html").write_text(
+            issue_tpl.render(site=cfg, issue=latest, prev=nxt, next=None),
+            encoding="utf-8",
+        )
+
     # RSS
     (common.SITE_DIR / "rss.xml").write_text(build_rss(cfg, base_url, issues), encoding="utf-8")
 
