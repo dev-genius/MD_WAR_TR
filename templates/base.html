@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="{{ site.locale or 'ko-KR' }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site.title }}{% endblock %}</title>
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="rss.xml">
+<style>
+  :root {
+    --bg: #fbfaf8; --fg: #1b1a17; --muted: #6b6a63; --line: #e3e0d8;
+    --accent: #8a2f1d; --card: #ffffff;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#16150f; --fg:#e9e6dd; --muted:#9c988c; --line:#302e26;
+            --accent:#d98b6a; --card:#1e1c15; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg);
+    font-family: -apple-system, "Apple SD Gothic Neo", "Pretendard", Segoe UI, Roboto, sans-serif;
+    line-height:1.75; font-size:17px; }
+  .wrap { max-width: 720px; margin:0 auto; padding: 2rem 1.1rem 4rem; }
+  header.site { border-bottom:2px solid var(--fg); padding-bottom:.6rem; margin-bottom:2rem; }
+  header.site a { color:inherit; text-decoration:none; }
+  header.site h1 { font-size:1.35rem; margin:0; letter-spacing:-.01em; }
+  header.site p { color:var(--muted); margin:.3rem 0 0; font-size:.9rem; }
+  a { color: var(--accent); }
+  h2 { margin-top:2.4rem; font-size:1.15rem; border-left:4px solid var(--accent);
+    padding-left:.6rem; }
+  h3 { font-size:1rem; margin-top:1.8rem; }
+  hr { border:0; border-top:1px solid var(--line); margin:2.5rem 0; }
+  .meta { color:var(--muted); font-size:.85rem; }
+  .issue-list { list-style:none; padding:0; margin:0; }
+  .issue-list li { padding:1rem 0; border-bottom:1px solid var(--line); }
+  .issue-list h2 { border:0; padding:0; margin:0 0 .2rem; font-size:1.05rem; }
+  .issue-list a { text-decoration:none; }
+  .nav { display:flex; justify-content:space-between; gap:1rem; margin-top:3rem;
+    font-size:.9rem; }
+  blockquote { border-left:3px solid var(--line); margin:.6rem 0; padding-left:.9rem;
+    color:var(--muted); }
+  footer { margin-top:4rem; color:var(--muted); font-size:.8rem;
+    border-top:1px solid var(--line); padding-top:1rem; }
+  code { background:var(--card); padding:.1em .35em; border-radius:4px; font-size:.9em; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="site">
+    <a href="index.html"><h1>{{ site.title }}</h1></a>
+    <p>{{ site.description }} · <a href="rss.xml">RSS 구독</a></p>
+  </header>
+  {% block content %}{% endblock %}
+  <footer>
+    자동 생성 브리핑. 뉴스 원문 저작권은 각 매체에 있으며 요약·링크만 제공합니다.
+    OSINT·텔레그램 출처는 미확인 정보를 포함할 수 있습니다.
+  </footer>
+</div>
+</body>
+</html>

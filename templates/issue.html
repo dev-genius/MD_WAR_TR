@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}{{ issue.title }} · {{ site.title }}{% endblock %}
+{% block content %}
+  <article>
+    <h1 style="font-size:1.5rem; margin-bottom:.2rem;">{{ issue.title }}</h1>
+    <div class="meta">{{ issue.date.isoformat() }}</div>
+    {% if issue.summary %}<p><em>{{ issue.summary }}</em></p>{% endif %}
+    <hr>
+    {{ issue.body_html | safe }}
+  </article>
+  <nav class="nav">
+    <span>{% if prev %}<a href="{{ prev.slug }}.html">← {{ prev.date.isoformat() }}</a>{% endif %}</span>
+    <span>{% if next %}<a href="{{ next.slug }}.html">{{ next.date.isoformat() }} →</a>{% endif %}</span>
+  </nav>
+{% endblock %}

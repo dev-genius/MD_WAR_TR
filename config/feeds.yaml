@@ -1,0 +1,30 @@
+# 현대전쟁 추적 파트 수집 대상.
+#
+# google_news: 구글뉴스 검색 RSS로 자동 변환됨. label 별로 최근 기사 상위 N개 수집.
+# rss: 일반 RSS/Atom 피드 직접 지정.
+
+max_items_per_source: 6
+lookback_hours: 30
+
+google_news:
+  - label: "우크라이나 전쟁"
+    query: "Ukraine war frontline OR offensive OR strike"
+    lang: "en"
+  - label: "이스라엘·가자"
+    query: "Israel Gaza OR Hamas OR Hezbollah ceasefire OR strike"
+    lang: "en"
+  - label: "수단 내전"
+    query: "Sudan RSF OR army conflict"
+    lang: "en"
+  - label: "국내 보도 (한국어)"
+    query: "우크라이나 OR 가자 전황"
+    lang: "ko"
+
+rss:
+  - label: "ISW — Russian Offensive Campaign Assessment"
+    url: "https://www.understandingwar.org/publications?type=445&page=0&format=rss"
+  - label: "UN News — Peace and Security"
+    url: "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml"
+
+# ISW 리포트 목록 페이지(피드가 비어있을 때 폴백 스크랩)
+isw_listing_url: "https://www.understandingwar.org/publications"

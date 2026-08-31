@@ -1,0 +1,12 @@
+# 수집할 "공개" 텔레그램 채널. t.me/s/<username> 웹 프리뷰만 사용 (API 불필요).
+# username 은 t.me/ 뒤의 값. 비공개/가입형 채널은 불가.
+#
+# 아래는 예시 자리표시자입니다. 실제로 팔로우할 OSINT 채널로 교체하세요.
+max_messages_per_channel: 8
+lookback_hours: 30
+
+channels:
+  - username: "DeepStateUA"
+    label: "DeepState (UA)"
+  # - username: "your_channel_here"
+  #   label: "표시 이름"
