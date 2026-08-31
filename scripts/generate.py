@@ -35,7 +35,7 @@ PROMPT = """오늘 날짜: {date}
 
 ## 최신 기사
 
-- news 에서 중요도 높은 기사 8~12건을 골라 시간순으로 정렬한다. 중복 기사는 하나로 합친다.
+- news 에서 중요도 높은 기사 7~10건을 골라 시간순으로 정렬한다. 중복 기사는 하나로 합친다.
 - 각 항목은 한 줄: 한국어로 압축한 헤드라인 + 끝에 `— [매체명](링크)`.
 - 분석·해설 없이 헤드라인만. 지역이 다양하게 섞이도록 한다.
 
@@ -49,7 +49,7 @@ PROMPT = """오늘 날짜: {date}
 ## 일일 전쟁사
 
 - history_candidates 중 중요도가 높고 서사가 있는 사건 **1개**를 고른다.
-- 3~5문단으로 배경 → 전개 → 의의를 서술한다.
+- 3~4문단으로 배경 → 전개 → 의의를 서술한다.
 - 마지막 줄에 `출처: [제목](링크)`.
 
 ## 6·25 전쟁사
@@ -161,14 +161,24 @@ def claude_mode(raw: dict, date: dt.date) -> str:
     model = common.env("ANTHROPIC_MODEL", "claude-sonnet-5")
     client = anthropic.Anthropic(api_key=common.env("ANTHROPIC_API_KEY"))
     data = json.dumps(raw, ensure_ascii=False)[:90000]
-    msg = client.messages.create(
-        model=model,
-        max_tokens=6000,
-        system=SYSTEM,
-        messages=[{"role": "user", "content": PROMPT.format(date=date.isoformat(), data=data)}],
-    )
-    text = "".join(block.text for block in msg.content if block.type == "text").strip()
-    return normalize_output(text, date)
+    messages = [{"role": "user", "content": PROMPT.format(date=date.isoformat(), data=data)}]
+
+    parts: list[str] = []
+    for attempt in range(3):  # max_tokens 로 잘리면 이어쓰기
+        msg = client.messages.create(
+            model=model, max_tokens=8000, system=SYSTEM, messages=messages
+        )
+        chunk = "".join(b.text for b in msg.content if b.type == "text")
+        parts.append(chunk)
+        if msg.stop_reason != "max_tokens":
+            break
+        print(f"[generate] max_tokens 도달 → 이어쓰기 {attempt + 1}", file=sys.stderr)
+        messages += [
+            {"role": "assistant", "content": chunk},
+            {"role": "user", "content": "끊긴 지점부터 이어서 계속. 이미 쓴 내용은 반복하지 마라."},
+        ]
+
+    return normalize_output("".join(parts).strip(), date)
 
 
 def normalize_output(text: str, date: dt.date) -> str:
