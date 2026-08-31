@@ -60,8 +60,13 @@ def process_sections(body_html: str) -> tuple[str, list[dict]]:
     return re.sub(r"<h2>(.*?)</h2>", repl, body_html, flags=re.S), toc
 
 
-def reading_minutes(text: str) -> int:
-    return max(1, round(len(re.sub(r"\s+", "", text)) / 480))
+def reading_minutes(md_text: str) -> int:
+    # 링크 URL·마크다운 기호를 제외한 실제 읽는 분량만 센다
+    t = re.sub(r"\]\([^)]*\)", "]", md_text)      # (url) 제거
+    t = re.sub(r"https?://\S+", "", t)
+    t = re.sub(r"[#*_>`\[\]-]", "", t)
+    t = re.sub(r"\s+", "", t)
+    return max(1, round(len(t) / 500))
 
 
 def parse_md(path) -> dict:
