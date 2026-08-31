@@ -163,8 +163,13 @@ def main() -> None:
 
     out_path = common.content_path(date)
     if out_path.exists() and not args.force:
-        print(f"[generate] 이미 존재: {out_path.name} (--force 로 덮어쓰기)")
-        return
+        existing = out_path.read_text(encoding="utf-8")
+        is_draft = "(초안)" in existing.split("\n---", 1)[0]
+        # 초안 파일인데 이제 키가 생겼으면 편집본으로 자동 승급
+        if not (is_draft and common.env("ANTHROPIC_API_KEY")):
+            print(f"[generate] 이미 존재: {out_path.name} (--force 로 덮어쓰기)")
+            return
+        print(f"[generate] 초안 → 편집본 승급: {out_path.name}")
 
     if common.env("ANTHROPIC_API_KEY"):
         try:
