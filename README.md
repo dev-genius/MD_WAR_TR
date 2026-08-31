@@ -1,60 +1,61 @@
-# MD_WAR_TR — 일일 전쟁 브리핑 봇
+# MD_WAR_TR — 일일 안보 브리핑 봇
 
-매일 아침 GitHub Actions가 자동으로 실행되어 두 파트의 브리핑을 생성하고,
-GitHub Pages 웹사이트 + RSS 피드로 발행합니다.
+매일 아침(KST 07:00) GitHub Actions가 자동 실행되어 브리핑 한 호를 생성하고
+Firebase Hosting 웹사이트 + RSS 피드로 발행한다.
 
-1. **[일일전쟁사]** — 오늘 날짜에 있었던 군사사(史) 사건을 AI가 1개 선정해 해설
-2. **[6·25 전쟁 그날]** — 오늘 날짜(월·일)에 해당하는 1950~1953년 6·25 전쟁 사건
-3. **[현대전쟁 추적]** — 뉴스 RSS · ISW 일일 리포트 · 공개 텔레그램 채널을 수집해 요약
+5부 구성:
 
-한국어 요약 + 영어 원문(핵심 인용·용어) 병기.
+1. **최신 기사** — 수집된 기사 중 중요도순 헤드라인
+2. **현대전 추적** — 전선·지역별 분석 (우크라이나 / 가자·레바논 / 수단 / 미얀마 / 사헬 …)
+3. **일일 전쟁사** — 오늘 날짜의 세계 군사사 사건 1건
+4. **6·25 전쟁사** — 오늘 월·일에 해당하는 1950~1953년 6·25 전쟁 사건
+5. **북한 관련** — 미사일·핵·북러 협력·제재 등 북한 동향
+
+한국어 서술 + 영어 원문 핵심 인용 병기.
 
 ## 파이프라인
 
 ```
-collect.py   수집   → data/raw/YYYY-MM-DD.json
-generate.py  생성   → content/YYYY-MM-DD.md   (Claude API, 없으면 초안 모드)
-build_site.py 빌드  → site/  (HTML + rss.xml)
+collect.py    수집  → data/raw/YYYY-MM-DD.json   (위키 On-this-day + 뉴스 RSS + ISW)
+generate.py   생성  → content/YYYY-MM-DD.md      (Claude API, 없으면 초안 모드)
+build_site.py 빌드  → site/                       (정적 HTML + rss.xml + /latest)
 ```
 
-`content/`와 `data/raw/`는 Actions가 매일 레포에 커밋백합니다.
-`site/`는 빌드 산출물이며 Pages로 배포됩니다(레포에 커밋 안 함).
+`content/`, `data/raw/` 는 Actions 가 매일 레포에 커밋백한다.
+`site/` 는 빌드 산출물이며 Firebase 로 배포된다(레포에 커밋 안 함).
+
+- 레포: https://github.com/dev-genius/MD_WAR_TR
+- 사이트: https://mh-track-843d0.web.app
+- 항상 최신 호: https://mh-track-843d0.web.app/latest  ← 공유용 고정 링크
 
 ## 로컬 실행
 
 ```bash
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-cp .env.example .env          # ANTHROPIC_API_KEY 채우기 (없어도 초안 모드로 동작)
+cp .env.example .env          # ANTHROPIC_API_KEY (없으면 초안 모드)
 
-python scripts/collect.py
-python scripts/generate.py
-python scripts/build_site.py
-python -m http.server -d site 8000   # http://localhost:8000
+python scripts/collect.py && python scripts/generate.py && python scripts/build_site.py
+python -m http.server -d site 8000
 ```
 
-## 배포 (하이브리드: GitHub Actions 실행 + Firebase Hosting)
+## 배포 구성 (하이브리드)
 
-실행은 GitHub Actions(무료), 웹 호스팅은 Firebase Hosting.
+실행은 GitHub Actions(무료), 웹 호스팅은 Firebase Hosting(Spark 무료 요금제).
 
-1. Firebase 콘솔에서 프로젝트 생성 (Spark 무료 요금제로 충분, 카드 불필요)
-2. `.firebaserc` 의 `REPLACE_WITH_FIREBASE_PROJECT_ID` 를 실제 프로젝트 ID로 교체
-3. Firebase 프로젝트 설정 → 서비스 계정 → 새 비공개 키 생성 (JSON 다운로드)
-4. GitHub 레포 Settings → Secrets and variables → Actions 에 추가:
-   - `FIREBASE_SERVICE_ACCOUNT` = 3번 JSON 파일 내용 전체
-   - `ANTHROPIC_API_KEY` = Claude API 키
-5. `.github/workflows/daily.yml` cron 확인 (기본 UTC 22:00 = KST 07:00)
+등록된 GitHub Secret:
+- `ANTHROPIC_API_KEY` — Claude API 키
+- `FIREBASE_SERVICE_ACCOUNT` — Firebase 서비스 계정 JSON 전체
 
-레포: https://github.com/dev-genius/MD_WAR_TR
-사이트: https://mh-track-843d0.web.app
+`.firebaserc` = `mh-track-843d0` · cron: `.github/workflows/daily.yml` (UTC 22:00 = KST 07:00)
+수동 실행: 레포 Actions 탭 → daily-briefing → Run workflow
 
 ## 설정 파일
 
-- `config/feeds.yaml` — 뉴스 RSS 피드 / 구글뉴스 검색어
-- `config/telegram_channels.yaml` — 수집할 공개 텔레그램 채널
-- `config/site.yaml` — 사이트 제목/설명/도메인
+- `config/feeds.yaml` — 현대전/북한 뉴스 소스 (구글뉴스 검색어 + RSS)
+- `config/site.yaml` — 사이트 제목/설명/타임존
 
 ## 저작권 원칙
 
-뉴스 원문은 재게시하지 않습니다. 코드가 인용을 문장 단위로 짧게 제한하고
-항상 출처 링크를 함께 표기합니다. 수집 대상은 공개 RSS와 공개 채널로 한정합니다.
+뉴스 원문은 재게시하지 않는다. 코드와 프롬프트가 인용을 15단어 이내로 제한하고
+항상 출처 매체명·링크를 함께 표기한다. 수집 대상은 공개 RSS 로 한정한다.
