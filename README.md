@@ -46,7 +46,7 @@ python -m http.server -d site 8000   # http://localhost:8000
 5. `.github/workflows/daily.yml` cron 확인 (기본 UTC 22:00 = KST 07:00)
 
 레포: https://github.com/dev-genius/MD_WAR_TR
-사이트: https://<PROJECT_ID>.web.app
+사이트: https://mh-track-843d0.web.app
 
 ## 설정 파일
 
