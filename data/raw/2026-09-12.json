@@ -1,0 +1,533 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T08:36:09.785621+09:00",
+  "history_candidates": [
+    {
+      "year": -490,
+      "text": "Battle of Marathon: The conventionally accepted date for the Battle of Marathon. The Athenians and their Plataean allies defeat the first Persian invasion force of Greece.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Marathon"
+    },
+    {
+      "year": 1213,
+      "text": "Albigensian Crusade: Simon de Montfort, 5th Earl of Leicester, defeats Peter II of Aragon at the Battle of Muret.",
+      "link": "https://en.wikipedia.org/wiki/Albigensian_Crusade"
+    },
+    {
+      "year": 1229,
+      "text": "Battle of Portopí: The Aragonese army under the command of James I of Aragon disembarks at Santa Ponça, Mallorca, with the purpose of conquering the island.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Portop%C3%AD"
+    },
+    {
+      "year": 1297,
+      "text": "The Treaty of Alcañices, mediated by the pope, between the king Denis of Portugal and king Ferdinand IV of Castile defines the border between the two countries and establishes an alliance of friendship.",
+      "link": "https://en.wikipedia.org/wiki/Treaty_of_Alca%C3%B1ices"
+    },
+    {
+      "year": 1309,
+      "text": "The First siege of Gibraltar takes place in the context of the Spanish Reconquista pitting the forces of the Kingdom of Castile against the Emirate of Granada resulting in a Castilian victory.",
+      "link": "https://en.wikipedia.org/wiki/First_siege_of_Gibraltar"
+    },
+    {
+      "year": 1683,
+      "text": "Austro-Ottoman War: Battle of Vienna: Several European armies join forces to defeat the Ottoman Empire.",
+      "link": "https://en.wikipedia.org/wiki/Great_Turkish_War"
+    },
+    {
+      "year": 1723,
+      "text": "Iran and Russia sign the treaty of Saint Petersburg. Iran is forced to cede all lands on the western and southern coast of the Caspian Sea and Russia pledges to provide military support against the Ottoman Empire.",
+      "link": "https://en.wikipedia.org/wiki/Treaty_of_Saint_Petersburg_(1723)"
+    },
+    {
+      "year": 1814,
+      "text": "Battle of North Point: an American detachment halts the British land advance to Baltimore in the War of 1812.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_North_Point"
+    },
+    {
+      "year": 1847,
+      "text": "Mexican–American War: the Battle of Chapultepec begins.",
+      "link": "https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War"
+    },
+    {
+      "year": 1897,
+      "text": "Tirah campaign: In the Battle of Saragarhi, ten thousand Pashtun tribesmen suffer several hundred casualties while attacking 21 Sikh soldiers in British service.",
+      "link": "https://en.wikipedia.org/wiki/Tirah_campaign"
+    },
+    {
+      "year": 1933,
+      "text": "Leó Szilárd, waiting for a red light on Southampton Row in Bloomsbury, conceives the idea of the nuclear chain reaction.",
+      "link": "https://en.wikipedia.org/wiki/Leo_Szilard"
+    },
+    {
+      "year": 1942,
+      "text": "World War II: RMS Laconia, carrying civilians, Allied soldiers and Italian POWs is torpedoed off the coast of West Africa and sinks with a heavy loss of life.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "year": 1942,
+      "text": "World War II: First day of the Battle of Edson's Ridge during the Guadalcanal Campaign. U.S. Marines protecting Henderson Field are attacked by Imperial Japanese Army troops.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Edson's_Ridge"
+    },
+    {
+      "year": 1943,
+      "text": "World War II: Benito Mussolini is rescued from house arrest by German commando forces led by Otto Skorzeny.",
+      "link": "https://en.wikipedia.org/wiki/Gran_Sasso_raid"
+    },
+    {
+      "year": 1944,
+      "text": "World War II: The liberation of Yugoslavia from Axis occupation continues. Bajina Bašta in western Serbia is among the liberated cities.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II_in_Yugoslavia"
+    },
+    {
+      "year": 1970,
+      "text": "Dawson's Field hijackings: Popular Front for the Liberation of Palestine terrorists blow up three hijacked airliners in Zarqa, Jordan, continuing to hold the passengers hostage in various undisclosed locations in Amman.",
+      "link": "https://en.wikipedia.org/wiki/Dawson's_Field_hijackings"
+    },
+    {
+      "year": 1974,
+      "text": "Emperor Haile Selassie of Ethiopia, 'Messiah' of the Rastafari movement, is deposed following a military coup by the Derg, ending a reign of 58 years.",
+      "link": "https://en.wikipedia.org/wiki/Haile_Selassie"
+    },
+    {
+      "year": 1980,
+      "text": "The 43rd government of Turkey is overthrown in a coup d'état led by General Kenan Evren.",
+      "link": "https://en.wikipedia.org/wiki/43rd_government_of_Turkey"
+    },
+    {
+      "year": 1990,
+      "text": "The two German states and the Four Powers sign the Treaty on the Final Settlement with Respect to Germany in Moscow, paving the way for German reunification.",
+      "link": "https://en.wikipedia.org/wiki/Allied_Control_Council"
+    },
+    {
+      "year": 2003,
+      "text": "The United Nations lifts sanctions against Libya after that country agreed to accept responsibility and recompense the families of victims in the 1988 bombing of Pan Am Flight 103.",
+      "link": "https://en.wikipedia.org/wiki/United_Nations"
+    },
+    {
+      "year": 2003,
+      "text": "Iraq War: In Fallujah, U.S. forces mistakenly shoot and kill eight Iraqi police officers.",
+      "link": "https://en.wikipedia.org/wiki/Iraq_War"
+    }
+  ],
+  "korean_war_hits": [],
+  "korean_war_date": {
+    "month": 9,
+    "day": 12
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian Offensive Campaign Assessment, September 10, 2026 - understandingwar.org",
+      "summary": "Russian Offensive Campaign Assessment, September 10, 2026 understandingwar.org",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYUxQUjNYeU15V093N0VURjVlWVJYX3FjOVFCTmIteldnRUdTOGtJYUVzQkhfSVJDX1BEZjd6MmR5RU5xcEE4RGZzdDV1YTVJa1VUUU1SNVNpNWVURVgxT3RkaGdDaUowdkJSRjBPQkp4bVdjclQxVG1sSk4zVEFrc0dKR193U2pWa0R0VllIS2w0Vk5Ma0lZbktjbE83R2JlNXFsWGI5Ti1ITG1sOHc?oc=5",
+      "published": "Fri, 11 Sep 2026 01:35:35 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials - Al Jazeera",
+      "summary": "US diplomacy under fire as Russia escalates attacks on Ukrainian officials Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNmhwMzhFN2pFSjlpalJwU1AxSmdBbzJCWDN5ZE4teFBwWDQzRmwxekNpczJLamhaS1NJOVdaQ1hFbE1GX2JXU1hEVWdpZHM4b0JmSGxRRUhxNW43S0Y2ckphVDBQMHg5aUcwR0h2V2RwZEhIZjBvUDJaZ0J2YkNSZy1GVm16RFlYd3NGa1ZEVVZMVlE5OTFSUUJiVWd0MERlaUlTYWtpRDZiR2xXTERiaVpfS2xOd9IBuwFBVV95cUxPdklPT3V5c0FTc0txN0ZncHZkNzlkWFNmY0JBZndqbzF5SWV5NGpFNFRGeURnMElGZVZ4bE4xU0YxUVBMMGJ3V0pmUnJCeGRjdXJnanZyaExtTHdwbGFkU2RMVXd6Y3Y3WkZ6OUtoN21rZUFfWlBpamNJclhMMElyY2dwS0pwLVJlUVBFLTFYU0U2dW90QzVrUHp0Y3NRSnpOWXBMSWlhcUd2bjZEYzh5SnVLci1yazBhQUg0?oc=5",
+      "published": "Fri, 11 Sep 2026 16:34:19 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time - The New York Times",
+      "summary": "As Russia Again Draws Near, a Frontline City Fears Obliteration This Time The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbDlCWTg0VTF1eVdsQk5rYVJuOHZiQXd2VjBXYkNVRFVKRUhWbUVGQ0JCSGxqWlJtYjhLdExGY3llaEF3M1ZvbWsxUF9icjFObFBNODBmSFJGY0NHSFN6MGFKU1BEV1RpazdkazgtT3ItdXBlbzJrQXFPcUV6VHBFT2Rsa2QzbUti?oc=5",
+      "published": "Fri, 11 Sep 2026 18:08:17 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "How many Russian soldiers died in the war with Ukraine - Mediazona",
+      "summary": "How many Russian soldiers died in the war with Ukraine Mediazona",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95WTVTQkRHVHNQaFZ4R2xNY2U5bEF4NkZjOTdTTlVRX2N6OUVaYVZvR2VWOGFjN05NZEhWZDN4MG14ZUxRSmpveEJtR1ZZN3F3SlNhWEpzOXU4X1A3anNBRVZYeXRJM21HWnNB?oc=5",
+      "published": "Fri, 11 Sep 2026 23:30:28 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine: Russian strike on Kyiv gas station kills 2 - DW.com",
+      "summary": "Ukraine: Russian strike on Kyiv gas station kills 2 DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOUdxdnQtTUtDdnV5TUxVS0hWSmRobGRKM2pGYU90a3pWaHNlNWkxN1VmQnZhazlEZkpQdVMtTnBvR3gzM3JjblBGWWNDak5BNlZLT1V0YkgxTXJsMlcxSDhEbWdOaXBmY1o0NnNEdkVxUWlndnRDUFFpVTVGRUU1Vm8zOHFmY1MxVEhn0gGLAUFVX3lxTE8wbm1kRE5DZ1pQQVFPNFBRbkowYnJ3NGNkUGp2cHRTbS14Z2FIMW1ZU042TU9aYTZVelFTWFBsMm9YWnZYaExGQmFrVlhaU2xNdGFId2lFM29JNHZwVnpaWm55M0hob3ZLaUN5eWtQaGxNSV83c2JxRGREb2dGY2JqOG9mREZBX2NZeWs?oc=5",
+      "published": "Fri, 11 Sep 2026 16:55:23 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says - BBC",
+      "summary": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says BBC",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wZ1I2cDl6cUFVQXozYjI3WmRUVTdOYTNvZ3JNcktjMjZUZHVUdEdPMmxNckIyenVKQlJxUEktRHFRR1QxVzlGQ0FMZ2NBZTkxOEJTVG1aaWI4Zw?oc=5",
+      "published": "Thu, 10 Sep 2026 22:36:02 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli military insiders detail systemic Gaza killings in new documentary at Venice Film Festival - NBC News",
+      "summary": "Israeli military insiders detail systemic Gaza killings in new documentary at Venice Film Festival NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVhCZEx6cmxlVDVxWG5KSUtHWS05akhSby02Uk9nSWV4NTRQRGtuTlFoUl9jTkI5Nl9rcndnb3FNeGNZbEFFY21nVmVSZXdlV0tWR0FQdzBDa1hQZVF5Mk5iZDBnMGpDMjA2ejg0VGpjcGtFQ0FVNVRtNmh5NHVBWDFDRldNMm5oUFZYQ3h0YnV4ZHpmUnpha08zcm16UlExdGdyRDdEU0xVWUp0M2tGajRZQWFBcms?oc=5",
+      "published": "Fri, 11 Sep 2026 09:55:01 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli strike kills parents and two children in Gaza, medics say - Reuters",
+      "summary": "Israeli strike kills parents and two children in Gaza, medics say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS1BVbUJWZ3BnTEl4XzBYMjByVm0zb3dncFFidmQ4TWlrRVVOTkZYUGpzQllwVzQyUWZKUjBjQk12ZUxTM2FJTFRlb292d1JRZHZXMWREZ2Y4bVdMUGVXczRJa0NuYjZXQXd3dDJrajZFazAtcXNlQld6c0RjekV0N09RSU51Z3Fld1EwdFI5dm5tLU5aMERvTEVtcWlsOE5pS3BGQnRrZUt1U1FVSUZ1Xw?oc=5",
+      "published": "Thu, 10 Sep 2026 13:29:09 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israel claims killing of 3 Hamas commanders in Gaza - Anadolu Ajansı",
+      "summary": "Israel claims killing of 3 Hamas commanders in Gaza Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVVhVV0FvYUNYbXpwd2tXMVdvdUNCbjVtcEk0UXo3cXdFTjlZdDB1dWp1NTlsNmw4emtxZlZCX2prcFNRWnF5OG1KdlBxVW9td1hXOEJ1NFh5Z2VvZkhwYS0zOWJGbGNDVG9LRUR4Y0xSTmxJQTRlYjlONE5iVHhyVWNMbXpzVDFSbDh5YWZxQjRfQzRmSERXQkJXRzc?oc=5",
+      "published": "Fri, 11 Sep 2026 10:23:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "IDF says Gaza strike killed Hamas sniper commander - The Times of Israel",
+      "summary": "IDF says Gaza strike killed Hamas sniper commander The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWThJODQ3U1puX1RZVXgyUURKYWZISmR1Y29oZHdyOGZDUFpGWXlfY2RHS3MzdnhQclA3SE9hOTcxQkR5S1FzS1ZmLVAyRUhBdTVwejEwaUlucm1yUzJOVTVwRnppaEt6M0FTWVlnXzVoX3Mxd2VnOGVMZ2pDZ3AtRlBxSnMtdkpuUXhDU2NqbzdkVW9za0VKUHJUT0Y?oc=5",
+      "published": "Fri, 11 Sep 2026 12:23:55 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Houthis seize strategic Red Sea port in Yemen, and other Mideast developments - AP News",
+      "summary": "Houthis seize strategic Red Sea port in Yemen, and other Mideast developments AP News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMi1lNm91a2VNZ2pET3pySXpRdExjT01OZ2dTbmxRblk4ME5ZZko0aElVbFdrV1gyY2VWcmJPUkREbWZBdGNJYmZyQmIwOVVJWmdyT3J1cHhhTzNCTFlTZzN5UEk1bE5DVVl5bDhaVkh6Q0xDcEtkVWM5SEtGb05XcUc3dGh6dUZEOWQ3czNqWndFelg3ZEJtSXZlcXNPalFCSF9LbWtR?oc=5",
+      "published": "Fri, 11 Sep 2026 04:22:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israel kills senior commander trying to restore Hamas power in Gaza - Ynetnews",
+      "summary": "Israel kills senior commander trying to restore Hamas power in Gaza Ynetnews",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxZTV3dDdZRnRvUEhjTlBrNkdHM1NwWEtOM3ZLMTBZN3BqNm9MaHRzZ0ZKMXlfUktxakpqUHRpUHdINV9YalZLTmNYeEdPLXc0S1RZOGVB?oc=5",
+      "published": "Fri, 11 Sep 2026 07:43:50 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Burhan says post-war Sudan will have no place for RSF - The Arab Weekly",
+      "summary": "Burhan says post-war Sudan will have no place for RSF The Arab Weekly",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaTE3SGdGWUtGR0N5MVJrd3dDZzhVa0ViUldTWlNESGhqOEZ6OXowblU2SWxtRGE3bG9nZ2o3Y2xwV1dRZWFSc1NNOE13dWFPa3UxYUtwUzc1bm5sUjJ0dlpiXzZLb2NVbnFGSU54N1ZSV0FjcEhsR2s5ekRCMmx3WQ?oc=5",
+      "published": "Fri, 11 Sep 2026 08:55:16 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Anthropic says UAE-linked AI op targeted UN experts over Sudan - France 24",
+      "summary": "Anthropic says UAE-linked AI op targeted UN experts over Sudan France 24",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblBMemdFMTJOdDVjZTFfX2hSRHJPYVBqcU90aERwREJHSEZhRFBpTFVGbzJFSTdfaU5CQzdKckhlUG55bVNzNnlLUWVKU1R5bUN6czZSSkFqNzRLdktoLXlDNi1tWXZ5X0lBekMyWDNWMnI2WFAxZHQ2RU1nSzFZeU9LS1hkb0hKS2JVSExJVkgwYVJ4YjNLaDhzRXo0Q2NxbTdyQWU4TldraTViTEE?oc=5",
+      "published": "Fri, 11 Sep 2026 22:41:00 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar resistance group says it hit a military air base at Mandalay airport with drones - kens5.com",
+      "summary": "Myanmar resistance group says it hit a military air base at Mandalay airport with drones kens5.com",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQQ0dJekJhVC1hYzlCM1lwMDlYN0Y3Q0hMUUxvSk5IOXMwcV8zWUEzb1hHU0Q1SHNXeTM2ZGtrU1FobkdIenYtblFXWmtTNWFPb1F5cWgtVkZjbWY1SjVjSnlGV2ZlS2xDMHYxNm5kY1c5TlB3YVpiVTdFbTNlUUYtRVFsaERVcndrdmxMM1I1Y3FJZmJWODlrRUYtbThvZlNtWGl5OXNMcjZ6UGNVOGFWdHB1UF9SNnN0SkdtZnNYVjcxdXlDaGZMZFZ6UEFPZGdTS3pZUExLRldwVnFpUDZGaG1DQkNqVldCa2g5YTFsMHRNSkR3V1VqbEktVXpiSFZNM0gyQ2FQdlFHTy1EZ0MxT2VOYjlVUQ?oc=5",
+      "published": "Fri, 11 Sep 2026 15:57:00 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Three Elderly Civilians Killed in Recent Myanmar Military Airstrikes Across Arakan State - narinjara.com",
+      "summary": "Three Elderly Civilians Killed in Recent Myanmar Military Airstrikes Across Arakan State narinjara.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51c19kTzBkTnRaNEg3enVnOHB1dXAzRGRvaTlIdzVtbzNrQ1EwU0VoMWRlbGxRazVRZWphUUFYZk1SclhuNUJ1eE8yRDRlbmdOUHdWUkdxdjFHbUhRYk42MnIxck5LNVR3TWt5MlVMQQ?oc=5",
+      "published": "Fri, 11 Sep 2026 21:02:58 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar Junta Drone Attack Kills Displaced Elderly Woman in Rakhine State - Burma News International",
+      "summary": "Myanmar Junta Drone Attack Kills Displaced Elderly Woman in Rakhine State Burma News International",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaXNnbFhRRzBhOWJkVmxDbjZjSWJ1ZDZuc3d1Tm5QcWlVNzM2T3lOVTlrNlZQZWNXYTJUR1N2VkwxTm1TUGxaQnFfMWZfV1VZMENuczBxVWRNbW4ydkE2VmptT1ozRHhDMXBEYVhORFZrNlNHMWZiUTg0cnVSb1JjOWczWkJ1VzVuWVZXYVhIT3BKMlZVNVp2MTZBRkNncnc2QnQ2NkNJNA?oc=5",
+      "published": "Fri, 11 Sep 2026 13:52:53 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Mandalay Airport Shut After Resistance Drone Attack: Security Sources - The Irrawaddy",
+      "summary": "Mandalay Airport Shut After Resistance Drone Attack: Security Sources The Irrawaddy",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGpId3JjWE9wYUpqTFF2WTN1OXEzMlZXaEZnWnhkVjNsR3RPNVg2d0J5YksxUWpDQkV0WlY4dkRWWDhJeS1QMktyaDR2ZzlwZjBtUnZyb3p2RFB5dXlzbXUtZ0xmRnVJN1Rkclc5ZWxCd1Y1emt2a0cwbVhjYW5FR3V0c21WOXBGNV9fR3pOTTdNZThRTE42WjBKQ3BqOFhVU3dEUHpzZGZodTJjQWJZ?oc=5",
+      "published": "Fri, 11 Sep 2026 08:40:16 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar resistance drone strike forces Mandalay airport shutdown - India Today",
+      "summary": "Myanmar resistance drone strike forces Mandalay airport shutdown India Today",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaVZaLU92N2xMa3NiREJ4NEpzcldpbzBHdTVJelFhRUFHeGFSVkhvZ1kyb1RJcEUzWmZoMnVBd3lzcDdPMEszQ2pLR2ROcGZzQlYxOXIwWC00dXI4RWZNa0RnNXM5emRjTXhxLUw3cUlpclkwLVFhUy1FZDBFZXgtU0sweXJodVd4LV9LdnY3elFzelpiV2N2N2U3T2tWQ1hDMFhiYmdLakU4RW82NTgyLXZZQ01QRWRVZVIyRW9TUU1Ib3RTWDhJeE41RGhkOElhQUhCb0Vzc2xCQdIB3wFBVV95cUxOUVE1X3hpb2U5NjV0bmxvOWVXZGNEWkJ6cjVBbFF3N0ktWloxQlJuN2Z1M2U4WTZCYjNRZ1lQU0dfMmNzbFVIb2hQZTllY0RmY1haQ1k4NWlRUkdRVldQVmhvWHVwZFFNd2xlNXp3MVYtem9RakpmYW5LRkoxRWVKN3NvZlpUMEpoNkp0LW94U2hwZUdxYU1BYnR0QmdPQTY5eklTSEhvb3Rfa25lb2R2aG1EM25NbmZVVmxpMy04ZTEtOG9FdXUwUTJtNmJNRTRlcWlScDZNZnZNdmhTSm5J?oc=5",
+      "published": "Fri, 11 Sep 2026 16:16:37 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar Junta Uses Surrender Claims to Mask Forced Conscription and Battlefield Losses - Burma News International",
+      "summary": "Myanmar Junta Uses Surrender Claims to Mask Forced Conscription and Battlefield Losses Burma News International",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVnlmaldGODR1T1NkRW9GTGxfb0NmSDMyS2U0d3RnYjNfZElwVUNIRDhDWGRfeU1nTjNnLWxhQXdjZVE5TDNHOVoxTGpocC13aS1YWGdPLW14ZEthbkIwRVFIZHJNRFB2eC1uYmVGMW9SczJUajM5T1ZMUDR2OVluQ1dKV0xLNmFsZlFueUQtaUVvZ0wyRnpETFlyYUxLaUEtRlZ3aVF4UTVNQzJWaXhoNGlXMUpCODZZ?oc=5",
+      "published": "Thu, 10 Sep 2026 13:39:14 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "The Sahel’s new dependency – Foreign and security policy - IPS Journal",
+      "summary": "The Sahel’s new dependency – Foreign and security policy IPS Journal",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUlVTk5LWHE1aWxOZjNKOE03MTQ3LXZjM3J2V0xvc0tBQU9WckdKanlMVUxGcDJESDRhRGJWQUdQSVZYTTdCUjNWbWdwSXZxUm1TalkxeWEzZmhiWUM4QXJ1RXNnLUFYM3A0MTlxd3RNeVMxaXJZaW94d0ZSd3UwY1VmTHJRdEprTkNYRHItX0hTRjA5OUd1Ug?oc=5",
+      "published": "Fri, 11 Sep 2026 08:30:05 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "UN extends partial Sudan arms embargo for a month",
+      "summary": "Sudan’s UN ambassador said a total arms embargo goes against the UN Charter that guarantees a right to self-defence.",
+      "link": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
+      "published": "Fri, 11 Sep 2026 23:08:05 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
+      "summary": "Iraq condemns the attack, dismisses a military commander who led operations in Maysan province.",
+      "link": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
+      "published": "Fri, 11 Sep 2026 21:30:47 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Declassified documents show UK aware of Israeli war crimes for 24 years",
+      "summary": "UK Foreign Office files, public since 2024, record warnings about Israeli violence and rights abuses since 2002.",
+      "link": "https://www.aljazeera.com/news/2026/9/11/declassified-documents-show-uk-aware-of-israeli-war-crimes-for-24-years?traffic_source=rss",
+      "published": "Fri, 11 Sep 2026 19:59:41 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Deadly DRC school fire prompts calls for safety reforms",
+      "summary": "A fire at a school in the Democratic Republic of the Congo killed 28 students and destroyed homes across a neighbourhood",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/deadly-drc-school-fire-prompts-calls-for-safety-reforms?traffic_source=rss",
+      "published": "Fri, 11 Sep 2026 19:23:41 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "How US leaders remembered the 25th anniversary of the 9/11 attacks",
+      "summary": "Trump drew parallels to the US's present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.",
+      "link": "https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss",
+      "published": "Fri, 11 Sep 2026 19:21:48 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US holds memorials for the 9/11 attacks, 25 years later",
+      "summary": "In New York, Virginia and Pennsylvania, mourners gathered to remember nearly 3,000 people killed during the hijackings.",
+      "link": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
+      "published": "Fri, 11 Sep 2026 18:00:41 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Israel says it has destroyed major underground Hezbollah base",
+      "summary": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+      "link": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 15:50:23 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "summary": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 19:44:58 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Civilians told to flee Ukraine's fortress cities as Russia bids to control Donbas",
+      "summary": "Kramatorsk and Slovyansk are now the main focus of Russian ground assaults, and residents are being told to leave.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz89w59l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 23:22:11 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Brother of Muslim policeman killed in 9/11 'disappointed' by calls for Mamdani to sit out memorial",
+      "summary": "Zeshan Hamdani speaks out after push back against New York Mayor Zohran Mamdani, who is Muslim, attending 9/11 events.",
+      "link": "https://www.bbc.co.uk/news/videos/ce8e67l4330o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 11 Sep 2026 04:10:24 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Drone display recreates the Twin Towers over New York City",
+      "summary": "Organisers say each of the 2,977 drones in the display represents a victim of the 9/11 attacks.",
+      "link": "https://www.bbc.co.uk/news/videos/cx2z7x57gjeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 14:19:26 GMT"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Security Council LIVE: Ambassadors mark 9/11 with counter-terrorism push on AI and drones",
+      "summary": "The Security Council met to mark 25 years since the 9/11 attacks, with a briefing on counter-terrorism as ambassadors take stock of a threat that has morphed dramatically since resolution 1373 built the council's counter-terrorism machinery in 2001. Briefers are expected to zero in on militants' growing use of artificial intelligence, drones and encrypted platforms for recruitment and attack planning. Members are also set to adopt a presidential statement – the Council's first on terrorism in fi",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168318",
+      "published": "Fri, 11 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Terrorist propaganda is outpacing global efforts to stop it, UN report finds",
+      "summary": "Terrorist groups are recruiting, raising money and even planning operations through propaganda that is now “embedded” in every stage of their work, a new UN report warns – and governments are struggling to keep pace.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168313",
+      "published": "Fri, 11 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’",
+      "summary": "A drone strike on the protective structure at the Chornobyl Nuclear Power Plant could have endangered the safety of millions of people, UN Development Programme (UNDP) Administrator Alexander De Croo told reporters via video link from Kyiv on Thursday.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168312",
+      "published": "Thu, 10 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "‘An assault on humanity itself’: Guterres pays tribute to 9/11 victims, survivors and first responders",
+      "summary": "Twenty-five years ago, the heinous terrorist attacks of 11 September 2001 against the United States claimed thousands of lives and represented “an assault on humanity itself”, the UN chief said on Thursday.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168310",
+      "published": "Thu, 10 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Security Council LIVE: Fresh attacks prompt emergency meeting on Yemen",
+      "summary": "On the heels of reported Houthi attacks on Saudi Arabia on Tuesday and the capture of another key port by the militants on Yemen’s Red Sea coast – including the seizure of eight UN vehicles from a key aid hub there – the Security Council is meeting on Thursday at 3pm in New York to discuss the latest developments.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168309",
+      "published": "Thu, 10 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Human cost of violence in South Sudan ‘continues to grow’",
+      "summary": "Independent human rights investigators voiced deep concern over growing risks to both civilians and South Sudan’s political transition following their latest fact-finding mission to the world’s youngest nation – their 14th in a decade.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168307",
+      "published": "Thu, 10 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 10, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-10-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 9, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-9-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 8, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-8-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 7, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-7-2026/",
+      "published": ""
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "미 태평양사령부 \"북한 미사일 발사 인지…즉각적 위협 아냐\" - yonhapnewstv.co.kr",
+      "summary": "미 태평양사령부 \"북한 미사일 발사 인지…즉각적 위협 아냐\" yonhapnewstv.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGOWdQVjRSU0FiMXVCdDVpZVBzaDlzOVd6QXVvRk0wRXpHYUFpbmEzR3g2M2g4MUlldmNEMWw2c2Vaa1VnQ1huck5WVkYtQUQ5c0FFRDhZVm5RV201dm05Mk4zS3psTU0?oc=5",
+      "published": "Fri, 11 Sep 2026 22:04:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "합참 “북한, 원산 일대서 동해상으로 탄도미사일 수발 발사” - v.daum.net",
+      "summary": "합참 “북한, 원산 일대서 동해상으로 탄도미사일 수발 발사” v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13UHhQRUdqckRmZGdFcUhVeUdrZXVjSGplSWxWb05POXNUU1V6a3JsT0FLZnd5aldwSktJMkZ0aW5BV0UyLWkyNnRleTRGc1k?oc=5",
+      "published": "Fri, 11 Sep 2026 22:50:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "北, 한미일 '프리덤에지' 훈련 끝나자마자 탄도미사일 도발(종합) - 연합뉴스",
+      "summary": "北, 한미일 '프리덤에지' 훈련 끝나자마자 탄도미사일 도발(종합) 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QUk9CYWNNTGxBdERuS0o0UGN3d2VYVkxvZnhFZEJLRFZ4bFQya3c3UUxxVHZjV01oRTN4SlJ1cjBLZTM3bE1wdFVXOWRoZzdTZmRZUHVPWFllU2c?oc=5",
+      "published": "Fri, 11 Sep 2026 23:20:08 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "[속보] 북한, 동해상으로 미상 발사체 발사…23일 만의 탄도미사일 가능성 - 강원일보",
+      "summary": "[속보] 북한, 동해상으로 미상 발사체 발사…23일 만의 탄도미사일 가능성 강원일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yZmdqTW9KeUhwRmV2SWFPY0RLT19BZVR3Q1lPd1U0YVBiNjZHOF9mOGp5cEVrV3pWalBFVEk3bFhqcDNhVURsVktEdlJOVHNydnJSdmcxV082VUk?oc=5",
+      "published": "Fri, 11 Sep 2026 22:48:06 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "합참 \"북한, 동해상으로 미상 발사체 발사\"...탄도미사일 23일만 - KBC광주방송",
+      "summary": "합참 \"북한, 동해상으로 미상 발사체 발사\"...탄도미사일 23일만 KBC광주방송",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HY3NINF9MVTI4RjFiaXVsRlR2ZXFrMWE4ekx2MzFnUmVNcWd3NEpIRE9sT1BjR2Q0NU4yYnFBUG1EcFJUWnIwZUlLTmdPXzFNTTU5ODc4cExrMUxrQjlrWTZB?oc=5",
+      "published": "Fri, 11 Sep 2026 21:19:50 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북한, 원산서 단거리 탄도미사일 발사…국가안보실 긴급회의 - 한겨레",
+      "summary": "북한, 원산서 단거리 탄도미사일 발사…국가안보실 긴급회의 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uWGxJVl9YRjF6aWtGc0xWSWtjeC04ejhtYWcyS0RVM0JXcGFLWk9VVHBvM0hGNmt1ei13dGFfT1A0Z084SEhqMnluUjNfTmZnUWpCelV6em5SS2pLTEZHZ1B6V0syUFJGZFp3?oc=5",
+      "published": "Fri, 11 Sep 2026 23:33:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un wants North Koreans to have more (state-sanctioned) fun - Reuters",
+      "summary": "Kim Jong Un wants North Koreans to have more (state-sanctioned) fun Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDREekN4OWVSWnN4YkY1XzctdzFDOHBWbmtCanpBaW5zLXhOeG9LWVV1dWdzcWhZUEltVDJMOTdIYkdHcnJvOXZMVnBaWFUwSjdwX2xtQllISy1KcmZUeWZ6R0k4RlpVZXYtejlaTkhOZHlrRDAteGxKZldEODFfNjk4WnVlR0lrUVVyMm1yLVF5Y0Fac2JLcmwwaG0xMFhGbXhiUUxFaw?oc=5",
+      "published": "Fri, 11 Sep 2026 03:00:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Why North Korea's Kim Jong Un doesn't need a US deal - DW.com",
+      "summary": "Why North Korea's Kim Jong Un doesn't need a US deal DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZ3UyQjlRZHc3WXViY2xlaVNLM3MxQzhKa3NQRkNOM1M4b0ZnNHpzSzBVQ2VMOUZfbGJkdTVfV3JGRWdSQjU1VjJoUXpFenVNOU40TktoYy04U1pOblVka0VsWVpZM0UxYlhqelBqRFpheVVFSWZkZGg2SU9hUUJtOXg3aVlwdWhxQXh30gGLAUFVX3lxTE1ndTJCOVFkdzdZdWJjbGVpU0szczFDOEprc1BGQ04zUzhvRmc0enNLMFVDZUw5Rl9sYmR1NV9XckZFZ1JCNTVWMmhRekV6dU05TjROS2hjLThTWk5uVWRrRWxZWlkzRTFiWGp6UGpEWmF5VUVJZmRkaDZJT2FRQm05eDdpWXB1aHFBeHc?oc=5",
+      "published": "Fri, 11 Sep 2026 10:45:27 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea fires off unidentified projectile, Seoul says - The Japan Times",
+      "summary": "North Korea fires off unidentified projectile, Seoul says The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS21LSXRVNTQzZC01bXMwbEFFbXRiT1RKNDM5emNmdWgtR1hybm1hcTZEdVBPdG1QU201QWNQWFVYSEZTNy1jV1djb3JRWEZxV1JLaUswYWZxOHI3eVhTTkxEWmVaMi15ckVfODg3eHRQWEM0MnlkQUR0OHdkb2llQjZCZ3VPRVhneHNzRE9abzY?oc=5",
+      "published": "Fri, 11 Sep 2026 22:37:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un dominates founding anniversary coverage as media mutes US criticism - NK News",
+      "summary": "Kim Jong Un dominates founding anniversary coverage as media mutes US criticism NK News",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FNE1fQ2JhM29wS1dpV2RiNnJLazR5OUMwMnl1VWlTN0lwYWJKMDBzblMyaVJqSGxaNE1zemx1eHg5TjJNaTJmWlBvc0NrQQ?oc=5",
+      "published": "Fri, 11 Sep 2026 06:54:43 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea’s Naval Buildup Fuels Regional Security Concerns - The Organization for World Peace",
+      "summary": "North Korea’s Naval Buildup Fuels Regional Security Concerns The Organization for World Peace",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQjBDQmt6U0Fsdzg5M1JnYjhtTmdYR0JGNWlyMFRxLU1NZ0RYVUNHYlg2STdJVlFLbktkNkVWdl9RMDBiVU5rSGRNT0l5TnZzTnltZngzZV85T0VleE9fdnpka2p5LTROT1JwcFhia2hIV0VMUmFkME04Z0V5bzg1THZ3UGlZQQ?oc=5",
+      "published": "Fri, 11 Sep 2026 23:26:33 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Trump-Kim Diplomatic Future – OpEd - Eurasia Review",
+      "summary": "Trump-Kim Diplomatic Future – OpEd Eurasia Review",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54WUtGOXdhUlYtUXREM3hzOVM0OVVITTZCNmpnOVkyMWFzb0NNTzMyU05CbFVyNVJDRlcyMFNNMmE4aGVDNnFsanpuSGNJOGUtbHIyLXIxRGJ6bnFSWFNkRGVWOW9zSDdGZGY1dXhpWjlWLVYzbU41bndIWjg?oc=5",
+      "published": "Fri, 11 Sep 2026 17:02:12 GMT"
+    },
+    {
+      "source": "38 North",
+      "title": "New North Korea-China Link Appears Close to Opening",
+      "summary": "North Korea and China appear close to finally opening a border crossing that has been under ... The post New North Korea-China Link Appears Close to Opening appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/09/new-north-korea-china-link-appears-close-to-opening/",
+      "published": "Thu, 10 Sep 2026 13:56:36 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea fires multiple ballistic missiles towards East Sea: ROK military",
+      "summary": "This is a developing story. Please check back for updates. Pyongyang fired off several ballistic missiles towards the Sea of Japan (East Sea), the South Korean military reported on Saturday. South Korea’s Joint Chiefs of Staff (JCS) said that North Korea fired the missiles from an area near Wonsan on its east coast, with the […]",
+      "link": "https://www.nknews.org/2026/09/north-korea-fires-projectile-towards-east-sea-rok-military-2/",
+      "published": "Fri, 11 Sep 2026 22:07:28 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Korean language becoming increasingly different between North, South Korea",
+      "summary": "The number of new words added to North Korean dictionaries have risen sharply under leader Kim Jong Un’s rule as the language differences between the two Koreas continue to widen, according to a South Korean lawmaker Thursday. The expanded 2017 edition of the DPRK’s “Great Dictionary of the Korean Language” added 45,354 new words, according […]",
+      "link": "https://www.nknews.org/2026/09/korean-language-becoming-increasingly-different-in-north-south-korea-experts/",
+      "published": "Fri, 11 Sep 2026 09:58:29 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Seoul rejects nuclear sharing as North Korea threat fuels opposition pressure",
+      "summary": "South Korea is not considering deploying U.S. tactical nuclear weapons, developing its own nuclear weapons or pursuing nuclear sharing with Washington, rejecting calls from the opposition People Power Party (PPP) for similar measures to counter North Korea’s “provocations.” Vice Defense Minister Lee Doo-hee made the remarks during a parliamentary questioning session in response to a […]",
+      "link": "https://www.nknews.org/2026/09/seoul-rejects-nuclear-sharing-as-north-korea-threat-fuels-opposition-pressure/",
+      "published": "Fri, 11 Sep 2026 07:03:00 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "US, South Korea agree to strengthen information sharing on North Korean WMDs",
+      "summary": "The United States and South Korea agreed Thursday to establish a system for sharing information on North Korea’s weapons of mass destruction (WMD) and discussed ways to strengthen their joint response to the regime’s increasingly sophisticated nuclear, chemical and biological threats. The agreement was reached at the annual U.S.-ROK Combined WMD Countermeasures Committee (CWMDC) in […]",
+      "link": "https://www.nknews.org/2026/09/us-south-korea-agree-to-strengthen-information-sharing-on-north-korean-wmds/",
+      "published": "Fri, 11 Sep 2026 06:30:35 +0000"
+    }
+  ]
+}
