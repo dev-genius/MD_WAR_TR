@@ -1,0 +1,491 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T08:47:08.828594+09:00",
+  "history_candidates": [
+    {
+      "year": 1776,
+      "text": "American Revolutionary War: American forces win the Battle of Harlem Heights after General George Washington orders a counterattack on advancing British light infantry.",
+      "link": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+    },
+    {
+      "year": 1779,
+      "text": "American Revolutionary War: The Franco-American Siege of Savannah begins.",
+      "link": "https://en.wikipedia.org/wiki/Siege_of_Savannah_(1779)"
+    },
+    {
+      "year": 1914,
+      "text": "World War I: The Siege of Przemyśl (present-day Poland) begins.",
+      "link": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "year": 1920,
+      "text": "The Wall Street bombing: A bomb in a horse wagon explodes in front of the J. P. Morgan building in New York City killing 38 and injuring 400.",
+      "link": "https://en.wikipedia.org/wiki/Wall_Street_bombing"
+    },
+    {
+      "year": 1940,
+      "text": "World War II: Italian troops conquer Sidi Barrani.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "year": 1943,
+      "text": "World War II: The German Tenth Army reports that it can no longer contain the Allied bridgehead around Salerno.",
+      "link": "https://en.wikipedia.org/wiki/10th_Army_(Wehrmacht)"
+    },
+    {
+      "year": 1945,
+      "text": "World War II: The Japanese occupation of Hong Kong comes to an end.",
+      "link": "https://en.wikipedia.org/wiki/Japanese_occupation_of_Hong_Kong"
+    },
+    {
+      "year": 1955,
+      "text": "The military coup to unseat President Juan Perón of Argentina is launched at midnight.",
+      "link": "https://en.wikipedia.org/wiki/Revoluci%C3%B3n_Libertadora"
+    },
+    {
+      "year": 1970,
+      "text": "King Hussein of Jordan declares war against the Palestine Liberation Organization, the conflict came to be known as Black September.",
+      "link": "https://en.wikipedia.org/wiki/Hussein_of_Jordan"
+    },
+    {
+      "year": 1976,
+      "text": "Night of the Pencils: In the city of La Plata, Argentina, a group of high-school students were kidnapped and later tortured, raped and murdered during the Argentinian military dictatorship",
+      "link": "https://en.wikipedia.org/wiki/Night_of_the_Pencils"
+    },
+    {
+      "year": 1982,
+      "text": "Lebanon War: The Sabra and Shatila massacre in Lebanon takes place.",
+      "link": "https://en.wikipedia.org/wiki/1982_Lebanon_War"
+    },
+    {
+      "year": 2013,
+      "text": "A gunman kills twelve people at the Washington Navy Yard in Washington, D.C.",
+      "link": "https://en.wikipedia.org/wiki/Washington_Navy_Yard_shooting"
+    },
+    {
+      "year": 2014,
+      "text": "The Islamic State of Iraq and the Levant launches its Kobani offensive against Syrian–Kurdish forces.",
+      "link": "https://en.wikipedia.org/wiki/Siege_of_Koban%C3%AE"
+    },
+    {
+      "year": 2022,
+      "text": "During the Let Yet Kone massacre, the Burmese military kills 13 villagers, including eight children, after attacking a school in Sagaing Region, Myanmar.",
+      "link": "https://en.wikipedia.org/wiki/Let_Yet_Kone_massacre"
+    }
+  ],
+  "korean_war_hits": [],
+  "korean_war_date": {
+    "month": 9,
+    "day": 16
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure - AP News",
+      "summary": "Zelenskyy says Ukraine will pause strikes on Russia if Kremlin spares critical infrastructure AP News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzZwZE9udlVENVNDT3VzamJfbVRIS2lDM2RzcVVVRlUzUkVOb19rNVhQRWRiTjJ1aDFtSkl3MlpGa0ZFTTJyTjg4UFBRZUVuSm9CelRON0dXWk53Mi1yblpLVkkxVzd5SERRRFlZV1VTTUROUHNKWVpaYWJUWU9ZLUc0R2xRdmNJWWxNU1NLMlpEMXExeEcyQ0tFQUZ0dw?oc=5",
+      "published": "Tue, 15 Sep 2026 06:02:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "How Ukraine’s futuristic war could get ‘much worse,’ according to ex-Google CEO - NBC News",
+      "summary": "How Ukraine’s futuristic war could get ‘much worse,’ according to ex-Google CEO NBC News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb05LWE1Pb2NwRExxSG5QbTBoQWg0MDVTZzRkRGZXOGtZZVRSaDdPYVN6Y2k0dklRZXRuUFZTcHFOcjZTNjhONm9lUmFPZXhKTTJoOWZXLVBremM0Q0c1NmtsV2NoNVpFejhpd053eFhBUTJLUW43Wk1meTRwTEUyUnR5N2xGcFJibXdvRlBHenRaWkhwLWVvbA?oc=5",
+      "published": "Tue, 15 Sep 2026 08:29:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "NATO jet shoots down suspected Russian drone over Lithuania - aljazeera.com",
+      "summary": "NATO jet shoots down suspected Russian drone over Lithuania aljazeera.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMGZOZHhyMEIxbXpzb2RIOThTVFpNS05kT0hjX3kyUDBpc001WTRRbzQzNm1HaG1RemI1MmNHTmNBWXo4bFRiRVpVV0YwS0gtbFMxWmpSTjE3aVlqbXNjemNfZnM2WGRQbVZleW54SHBKRUhjbUlYdF9lQjRYejhuX2FwVUZnT1JnR0pCMUw4eHVlTFdtXzgwNDNsX2Z4di1qVXfSAacBQVVfeXFMTndvUnZseVhjR05DdW5YTWd4N3RXVnV5UHpSbi1qQnR6RGhSSFY1TnNWck1scVlaTHpsRzBmRXBVdDg4dk96b0pMYU91bzRxUjdLMWZoeDdvOHdROHp5ZEtxSlRpUktUeUFYSFZtMlVzbG1iYkdoZ1Y0N1hvdXJIdE5ZSWJoUkJPN0xsanBTVkhLbnkxZGVBTzUwRDBNUEszZGdnVmt1amc?oc=5",
+      "published": "Tue, 15 Sep 2026 22:39:56 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine launches offensive push in north of Donetsk region, senior commander says - Reuters",
+      "summary": "Ukraine launches offensive push in north of Donetsk region, senior commander says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVERkODNHQ1FVT0RUOWtZUEppaWI2VnFWTmF1U3ZiRjdERTRsNjROOE5NRGJQUVdfSzluVktJX01zQ1dPcTM5LXRyZ21pbEE0Q0FNUExHLXRsWllfeVM1V3RtSG1EX2I0RUdST2N3VnpFRXl4UkE0X2FIdlN1cUJjNW1NcExZY3c3VDEwblRielpvUVpadmpaZGkzY3R3MmFhUzZKV0tSMkt5UkJnc2RndERQdzZjb3k5VG9HaVEzalU?oc=5",
+      "published": "Tue, 15 Sep 2026 09:37:43 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian team ‘misused’ Claude AI to train a killer drone on scraped Ukrainian war footage - The Conversation",
+      "summary": "Russian team ‘misused’ Claude AI to train a killer drone on scraped Ukrainian war footage The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN055aEs2R3dpODlpTmhlX1hKQ0VnQllhS2ZjaVNBNDRidzJSb1ltMGwwZ0oxRkZQQVZEckRxMWFFa2RtU281NGd6THM3dy1zTmZwYTVtRmswUlJHSEItRDVvNmt2c2c0amZSVGJyN2N2T3o1Um1DNU9Qd1UycFVmYlE4VmZQRHl6VFhWZzFyOU5ZZ3hVcDVOcmhUTFpUT1IyQjF4SUd1emgtaGJPUFRaMktqdmN4WFN0LUpMcHhuSQ?oc=5",
+      "published": "Tue, 15 Sep 2026 21:04:31 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia and Iran deepen weapons partnership amid wars in Ukraine, Middle East - Military Times",
+      "summary": "Russia and Iran deepen weapons partnership amid wars in Ukraine, Middle East Military Times",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRnZpbTRlMzlvOWNpU3lDQjBwaVBEd0RRNy1MVC1tdnVBRG1MY3ZNSEtUaV9YbHVpblRVZXJUbk8tYmNya3FMbVV2LWFyenpqUnF3MGQyZzhLbWN3aGI4N2FxRlZPYzVHdG5yUkotTGp0TDI4R0dYcXA3TTVNUEFMSjJmX2k1S2RBYWV5TFhwcFB3WFotYjJnM1FPYl9QdEhiYk80anhuUEtRSVhHOUlMQldaNlNVdmd5MDFxZG02aEtFcUo2UUFVR2Rkamp3SUk4bnc?oc=5",
+      "published": "Tue, 15 Sep 2026 13:42:46 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli strikes in Gaza kill five people, medics say - Reuters",
+      "summary": "Israeli strikes in Gaza kill five people, medics say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTXlxWTdXMVItY2dwS1FmU3dSUm40LXZ3LXpzVFB2NHQyRk45bllZTDhBOEVWV3FZRmE2UXVCR3B6S0Vkd2FFU2ozRlBSeGR3enhXUldPTnpoczVDQ3E3a1BIYzMyNnk2Tm14blZodU45aXYzaTJoaW1TcXUzVGp6alF5cFdMNzlxS0gxbGNWU3hqQmpKWHBaNHozSHRpZFRUMmdYemNxTzhNSEswcGpWLWxuMFFwZzFX?oc=5",
+      "published": "Tue, 15 Sep 2026 20:33:41 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli elections stall Board of Peace plans, IDF reports 14 Gaza ceasefire violations Sept. 4–15 - FDD's Long War Journal",
+      "summary": "Israeli elections stall Board of Peace plans, IDF reports 14 Gaza ceasefire violations Sept. 4–15 FDD's Long War Journal",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRWJyeTR4Y09qcnZiV1BHZ2lkYy14VWNQRmd2SnR4WlZ4NGVpNl9MUTlHR3pGZlZmaC05R0lYVW9PM2ROenhBUmRrWDZWOV9vX3RteV9CSWFYYmp3aVYwdzd0amFhR2RmWHRWVVFRQmpSWkgzQXMtZDVCMUxsR2o1bEphR2Q3dnQ2d2lNTjBudzg0ajFDOEF2TVhZdmFXc3FlTkpvWEM2U3ZZaHJ1ckdOdE83RTJ2dWJEYzZ6VXBoSklhekFGUzFBWXhXbmJYc3V4cTd2dzZXVUdnMmRnR2xaaw?oc=5",
+      "published": "Tue, 15 Sep 2026 20:09:25 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Six UN staff killed in Gaza school strike; Lebanon violations mount - UN News",
+      "summary": "Six UN staff killed in Gaza school strike; Lebanon violations mount UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CN3ZUOUxuTVZYMk9qbjdlT2JfZFEwc2NIajRIUjAxbXNnQ3NRdEhsOTZZaEh6YmY2czZWb1hTUWlSOXlGeEd6NHduWmcwdmdMZ0VVam8tdw?oc=5",
+      "published": "Mon, 14 Sep 2026 21:11:44 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Local Official Says - The New York Times",
+      "summary": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Local Official Says The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdTBIMFBPMnNnWllVMmI2NGE3YWRGXzZtS0kwX0gwcjlDdnpLbWJPRnh6RlVZd1YtZURndHdVMkhGdkNFd3hrMndGbmE2ak1wSHF3SXRxNng3SjhnQ3lxUFJoMXkxZURaWExmZWVvZG43bDNNM0RlNnFyV1hyTlZlUlV3?oc=5",
+      "published": "Tue, 15 Sep 2026 20:48:23 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Lessons Learned from the Last Time Israel Withdrew from Lebanon - Middle East Forum",
+      "summary": "Lessons Learned from the Last Time Israel Withdrew from Lebanon Middle East Forum",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXVGSFFFWXBVWUxiMk5WUWlETkRQWTZZM09KNnBQaEdUUVc2OWFLWktkc3lHWS03Q3A0VlVUSEhoUXE4V05LVFNzLUFzQUNWam1kUXcwSzlaaTk0bjhDZ3FZWEwzbVI2T0ZsMDFhVi03Y2tQcFVva3QtUXBxQnhtb014MzBHQUMtRHN4d3ZYVk9Yd3dLa2l4dmRTYWdfN0U?oc=5",
+      "published": "Tue, 15 Sep 2026 19:32:34 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli strikes in Gaza kill two people, including a child, medics say - WTVB",
+      "summary": "Israeli strikes in Gaza kill two people, including a child, medics say WTVB",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkZVV251QXdZUjlTc09HVjUzU2hqS0JTNjRZNEM2VG9vVXh2ZVNrM0IzWEhTcTN6WkRPcVhjUVE4UzVMSklYZThtWGJsSXo2bjhDU3pfbkptRUpWX3BoZnlWS3RZeGw3VzJsWjBlbkNkMDNhcE9sb1FWQVFSZ1NEZTJKWUFyWWVtalMxZm93ZHdOMHZ4V1QzbThuUzgwY0Q3?oc=5",
+      "published": "Tue, 15 Sep 2026 14:35:52 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Why is fighting in Sudan’s Blue Nile displacing nearly 100,000 people - Latest news from Azerbaijan",
+      "summary": "Why is fighting in Sudan’s Blue Nile displacing nearly 100,000 people Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaEZRQWVXQVVYdXpTQlQ3VXAwcmR5ODdabDM1N3ppdUZuY0FNMXZwNGhDV1FpTG41US1jUUJTdjh1TlhuU3JpcGRoRldTZFN0aG1xNm1NdFc3ckczYVJqUmx6YURfck9wclU3RXJsbjNseUh6M2dZbkxoX0toV0ZwZklaaDZ1Z0tGNkhxMmZha2Q4bTQ?oc=5",
+      "published": "Mon, 14 Sep 2026 14:08:29 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Sudan aid supplies could run out this month, says UN sounding alarm over funding crisis - The News International",
+      "summary": "Sudan aid supplies could run out this month, says UN sounding alarm over funding crisis The News International",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM2ZvTHkzOWlCZi1Ba1hXcEw2R08xNWtNREJXbUN4Sm5BTzc4Q2YweVZOS1phWUVoNDBiVTdIamNydURiZGRTUThPVnY3end2bk8xcWs5VFVHOVZOS2NnNEVwTkR4S3ZCbE51SFBNaGh5dUNaV2dicHlOUW90NEI4U1doYUU0bC13Y0YyMEJvMUxvWTV0OEpGMkE5T0JLSld3OVlvb2lHaFQyRW1UNXN6MTNpem1WX2RXdzFpcFUxOTZmTmYzbEdJ0gHDAUFVX3lxTE9yQkJlb1hHZUdQVnh4Um9PNE8yWTdnenlmMXlQejhHWi1weUlVSHlwWng1ZEF4MXlKTHhPY09PM2JHdDZMWnNHczlUQnhYdzMzejlMM3l5N1VIRG04TnFabnNpMkFMcXZDc2o5alhGd0JQUzVZU0JXMXFiRUppY1ZuZXZTbmdxMnNSMWI1LUg0NVdXUnRCUW1KcVRoQW9lNGhfazZnbjdFQXNOazZyWlBnUVJWNGJqb0lNc2k2UUNGV05rOA?oc=5",
+      "published": "Tue, 15 Sep 2026 02:50:30 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Telenor charged with aiding crimes against humanity in Myanmar - Financial Times",
+      "summary": "Telenor charged with aiding crimes against humanity in Myanmar Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVDlZLWh5VmR4NDAwSlM0b3ZiOTRvQ0EzYVNJOXg2TTA0SHVRSmo0eklTS3E3MjNRbEJ0dXdjQ0dleEJBVlNHVXQtQUdIdnNjNG14WUlFQkQtdEcyc1puVmQ4dFZDS0p6UnZnMUpXYTJmU3dIenFmYlJ5TnZZS2d3NmRraHk?oc=5",
+      "published": "Tue, 15 Sep 2026 09:34:54 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Six Civilians, Including Three Children, Killed in Myanmar Military Paramotor Bombing - Narinjara News",
+      "summary": "Six Civilians, Including Three Children, Killed in Myanmar Military Paramotor Bombing Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qelhJUTlJSlV6Q2l6MHFFX1ZjY01iNWJXLWRLWVo3SEZlOE9SV0N1ckhIdU9MV081ZmxXMUptd1lpMDQzenNxTnFNVXhXSlpHbVlpcW1jS1cyT1BOY1l5aEQ0TFFoanJ4YWlFcFZ1VQ?oc=5",
+      "published": "Tue, 15 Sep 2026 18:00:50 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Over 150 Junta Troops Killed in Strategic Karen State Town, KNU Says - Karen News",
+      "summary": "Over 150 Junta Troops Killed in Strategic Karen State Town, KNU Says Karen News",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdEc2dGYzeGNtZU9nSDM1ZmRFYVBXc2hGOUdTb1pCVFp2U19lMFdqNWVfWXRVX0d1ZmEzblFyQlpEdE1oTlM4bm1xeXZWOUJxa25hY3ktZXZ0LXUwYWpoMGhVS2VGMmF4TUpKSnlwbmdYbXNOM1g5bUpSSkhMMVlfejkyS1dib1pLMmptZUg4M1pPMk1rYjlKVEpzalhtR2c?oc=5",
+      "published": "Tue, 15 Sep 2026 08:33:53 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Ethnic Armed Groups in Myanmar Reject Junta Peace Overtures, Vow Coalition Unity - bnionline.net",
+      "summary": "Ethnic Armed Groups in Myanmar Reject Junta Peace Overtures, Vow Coalition Unity bnionline.net",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2NpdVZYZWtNZXAzVUgwZkJPTWxrU3ZtQXFEZ2pxb29DTWhHaEM3ei1wNXBTM0FPRzdTcV9DNUtpZUlWYmZpUzlCblIwQTcxUWh0N1MyMktzRkpJTEQ0c3NKZTFEeUxYcEJmZk5oUUxvMW5RbVphMk52MmkzekNnS2psc1Q3M1FSTmVRYUgyTE5GalN6UVpEYTRpOVFpV3FyNXo5WWdsVHNvNUgtUFAw?oc=5",
+      "published": "Mon, 14 Sep 2026 13:26:45 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Junta Offer for Peace Talks Unlikely to Lead to Negotiations Soon, Kachin Analysts Say - bnionline.net",
+      "summary": "Junta Offer for Peace Talks Unlikely to Lead to Negotiations Soon, Kachin Analysts Say bnionline.net",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3E2QVNoX1Q4WjlxNjdJX0hzbjVkMVFtTW92RzhUNU9tdS0yaWdUaXNZakN5TjNzZmN5NGw1ckktQW5mcWlpNy1qZV9ITDBwdDBqMTJJdktyUFc0OVBMQURWU1JZc18tRTdzdUExaG91V0UzQkhRaDA3d2E2Z1lhbDA1UDlQVDZWdFhNek5BZERoeWhTSEREdzJJbTQ1akd6eEFqa2lZWTVRSjFxYnc?oc=5",
+      "published": "Mon, 14 Sep 2026 13:34:49 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "The Arakan Yoma mountains have become a graveyard for the Myanmar military’s ambitions - Narinjara News",
+      "summary": "The Arakan Yoma mountains have become a graveyard for the Myanmar military’s ambitions Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5tbmFYTjFkY05CeEtSdkUtSl9EbXpRWkotbjY3ckp0TVFPTWlkTFN2d3k2TmJPOXZaM1QyMHVPSThHczdDbXpMeGJQRUdRUllOMU8xNEk2STNNcFdtcnZOa05rY180UXpMQmh3S3BRRQ?oc=5",
+      "published": "Mon, 14 Sep 2026 18:26:25 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Republican congressman calls to impeach US Defence Secretary Pete Hegseth",
+      "summary": "GOP Representative Thomas Massie has emerged as outspoken critic of war on Iran and overseas military interventions.",
+      "link": "https://www.aljazeera.com/news/2026/9/15/republican-congressman-calls-to-impeach-us-defence-secretary-pete-hegseth?traffic_source=rss",
+      "published": "Tue, 15 Sep 2026 22:38:08 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "NATO jet shoots down suspected Russian drone over Lithuania",
+      "summary": "EU chief warns of wider conflict as border incursions stoke fears that Ukraine war is spilling into neighbouring states.",
+      "link": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania?traffic_source=rss",
+      "published": "Tue, 15 Sep 2026 19:59:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israel lacking respect for dead buried in Gaza rubble: UN",
+      "summary": "Human rights chief reiterates concern over war crimes evidence as remains from entire families are unearthed.",
+      "link": "https://www.aljazeera.com/news/2026/9/15/israel-lacking-respect-for-dead-buried-in-gaza-rubble-un?traffic_source=rss",
+      "published": "Tue, 15 Sep 2026 19:26:55 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "NATO downs drone over Lithuania, ‘probably’ launched by Russia",
+      "summary": "A NATO fighter jet shot down a drone in southern Lithuania shortly after midnight on Tuesday.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/nato-downs-drone-over-lithuania-probably-launched-by-russia?traffic_source=rss",
+      "published": "Tue, 15 Sep 2026 18:41:48 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "More than 100,000 displaced as they flee violence in Yemen: UN",
+      "summary": "Thousands making risky maritime journey to Djibouti as conflict between Yemen gov't and Houthis intensifies.",
+      "link": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss",
+      "published": "Tue, 15 Sep 2026 17:39:58 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Denmark says Russian warship fired flares at military helicopter",
+      "summary": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 11:40:00 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "summary": "Iran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 16:13:41 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 20:34:12 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Five takeaways from Canada's push to woo the world's richest investors",
+      "summary": "A $1tn sales pitch, more than 160 projects on offer, pivot to the EU amid a bitter trade war with the US - takeaways from the first Canada Investment Summit.",
+      "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 22:46:20 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Nato jets down drone that entered Lithuanian airspace",
+      "summary": "The origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
+      "link": "https://www.bbc.co.uk/news/articles/cjx2zgk7edlzo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 09:07:35 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine's postal workers deliver lifeline under Russian fire",
+      "summary": "The state post service delivers pensions, medicine and letters to people just miles from the front.",
+      "link": "https://www.bbc.co.uk/news/articles/c33kmred368o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 15 Sep 2026 05:01:46 GMT"
+    },
+    {
+      "source": "Bellingcat (OSINT)",
+      "title": "Bellingcat Official Merch Design Contest",
+      "summary": "Guess what? Bellingcat is finally launching an official merch line! That’s right: after years of fantasizing and wishing, we’re finally ready to get our name and logo on cool merch that you’ll be able to show off. We’re working with a high quality, sustainable merchandising company to make all kinds of cool swag: coffee cups, […] The post Bellingcat Official Merch Design Contest appeared first on bellingcat .",
+      "link": "https://www.bellingcat.com/uncategorized/2026/09/14/bellingcat-official-merch-design-contest/",
+      "published": "Mon, 14 Sep 2026 13:36:05 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Security Council LIVE: Rising violence triggers emergency meeting on Yemen",
+      "summary": "Amid rising violence in Yemen, the Security Council has called an emergency meeting at 3pm (NY time) on Tuesday to discuss the situation in the critical Bab el-Mandeb Strait shipping route as UN agencies warn of rising displacement, including thousands of Yemenis fleeing to Djibouti. UN News app users can follow here.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168343",
+      "published": "Tue, 15 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Back to school in Haiti: ‘Madame, can you stop what the gangs are doing to us?’",
+      "summary": "When UNICEF’s Representative in Haiti Geetanjali Narayan stepped into a classroom in Port-au-Prince at the start of the new school year, she asked the children a simple question: What did they most need from the UN children’s agency?",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168337",
+      "published": "Tue, 15 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "World fears major war more than any other global risk, UN survey finds",
+      "summary": "Two years ago, the idea of a large-scale war breaking out felt like a distant hypothetical to the experts who help chart the world’s dangers. Today it tops their list of fears, according to a new UN Global Risk Report.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168332",
+      "published": "Tue, 15 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "‘Super El Niño’ deepens hunger crisis in South Sudan – WFP",
+      "summary": "The already dire hunger crisis in South Sudan is becoming increasingly critical as violence, extreme weather and dwindling aid leave millions without enough food, the UN World Food Programme (WFP) warned on Tuesday.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168334",
+      "published": "Tue, 15 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
+      "summary": "Israeli strikes killed six UN workers and civilians at a school sheltering displaced families in Gaza as needs grow, according to the UN agency for Palestine refugees, UNRWA.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168333",
+      "published": "Mon, 14 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "UN agencies warn humanitarian system in Sudan ‘could collapse’",
+      "summary": "UN aid agencies on Monday said they may be forced to scale back humanitarian aid in Sudan – home of the world’s worst hunger and displacement crisis – due to funding shortfalls.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168331",
+      "published": "Mon, 14 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 14, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-14-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 13, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-13-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 12, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-12-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 11, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-11-2026/",
+      "published": ""
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "한국 “북한 핵·미사일, 중대 위협”…이탈리아·폴란드 “핵보유국 인정 못 해” - voakorea.com",
+      "summary": "한국 “북한 핵·미사일, 중대 위협”…이탈리아·폴란드 “핵보유국 인정 못 해” voakorea.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZZDhJR1NWejM1dnlMNWtCTTFHTVc1eE9CMGpLOHUwUmhjbFJ1YUlRdEZaY0ZUT1V3NE8zS0owSFdkS1g4VGFWVVEwWXpkT2dZdlM0Qy1tU2JFUEliOUExbXZuRnZ2QXFXcG1panZsLTFoRHAwVnFya1kwaFXSAX9BVV95cUxNMTdVZEFReE54dldJVHQ5VUtsQWZhaG8yUEhWVDMxRUtRWng5VlVuMHJZOTVMRUJvU3FDZG5vanR0WkZfT0xpV2dvc215QVc0bnIwU2llYUY1UUxVYXYwU3hwbEhtczZiSTNoZ3BULTZfeFpUc1ZjVUF1SkZWSVNZ?oc=5",
+      "published": "Tue, 15 Sep 2026 19:28:29 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북한의 일본 아시안게임 참가와 민간교류[정창현의 북한읽기] - v.daum.net",
+      "summary": "북한의 일본 아시안게임 참가와 민간교류[정창현의 북한읽기] v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBvRk1qSk9oLTBFcE9fNkJ3NERHc19pVmpTX0x3d3lfNVFGMVlFcWd4SWFieXZGNUF6RTZUekYwYk12aHd5NnlQYWU4ZGNMNzA?oc=5",
+      "published": "Tue, 15 Sep 2026 22:01:35 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "韓·유럽, IAEA 총회서 北 핵·미사일 개발 규탄…“핵보유국 인정 불가” - SPN 서울평양뉴스",
+      "summary": "韓·유럽, IAEA 총회서 北 핵·미사일 개발 규탄…“핵보유국 인정 불가” SPN 서울평양뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OS1RFVzhUNXA1MHMzMXIzclpHeW1Kb1RreEdqMWZWZW9GQ01va2RTOTcwdnViZFVKbzFWVlo4V2NvWWpKM3REWGtHWTBqLUVYWXZKcFZncUlWVjRPYXg0V0pYRl82LTMyTE04?oc=5",
+      "published": "Tue, 15 Sep 2026 22:15:36 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "[강릉 잠수함 침투 30년] ① 한반도 뒤흔든 49일간의 '작은전쟁' - v.daum.net",
+      "summary": "[강릉 잠수함 침투 30년] ① 한반도 뒤흔든 49일간의 '작은전쟁' v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8yMEpXQUhiRWpYVEQ0Y2NWSEFCaVBaUElvMWlxTC1zZ1pSUkNHcjhzbHNQRFdOR0ktZEdPUUxiZS1qeDdDdmJJRGV0a1RrNzA?oc=5",
+      "published": "Tue, 15 Sep 2026 22:04:04 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "[뉴스 동서남북] 무상의료 옛말된 북한…의료장비 지원으로 본 보건 실태 - voakorea.com",
+      "summary": "[뉴스 동서남북] 무상의료 옛말된 북한…의료장비 지원으로 본 보건 실태 voakorea.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Cb01JZlpBTDI3UDg4SkdpNWZOeHkzZlJuYnd3QXdtTzNkVTBnY2s3dmJtUlBpWnh6UHJIbTlKRjVua2lCcl94VHFOazlWdDY3RnNrRVRJWGNCRklMc3o0U1NaUmhneUVSMWZrazVZbHdoSEXSAXZBVV95cUxQckhPRXBIU2lZRDVFaFFVMDVCWS1tNGZ5eEQ4VHJ2UzJKcnlZR21lZzQzR19hTmMyb2Z1X0VHRVA4XzRiZ0lKYURoTHh1ZEd6Nmoxb05UQ1ViVk5lU3M3bEM0ZXdMcC1ZY0VrTW5jdUxYY0pONk53?oc=5",
+      "published": "Tue, 15 Sep 2026 16:34:24 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "독일 “북한, 러시아전 경험 활용 가능성”… EU “미사일 발사 규탄” - voakorea.com",
+      "summary": "독일 “북한, 러시아전 경험 활용 가능성”… EU “미사일 발사 규탄” voakorea.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTXFqVkRJZVRtZWZBVzRfZEFxcU9CV25Gd0ljaUJLSkw2U0V0dVM2T3pTWElzLVE2NUdqaXgyNW1zRGUtb2o1cEVKWnA1LTZsOXNURFZIQkNIcTRQTWFadjNiRUZQd1REN2dkNXlYV0ZiUHNNSHA0b3l3VGgtYXlXRNIBgwFBVV95cUxQd0ZoNWxHVDJhNWhkd0V2Sm95LUJrV2treVZvTXQ5dkV1a3V4ejJUaTFORkE5WU03TEdqdjgyaUdvNmlubW9HZ2JjSjdNenNtNE9qYjRURkRYSVIyeVBuM2NTUWhrNER2bnMwdlo1R3RHRVJwZ21ISkc1d0RiZDFHcGMybw?oc=5",
+      "published": "Mon, 14 Sep 2026 18:32:21 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea's Kim vows to expand ties with Russia, backs victory in 'sacred war' - Reuters",
+      "summary": "North Korea's Kim vows to expand ties with Russia, backs victory in 'sacred war' Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVk05VU1ybEIwWHk3Q3VqckNXRWtwVUZlVy1GQnJBaXo0ckV6NXh2RG92LXc3LTJxSVFBRU5JQUN1dEhZSmppanRZSGVTNjhuTzhVa0hZUWdJTFZYam9SRDl4RzNDb3dhRng0WnltR0pOcWdYTVNQc2lLd2FjZzFhVmM5bDRZMV9CQlpDelRWbzZxYzNzWVVCbmVobkFLcTdwbkNXRlpSRGdWR1pSaWhhbnZuS0dUYU5XMDFvZm9iMEl4ek0?oc=5",
+      "published": "Mon, 14 Sep 2026 22:41:15 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un just took his nuclear threat to sea - Washington Examiner",
+      "summary": "Kim Jong Un just took his nuclear threat to sea Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRlh2V3dTVjJ0TkZ5Nnd5Y1ZvdDlqV241RkRidUNwT19YcTF0TzFfUXdrYThhNWJzNlY1OHlFVzRDTEpKMkpKeUVuNDcxMlcxMXI3Z1F4MkUtN1BFLTQ0WmhrNEVwcnlrOXF0ZllUdE1oVUstQ3BLdE95VFFydkZtYm5jWUMta2NMc3lWN1duN0drUWRMejRYUUFEdw?oc=5",
+      "published": "Tue, 15 Sep 2026 13:00:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un pledges 'invariable support' for Russia in letter to Putin - upi.com",
+      "summary": "Kim Jong Un pledges 'invariable support' for Russia in letter to Putin upi.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNDN0eU4wSE8wUk5DQ1NvUkNlektOcDRhbHloemxDU3ZsQWxfNWp3NmlYbjM1dzMzM1F4RWU3dlZzUFhEUmdRYl9ZWE9MSkJHUWhQbU8zeHVBNmFKbTRXbWNWajVicGJyVHBORFZfWHRiN3RIdjJBckFyeDZWeFhpOHlxR01vbW9uVmpVWEVIVVdCSmMzdEl3b183M29IbVFrS2FwYTJTSFNoWTk0ekxnbGRkcTdiX0ZSRlBKdWRSN3N6NE9lak1J0gHMAUFVX3lxTE8yZlNWV2xXOERSYV9UZlV1R0VKS01pNmpUUnM5WkZXY0h6aHJJajhrbzRCeldfajRWaTNBTFYxTTRURVpsb1N5a0xKUk9raFhmUjh4QXE1aTZHM2VFLV9EVUQtX1djUGk0eFpGNVI3ZUhOWjlNTFlqSUtVV2ZTTEItcmdYTERORDVuNHpZa3NhaVFsX3NiRHFScjBkWjhjQ251QmJiUk9qVUl2TWlCazZiTmFOWUpzOGdsQ21uaXhjWVdwV0ZGSjlRLWhhZw?oc=5",
+      "published": "Tue, 15 Sep 2026 07:07:53 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea Confirms September 12 Missile Launch Was Joint Firepower Drill - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "summary": "North Korea Confirms September 12 Missile Launch Was Joint Firepower Drill The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV1h3M1Bud3ZYUVpiMng5V2lQRFAxYThIVThkMl84Z1JxOFBKVldyUUNMa0tEVkhPVVl6Wi15X0xVcWVNaWgyb01ZclRwUVB3THZhZTB0OTE0Tlh6anpPWEhuVDlNQ1psaWFwMzhkT1V0RV83bnJIbUc4bGV1MjI1MWxIS0RaRzJ2SzVMX2dTQkRLWnBoVGw4dVFXemdHY2dkaTk4eG1CMFpsNXc?oc=5",
+      "published": "Mon, 14 Sep 2026 14:36:06 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Donald Trump Needs to Bring Concessions if He Wants a Deal with North Korea - 19FortyFive",
+      "summary": "Donald Trump Needs to Bring Concessions if He Wants a Deal with North Korea 19FortyFive",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOTd5dUxnRlV3R1hYODJTX2lpNW5NRDVkYjE3T2RrMkJJSlJfbThhY3lGMjBsMGJTZ3huY1V5YlJfcUFwYnA5R2xWYXJvV1BEdzZqTEtzMjlmd2ZIc0hEcFdLRnlfTEJWUDRPV0ZVTVYzZTFDdzB5UEYxa1RRZXNaem9qa3g2UVU4WHo2TkdheFJ5Wm56WHNJU0xESjJHODB6bjQ3U3plYlE0OTRIWWpMYTVn?oc=5",
+      "published": "Tue, 15 Sep 2026 14:48:40 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election - NK News",
+      "summary": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election NK News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1hWXVkLWVQaDFlVS1ZZjdzTndveUJjY2cxb09fQVV0Ql85YTJzN0Q2X2JIRHlvdUFCaWtDMmtpeTlLU3liV1Fv?oc=5",
+      "published": "Tue, 15 Sep 2026 04:12:46 GMT"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea, Iran ordered to pay $487 million to US victims of terrorism",
+      "summary": "A U.S. federal court has ordered North Korea and Iran to pay roughly $487 million in damages to 47 Americans and their families who were victims of terrorist attacks in the Middle East and Africa. The ruling, issued on Sept. 8 by the U.S. District Court for the Eastern District of Virginia, held the two […]",
+      "link": "https://www.nknews.org/2026/09/north-korea-iran-ordered-to-pay-487-million-to-us-victims-of-terrorism/",
+      "published": "Tue, 15 Sep 2026 07:39:28 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea kicks off Asian Games with 10-0 women’s soccer win",
+      "summary": "North Korea’s women’s soccer team kicked off its campaign at the 20th Asian Games with a lopsided 10-0 victory against Bangladesh on Tuesday, signaling its intent to push ahead in the tournament and secure the gold medal that narrowly slipped away at the last games. The team’s opening game of the 2026 Aichi-Nagoya Asian Games, […]",
+      "link": "https://www.nknews.org/2026/09/north-korea-kicks-off-asian-games-with-10-0-womens-soccer-win/",
+      "published": "Tue, 15 Sep 2026 05:46:29 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea’s talk about Taiwan is bad news for the US",
+      "summary": "Editor’s note: The following article is an opinion piece by Rob York, director for regional affairs at the Pacific Forum. Views expressed in opinion articles are exclusively the author’s own and do not represent those of NK News. North Korea’s state-run newspaper Rodong Sinmun has, on a handful of occasions in 2026, made reference to […]",
+      "link": "https://www.nknews.org/2026/09/north-koreas-talk-about-taiwan-is-bad-news-for-the-us/",
+      "published": "Tue, 15 Sep 2026 05:37:53 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Kim Jong Un vows firm support for Russia’s ‘sacred’ Ukraine war before election",
+      "summary": "North Korean leader Kim Jong Un hailed Russia-DPRK ties in a message to his counterpart Vladimir Putin ahead of Russia’s parliamentary election, pledging unwavering support for Moscow in the Ukraine conflict, which he described as a “sacred war.” Kim’s letter dated Monday responded to an earlier telegram in which Putin congratulated him on the DPRK’s […]",
+      "link": "https://www.nknews.org/2026/09/kim-jong-un-vows-firm-support-for-russias-sacred-ukraine-war-before-election/",
+      "published": "Tue, 15 Sep 2026 04:10:58 +0000"
+    }
+  ]
+}
