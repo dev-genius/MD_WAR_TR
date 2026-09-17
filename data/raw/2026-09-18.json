@@ -1,0 +1,551 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T08:45:55.565660+09:00",
+  "history_candidates": [
+    {
+      "year": 324,
+      "text": "Constantine the Great decisively defeats Licinius in the Battle of Chrysopolis, establishing Constantine's sole control over the Roman Empire.",
+      "link": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+    },
+    {
+      "year": 1048,
+      "text": "Battle of Kapetron between a combined Byzantine-Georgian army and a Seljuq army.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Kapetron"
+    },
+    {
+      "year": 1066,
+      "text": "Norwegian king Harald Hardrada lands with Tostig Godwinson at the mouth of the Humber River and begins his invasion of England.",
+      "link": "https://en.wikipedia.org/wiki/Harald_Hardrada"
+    },
+    {
+      "year": 1454,
+      "text": "Thirteen Years' War: In the Battle of Chojnice, the Polish army is defeated by the Teutonic knights.",
+      "link": "https://en.wikipedia.org/wiki/Thirteen_Years'_War_(1454%E2%80%931466)"
+    },
+    {
+      "year": 1739,
+      "text": "The Treaty of Belgrade is signed, whereby Austria cedes lands south of the Sava and Danube rivers to the Ottoman Empire.",
+      "link": "https://en.wikipedia.org/wiki/Treaty_of_Belgrade"
+    },
+    {
+      "year": 1759,
+      "text": "French and Indian War: The Articles of Capitulation of Quebec are signed.",
+      "link": "https://en.wikipedia.org/wiki/French_and_Indian_War"
+    },
+    {
+      "year": 1810,
+      "text": "First Government Junta in Chile. Though supposed to rule only during the Peninsular War in Spain, it is in fact the first step towards independence from Spain, and is commemorated as such.",
+      "link": "https://en.wikipedia.org/wiki/Government_Junta_of_Chile_(1810)"
+    },
+    {
+      "year": 1860,
+      "text": "Second Opium War: Battle of Zhangjiawan: Now heading towards Beijing after having recently occupied Tianjin, the allied Anglo-French force engages and defeats a larger Qing Chinese army at Zhangjiawan.",
+      "link": "https://en.wikipedia.org/wiki/Second_Opium_War"
+    },
+    {
+      "year": 1860,
+      "text": "Wars of Italian Unification: Battle of Castelfidardo: Royal Sardinian Army defeats forces of the Papal States, resulting in the conquest of Umbria and Marche by the Kingdom of Italy.",
+      "link": "https://en.wikipedia.org/wiki/Unification_of_Italy"
+    },
+    {
+      "year": 1863,
+      "text": "American Civil War: The Battle of Chickamauga begins between Confederate and Union forces. It involves the second highest amount of casualties for any American Civil War battle apart from Gettysburg.",
+      "link": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "year": 1864,
+      "text": "American Civil War: John Bell Hood begins the Franklin–Nashville Campaign in an unsuccessful attempt to draw William Tecumseh Sherman back out of Georgia.",
+      "link": "https://en.wikipedia.org/wiki/John_Bell_Hood"
+    },
+    {
+      "year": 1898,
+      "text": "The Fashoda Incident triggers the last war scare between Britain and France.",
+      "link": "https://en.wikipedia.org/wiki/Fashoda_Incident"
+    },
+    {
+      "year": 1914,
+      "text": "The Irish Home Rule Act becomes law, but is delayed until after World War I.",
+      "link": "https://en.wikipedia.org/wiki/Government_of_Ireland_Act_1914"
+    },
+    {
+      "year": 1921,
+      "text": "Rif War: In Ajdir, Spanish Morocco, a secessionist group of Berbers led by Abd el-Krim proclaim the Republic of the Rif, in rebellion against the Sultan of Morocco and the Spanish Army. French and Spanish forces suppress the Republic by May 1926.",
+      "link": "https://en.wikipedia.org/wiki/Rif_War"
+    },
+    {
+      "year": 1924,
+      "text": "The U.S. ends its military occupation of the Dominican Republic, after invading in May 1916 to force the Dominican government to pay its debts to European creditors.",
+      "link": "https://en.wikipedia.org/wiki/Military_Government_of_Santo_Domingo"
+    },
+    {
+      "year": 1939,
+      "text": "World War II: The Polish government of Ignacy Mościcki flees to Romania.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "year": 1939,
+      "text": "World War II: The radio show Germany Calling begins transmitting Nazi propaganda.",
+      "link": "https://en.wikipedia.org/wiki/Germany_Calling"
+    },
+    {
+      "year": 1941,
+      "text": "World War II: The Soviet Union introduces conscription for all males between the ages of 16 and 50.",
+      "link": ""
+    },
+    {
+      "year": 1943,
+      "text": "World War II: Adolf Hitler orders the deportation of Danish Jews.",
+      "link": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Denmark"
+    },
+    {
+      "year": 1944,
+      "text": "World War II: The British submarine HMS Tradewind torpedoes Jun'yō Maru, killing 5,600, mostly slave labourers and POWs.",
+      "link": "https://en.wikipedia.org/wiki/HMS_Tradewind"
+    },
+    {
+      "year": 1944,
+      "text": "World War II: Operation Market Garden results in the liberation of Eindhoven.",
+      "link": "https://en.wikipedia.org/wiki/Operation_Market_Garden"
+    },
+    {
+      "year": 1944,
+      "text": "World War II: The Battle of Arracourt begins.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Arracourt"
+    },
+    {
+      "year": 1947,
+      "text": "The National Security Act reorganizes the United States government's military and intelligence services.",
+      "link": "https://en.wikipedia.org/wiki/National_Security_Act_of_1947"
+    },
+    {
+      "year": 1948,
+      "text": "Operation Polo is terminated after the Indian Army accepts the surrender of the army of Hyderabad.",
+      "link": "https://en.wikipedia.org/wiki/Indian_annexation_of_Hyderabad"
+    },
+    {
+      "year": 1955,
+      "text": "A four-person landing party, led by Lt.-Cdr. Desmond Scott RN, disembarks from a Royal Navy helicopter and raises the Union Flag on Rockall, claiming the uninhabited Atlantic island for the United Kingdom.",
+      "link": "https://en.wikipedia.org/wiki/Royal_Navy"
+    },
+    {
+      "year": 1988,
+      "text": "General Henri Namphy, president of Haiti, is ousted from power in a coup d'état led by General Prosper Avril.",
+      "link": "https://en.wikipedia.org/wiki/Henri_Namphy"
+    },
+    {
+      "year": 1989,
+      "text": "An attempted coup d'état against Burkina Faso president Blaise Compaoré is uncovered and foiled.",
+      "link": "https://en.wikipedia.org/wiki/1989_Burkina_Faso_coup_attempt"
+    },
+    {
+      "year": 2015,
+      "text": "Two security personnel, 17 worshippers in a mosque, and 13 militants are killed during a Tehrik-i-Taliban Pakistan attack on a Pakistan Air Force base on the outskirts of Peshawar.",
+      "link": "https://en.wikipedia.org/wiki/2015_Camp_Badaber_attack"
+    },
+    {
+      "year": 2016,
+      "text": "The 2016 Uri attack in Jammu and Kashmir, India by terrorist group Jaish-e-Mohammed results in the deaths of nineteen Indian Army soldiers and all four attackers.",
+      "link": "https://en.wikipedia.org/wiki/2016_Uri_attack"
+    }
+  ],
+  "korean_war_hits": [
+    {
+      "year": 1950,
+      "text": "Korean War: U.S. Eighth Army and United Nations forces break out of the Pusan Perimeter in southeast Korea.",
+      "link": "https://en.wikipedia.org/wiki/Korean_War"
+    }
+  ],
+  "korean_war_date": {
+    "month": 9,
+    "day": 18
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian Offensive Campaign Assessment, September 16, 2026 - Institute for the Study of War",
+      "summary": "Russian Offensive Campaign Assessment, September 16, 2026 Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWmRpRWItQVBCWG9JR3FjX0dJM2NtbldTX29WX2Fwcm5DVnpDMzJkR1RkMVEzQ3poS3UwQVY5ZWxPelQ3ZmpneER0NmYwYXpleGhPZ0xnbFR4b0daSTFKMTdqT0k1d1JuUlMwZUE1OG9rbFFTSjJHQzZzMmpXN0IzZ09ZaWRVR2FEd3pVVk5BZW9xYnp6TFRMNUJiZFdudjV5WnB2UC0tVW4wY0NvYlE?oc=5",
+      "published": "Thu, 17 Sep 2026 02:21:59 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "At least 19 injured in Russian attacks across Ukraine - Al Jazeera",
+      "summary": "At least 19 injured in Russian attacks across Ukraine Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUGxGUkxCRXVSeENiRVQ5OUY2cnZLQkdENzZfQzhpc2JSdUFZeXp1OFgzbnRCZlBsSjlqcElzRFExU1RtN3Z3bUw4YWdQV0lQSnREYjVNaHhabThtV1pmN0JKQ3lQS2k4c3ZmNUd5LWJMbWk4WTRQaW1XSFBTRUlvbEQ4dllfSTc5RGpKWG54Z2RjY0VlYzJXR21n0gGfAUFVX3lxTE1vUkxXQkx2NmxHOGZvdmtCSVFuc2pVaXR6ZmpQcmt3RnhKektodXpCalN5aXRxUWtjaDJGcW9NMWFJa2dkazNIckI5ZV9jTW13ZkpzV0o1SmNCWm9FSlNqRm5iUFR4X1NlaUNQME9WM1JYbmR1ajlpZk5qa1E5QnJMQzNRRXFMUE5ERUcxdEVNOFBZeHlhbkl4ZUtrQ2Z1MA?oc=5",
+      "published": "Thu, 17 Sep 2026 13:02:57 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine war briefing: Drone kills Russian commander just decorated after fake victory claim - The Guardian",
+      "summary": "Ukraine war briefing: Drone kills Russian commander just decorated after fake victory claim The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeVdMaHBoT0Nnb2cxUk9FZGpiNk12QWN0Q1ZLSUFvQzZxbFdZUV96c0JaLTZjOFVFb0lBNVEyS1p6bXllYVVaVHdsZGV3MHJreFNXNTAyS0pOS0lKTGFncDVvbVdKQ1ZfYXBmcXhudVlQNFRJS0QwU1duTXdQTzBBbUZLeVAwb2NMNG03d3ZTbTFuQkt0UlRfTXdQS0tmakNLRUJMSWFXaTdiX21Bb2FCbllxaFZ6MFNVMXc1QjhnV1kzUUtiajFkTFRBWTdhTnBKeFE?oc=5",
+      "published": "Thu, 17 Sep 2026 01:23:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia has entered a new phase of total war - The Economist",
+      "summary": "Russia has entered a new phase of total war The Economist",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONFVwa1hQWmxOaEpac3ZkUjQxN1JZZ3RMYXVndzVDQjVrU0RCb2JwNTQtUzF0M2g2anJzOGJPVXY1d1BSWU1CRXk4c0FucTBESFZDME9zbnBLeS1fVkJoR2RLZVhYbnI3bUd0eEhuUVZwajB0dmRYMWxGbXlRUFlZNHdSckxkMzI5MW5UYllJY0lIclk?oc=5",
+      "published": "Thu, 17 Sep 2026 12:45:01 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "The Russia-Ukraine War Report Card, Sept. 16, 2026 - russiamatters.org",
+      "summary": "The Russia-Ukraine War Report Card, Sept. 16, 2026 russiamatters.org",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVpxYTAxZk1qTVRzNU1McG5Ob29IM0xjeVg0cEZSWkJHRXhkOTdVWDZMVlJReHNqS2R4ZHJuaEk0MFJJNmM2MVZHNTdfajAtQ0R1VjdHbFZVZEhNcThXcmppTndHWF9ISlJxR0FydlVwc1o2RlNvN0xCMXlUdXhONG5hSElsNjJoTGk5cnFDRTNSRkc4NldGVTJzSHpPTDF4Z3RxYUZHTWJyS20wcUE?oc=5",
+      "published": "Wed, 16 Sep 2026 20:16:11 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian missile and drone attacks injure at least 19, including children, in Ukraine - Columbia Missourian",
+      "summary": "Russian missile and drone attacks injure at least 19, including children, in Ukraine Columbia Missourian",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbnJ4X241TmVuYk9Ua2pCckszS1JKM2VUZm5RY2dFMXowNDZoQkVsWjFvZXVqM3doZFRSb3J4TTJ0cjhodGo4aGNxeWZxclhhTTU2Q1ZxX3FOLUpGUmdSbmlkRjVmX2RzODVjRUYwV0lmT3BQbVBFSk1Ub1JQVWdIWjNNbFItZkNtOGVWN0FsS2FKZFZULTVnNVdoam5lZnVHWlU2amFSN0lQLVhJZ3NkOS1sbnVmLVVCcDh2ZUVJQ21wdWlYMmRjSGVSN0pRN21La3FsZFpXVVFQOTV2TE9qM3hxTFUtMmNWb1Y4LXpoSHg0dHpMczNpeUZPeFZWZmprVGlMM3FlMFpodS1XbDg5djVkaw?oc=5",
+      "published": "Thu, 17 Sep 2026 22:29:23 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says - The New York Times",
+      "summary": "Israeli Strikes in Gaza Kill Teenager and Civil Defense Worker, Official Says The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdTBIMFBPMnNnWllVMmI2NGE3YWRGXzZtS0kwX0gwcjlDdnpLbWJPRnh6RlVZd1YtZURndHdVMkhGdkNFd3hrMndGbmE2ak1wSHF3SXRxNng3SjhnQ3lxUFJoMXkxZURaWExmZWVvZG43bDNNM0RlNnFyV1hyTlZlUlV3?oc=5",
+      "published": "Thu, 17 Sep 2026 02:43:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist - AP News",
+      "summary": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist AP News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3lqZkMxREp6UW9yYVJuODAxQW96LXRiejVPakNpNXFxc2ZTWmItNEVhQW5UeWdaWTNlN19QaVRqOXh5T1hETXp3cW0td3Q4QU96UEIwQjNuSjE4ZkZLcDVFQmxTMDZLVVlMWHlqSmFIWjdBeE5BbHdUNWtIMS1Nemd5NzRJeWVuTzFTM2ZMRmpfaVhLWDVXbA?oc=5",
+      "published": "Thu, 17 Sep 2026 01:50:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Hamas Silent on Killings: Ceasefire Restraint or Inability to Retaliate? - ASHARQ AL-AWSAT English",
+      "summary": "Hamas Silent on Killings: Ceasefire Restraint or Inability to Retaliate? ASHARQ AL-AWSAT English",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalRMeDlTd0hQRmpBUVFlZkVQdjdwbWhmMFhXcTA3UG5VUm94QUdEZE5LNnJpSVczMkxtZlRLVC1xRmhJWnpadk1CcTBTOGZJcmMxd25WWDNISTFkUld6RjZuUkhrdU13bmNTS1J4SkN0TEtBclUtUVpHNmZUWjRqRFpJSVVLNTg4emFRcFloS1ltMHhfWEplMDhreTI0TkhkbEpDX0RfcUZLUU9yNjYw?oc=5",
+      "published": "Thu, 17 Sep 2026 17:55:02 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "At least 21 killed after war-damaged Gaza building collapses - BBC",
+      "summary": "At least 21 killed after war-damaged Gaza building collapses BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yU0RUSGI1STdCZGNyRW9zVHBFX1pnQ0lkZEc2N3FwUThybHRYTzlQWXdzWFpDVzNtcXNMWXMxdGoxM0VqMDhRZXg5dDZLbFllWE5RNWZld01rcU0?oc=5",
+      "published": "Wed, 16 Sep 2026 17:16:47 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israel Continues Gaza Ceasefire Violations - - IMEMC News",
+      "summary": "Israel Continues Gaza Ceasefire Violations - IMEMC News",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1lb0ZzRmNLcWlmUDg4c3d4RDhyUnA4bkVoRk5mVk1yc0NQM0hQeF9RQXRKSnppc0VYQTJXLWhWYjZ5bTBrMXlaWjBHNFgzNEliT0trc29UaE1KT1RJX1NaM1dBaWFqRXp0ZzJWQjFlbWdfdUM5djFXMQ?oc=5",
+      "published": "Thu, 17 Sep 2026 09:59:41 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "IDF kills senior Hamas Rafah Brigade commander Nael Abu Obeid in Gaza Strip strike - The Jerusalem Post",
+      "summary": "IDF kills senior Hamas Rafah Brigade commander Nael Abu Obeid in Gaza Strip strike The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHaVZYa0FzZ3ZBclR6Zng5X2ZHek9SZURscXBKa2FtSXI0OEVPd21pdlVGd1RGU2FNVEZlMVhlWDdlZXRNYUFjVDd5NklURU4tTDVWUmJDM1E1eVRxNkpRRUozWjA4bFJSUFk3Q1dR?oc=5",
+      "published": "Wed, 16 Sep 2026 17:19:20 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "The Horn of Africa’s Age of Permanent Conflict - African Arguments",
+      "summary": "The Horn of Africa’s Age of Permanent Conflict African Arguments",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdzlYOE8tSWY0c2xyREZUQXpJejdILWh4cnRkeUtxR05LcnBqQmhlcVdJRkhPV0R3TWEzQXlhbXpja1BfRkJCR3I3TmVTZzdWRDFoNDVRb2l5SGdfUmJSeDY5VURjR3Q0a1RDNU43Mmk1MFZrLUVCT0tCMnRCQ0ZZTnliV2NHb0xmUm9r?oc=5",
+      "published": "Wed, 16 Sep 2026 20:56:36 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Military-Backed Militias Reemerge in Myanmar’s Civil War - The Jamestown Foundation",
+      "summary": "Military-Backed Militias Reemerge in Myanmar’s Civil War The Jamestown Foundation",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRzJOZXNFVnJwU2NEYzlNVllJVlFiRjQ1RlZLWDlINXFvelFNWUwtOXotTFlVTDh5S3BfVGx0cV92bG1YVi1HX2hFYWpqSTVsNVlWTlhVNDRtb3o0VVp5aFZUa0NYWkNkdElkOEZfWnVJWnpGRWVreGsyQk5tMUlKSXBIZEI?oc=5",
+      "published": "Thu, 17 Sep 2026 16:47:39 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Telenor Myanmar probe examines surveillance claims - Cybernews",
+      "summary": "Telenor Myanmar probe examines surveillance claims Cybernews",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hbXEweGtKWFZHWXFwS1pYTzVZYlJIWDF0M2doY0FLbkh3NHNXUjRrZkFoTXNnRUdwdnh2dy1WUlhwMmF4UlpNV1U0dUlPYTJSbkxDUmwycExra1NnT29zTlRpN1Y5ZjFuMm9QRF9CMTB0WjU5UFBN?oc=5",
+      "published": "Thu, 17 Sep 2026 08:30:36 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Airstrikes Hit Ponnagyun and Mrauk-U After AA Seizes At Least Three Military Bases - Narinjara News",
+      "summary": "Airstrikes Hit Ponnagyun and Mrauk-U After AA Seizes At Least Three Military Bases Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BNUlsWV9ybC1jRUVSS2dLX2h1UnJQWUt6Y2hBS19VMUdPbFlOTWd2Z2dsWm5xZktxbVo1TndVbG1VWTBaOWdXVkFFNlJkdF9DSmpVUEQ5VEdlS3d4QzFIa1JBUWJxM3EyUExEaTQxVQ?oc=5",
+      "published": "Thu, 17 Sep 2026 18:31:42 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar Military Ramps Up Airstrikes and Drone Attacks Along Shan-Karenni Border - bnionline.net",
+      "summary": "Myanmar Military Ramps Up Airstrikes and Drone Attacks Along Shan-Karenni Border bnionline.net",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3hGRmdONjBlVlVwdkl2NE8tVnE0SXJSZ21hWWFMUURjUjROR3MwUlNfUlplM1hVODlBMlJXd3QzYnBLems1bHhRNWNVV3VJaFBJUVBHcEVQdnQ3c0xpWERPckJhNk9CZFR1dlc2Z0RfSHJMRVF2b21Iakw2dzJFTlJyWVA5WFpTVVIwRXZOb2ZZdU5HYjhWNFVaUkcyc1FkTDFiclYzSG5lbmxWeEdOZw?oc=5",
+      "published": "Wed, 16 Sep 2026 13:34:07 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar Junta Launches Multi-Front Offensive Near Strategic Port Town of Kyaukphyu - bnionline.net",
+      "summary": "Myanmar Junta Launches Multi-Front Offensive Near Strategic Port Town of Kyaukphyu bnionline.net",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3pGcjFabnlIdUM0TEszZjIxVjdEOFQtZDB4U1V6X0hYNTdDOFQ0eF9wU1Bhb2ZrZ3ZlS2ZoV0E5THpuNUNqTkxDcm5nSmNIQ1pDcDg1XzZaNjh3dXhZaWh5MG9KeVVqTlRtUzloUVB5NVZLS0NDT3lCZ25mZWM5YTZOVGNzRlB0WmFoU1lPaVNLTHMwS2swbUd2dnAxNnNPT19ISDY0bkoxWWJ5QlNiY1I1OA?oc=5",
+      "published": "Wed, 16 Sep 2026 13:05:25 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Airstrike Kills Three Family Members in Western Myanmar's Sagaing Region - bnionline.net",
+      "summary": "Airstrike Kills Three Family Members in Western Myanmar's Sagaing Region bnionline.net",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1dyQWI0ejBaZHM5a0pPa1ZtVzdaOWJOU2FhZE0tRFhsb0hTcUxjS0tmZzBGLXlQalZPcThXRnNpalVhLWt1MmtRVi1lYUhvUkxzYUg4WmpUeUdJWl8yUWpDcnd2eUlucEdlNnRZNjZZUTlaVHFoYVZBWWdHNVBaY2daSGNpUGh1VE9WYkRmcm1qdl9qWWFLNHk4SlU2NjJOdms1dw?oc=5",
+      "published": "Thu, 17 Sep 2026 13:28:54 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US approves $414M uranium investment in Niger, two years after troops left",
+      "summary": "Uranium project investment could mark a turning point in US-Niger and US-Canada relations.",
+      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-414m-uranium-investment-in-niger-two-years-after-troops-left?traffic_source=rss",
+      "published": "Thu, 17 Sep 2026 23:16:25 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump administration approves sale of F-35 jets to Saudi Arabia",
+      "summary": "The deal, which needs approval from Congress, comes as Riyadh seeks Washington's help in its war with Yemen's Houthis.",
+      "link": "https://www.aljazeera.com/news/2026/9/17/trump-administration-approves-sale-of-f-35-jets-to-saudi-arabia?traffic_source=rss",
+      "published": "Thu, 17 Sep 2026 21:38:17 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
+      "summary": "UN Interim Security Force for Abyei strengthens security on the ground after days of deadly fighting.",
+      "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
+      "published": "Thu, 17 Sep 2026 20:47:52 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Russia’s plans may include strikes against Ukraine’s allies, Poland says",
+      "summary": "Warsaw also says it scrambled military planes in response to a Russian attack in western Ukraine, close to its border.",
+      "link": "https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss",
+      "published": "Thu, 17 Sep 2026 19:54:46 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Serbia opens factory to assemble Israeli-made drones",
+      "summary": "Critics say Serbia's military ties with Israel are rising significantly.",
+      "link": "https://www.aljazeera.com/news/2026/9/17/serbia-opens-factory-to-assemble-israeli-made-drones?traffic_source=rss",
+      "published": "Thu, 17 Sep 2026 18:54:42 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US secures release of detained citizen Adam Castillo in Myanmar",
+      "summary": "Businessman Adam Castillo had been detained by authorities for three months on breach of trust allegations.",
+      "link": "https://www.aljazeera.com/news/2026/9/17/us-secures-release-of-detained-citizen-adam-castillo-in-myanmar?traffic_source=rss",
+      "published": "Thu, 17 Sep 2026 18:34:30 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 20:34:30 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+      "summary": "The BBC understands Iranian President Masoud Pezeshkian and Foreign Minister Abbas Araghchi are among the delegates allowed to enter the US.",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 17 Sep 2026 21:41:19 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 17:16:47 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
+      "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result of Iranian strikes.",
+      "link": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 21:24:24 GMT"
+    },
+    {
+      "source": "Bellingcat (OSINT)",
+      "title": "“A Recurring Pattern”: Civilians Paying the Price in Mali’s Drone Campaign",
+      "summary": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. WARNING: This report contains links to graphic images and footage. A joint Bellingcat and Jeune Afrique investigation into drone strikes carried out by the Malian military adds new details about the attacks which frequently are carried out in civilian areas and have […] The post “A Recurring Pattern”: Civilians Paying the Price in Mali’s Drone Campaign appeared first on bellingcat .",
+      "link": "https://www.bellingcat.com/news/2026/09/16/drone-strike-civilians-killed-aes-sahel-mali-russia-africa-corps-guilt-by-location-jeune-afrique/",
+      "published": "Wed, 16 Sep 2026 16:04:19 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "UN fact-finding mission on Iran focuses on plight of civilians",
+      "summary": "The Independent International Fact-Finding Mission on Iran confirmed that civilians in the country suffered serious human rights violations and “crimes against humanity committed by their government,” while finding \"reasonable grounds\" to believe that the United States committed “war crimes” in the context of its ongoing conflict with the Islamic Republic.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168358",
+      "published": "Thu, 17 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Security Council LIVE: Syria’s transition in the spotlight",
+      "summary": "While Syria is making progress in its political transition, the Security Council is meeting to hear briefings and discuss the situation on the ground, including recent reports of deadly armed clashes with an ISIS-affiliate terrorist group in the south and protests over rising fuel prices.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168355",
+      "published": "Thu, 17 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Who should set the rules for AI? The UN is pushing for a safer digital future",
+      "summary": "Artificial intelligence (AI) is advancing rapidly, raising questions about how societies and governments can capture its benefits while managing risks that often extend beyond national borders.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168353",
+      "published": "Wed, 16 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political ‘denialism’",
+      "summary": "Amid a rising number of attacks on shipping in key waterways in the Middle East linked to the US-Iran war, the head of UN maritime agency, Mr. Arsenio Dominguez, has insisted that the conflict is not a “pretext” to target “innocent seafarers”.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168352",
+      "published": "Wed, 16 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Security Council LIVE: ‘Being a woman is a crime in Afghanistan,’ civil society briefer declares",
+      "summary": "Since the Taliban returned to power in Afghanistan in 2021, the continuing presence of terrorist groups as well as rights violations against women and girls are a growing concern as the Security Council met Wednesday to hear latest developments, including from a civil society representative who said being born as a woman in the country “is a crime”. Follow full coverage here.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168347",
+      "published": "Wed, 16 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 16, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-16-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 15, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-15-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 14, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-14-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 13, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-13-2026/",
+      "published": ""
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "북, 핵 싣고 한·미·일 공격 가능 미사일 갖춰 [홍영식의 이슈 워치] - v.daum.net",
+      "summary": "북, 핵 싣고 한·미·일 공격 가능 미사일 갖춰 [홍영식의 이슈 워치] v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QeFJQMFY3Q1BOLVNEN3B1ck4zaGZHeWtVbnZIUmgtVERhMU5sdnU3dHNGeElpMFYydnQzWF80b1pUUGZuLXI2a2lDWkVXM1E?oc=5",
+      "published": "Thu, 17 Sep 2026 19:32:38 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "비건 전 대북대표 “트럼프, 평양서 김정은 만나자 제안할 수도” - 한겨레",
+      "summary": "비건 전 대북대표 “트럼프, 평양서 김정은 만나자 제안할 수도” 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVZVkxSGw1WGp1ck8zTVByYXhNNXhpUmlCSTUzY2pNbTBMVDRJc1dhVHlWWU9oR0N4eW0zVDdZbS1GRGJQd1lVRTcwUVRXMWNlUUZUOUNIOUFtRXhNWHh0QVdMcVFQUmNxV1dYN2hrRQ?oc=5",
+      "published": "Thu, 17 Sep 2026 22:48:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "[시론] 북핵 대응 미사일전략사의 시급한 과제들 - 중앙일보",
+      "summary": "[시론] 북핵 대응 미사일전략사의 시급한 과제들 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sekg4UU1OcTN6MVZPaVFuRjVUcWxpXzc5Q0NSdEpwdXZSUTYwTnNmRXB5VWhFa1VVN2V5Ukdkc01PY2NCTjJYNEVVUmlHU2tJaWpkWjhR?oc=5",
+      "published": "Thu, 17 Sep 2026 15:14:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "\"트럼프, APEC 후 김정은 만날 수도⋯평양 회동도 놀랍지 않아\" - v.daum.net",
+      "summary": "\"트럼프, APEC 후 김정은 만날 수도⋯평양 회동도 놀랍지 않아\" v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TS0ctOTluaDI2a29JeFFMMER0bV9ZdWxMeHlpRGpzXzdleHN3NXVQb1JGY1J5UF96V3BxOHdPYW5jZVNsUU9uLVpwX1NHREk?oc=5",
+      "published": "Thu, 17 Sep 2026 23:29:27 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "北, 유엔서 고위급 연설…비건 “트럼프, 평양 방문 제안도 가능” - v.daum.net",
+      "summary": "北, 유엔서 고위급 연설…비건 “트럼프, 평양 방문 제안도 가능” v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QQ3NWQ0JwTmNQYXVqREhsdzZRaVBOcWdFTDBxdS1YY0ZqdE5LVFA3R2VOWUtvdmctaTZIMV9mNG1RY28tNl9yUXc3SUtrQUU?oc=5",
+      "published": "Thu, 17 Sep 2026 22:16:07 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "지진 없었는데… 북한 풍계리 6차 핵실험 이후 무려 1330회 - v.daum.net",
+      "summary": "지진 없었는데… 북한 풍계리 6차 핵실험 이후 무려 1330회 v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HX2NCSWl2ZklqeDc4c3NIemYwYlNCSDlvOC1DNWFpa1hRU3kyWWY5aGt4Unc1VTV5dEJhWm9ub0dBeEFwdXRmZFpxYm1PT1E?oc=5",
+      "published": "Thu, 17 Sep 2026 20:33:09 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "The Hidden Human Cost of Kim Jong-un’s New Power - The New York Times",
+      "summary": "The Hidden Human Cost of Kim Jong-un’s New Power The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGladkc3c2JkMEVWbkNXb0dZT01CVFc5aFVxRlJKM3lQcUVBVzQxZFhTdTZoR2cxVVBXbW1YWVozNEVzeHkzRlNleU1ia2FoT2lKcEx1Sm5paWN5Q0xNdUI2VWRJcDdmQ2M3c2RCR0wtbTRBQTdvbXNQNlJJT3VpNjdvaUZkQQ?oc=5",
+      "published": "Thu, 17 Sep 2026 04:01:15 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea says US-led arms buildup justifies expanding nuclear force - Reuters",
+      "summary": "North Korea says US-led arms buildup justifies expanding nuclear force Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNU0zRU9hZ181OVZyTUp5OFNoY2NmUGlmZ2o0dGhXU3dKSG5oeC0wU1dpSEY3OHZtTkVDODNBUEhkcUl5XzVyWUlGNnlHdkV6VXBDSHV4QW8wbC0tZkxJV2xuS21QVjFmaGd6OHNhV0xhVTZTZHBmakdvTWQ1UjZpVXNqRGU4Z1ZtM3A4aHcyR25DTnNnOFgxZk94RjEybGVtQ1M0N20wamNYUFBHWnlNOTJCNU9QdDJQbndtcDkzbkVzQWhITjYtUW1TQkVQN2lYcnJR?oc=5",
+      "published": "Thu, 17 Sep 2026 01:34:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "N.Korea leader's sister blasts US drills, threatens 'more offensive' response - Yahoo",
+      "summary": "N.Korea leader's sister blasts US drills, threatens 'more offensive' response Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWEJORkxicWZjUDF3alJqMVhZZ2NjTGo1dmZKSEdwME9FWVA5WUNxZDdKQUJzaVM5cy11SGdqVnFVbG1kWXlTaEdYTF84VndFeFd5TzgwM2pyTHdSd0VfV2hBX1J0SmNOb2FNaGVGUDJhYW1yWnllOF9zUkFhbUY4RkhxYzVhRFlZQ0VlNTVBVQ?oc=5",
+      "published": "Thu, 17 Sep 2026 22:37:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Yo Jong rejects IAEA calls for North Korea's denuclearization - upi.com",
+      "summary": "Kim Yo Jong rejects IAEA calls for North Korea's denuclearization upi.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2t0bUh0NHFYbGFjdzhFX0ZQQ2dvZThOa3RRcTgxTFdPbm83aGhYRUpNVV9QNTZEbDhOSE1Mb1JrX29WYWRKVG1tUkExSGRLSGdDbHdZU2lCTGRvakJrcGxJNHZiTlFUbDBfV0pIY1hPVmVaUVdadUkzSzE0aGlqay1WN29pZlVCOW51VHliblNUdUcxRmdkRUZxMXRuazFBVC1sblNlc2VXOHJLRzNNNNIBtgFBVV95cUxNd3FwQ0hPYkxYZXZ3czhneUxsTjdZZDVzRW5BZkN6XzMyNFN3cXFiMzJ2MWtqdUd1d0VpQnE0dnBEcFpja3FtVW9RWGVSRmt0ZXkyekVEeWk3VW9NUkpiYm1fTE02VHBmOVFBSWFjMUlyRUtudy1pQ2FVSXlVcWRyM3N0QmN3SVczSFBnaWtzR24wVkdpYllzNE5TQk1XTlJUcmRtbFgwa0NnTkpnT0E2bEZXZWdYUQ?oc=5",
+      "published": "Thu, 17 Sep 2026 07:52:32 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "N Korea cites buildup for nuclear stance - Taipei Times",
+      "summary": "N Korea cites buildup for nuclear stance Taipei Times",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xRzd5bjQ4RVhZcGxqSTJoLXdMMGhIREk5U3kxT2VZeVBxb1RJUW1sT1lrU241V3BXNWJ3ZWczSEx0dXpUV1cwWVBBM3NvN2pBLS1zTFgxd004ZU1iUUxUcmFDd2JRQzJ2eHdnS0Uwb3EwbUozWUp5WA?oc=5",
+      "published": "Thu, 17 Sep 2026 16:00:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Opinion | A new Trump-Kim summit would be a nightmare for everyone but Pyongyang - South China Morning Post",
+      "summary": "Opinion | A new Trump-Kim summit would be a nightmare for everyone but Pyongyang South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFRVc3M3N1ltQlZXSlludHdFZU5tMDlkd05raWR0MHpNTmQ0Z3ZJcGlORlZlZjI4NV9Vc0tERnhuYmwwVk9NRXhmR05zMlpnOExoZjZiNUJVVkhxekxodTdpbm13Szg0azJZMm9qVDFXbjNqd09WN0Yxc3dWWmtiQ0JVYjhmdmlkNUo1NXRNMTk1aWJ5Tk1lWFNDeUdFNmJYR0hTQkhZVzRqTUU0Vk14bWNXMFY1UjTSAbcBQVVfeXFMT0QzM29ITEk0NDExclliVWh2elAyY1g1cDlINE91LXJMY3h5X3VtNkJDSlhMT3ZQSGVqZzNnOXBlZTlObmg3clNxSHhhdW1wdXVGNGl1OTdRT0VxWEFRXzVWbGpiUlBzQTZJLTlkRUFyMWZrSTJkc09nNmpwMFpDYTdmZFZOZDEyWFhuLVpZMDE2SHFLRjdNSHB4czdDZkNnZGRBQVJyYzdTTWJ2QWRRX3dMekNSeWZv?oc=5",
+      "published": "Thu, 17 Sep 2026 12:30:06 GMT"
+    },
+    {
+      "source": "NK News",
+      "title": "Trump may propose Kim summit after APEC, possibly in North Korea: former envoy",
+      "summary": "President Donald Trump may propose a meeting with North Korean leader Kim Jong Un after the Asia-Pacific Economic Cooperation summit in China, and it “would not be a surprise at all” for him to suggest holding it in Pyongyang, former U.S. Special Representative for the DPRK Stephen Biegun said Thursday. Speaking at the West Coast […]",
+      "link": "https://www.nknews.org/2026/09/trump-may-propose-kim-summit-after-apec-possibly-in-north-korea-former-envoy/",
+      "published": "Thu, 17 Sep 2026 08:24:08 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea warns US-ROK WMD cooperation could trigger nuclear response",
+      "summary": "North Korea warned Wednesday that increased U.S.-South Korea cooperation on countering weapons of mass destruction (WMD) could trigger a nuclear response from Pyongyang, accusing the allies of seeking to trigger a nuclear and chemical weapons conflict. In a statement published by the state-run Korean Central News Agency (KCNA), a spokesperson for the DPRK Ministry of […]",
+      "link": "https://www.nknews.org/2026/09/north-korea-warns-us-rok-wmd-cooperation-could-trigger-nuclear-response/",
+      "published": "Thu, 17 Sep 2026 04:59:01 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "The UN Divide: How the two Koreas battled for decades over global legitimacy",
+      "summary": "For more than 40 years, North and South Korea couldn’t agree on a basic point: which government actually had the right to represent the Korean Peninsula. The battle extended beyond the Demilitarized Zone, playing out in the corridors of the U.N. and the capitals of newly independent states across the developing world, as both Koreas […]",
+      "link": "https://www.nknews.org/2026/09/the-un-divide-how-the-two-koreas-battled-for-decades-over-global-legitimacy/",
+      "published": "Thu, 17 Sep 2026 04:35:57 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Kim Yo Jong slams IAEA critics, says North Korea’s nuclear status is ‘absolute’",
+      "summary": "Kim Yo Jong, the powerful sister of North Korean leader Kim Jong Un, rejected international calls for Pyongyang to denuclearize Thursday, saying the country’s status as a nuclear weapons state was “absolute” and could not be reversed. In a statement carried by the Korean Central News Agency (KCNA), Kim dismissed criticism raised at the 70th […]",
+      "link": "https://www.nknews.org/2026/09/kim-yo-jong-slams-iaea-critics-says-north-koreas-nuclear-status-is-absolute/",
+      "published": "Thu, 17 Sep 2026 01:53:44 +0000"
+    }
+  ]
+}
