@@ -1,0 +1,583 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T08:56:02.190378+09:00",
+  "history_candidates": [
+    {
+      "year": 1176,
+      "text": "The Battle of Myriokephalon is the last attempt by the Byzantine Empire to recover central Anatolia from the Seljuk Turks.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Myriokephalon"
+    },
+    {
+      "year": 1462,
+      "text": "Thirteen Years' War: A Polish army under Piotr Dunin decisively defeats the Teutonic Order at the Battle of Świecino.",
+      "link": "https://en.wikipedia.org/wiki/Thirteen_Years'_War_(1454%E2%80%931466)"
+    },
+    {
+      "year": 1577,
+      "text": "The Treaty of Bergerac is signed between King Henry III of France and the Huguenots.",
+      "link": "https://en.wikipedia.org/wiki/Treaty_of_Bergerac"
+    },
+    {
+      "year": 1620,
+      "text": "Polish–Ottoman War: The Ottoman Empire defeats the Polish–Lithuanian Commonwealth during the Battle of Cecora.",
+      "link": "https://en.wikipedia.org/wiki/Polish%E2%80%93Ottoman_War_(1620%E2%80%931621)"
+    },
+    {
+      "year": 1631,
+      "text": "Sweden wins a major victory at the Battle of Breitenfeld against the Holy Roman Empire during the Thirty Years' War.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Breitenfeld_(1631)"
+    },
+    {
+      "year": 1658,
+      "text": "The Battle of Vilanova is fought between Portugal and Spain during the Portuguese Restoration War.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Vilanova"
+    },
+    {
+      "year": 1775,
+      "text": "American Revolutionary War: The invasion of Quebec by the Continental Army begins with the Siege of Fort St. Jean.",
+      "link": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+    },
+    {
+      "year": 1778,
+      "text": "The Treaty of Fort Pitt is signed. It is the first formal treaty between the United States and a Native American tribe.",
+      "link": "https://en.wikipedia.org/wiki/Treaty_of_Fort_Pitt"
+    },
+    {
+      "year": 1793,
+      "text": "War of the Pyrenees: France defeats a Spanish force at the Battle of Peyrestortes.",
+      "link": "https://en.wikipedia.org/wiki/War_of_the_Pyrenees"
+    },
+    {
+      "year": 1794,
+      "text": "Flanders Campaign: France completes its conquest of the Austrian Netherlands at the Battle of Sprimont.",
+      "link": "https://en.wikipedia.org/wiki/Low_Countries_theatre_of_the_War_of_the_First_Coalition"
+    },
+    {
+      "year": 1809,
+      "text": "Peace between Sweden and Russia in the Finnish War; the territory that will become Finland is ceded to Russia by the Treaty of Fredrikshamn.",
+      "link": "https://en.wikipedia.org/wiki/Finnish_War"
+    },
+    {
+      "year": 1861,
+      "text": "Argentine Civil Wars: The State of Buenos Aires defeats the Argentine Confederation at the Battle of Pavón.",
+      "link": "https://en.wikipedia.org/wiki/Argentine_Civil_Wars"
+    },
+    {
+      "year": 1862,
+      "text": "American Civil War: George B. McClellan's Army of the Potomac halts the first invasion of the North by Robert E. Lee and his Army of Northern Virginia in the single-day Battle of Antietam, the bloodiest day in American military history.",
+      "link": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "year": 1862,
+      "text": "American Civil War: The Allegheny Arsenal explosion in Lawrenceville, Pennsylvania results in the single largest civilian disaster during the war.",
+      "link": "https://en.wikipedia.org/wiki/Allegheny_Arsenal"
+    },
+    {
+      "year": 1894,
+      "text": "Battle of the Yalu River, the largest naval engagement of the First Sino-Japanese War.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_the_Yalu_River_(1894)"
+    },
+    {
+      "year": 1900,
+      "text": "Philippine–American War: Filipinos under Juan Cailles defeat Americans under Colonel Benjamin F. Cheatham Jr. at Mabitac.",
+      "link": "https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War"
+    },
+    {
+      "year": 1901,
+      "text": "Second Boer War: A Boer column defeats a British force at the Battle of Blood River Poort.",
+      "link": "https://en.wikipedia.org/wiki/Second_Boer_War"
+    },
+    {
+      "year": 1901,
+      "text": "Second Boer War: Boers capture a squadron of the 17th Lancers at the Battle of Elands River.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Elands_River_(1901)"
+    },
+    {
+      "year": 1914,
+      "text": "World War I: The Race to the Sea begins.",
+      "link": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "year": 1916,
+      "text": "World War I: Manfred von Richthofen (\"The Red Baron\"), a flying ace of the German Luftstreitkräfte, wins his first aerial combat near Cambrai, France.",
+      "link": "https://en.wikipedia.org/wiki/Manfred_von_Richthofen"
+    },
+    {
+      "year": 1939,
+      "text": "World War II: The Soviet invasion of Poland begins.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "year": 1939,
+      "text": "World War II: German submarine U-29 sinks the British aircraft carrier HMS Courageous.",
+      "link": "https://en.wikipedia.org/wiki/German_submarine_U-29_(1936)"
+    },
+    {
+      "year": 1940,
+      "text": "World War II: Due to setbacks in the Battle of Britain and approaching autumn weather, Hitler postpones Operation Sea Lion.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Britain"
+    },
+    {
+      "year": 1941,
+      "text": "World War II: A decree of the Soviet State Committee of Defense restores compulsory military training.",
+      "link": "https://en.wikipedia.org/wiki/Vsevobuch"
+    },
+    {
+      "year": 1941,
+      "text": "World War II: Soviet forces enter Tehran during the Anglo-Soviet invasion of Iran.",
+      "link": "https://en.wikipedia.org/wiki/Anglo-Soviet_invasion_of_Iran"
+    },
+    {
+      "year": 1944,
+      "text": "World War II: Allied airborne troops parachute into the Netherlands as the \"Market\" half of Operation Market Garden and British XXX Corps advances into the Netherlands as the \"Garden\" half of the Operation.",
+      "link": "https://en.wikipedia.org/wiki/Operation_Market_Garden"
+    },
+    {
+      "year": 1944,
+      "text": "World War II: Soviet troops launch the Tallinn Offensive against Germany and pro-independence Estonian units.",
+      "link": "https://en.wikipedia.org/wiki/Tallinn_offensive"
+    },
+    {
+      "year": 1944,
+      "text": "World War II: German forces are attacked by the Allies in the Battle of San Marino.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_San_Marino"
+    },
+    {
+      "year": 1950,
+      "text": "The People's Liberation Army Air Force Airborne Corps (Then known as the PLAAF 1st Ground Forces Brigade) is founded.",
+      "link": "https://en.wikipedia.org/wiki/People's_Liberation_Army_Air_Force_Airborne_Corps"
+    },
+    {
+      "year": 1965,
+      "text": "The Battle of Chawinda is fought between Pakistan and India.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Chawinda"
+    },
+    {
+      "year": 2016,
+      "text": "Two bombs explode in Seaside Park, New Jersey, and Manhattan. Thirty-one people are injured in the Manhattan bombing.",
+      "link": "https://en.wikipedia.org/wiki/2016_New_York_and_New_Jersey_bombings"
+    }
+  ],
+  "korean_war_hits": [],
+  "korean_war_date": {
+    "month": 9,
+    "day": 17
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian Offensive Campaign Assessment, September 15, 2026 - Institute for the Study of War",
+      "summary": "Russian Offensive Campaign Assessment, September 15, 2026 Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORktkay1Tb3p5NUdPZ2ViaXVrS1VTbWpybnEyaUpUTGM3SnNucXQwOV9MYWlua1E0WUlrUjRKcnVTNmNDU3FVaWxOQXMyTnZ4NjYySTF0VVREX1NaMEU4czM3MHVTMWRtYnQ4aGZyazRvRksxV3UtMkxWMGFKXzRNcWpCbG1ydDhOSlBEY0VQMjEyMUVPNUp4WGhQRTV1cjFnNkdhaVZMY1NFbEtmblE?oc=5",
+      "published": "Wed, 16 Sep 2026 02:58:58 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "At least five killed in Russian drone strike near Ukraine front line - aljazeera.com",
+      "summary": "At least five killed in Russian drone strike near Ukraine front line aljazeera.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc1c3LUM3SUlxbVRsOEswSTVlRzNkaGhxdDFYaXdIRjRaRHZlNmdqdzZnQmEyOWZUZzBSNE5Nb2dCWTNtdDMwNFdwZ2JKbHJkY0hmUHZWSU8zUjlfR0FkcGtEdnRUVFZZVndBSDNUNEhCYlVYWW9oNmQ3QmNrczZwUFZ0M3p3VW9fUWtEUzNPU2xudDhTTld0Y1JHUEhqMHFRNlZhcnJnVVlBRGFySVHSAbMBQVVfeXFMTlUwd1h5X0tzUzRiS2I4UzZpRE1CRXlnclJwNWNFWTM2a0JkbDBTeWIxbFVheEc0X2ZDRDFncjQxODR5U2VSd3dseWNIdlNHeXMteWJfdHJXLWR6Y2hvWFZPUVRIUXI2dlBQOUhaUm9kYk5UUGxuQ1BzUnZ5MWlvYXMxbHBOQThCMGxEV0ZpX1V5VjFISDNscTFOSkthRmZOaFpwY3JuM1J6YldOdUZnbjNSaVE?oc=5",
+      "published": "Wed, 16 Sep 2026 09:40:03 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "The Russia-Ukraine War Report Card, Sept. 16, 2026 - Russia Matters",
+      "summary": "The Russia-Ukraine War Report Card, Sept. 16, 2026 Russia Matters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTVpxYTAxZk1qTVRzNU1McG5Ob29IM0xjeVg0cEZSWkJHRXhkOTdVWDZMVlJReHNqS2R4ZHJuaEk0MFJJNmM2MVZHNTdfajAtQ0R1VjdHbFZVZEhNcThXcmppTndHWF9ISlJxR0FydlVwc1o2RlNvN0xCMXlUdXhONG5hSElsNjJoTGk5cnFDRTNSRkc4NldGVTJzSHpPTDF4Z3RxYUZHTWJyS20wcUE?oc=5",
+      "published": "Wed, 16 Sep 2026 20:16:11 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine war briefing: New anti-drone weapon scores hit amid race against Shahed jets - theguardian.com",
+      "summary": "Ukraine war briefing: New anti-drone weapon scores hit amid race against Shahed jets theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNakNDQ3hldXkycldWUDhWS0N3bVhsUWJxRU9lMVI0a0Vad1JreWFpbzg1azFYbDJ3bVRGSjVQZnphRWRkODh5djVQM2pRMU9SV1A5N1dKMUpFR2VtYjY1M3MwZjlsNll3dUxkZ0cxQ2lVbzdtbjczZ3c4YU1MMmtZSE52aDJ6b1JCa2l2Qkx2VHhiVHZ4bzRZTFJEd3d2ZG1vX0VUdE0xWTh2OXBPbm55N2ZrZGZpQjRoRWE1bmMxS3ZCSzlQQ3hkcQ?oc=5",
+      "published": "Wed, 16 Sep 2026 01:40:27 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian drone strike kills 5 and injures at least 7 on passenger bus in Ukraine - abcnews.com",
+      "summary": "Russian drone strike kills 5 and injures at least 7 on passenger bus in Ukraine abcnews.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3pEaklTSFdOUW5UUWNZdFBCTnc2QkNvaW43WlFtSlZzX04tejZ2RkZzT1BxcUpneEpNVnduYkd6UHNiQUEzZ1JJd1gtOWVFbUUta0ozNnBQOWp5bHZWSmRSbG11cGs3WEhFd3hhZDFqMjFhMUw5RjYzQUotN0lSU1QyMVRSNmFUSUdfN0lIMW1pWTBKNEN2MFhOUnRwSjNaWEVia9IBqgFBVV95cUxNT3FxRHFQMjhiazdmejd1ekM2NTgwbUtXTHlGUHhDX0xwbXBXbmkyYkJfR1BLVl9CSVNmWjB5QnF2VDVuUVdCb1dwTzJYMmhWZWY3SE1KaE9qWmlMUE9tLTVBc2EtaTlDVGZGeWh5cG1yN2ZSU2JSQnByb2R3RFpoc19EUzBQQllRUEt5d185YkNOT2RGR0c5TF9RS2Z6LWVOa0FpclI5TWRQZw?oc=5",
+      "published": "Wed, 16 Sep 2026 11:31:56 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine’s drones bring war to Russia’s Arctic gas heartland - High North News",
+      "summary": "Ukraine’s drones bring war to Russia’s Arctic gas heartland High North News",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcE5tZzljQUJnYUlycUMwS3Uzd0wxSENjQmR2MWlvUHhnZUFQMXEyTi1KVXUtYVNXenA2ZHRCUlUzaGdRWHBMRlRMcUVQU3RoYXhFWTM0Ny1qSEh2TDQwSnBvc3RZeEVpNHM3MU9CVVRKUzBpb0lwT3gtRHo1cTB2SjJScVVKUWltQkJBQnVWTi1OSHZPVk4wTEpZQ2Z1M09hcU5MUnVrU3VKZmM4UWRBUEZR?oc=5",
+      "published": "Wed, 16 Sep 2026 05:37:40 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza - aljazeera.com",
+      "summary": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza aljazeera.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWXVLNnJRdjhaRjdjaDNvT1NFRGxxMUFZU2I5MlBlYTdrOTFhVUVYRW5mMVJwc2wyWTlGeldKQ2dYbF9sZjF1dlRMZS1ZQTdWcjB4dC16Rzc5VFF0V1pzSFNGS05JdjkxN05FcmxCMS1aQkFWS2FmNFloRi11SzF4OXF3MV9RSmdkamJZTTM1RG93MER2dXhIQ0YzS3NGdzdqZ042NElNeFk0aHdoSEZmLUhR0gG3AUFVX3lxTE12WXgwR1h1T1FBOHZMUDZINlp1am9ja0ZTbkE3SEY0TC0tZ0JUa3V5VC1CeGlWVFFDWm96Q0ZqTGVsMEdGUUdIZjlEQ1ltRk9uRDFCeGZHY0MxZGlfdUx1alhad3ZHOEdCVkNlM0xvdFJNYlZkdk51U28yV21PR2c5d1FVb0hQa0swR0MzUUVzREhGQWhmb3MzVF9mR3RSakRzREZnN1ZEallMWS1VZUVmZjJaVFh3MA?oc=5",
+      "published": "Wed, 16 Sep 2026 15:10:06 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "At least 21 killed after war-damaged Gaza building collapses - BBC",
+      "summary": "At least 21 killed after war-damaged Gaza building collapses BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yU0RUSGI1STdCZGNyRW9zVHBFX1pnQ0lkZEc2N3FwUThybHRYTzlQWXdzWFpDVzNtcXNMWXMxdGoxM0VqMDhRZXg5dDZLbFllWE5RNWZld01rcU0?oc=5",
+      "published": "Wed, 16 Sep 2026 17:16:47 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "At least 21 killed after Israeli-hit building in Gaza City collapses - theguardian.com",
+      "summary": "At least 21 killed after Israeli-hit building in Gaza City collapses theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORlJrRFRwdWhhNndmQ3JFZDhwRnZsWF9oLW5QbHdNNFNXd295Q3l4dF9TeVBIMlotVmRwTFdKa3pyWFptNkRYRW9IRE5CMWc3LUF5YVZuS2syZG9qQU5tclhNb0ZjMzF0ZXQzbTNwSWI1Si1MZjdSTzA1Xzdhb2RGTnROd2hlLWN6OUdHOUtFNWYyUkZubXVDbmhYTklKeVF3UHBrU0xpeUg?oc=5",
+      "published": "Wed, 16 Sep 2026 10:10:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist - AP News",
+      "summary": "Building damaged by strikes collapses in Gaza, killing 21 as perilous living conditions persist AP News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV3lqZkMxREp6UW9yYVJuODAxQW96LXRiejVPakNpNXFxc2ZTWmItNEVhQW5UeWdaWTNlN19QaVRqOXh5T1hETXp3cW0td3Q4QU96UEIwQjNuSjE4ZkZLcDVFQmxTMDZLVVlMWHlqSmFIWjdBeE5BbHdUNWtIMS1Nemd5NzRJeWVuTzFTM2ZMRmpfaVhLWDVXbA?oc=5",
+      "published": "Wed, 16 Sep 2026 15:23:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "A residential building in Gaza that officials said had previously been hit by an Israeli strike collapsed on Wednesday. At least 21 people were killed, including children, and many more were trapped beneath the wreckage, according to local officials. https://nyti. - facebook.com",
+      "summary": "A residential building in Gaza that officials said had previously been hit by an Israeli strike collapsed on Wednesday. At least 21 people were killed, including children, and many more were trapped beneath the wreckage, according to local officials. https://nyti. facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQWJleDRPLUVJN1Etb0YzS09zdHF4ZDJkdllEUEZ6OVZadk5HZERaR2JHVFVVQndUNW02dndvbE0xZ2oydFJhaWdVRFFfN3IteXVkeExuVlF4V0ltNl9MM2VYcmR6Mjg3LVVDd1VxTGprMzRxY2NJY1NHYzJNREtlcThMdGVxRDRKbThQbHZRYjVwYkNoaDFMSFV2THBmRVlIS1E5cTEwWHBUVXhUa2xUS0lQM3F4QWxfVGg0QlZHeC1IRVFncnlPZWdHTFMxR0NMN1hV?oc=5",
+      "published": "Wed, 16 Sep 2026 18:56:16 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "War-damaged Gaza building housing displaced Palestinian families collapses, killing at least 20 people - CBS News",
+      "summary": "War-damaged Gaza building housing displaced Palestinian families collapses, killing at least 20 people CBS News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGZOQmJrWGwtOUxKa2NCYzhQd3BjTlRCRmMxZkgtdDNLaEYyODJNdFVMSVdDWWhGN0FadXBvUkRZR25LcGdSWFZFZU1kaWRKekg0QjNGUTEtdDNVVXlPM2EzYlFuOEtfNnVMTUl3ZkZyQ0cwbU43ZGw2WW1YR0E4TUoxbTNyM0Jmd1U4TUZDaGZTcWZXNkVBcHpjblpYUQ?oc=5",
+      "published": "Wed, 16 Sep 2026 10:12:00 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "The Horn of Africa’s Age of Permanent Conflict - African Arguments",
+      "summary": "The Horn of Africa’s Age of Permanent Conflict African Arguments",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdzlYOE8tSWY0c2xyREZUQXpJejdILWh4cnRkeUtxR05LcnBqQmhlcVdJRkhPV0R3TWEzQXlhbXpja1BfRkJCR3I3TmVTZzdWRDFoNDVRb2l5SGdfUmJSeDY5VURjR3Q0a1RDNU43Mmk1MFZrLUVCT0tCMnRCQ0ZZTnliV2NHb0xmUm9r?oc=5",
+      "published": "Wed, 16 Sep 2026 20:48:45 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar’s resistance finally takes the fight to junta’s air power - Asia Times",
+      "summary": "Myanmar’s resistance finally takes the fight to junta’s air power Asia Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHdNQUZUa2xta2tRNm5HZ3Y1ZFBlSkhLZ2xlLXJ2M240YVZfRjVWenl2ODVlcHk1OVZKVTV6NkFGTmM0bFY3R3lWNjdUNHZsel8xWHlOZTZtTkkxSmxlN2Y5bEc0U0ltNUtPMkM3STRHRTVieW1pUmx3Z0dyb0JOSVJnaVdQXzhtSXlVbFRfMTJ3bGZJZGxhTlhR?oc=5",
+      "published": "Wed, 16 Sep 2026 10:15:03 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar Junta Launches Multi-Front Offensive Near Strategic Port Town of Kyaukphyu - Burma News International",
+      "summary": "Myanmar Junta Launches Multi-Front Offensive Near Strategic Port Town of Kyaukphyu Burma News International",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3pGcjFabnlIdUM0TEszZjIxVjdEOFQtZDB4U1V6X0hYNTdDOFQ0eF9wU1Bhb2ZrZ3ZlS2ZoV0E5THpuNUNqTkxDcm5nSmNIQ1pDcDg1XzZaNjh3dXhZaWh5MG9KeVVqTlRtUzloUVB5NVZLS0NDT3lCZ25mZWM5YTZOVGNzRlB0WmFoU1lPaVNLTHMwS2swbUd2dnAxNnNPT19ISDY0bkoxWWJ5QlNiY1I1OA?oc=5",
+      "published": "Wed, 16 Sep 2026 13:05:25 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Fighting Continues Near Sittwe's Shwe Min Gan, Air Strikes Hit Min Chaung Bridge Area - Narinjara News",
+      "summary": "Fighting Continues Near Sittwe's Shwe Min Gan, Air Strikes Hit Min Chaung Bridge Area Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PQXZhVExrZUNlLTVnTVg0d2NpVXlrTldFdUN5WVc2NEpDaEplMmU2LUM2eENTLTNGNWVHNGJ2bFlCQUlLTmc1cmE2WWRuX0h5bE9DenNVSWw2QUFnWUViVy1MWXNZUFRNX3dDOENxWQ?oc=5",
+      "published": "Wed, 16 Sep 2026 17:16:57 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Norway announces investigations into telecom Telenor’s work with Myanmar junta - The Record from Recorded Future News",
+      "summary": "Norway announces investigations into telecom Telenor’s work with Myanmar junta The Record from Recorded Future News",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV1B2T3FmTkR4aVNocWxWRXNHS21JVElvX0R3ME5mb2hvaUR4Nm5XallSQmEtLW9IdktndV9DZzBtSW9NN1Q4RjNCRHREQU9KZ0ZWT1NJRTBBanhla2NNVzROQUMwdWtKOTJmVVRuSjF0NDV1ZTZEbU9pOEh1SjR6Mmdn?oc=5",
+      "published": "Tue, 15 Sep 2026 20:21:37 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Murder and Robbery Plaguing Myanmar Under Min Aung Hlaing’s Junta - Narinjara News",
+      "summary": "Murder and Robbery Plaguing Myanmar Under Min Aung Hlaing’s Junta Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BMzBsX3pXeThTZXM5dlUtYjRBR0FtT3JNNnU0bVRNZV9QMXJtdl9TV0dEbWdPc3g3STZvby1md2p6cEV5WWFhNUZadlp4ZmJqTW9VUldqMkhRUy1iNDRoSUF6dkFyVEJKX1R4c0NkVQ?oc=5",
+      "published": "Wed, 16 Sep 2026 16:13:25 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Heavy Fighting Enters Second Week Along Strategic Sittwe-Ponnagyun Axis in Myanmar’s Rakhine State - Burma News International",
+      "summary": "Heavy Fighting Enters Second Week Along Strategic Sittwe-Ponnagyun Axis in Myanmar’s Rakhine State Burma News International",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWWtmQUNQMldpT3NpS085QlNwUmE5SnBKeE9mZ0RXaHRDZGJDU1NpVE56NDVHNDNwczlaWXV6aXQxSHBkYU5ldDBkZ2VHRlE5SV9pdl9hM3paVklod3dCT0MxNHNLb3l6N05RbU5uR19ubl9OZ2RYVlRHR1ZxOWdCRlBLNXBmcmg0SVdNVUJrdWtfZ0E1aXY0dFZrVTdNVjFreUtHRDZDbmUyT2FYRjNJTTJfNk0wZk1YZXpjR1FDaDFCMFpCcWJR?oc=5",
+      "published": "Wed, 16 Sep 2026 13:20:28 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "US Congress presses Trump on a strategy for jihadist-ravaged Mali - The Africa Report",
+      "summary": "US Congress presses Trump on a strategy for jihadist-ravaged Mali The Africa Report",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTFVmakgyQ192a0hQaF9lQzRfZXp0d3VtUG13M25kdmdWRWd4RVltd1FKa3A1Q0VGaGNaajZKWUFJQkYtX3BneFZ4MThKZGNDSjJ4YVJRNF9XdHdBOFh5aFlyOFNSam12aWhqZWdPcU84aXFwUU1aeDhrMjJNd19aUFpHcXRmek9GaV9WWlNocnRmOXZ0UGxqMlJkVllLWXFHMGE0LWcxYzA?oc=5",
+      "published": "Wed, 16 Sep 2026 10:31:50 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "Sahel: jihadist violence could exceed 3,000 incidents in 2026 - Benin Web TV",
+      "summary": "Sahel: jihadist violence could exceed 3,000 incidents in 2026 Benin Web TV",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeXBsTVlKSzI3UmI1eGJwdVM4TnJRYnhXX3FCMElQdXQ0ZWpMRjRRRVVpVzRSUDFYVjZDVWlJY1FJdGhCdGZGLWptZkN3NnZRdHY5MXlfc0l0NnIxQkstU0pOZlZlMTZxRTZZLXhNWmRIVTBZQW4zTnZaNDZ3NFV3eFA5OHhoMzI4NUIxdEVB?oc=5",
+      "published": "Wed, 16 Sep 2026 07:38:15 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US military claims Strait of Hormuz remains open amid ongoing blockade",
+      "summary": "The comments from a US CENTCOM spokesperson come amid continued tensions over shipping through the vital waterway.",
+      "link": "https://www.aljazeera.com/news/2026/9/16/us-military-claims-strait-of-hormuz-remains-open-amid-ongoing-blockade?traffic_source=rss",
+      "published": "Wed, 16 Sep 2026 23:14:46 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Rescue workers search for survivors after Gaza building collapse",
+      "summary": "Rescue workers search for survivors after Gaza building collapse",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
+      "published": "Wed, 16 Sep 2026 21:15:42 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare",
+      "summary": "Discontent is testing President Ahmed al-Sharaa's ability to unify a country emerging from 14 years of conflict.",
+      "link": "https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare?traffic_source=rss",
+      "published": "Wed, 16 Sep 2026 20:08:50 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Efforts underway for Zelenskyy-Trump meeting at UN next week",
+      "summary": "Trump pushes for a solution to end Moscow's war against Kyiv as civilian deaths in Ukraine rise.",
+      "link": "https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss",
+      "published": "Wed, 16 Sep 2026 20:05:51 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Al-Mughayyir: A village under siege",
+      "summary": "In al-Mughayyir, Palestinians say they are being squeezed into a smaller part of their own village in the West Bank.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss",
+      "published": "Wed, 16 Sep 2026 19:48:05 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
+      "summary": "A 15-year-old boy was killed in a double-tap strike while trying to save a paramedic.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss",
+      "published": "Wed, 16 Sep 2026 19:14:28 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
+      "summary": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
+      "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 17:16:47 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+      "summary": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
+      "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 08:36:17 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Charlie Kirk's family alleges 'stunning failures' by Utah officials led to his shooting",
+      "summary": "The conservative activist was speaking to a crowd of thousands on the university campus when he was shot and killed by a gunman positioned on a roof.",
+      "link": "https://www.bbc.co.uk/news/articles/cwzrz4xmknjgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 15:33:19 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Philippines' Duterte seen in person at International Criminal Court for first time",
+      "summary": "He is due to be tried for crimes against humanity over thousands of deaths linked to his war on drugs.",
+      "link": "https://www.bbc.co.uk/news/articles/cq986j7x1nd3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 11:50:09 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: Leaked photos reveal extensive damage at US bases in Gulf",
+      "summary": "The photos, provided by active military personnel, show a severed radar jet, flattened trailers and severely damaged buildings as a result of Iranian strikes.",
+      "link": "https://www.bbc.co.uk/news/videos/c9dr7e1lr265o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 16 Sep 2026 21:24:24 GMT"
+    },
+    {
+      "source": "Bellingcat (OSINT)",
+      "title": "“A Recurring Pattern”: Civilians Paying the Price in Mali’s Drone Campaign",
+      "summary": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. WARNING: This report contains links to graphic images and footage. A joint Bellingcat and Jeune Afrique investigation into drone strikes carried out by the Malian military adds new details about the attacks which frequently are carried out in civilian areas and have […] The post “A Recurring Pattern”: Civilians Paying the Price in Mali’s Drone Campaign appeared first on bellingcat .",
+      "link": "https://www.bellingcat.com/news/2026/09/16/drone-strike-civilians-killed-aes-sahel-mali-russia-africa-corps-guilt-by-location-jeune-afrique/",
+      "published": "Wed, 16 Sep 2026 16:04:19 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "World News in Brief: Shipping alert from IMO, democracy vanishing in Nicaragua, alert over political ‘denialism’",
+      "summary": "Amid a rising number of attacks on shipping in key waterways in the Middle East linked to the US-Iran war, the head of UN maritime agency, Mr. Arsenio Dominguez, has insisted that the conflict is not a “pretext” to target “innocent seafarers”.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168352",
+      "published": "Wed, 16 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Security Council LIVE: ‘Being a woman is a crime in Afghanistan,’ civil society briefer declares",
+      "summary": "Since the Taliban returned to power in Afghanistan in 2021, the continuing presence of terrorist groups as well as rights violations against women and girls are a growing concern as the Security Council met Wednesday to hear latest developments, including from a civil society representative who said being born as a woman in the country “is a crime”. Follow full coverage here.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168347",
+      "published": "Wed, 16 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Security Council LIVE: Rising violence triggers emergency meeting on Yemen",
+      "summary": "Amid rising violence in Yemen, the Security Council met in emergency session on Tuesday to discuss the situation surrounding the critical Bab el-Mandeb Strait shipping route as UN agencies warn of rising displacement, including thousands of Yemenis fleeing to Djibouti. UN News app users can follow here.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168343",
+      "published": "Tue, 15 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Back to school in Haiti: ‘Madame, can you stop what the gangs are doing to us?’",
+      "summary": "When UNICEF’s Representative in Haiti Geetanjali Narayan stepped into a classroom in Port-au-Prince at the start of the new school year, she asked the children a simple question: What did they most need from the UN children’s agency?",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168337",
+      "published": "Tue, 15 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "World fears major war more than any other global risk, UN survey finds",
+      "summary": "Two years ago, the idea of a large-scale war breaking out felt like a distant hypothetical to the experts who help chart the world’s dangers. Today it tops their list of fears, according to a new UN Global Risk Report.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168332",
+      "published": "Tue, 15 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "‘Super El Niño’ deepens hunger crisis in South Sudan – WFP",
+      "summary": "The already dire hunger crisis in South Sudan is becoming increasingly critical as violence, extreme weather and dwindling aid leave millions without enough food, the UN World Food Programme (WFP) warned on Tuesday.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168334",
+      "published": "Tue, 15 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 15, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-15-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 14, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-14-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 13, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-13-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 12, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-12-2026/",
+      "published": ""
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "캐나다, 북한 탄도미사일 발사 규탄…“안보리 결의 준수 촉구” - VOA 한국어 홈페이지",
+      "summary": "캐나다, 북한 탄도미사일 발사 규탄…“안보리 결의 준수 촉구” VOA 한국어 홈페이지",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1p1QnRxRGo0YWpjUERTVjZsRExrMmt2R283VERPb1UxMGl6Q2hNS3ZTRTlvVURyUG5zUFdIQzFERm1vaS12cjJyU2h1WldHSTBLZjdGTmtYRHRGRzRZV0FWZ2VmamhVb1hKTklJenVuSEtLRHhMZDBTZ3VDNGhZRdIBgAFBVV95cUxOZ1p1QnRxRGo0YWpjUERTVjZsRExrMmt2R283VERPb1UxMGl6Q2hNS3ZTRTlvVURyUG5zUFdIQzFERm1vaS12cjJyU2h1WldHSTBLZjdGTmtYRHRGRzRZV0FWZ2VmamhVb1hKTklJenVuSEtLRHhMZDBTZ3VDNGhZRQ?oc=5",
+      "published": "Wed, 16 Sep 2026 19:51:28 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "미 전직당국자 \"미중정상회담서 북한 관련 새 내용 없을 것\" - v.daum.net",
+      "summary": "미 전직당국자 \"미중정상회담서 북한 관련 새 내용 없을 것\" v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56N3E0RVJoclhIVDJCYUhCRFVMUi1BMHpmYTQ4RHU0VnkxbzRfclJPN3ZSd3pCSHdEVGN4N19GQ0FNTFhDVjJPZEtPOV9nem8?oc=5",
+      "published": "Wed, 16 Sep 2026 21:14:52 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "美국무부 “북한 해외노동자 최대 10만명…핵 개발 외화벌이 동원” - v.daum.net",
+      "summary": "美국무부 “북한 해외노동자 최대 10만명…핵 개발 외화벌이 동원” v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zSzZ6azMtRFo3Sy0yOXVURUhDM01KOE0tNS1tMjhYREdEQ2F5Q0NhdnFTb2FwRFhuTlVsTGR3THIwcmp5SzZoYUd2REx5T1k?oc=5",
+      "published": "Wed, 16 Sep 2026 21:35:52 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "일본, 발트 3국… ‘북한 핵∙미사일 대응’ 공조 강화 - VOA 한국어 홈페이지",
+      "summary": "일본, 발트 3국… ‘북한 핵∙미사일 대응’ 공조 강화 VOA 한국어 홈페이지",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1N1pMNHVZX3djUmRTdHFMek9HQVo0OWFsOFhtM1otZUhUelc5Z2xWVDZ2d2VnZ0RtZms1ZDBzQWNPbVkxcGtuaWx4RWhFaWl6QTJMSkdJLW82NG14bTRGTmN1dVgwdTE0OW51aHdBSFB1Z9IBdEFVX3lxTE0xeHZGOS1JVncwaWY4OWUtd3A0NlFxZEExdng4LWczVWRTNkpFRTFldW9QUktpTmg4OHQxbkstT1ZxTE81ZTY0ZUtQWFJ2WVBrZEVfVXczbDNLU0lweGVoU0wtYlJZU2RKeFplRlFNeFlqX0Ni?oc=5",
+      "published": "Wed, 16 Sep 2026 14:20:27 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "\"해외 파견 북한 노동자 최대 10만 명…러시아 공장서 군용 드론 생산도\" - v.daum.net",
+      "summary": "\"해외 파견 북한 노동자 최대 10만 명…러시아 공장서 군용 드론 생산도\" v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GN244S1hQNFJnRm5PcVlQaHNiVjVuS3pNWVIzSG5PMkVUQmRqSGkza1hvRGhPT19ha1cxaEcxMkoxNVFGR25ic29hMFNiZ3c?oc=5",
+      "published": "Wed, 16 Sep 2026 13:12:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "김여정, IAEA 총회 북핵 경고에 반발 “핵보유 지위 절대적…되돌릴 수 없어” - v.daum.net",
+      "summary": "김여정, IAEA 총회 북핵 경고에 반발 “핵보유 지위 절대적…되돌릴 수 없어” v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tSEdhc3ZFM2tmZDhfRUNTYzRwUEYtZk45Q0p1VVhKSUtMcWdkaUZMVEJPZC02RWRUaXlBWW05NFBFQ0Q5N0VYQXhUWWg5TXc?oc=5",
+      "published": "Wed, 16 Sep 2026 23:13:09 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea's Kim Yo Jong denounces IAEA's meeting on denuclearization - Reuters",
+      "summary": "North Korea's Kim Yo Jong denounces IAEA's meeting on denuclearization Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc3QtbXVUamxKS1NJclZ4YVoyUHBkLU5JSUFuWjBxbjl3eVkyZmRTcmZkWUZidXQ0NEZLQzNMZTRLODNpSTZ2eGFOaUlQLUdFOGRZcTBkOTJCNURiNHlvZ21vdlFob3FnU3hEQnZWbmJNaW95Q2xhbE1oY1h0bmJpTkdCajJGZjFOZk1PaFBKcUNhZnJ1TVRic3lRcmt2dlF4Y294ZVNRdkNaSjgxQy1BeWlINk1NUkhsZ2hkVA?oc=5",
+      "published": "Wed, 16 Sep 2026 21:37:22 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Trump should meet Kim Jong Un and make a deal to end the Korean War - The Hill",
+      "summary": "Trump should meet Kim Jong Un and make a deal to end the Korean War The Hill",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEwyTkhYMGJCcFBZaXYwalRGSGliSDBiWHNqQTRmZW0tdEpRUUdCcUJudjFzNnlEckY3cmN4SGNIanpGTkZzVnl3ZVFkU19NUnlDZnp2dmE4eVhWcHJqZUZvZkZjWHpPS1lWV29pc01DT1lJbV8tS3hVd2hFa3VjalYzX2fSAYoBQVVfeXFMT1Rjb2Z2RTJ0U3lzV3ZQZldGc0ZLNWRURllLS0c3WDhmQ09CNjBXMFM2Nl9rekpFTFJBYWxMN3IzRFhLLXprQ3FqcjgyZmdmLWlTRGIzM1d5b09rYkVEUldxU2VpeW9TOUJISmNTYjMxYzY5dWwydnZ1akFnb0ZFV25NN3ZVUXRocUln?oc=5",
+      "published": "Wed, 16 Sep 2026 12:30:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "The Next Trump-Kim Summit Could Be About North Korea’s Future Ruler - Foreign Policy",
+      "summary": "The Next Trump-Kim Summit Could Be About North Korea’s Future Ruler Foreign Policy",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVi1oeTVDZ1VnY0ZmUTc1aXMzRndkTF9jUkpYOGJzNGNUUWVNSWVLQ3F3V1VmZjdFYlVRbnQzZWhUZ1luUW1IcXV4NEkyM1RsTmZmRWE0UHVxRjBkNDhGUTNFY0oxU3YxYUVWelBIbG1NYThSY2dUbTNDTExrSXNoNTFjLWhzSU13dEJlR3dWRUhBbVVSdjJEaUdNUkVZUQ?oc=5",
+      "published": "Wed, 16 Sep 2026 13:51:40 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Richard Lloyd Parry · Keeping up with the Kims: Keeping up with the Kims - London Review of Books",
+      "summary": "Richard Lloyd Parry · Keeping up with the Kims: Keeping up with the Kims London Review of Books",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVHpycjZUSkM2SjhDUktwazVBVGJuZmNteC1aOHVjT0ttamVfUzBjQjVxcG84cFpCRlZhcXJXaU5DVHdqLXVUSkVJczVRMDhfWTNPTHptSXhnM2p1dWEyUTlhN253TWhzbnFTR2p1dzRHYXo1aHUwYmtKVDNDcENtWVpDN0RTT3JDWVBReQ?oc=5",
+      "published": "Wed, 16 Sep 2026 12:09:50 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Trump’s North Korea outreach is about U.S. politics - The Japan Times",
+      "summary": "Trump’s North Korea outreach is about U.S. politics The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcG9PWG5Qb09TMFV0VkNPNkROUGQtRS1JVkZDaWtBM1BCM0tiSE9YOU1uLWVnV2p3cUlEcVd5WGJoVFRsME15cm1UVmJKTjJvVm9PZ0UyYWxiUExkemJHNmdEYnprU3dfS1E5cy1GbTVNZUtVVlU1RUNmcmZhQmZzNU1WUVFlS3JjQXJTWA?oc=5",
+      "published": "Wed, 16 Sep 2026 06:29:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "N. Korea’s overseas workers generate up to $800m a year: report - The Korea Herald",
+      "summary": "N. Korea’s overseas workers generate up to $800m a year: report The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiSnJkdEl6VkFwa25YQlhvZ3NrWFNlV1dUaTluNEl5SWlNNmR4R1Q4RTQ0bmVOZlRxcG0tZTZaU3U0TmlUVDlweUFCenFzUXh4S3l6Zm1NNA?oc=5",
+      "published": "Wed, 16 Sep 2026 14:36:24 GMT"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea’s attack drill, Wonsan Kalma slowdown and Google’s blurry maps",
+      "summary": "This week, NK News Senior Analytical Correspondent Colin Zwirko joins the podcast to break down North Korea’s latest missile drill, which combined ballistic missiles, 600mm multiple rocket launchers, cruise missiles and attack drones in a coordinated strike on a single target. Colin explains what the exercise reveals about Pyongyang’s growing ability to integrate different weapons […]",
+      "link": "https://www.nknews.org/2026/09/north-koreas-attack-drill-wonsan-kalma-slowdown-and-googles-blurry-maps/",
+      "published": "Wed, 16 Sep 2026 07:07:47 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea sends military delegation to China’s major security conference",
+      "summary": "North Korea has dispatched a defense ministry delegation to Beijing for China’s flagship annual security conference for the first time in seven years, in the latest sign of warming military ties between the two neighbors. The delegation, led by Vice Defense Minister Kim Kang Il, left Pyongyang on Tuesday to attend the 13th Beijing Xiangshan […]",
+      "link": "https://www.nknews.org/2026/09/north-korea-sends-military-delegation-to-chinas-major-security-conference/",
+      "published": "Wed, 16 Sep 2026 06:24:28 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea bars Western, Chinese visitors from Pyongyang trade fair: sources",
+      "summary": "North Korea has barred Western and Chinese visitors from attending an upcoming trade fair in Pyongyang over epidemiological concerns, reversing a recent, limited reopening to foreign participants, sources familiar with the matter told NK News. The 18th Pyongyang International Autumn Trade Fair scheduled late October will not admit visitors from China or Western countries this […]",
+      "link": "https://www.nknews.org/2026/09/north-korea-bars-western-chinese-visitors-from-pyongyang-trade-fair-sources/",
+      "published": "Wed, 16 Sep 2026 05:46:17 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea ordered to pay $32 million for destroying inter-Korean office",
+      "summary": "A Seoul court on Wednesday ordered North Korea to pay the South Korean government roughly $32.6 million (44.6 billion won) in damages for destroying the Inter-Korean Liaison Office in Kaesong near the border in 2020, the first such case in which the South has directly sued the DPRK. Under the Seoul Central District Court’s ruling, […]",
+      "link": "https://www.nknews.org/2026/09/north-korea-ordered-to-pay-32-million-for-destroying-inter-korean-office/",
+      "published": "Wed, 16 Sep 2026 04:02:32 +0000"
+    }
+  ]
+}
