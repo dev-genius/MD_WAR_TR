@@ -1,0 +1,408 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T08:38:31.336310+09:00",
+  "history_candidates": [
+    {
+      "year": 455,
+      "text": "Emperor Avitus enters Italy with a Gallic army and consolidates his power.",
+      "link": "https://en.wikipedia.org/wiki/Avitus"
+    },
+    {
+      "year": 1170,
+      "text": "Anglo-Norman invasion of Ireland: The Kingdom of Dublin falls to Anglo-Norman invaders.",
+      "link": "https://en.wikipedia.org/wiki/Anglo-Norman_invasion_of_Ireland"
+    },
+    {
+      "year": 1217,
+      "text": "Livonian Crusade: The Estonian leader Lembitu and Livonian leader Caupo of Turaida are killed in the Battle of St. Matthew's Day.",
+      "link": "https://en.wikipedia.org/wiki/Livonian_Crusade"
+    },
+    {
+      "year": 1435,
+      "text": "The Treaty of Arras is promulgated, causing Burgundy to switch sides in the Hundred Years' War.",
+      "link": "https://en.wikipedia.org/wiki/Congress_of_Arras"
+    },
+    {
+      "year": 1745,
+      "text": "A British government army led by Sir John Cope is defeated in less than 15 minutes by the Jacobite forces of Prince Charles Edward Stuart.",
+      "link": "https://en.wikipedia.org/wiki/John_Cope_(British_Army_officer)"
+    },
+    {
+      "year": 1780,
+      "text": "American Revolutionary War: Benedict Arnold gives the British the plans to West Point.",
+      "link": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+    },
+    {
+      "year": 1809,
+      "text": "British Secretary of War Lord Castlereagh and Foreign Secretary George Canning meet in a duel on Putney Heath, with Castlereagh wounding Canning in the thigh.",
+      "link": "https://en.wikipedia.org/wiki/Secretary_of_State_for_War_and_the_Colonies"
+    },
+    {
+      "year": 1814,
+      "text": "War of 1812: British forces abandon their unsuccessful siege of Fort Erie.",
+      "link": "https://en.wikipedia.org/wiki/War_of_1812"
+    },
+    {
+      "year": 1860,
+      "text": "Second Opium War: An Anglo-French force defeats Chinese troops at the Battle of Palikao.",
+      "link": "https://en.wikipedia.org/wiki/Second_Opium_War"
+    },
+    {
+      "year": 1862,
+      "text": "Taiping Rebellion: The Ever Victorious Army defeats Taiping forces at the Battle of Cixi.",
+      "link": "https://en.wikipedia.org/wiki/Taiping_Rebellion"
+    }
+  ],
+  "korean_war_hits": [],
+  "korean_war_date": {
+    "month": 9,
+    "day": 21
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian Offensive Campaign Assessment, September 19, 2026 - Institute for the Study of War",
+      "summary": "Russian Offensive Campaign Assessment, September 19, 2026 Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb1JPWkVvbkZnd3N1ZkJUa1B6LXlobUtmeElvRG9Qc0VGeURkc25OVElGdHZ1N3pUZGROcmJjMVZBcTBQbTFvenAtemlGNGo1eVcyd2xCbVM4R2hueHJBeWRqeVRSWWtXYXZicmxJeUQyWDJSNElrX1M0N1lBS2hXTGRSTW80d29PQzBjSENfZVZ1S21FTlFMcFlLTWtNbnpHNUo1S0RPWVNwNlVudGc?oc=5",
+      "published": "Sun, 20 Sep 2026 02:43:01 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "At least three killed in Ukrainian drone attack on Moscow, says Russia - Al Jazeera",
+      "summary": "At least three killed in Ukrainian drone attack on Moscow, says Russia Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdU85dHpnVFBSTjlYeHpjd1JHVGY1R2c3eHYyOWtrV20zUWJLcllqNURrblo0alZzR1BPNzA2eXp5NG14bFB0N2ZqNEgzam9MVGdkcVpMVDVucmVoNC1UMDhHRWFtaEw1QzM0OW53Wm93eGs0Y1BBdUFZa3NzNjJoWGNyWGRiaG5KZGpCTnZTQkZOajRFYTdESmpBeldqQ2pyVFHSAacBQVVfeXFMTzJTTWZxOVpzWWFRS3hjSXh6bFVBc1R1cmpXQ3MybkJHNjhPWk1FSG5iRmxsUi1uTDNfNVJDaFFaQmh5b2VQR1Y2SFFQYUtlcjYtS251T3lQMnp2YW9iQTBhM3I2RF9CUy1IUHhFQTFwbFFUclNSeEoyMlFfclJDSnlqOGRZekdDMmFVaDA1VlpjRDhMZGhjTFA1anpSNGRGVm9QT1JiOWc?oc=5",
+      "published": "Sun, 20 Sep 2026 15:55:48 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine launches heavy Moscow drone attack as Russia votes - CNBC",
+      "summary": "Ukraine launches heavy Moscow drone attack as Russia votes CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNblpTUndRWEpUcUtqVjM2Y0ZpNWxiTmV3aHFLWEdhRmN6eFdYX01udDhzSEdjYThFa3o5THFmV2xQMzRnNzV6NGpYOTVaN0otQm8xMDBKUnctUzlGdTZLck1GZFE0Q29DSE1MNC1tRU04Uml0dUNRUTAzX25lVS0tcWJSVUd2R3Z0MnUtMmlCZ1lXeGFrSFl2NzFDNNIBoAFBVV95cUxNZkZNamhlODZUTDZMUXNmNWRPQzFjZ0xtbTZzaTlKRGlOdWcybzJyN1psYXhDaUNpeG5nb0R1NzBTYTBlbnFMNUdvd253dnVLMUR0R2FCLWYzQVFaWER5LVM0cDZjMm5jeWhDaWhuR1FZSnlMcVhkTUV6R0MzMWRkZm1vU08wSlhGLVpaRW1pT2NmUUtVa1FOMnFDZThjczFf?oc=5",
+      "published": "Sun, 20 Sep 2026 11:07:57 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Hundreds of Drones Target Moscow on Final Day of Russian Elections - The New York Times",
+      "summary": "Hundreds of Drones Target Moscow on Final Day of Russian Elections The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jV2JMSDJISDhpMVZxNUlOd0tDbGRqRC1Vdk9HT2FfQ3U1cjdyMWIxUmxOOEtxNlhMWE5SaGhLQXdQazNWUXVXcFJKTDFpOGUxWVdsYjM1bXZBQ2NOYW1kV1hOZi1rXzhEY29GWHRkaU1uYTNBeUpuNzBGODU4Mjg?oc=5",
+      "published": "Sun, 20 Sep 2026 20:39:22 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia's ruling party on track to win election after Ukraine's drone attacks on Moscow - France 24",
+      "summary": "Russia's ruling party on track to win election after Ukraine's drone attacks on Moscow France 24",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTUstT3VNbmRwR2VTVDZZNG9kNjVSV2VMQkVLOWpQY0NybkhBdDIwSnYxeEZNY1pYOWNfYTIwZzMyZ28xM0xZU0Z4Q3hIVmltUGhnS2N0UWJpS2dsMy1sZmt2VDhJdXNYZmNLOEFyZUlSZXRtaXNoUmlaTFFhbm1lcldjVUMzbWFaOC1UZWh3YWc3cWEzc19KRjEyTjcyYVZLQm9Tc3hJN0RLc1l4VVk0SzdHdlJxeFhzcFRtSy1DamZ3MU9IQUxTSkRB?oc=5",
+      "published": "Sun, 20 Sep 2026 20:14:33 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Three dead in Moscow as Ukraine launches massive drone attack while Russia votes - NBC News",
+      "summary": "Three dead in Moscow as Ukraine launches massive drone attack while Russia votes NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdEFXU2pQVTB4SGx3MkFMb3hRMTV3dFZYMzd4SDBLSURMcUdNTGh1TGl4aVkyZmZiQ1k4YmFJYjdiVGRJQ0oyMFoycEtmTGhGRzhCMDVoUWYtWXdDSkEyWm42TjVQLXBLRVlXQjVfQjFkeHBTc1l0enJFY2VzSWM4cXJMeUFCU0RRbVU2b190ajlfT0kyQ0FDUnV0S0djSTFBaEtUZ001MVdJeEVQRlRv?oc=5",
+      "published": "Sun, 20 Sep 2026 14:31:41 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "The new lines of southern Lebanon : The Picture Show - NPR",
+      "summary": "The new lines of southern Lebanon : The Picture Show NPR",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObUM5TUxSSlJRWkhmWDQ1R2lDczU2Y2s4NERwRldQZDVwMXFjOXcxNGMtT2p2OVZyWnJEY25XVzFBdzZDeUFuN1N0TDViXzhMeVo5VUNvTjcxS1JBY3R5MEFTVGdoWVJsMjF5RlhXTzBPdE1ua3FERHdWc19JQXh4NVFjQUFBb3VRWGh0VEdNS0dnRHRhalozb0dwc0xYa0Iwano1cQ?oc=5",
+      "published": "Sat, 19 Sep 2026 19:00:24 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Fatal building collapse highlights dangers plaguing Gaza nearly a year after ceasefire - latimes.com",
+      "summary": "Fatal building collapse highlights dangers plaguing Gaza nearly a year after ceasefire latimes.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMF9OYno3UHpNMkc4aVlNQ0cxd1RxOEd1bHZ5S2xrRkNjNEpKZDc3N1JUbmE1WmQ4cXVRU3AxQTRnbUg5NkxuSGRNUk52X1pNeTJwVG1RYTNvbktWRVU3RmRQQzVVbkZvQWsxMFd0dHJRbFFXY0V0QnNmUk9ZX25OaEE1X2JoS0lWWm5jOUpoQl9EanJSd19Xd1pqUGtfWkxnOFQyQWxyLXI0RFJfRkdZdk8xQXZYOWVuN3hxckgwZw?oc=5",
+      "published": "Sun, 20 Sep 2026 10:00:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli attacks kill four Palestinians including son of Gaza’s health chief - Al Jazeera",
+      "summary": "Israeli attacks kill four Palestinians including son of Gaza’s health chief Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOS0ZKb0U3c3RFV2FhaGQtQndQemtZZXBDX0pQZEw3aE9PUW5NMEEtNHpKanF4TTlWS3h3bm9iM3JSZU91alN4OXhSWVRaR0lvMzNyWHdQN1FSa0J6TmU4V2JYcUxRTE5vU3JpQzF5SzVKcU9RanFpeGtWcmk2eVUyWDJaNkQzT2p2aEo5ZnM1V3A2OVdNcVdWR1gyUHhzZ9IBowFBVV95cUxQS1k2S2xYOGFkbFM4UmtTdW5oN3ZQb3owdHowM1Q5bFZGd3lvdTYzNVVXc3RYbGI1dDZpVHBfSzBRNXJia3ZSbmh4OWxpSHBwUktvd0Jpal90WFVWR0dWSTYxU1dQTG45SUEyQUhVYUV4QWc5NmZMX0ZyRmZDX0VGQmhyYkZsVmU5dkoyZzhmakducmRCRnRueWtOakhzOVNwdkE0?oc=5",
+      "published": "Sun, 20 Sep 2026 00:08:38 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli strikes kill three people in Gaza, medics say - Reuters",
+      "summary": "Israeli strikes kill three people in Gaza, medics say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemgwbjZHUGxzMHdPUWJTOFhfS1lfVXFyUEdEcDM4WXM1Z1VSb3ZIdHI4cmpveHUxM1ZFb2RsVnVMcXlaS3BNNmdzMnRGNXNaT1VZMkcyY19vUnBHT2pGSkhyVDRqQmpvS0Z4dndGN2VSVEtySkN4MmM2SUJOZFc0T1h5ZXhaQ2sxdUVheGxrd0oySE9HcjVOMTFwZE1lVEVvQm1ud2xB?oc=5",
+      "published": "Sat, 19 Sep 2026 14:44:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli fire kills 4 more Palestinians in latest Gaza ceasefire violations - Anadolu Ajansı",
+      "summary": "Israeli fire kills 4 more Palestinians in latest Gaza ceasefire violations Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWm4yamw1Sm9rcm1qWC0xWXRtdVdkWWJTOWVUcjBOM1F1dUhLSmRtRFlZS3dMNzB1WDBEQy1KNWlSaGxsQ0Y3bG15T1RtT09ELUVYUUZZNjNra2ZaUVZlN1FwV2VqWVFWQkYybUpnekJkbFNvT2kxaUI5eDdHcFJmZ3ViNGNMQzlKU0NtWENIUlNnUUtURndPb3I3bnRMUlcybUFIa2NZOFlCOHlKNVZ4V0V6TWlhNG9wWlJ3?oc=5",
+      "published": "Sat, 19 Sep 2026 15:07:56 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli strikes kill three people in Gaza, local medics say - The Jerusalem Post",
+      "summary": "Israeli strikes kill three people in Gaza, local medics say The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE44NnlBVm5TTWFSMl83Z0dTbFBIa2pXOUI1TkdqdjZzR2hsb1BlRHRubVRBN0l3Q05pWTUtemJ4YlVVbnRsNVczUmpxeTNHUmRjalJMNGVLNEx2c1I1?oc=5",
+      "published": "Sun, 20 Sep 2026 04:32:42 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Former Sudan’s PM, UN deputy chief discuss plans to halt conflict - Sudan Tribune",
+      "summary": "Former Sudan’s PM, UN deputy chief discuss plans to halt conflict Sudan Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XRUs1ZUpuM0s4X3h2c1ZOSzRyU0JvSTgtWlRtbkliM09VUXMzSWNKX3dnbnNDdmdKczQyMUhWbTRDTnE0RWRydGg2ODk5YkVG?oc=5",
+      "published": "Sun, 20 Sep 2026 20:55:19 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "‘Modern day slavery:’ Myanmar’s military swells ranks through corruption and deceit - Radio Free Asia",
+      "summary": "‘Modern day slavery:’ Myanmar’s military swells ranks through corruption and deceit Radio Free Asia",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWlEwTnFJVXlRVzVfNnVNY25NbnROdlVJVk93Z29EUUN1ZFNyYXI3elk1WHRnVk1YTVZEYzYzMDI4aEhCWXFEM3h4YnZza3ZEQlRVZTRIaEsxcmdSUzVUbmZDN1dEcGdpalg5YTVPSkdreVRZTlBVNjFLNGpGck1IcmdaVk5XRVZUaGRHd01TXzBEajNuNXc?oc=5",
+      "published": "Sun, 20 Sep 2026 04:21:14 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Another Baptist pastor shot dead in Myanmar; US gov’t urged to take action - Christian Post",
+      "summary": "Another Baptist pastor shot dead in Myanmar; US gov’t urged to take action Christian Post",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWXpIN0FfRE4yelJqUTZBb0ItZ1BpbTF0di1UR3hKUTFZemY4M1BBMEFjNGNqd0M0NVlVa2dQSDJkYVNvRkFDd0hYUi0wSF8weWhyQjFuNW5vUUd4MFhydUpEbFVKT3pmQldNQ3Q1SWlBUkJzX25kRFZiUkRvNkhqbS0tSGlycElOYllwTFUwYzQ3eDBLNjdpMjNlYUU?oc=5",
+      "published": "Sun, 20 Sep 2026 04:10:51 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Young Civilian Wounded in Myanmar Junta Airstrike on Thandwe Village - Narinjara News",
+      "summary": "Young Civilian Wounded in Myanmar Junta Airstrike on Thandwe Village Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5veHRYbEFKT0hOQnJENGpaWDhrWG1Pd2tVTmlLRXhpbEh3QkJfRmJuQkM1ZTNVeF9oUEdQTTYtSHgzWXRkR2ZOMEhOWUx2MTl3VV8wUWtneU9LcmZWNHlXS1dMUUJvT0lwTjhITVl1OA?oc=5",
+      "published": "Sat, 19 Sep 2026 19:42:02 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "TRAPPED IN THE MACHINE: The Youth of Myanmar’s War Against Conscription - Shan Herald Agency for News",
+      "summary": "TRAPPED IN THE MACHINE: The Youth of Myanmar’s War Against Conscription Shan Herald Agency for News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80LVNJaG9BT3lncFpFU2NDNkNoSExYZDVKTGY3RGZIeUZGWDdDcWUyMVJ4OHhMMloyai1tQkp6cmMxZ1R1ZVVBc3JWWG9BNUFUdE9QMDdB?oc=5",
+      "published": "Sun, 20 Sep 2026 05:37:14 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Colonel Naw Bu Confirms Destruction of Nearly 20 Myanmar Military Vessels - Narinjara News",
+      "summary": "Colonel Naw Bu Confirms Destruction of Nearly 20 Myanmar Military Vessels Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDU1ZZQm5XZ1lrQUc3ZEpuV0JwU01qSEJYVjlzMEdMUXh0d2RBUlRZanFSVm1vaU9tSFc5eEQ0Q3pVWl9sVHZ5bVFfdlQxaDBYczBEWkp6ZFdFcktCeGZuRlY4U2VzSjJGeTRGWVBLTQ?oc=5",
+      "published": "Sat, 19 Sep 2026 17:05:36 GMT"
+    },
+    {
+      "source": "국내 보도 (한국어)",
+      "title": "트럼프 이어 이재명 연설…전쟁·중동 갈등 휩싸인 유엔총회 - 핀포인트뉴스",
+      "summary": "트럼프 이어 이재명 연설…전쟁·중동 갈등 휩싸인 유엔총회 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HSWJqaUZaVEFEbFZXYXB6SGhjeDU1TzMyZ2wyMXZOYllLQ005blo5MzBaLUlpcUhRTjJBcW90eFZieHd5TlhBRG1jUkYyREJDa0pkYU14dU5OWlh6cmxteE55OEVTN2ZkYXpHd0hwWUJET1FibXg40gF3QVVfeXFMT0dJYmppRlpUQURsVldhcHpIaGN4NTVPMzJnbDIxdk5iWUtDTTluWjkzMFotSWlxSFFOMkFxb3R4VmJ4d3lOWEFEbWNSRjJEQkNrSmRhTXh1Tk5aWHpybG14Tnk4RVM3ZmRhekd3SHBZQkRPUWJteDg?oc=5",
+      "published": "Sun, 20 Sep 2026 22:10:28 GMT"
+    },
+    {
+      "source": "국내 보도 (한국어)",
+      "title": "미·이란·우크라 등 각국 정상 집결…뉴욕 유엔총회 22일 개막 - 연합뉴스",
+      "summary": "미·이란·우크라 등 각국 정상 집결…뉴욕 유엔총회 22일 개막 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43Yl9jcm44V2prUmtrNzZWd2xKbGt1QWFRSkZnR0tVRGN3NHMxQmZCRzlYVzZ5YV9DUnAzYUxEb0RBcHFCbzM4VndpTWV6SjNLa1RXX3J0enZvQ3PSAWBBVV95cUxQNHF6M1J6NE5mUDlGU0pwZGYzUXgtekwyWHllSThRbzdwSWs3bFFrMVlhbVJ1QW93TURTYWs3YlM4NVhRelYzbEhSeHhvNzQ3T2o0aG5ydVdSMlMwcEJEUjc?oc=5",
+      "published": "Sun, 20 Sep 2026 21:17:32 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Polls close in Russian wartime election with ruling party set to dominate",
+      "summary": "Russian President Vladimir Putin has cast the vote as a test of support for his ongoing war in Ukraine.",
+      "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+      "published": "Sun, 20 Sep 2026 22:54:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
+      "summary": "Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar's investment strategy.",
+      "link": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
+      "published": "Sun, 20 Sep 2026 20:13:18 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "France’s Macron and Canada’s Carney announce plans to build stronger ties",
+      "summary": "Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.",
+      "link": "https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss",
+      "published": "Sun, 20 Sep 2026 19:28:43 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Gaza artists honour Macklemore for supporting Palestine",
+      "summary": "Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
+      "published": "Sun, 20 Sep 2026 17:59:10 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump says monumental arch in Washington, DC will also be military complex",
+      "summary": "Plans for the arch had been met with opposition along with other projects by the US president to reshape capital city.",
+      "link": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
+      "published": "Sun, 20 Sep 2026 15:16:38 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
+      "summary": "Hundreds of Tunisians have protested in Tunis, demanding the release of four Global Sumud Flotilla activists.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
+      "published": "Sun, 20 Sep 2026 14:38:01 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
+      "summary": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+      "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 10:45:39 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
+      "summary": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+      "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 04:49:11 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says triumphal arch will be military complex with drones and snipers",
+      "summary": "Trump said the updated plans were at the request of the US military and for national security purposes.",
+      "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 20 Sep 2026 16:36:43 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+      "link": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 23:49:26 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "'I don't even know if my parents are alive' - the war heroes jailed 25 years ago",
+      "summary": "The children of key politicians jailed 25 years ago without a trace in Eritrea want answers.",
+      "link": "https://www.bbc.co.uk/news/articles/cx1l6762jeq4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 23:01:45 GMT"
+    },
+    {
+      "source": "Bellingcat (OSINT)",
+      "title": "Christy Kinahan’s UAE Residence Visa Cancelled",
+      "summary": "This article is the result of a collaboration with The Sunday Times. You can find their corresponding piece here. Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. Christy Kinahan, the Irish founder of the Kinahan Organised Crime Group who is being pursued by authorities around the world […] The post Christy Kinahan’s UAE Residence Visa Cancelled appeared first on bellingcat .",
+      "link": "https://www.bellingcat.com/news/2026/09/19/christy-kinahans-uae-residence-visa-cancelled/",
+      "published": "Sat, 19 Sep 2026 17:46:45 +0000"
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 19, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-19-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 18, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-18-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 17, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-17-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 16, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-16-2026/",
+      "published": ""
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "북한, 단거리 탄도미사일 발사 사실 보도 안 해…또 ’침묵’ - 연합뉴스TV",
+      "summary": "북한, 단거리 탄도미사일 발사 사실 보도 안 해…또 ’침묵’ 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hOERia3p2REdJM2Nza0FWczNUOHBFUFVMRnd3dDd2eWZraEcwWEJFLXdlejBQckVBQnRGeS1pMkNSRFZoUUpJbjludjJFQk1LdG5qRWhVT0E2VGJELXBOU1E2aHNXX2s?oc=5",
+      "published": "Sun, 20 Sep 2026 23:29:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "합참 \"北, 원산서 단거리 탄도미사일 동해상 발사…450km 비행\" - 머니투데이 - 머니투데이",
+      "summary": "합참 \"北, 원산서 단거리 탄도미사일 동해상 발사…450km 비행\" - 머니투데이 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93R2hpSU9odUVhRWVzUlZUWUJ5TFhpa3VQX1ZyNDAxcDFmYmJ4czN4UzJPNFdoTGx3M05ZaFI1cXFzX0Q2RE5UOXY3aDJXcEc5WGJRY1VUOWFaWTBuYmJqakc2NlJnbnpCYk1pUtIBckFVX3lxTE5ONHRJRnFoaHJKUVQ2UmJZZUxYcVZydnprdHh4T0Z0a3UyY0FXUzRiWHJqSzBwVVBKV3plVWhOVHFka1FIZmpGYmtzVUJtSWdtdTc2cWYxR0IwWTRuVmhCZlAtX0M5N212VzlwQWxaclR5dw?oc=5",
+      "published": "Sun, 20 Sep 2026 08:25:35 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북한, 또다시 동해상으로 탄도미사일 두 발 발사..올들어 14번째 - VOA 한국어 홈페이지",
+      "summary": "북한, 또다시 동해상으로 탄도미사일 두 발 발사..올들어 14번째 VOA 한국어 홈페이지",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE40Q0N6NWNlb3hMYjB3UFBFRFMtYlFPd3ZGNXV6MDlXWFNFRHhNWllKSE84RlFqRHBaWXhwem9NbUJWdmhnNnhnMkZ0aWFsdEhLbnV4Nm9VdDJlMmVEZ2YyRzBYRVRzVndCYlpjZkFZd0t6RVXSAXZBVV95cUxPaFEya3R3dTlnNVpJOVByU3J3ZHVTc3lycjZWVmhCZm9MR3hBajJsbGtlMHhqdE4tLUVJT3ZIRXNiWWJub191Mk02MDBjOUhhR1NCQXU1Q09wR0R2T1dyQU9yV2hqUTRQTFVtNnFRdDkta1VaQVNR?oc=5",
+      "published": "Sun, 20 Sep 2026 12:03:42 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북한, 미사일 쏘고도 침묵…탄도미사일 2발 발사 다음 날 무보도 - v.daum.net",
+      "summary": "북한, 미사일 쏘고도 침묵…탄도미사일 2발 발사 다음 날 무보도 v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Oalg5c3oxekZKNXpYLWc0dEhZZ0VsUXdFUjZuUV9nYjdyNFd2RDlISFl3SWtOUlZQYlpfWDZidWdiSVd0djZrRVJlQlVjVjQ?oc=5",
+      "published": "Sun, 20 Sep 2026 22:57:52 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "청와대, 북한 미사일 발사에 긴급안보상황점검회의 - YTN",
+      "summary": "청와대, 북한 미사일 발사에 긴급안보상황점검회의 YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEQTZHaDFTTVNGX01OdE1oZkcwM1pSdjhtVEZaLVJSYUh1dGFmVEphRnlMdnk3cFEzdjRUaUYtbHkzMl9IZU5nUExoOHY1dXVzX0lVT20tUFNlYzkyN2c?oc=5",
+      "published": "Sun, 20 Sep 2026 12:51:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북한, 3시간 간격으로 탄도미사일 발사‥\"600km 이상 비행\" - MBC 뉴스",
+      "summary": "북한, 3시간 간격으로 탄도미사일 발사‥\"600km 이상 비행\" MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Yejd6aFh0VnhxY0ZkdHc5RHh0Skt5VGFiYXVDazB2NFQydEk2Z1lPRzF3dlJocDROTy1ZS2RKSmpabFlfU1h3WGFkT2JtaUtQX1k0S016QjJTZWx5U1VmT04tVmFuSjgyME5JZnJHVVRldkJFN1JmYdIBeEFVX3lxTE42bFA3M1hNM2NRdFdNNFBhcHhxQ1hEOF9XOEJ3dndZaWRoaEhKVy1sVXVsckVhQUJvYXJ1LWVaR0JiZ1VQaGlqNmk2eVhKZHM1Y3prSThkckE2T2hMTk5haG05T0JKVVY4UkxwRm9jQ3pwRk1zYVlPYg?oc=5",
+      "published": "Sun, 20 Sep 2026 09:03:53 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea launches missiles as it dials up pressure against U.S. - CBS News",
+      "summary": "North Korea launches missiles as it dials up pressure against U.S. CBS News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EWmlFdUhEQmRGU3MyT3RVVVpNdF9JM0JrRFhsTWhVOUd6YnA1aFZJV3JqX2YzcDlWMWRrNUo0V1ZOcjVMODByMGU3YWNrblQtVzNtMmJycnprSF9GYThnT09jUGZRNFBWWEtyS2ptUDFxVk9CWS1B?oc=5",
+      "published": "Sun, 20 Sep 2026 13:00:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea fires two suspected ballistic missiles off east coast within three hours - Reuters",
+      "summary": "North Korea fires two suspected ballistic missiles off east coast within three hours Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDFuRjFrR3lVU05OakZFWFlOdWFSTGsyelUxZmZrMkZvamthRHNRVkx0ZG95NnRIdXlWUFVhX2pfaUo2M1haY1B5RXNzVjJTRDZ3bXN6MUpYWUxiZThYbE9FWHBUemMtbC1SMHRQeWdBdC00YmxUWEZkXzljNm9PTnBCNS14WGFUOUFQRVZEN25feWZLNkRmcFN4M0pyM3pBZDF2cktnVGF6OXM?oc=5",
+      "published": "Sun, 20 Sep 2026 06:18:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea fires two ballistic missiles into the sea in latest weapons display - France 24",
+      "summary": "North Korea fires two ballistic missiles into the sea in latest weapons display France 24",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUkZTd2JISXJHMG5ac1B6TVR1WTc2c1dTWFJnc2tzc0JTSVdqaFY2d0Fzdnc2V1dzRkxvYWY4amhsZEhOYmtyendGQkN1cERiUjVCeVdWT3Jfa0RDbndzV3cteEQ1RDlJeXFqMWR3TDVHdkhmWEc1ZzVzY2dxdEpjdXU0Y1A1c2hvV0pXUEt5cWFacVBLcHFBQWVOSmRfaUpiQWZhUG5hQnkycmNuc3hEdGg5czM3cjNpLThyMEhYYUg0SHBmck1obA?oc=5",
+      "published": "Sun, 20 Sep 2026 11:40:58 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "South Korea says North Korea has launched an additional projectile toward the sea - ABC News - Breaking News, Latest News and Videos",
+      "summary": "South Korea says North Korea has launched an additional projectile toward the sea ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOG1wTFk1YjVtTWZ2WjQycnpPQU1oc0d2VzE0d0NsQVI3OUl6b0ZGYmxqWnJ2cGJRSzFUaVR2dTNvRndlS0VOUF9oSDVQWk53b2d4RWVvdkZfeVdadGV2SGRNQ05vUUNSQV9uaWRJMi1QZWpKZ0JXTWhIYWM0czY1b0pHaXlIT3NhVXlRYWwweVZGQ3hYYy1xaHpJUnNBZGxfYkZZRmdiRFbSAa4BQVVfeXFMUGNWS2tjb2g5cTVOZncwdTlqTG5TY0gtUnR1dktJUVo0SmN5amRrZWRGRFR3SUllUXE4Ylphbko4WkpRblp6REd3VFJNYlg4QkpSQjRKRlN3cTdiSU5BS0dzRThHMDRlanBtb1F1TENsRWpGa2hFMGU2NGptY0JHQUw5MTViOXRaZlcwVWFWUkxVRG9kREZoR2FPcjlaOFFmeTZaQTRXRzJVVlBzdGhR?oc=5",
+      "published": "Sun, 20 Sep 2026 08:16:09 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea launches apparent ballistic missiles into Korean Peninsula sea, Japan says - The Jerusalem Post",
+      "summary": "North Korea launches apparent ballistic missiles into Korean Peninsula sea, Japan says The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5meFQ4aDUyTFdpVHYyalYyc1piMWl1YkczbW1oVnBMOVR5SS1RSk8tUV9JdUhINTVGNVYtNWlTcUp6dEsyODlzeGFsWnZmUGk4Z0pTNkowbUJmQ19PX3k4?oc=5",
+      "published": "Sun, 20 Sep 2026 09:13:31 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea fires off two ballistic missiles - The Japan Times",
+      "summary": "North Korea fires off two ballistic missiles The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWnZhUnVwOWRaWURkanJRM2JWM0NPbUZDTHItdkdkYUdza3NfVlBPUVlQSlhOT2hmVjlCeGFZQ1dXUS1QQjd2UTdGd1NxWmpld1U0YWpKRlNxMEMtMVVtT3NabEFDNjVuSWs3QmU5djdsclFMTjQ2Y2V4WVhBN2F3X3ZPamFLeUpyZjNDR0p3?oc=5",
+      "published": "Sun, 20 Sep 2026 12:33:45 GMT"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea launches suspected ballistic missiles toward East Sea: JCS",
+      "summary": "North Korea launched suspected ballistic missiles toward the East Sea (Sea of Japan) twice on Sunday, according to South Korean and Japanese authorities. South Korea’s Joint Chiefs of Staff (JCS) reported that it detected a ballistic missile launched from Wonsan on North Korea’s east coast around 3 p.m. KST. The missile flew approximately 280 miles […]",
+      "link": "https://www.nknews.org/2026/09/north-korea-launches-unidentified-projectile-toward-east-sea-jcs-2/",
+      "published": "Sun, 20 Sep 2026 06:25:03 +0000"
+    }
+  ]
+}
