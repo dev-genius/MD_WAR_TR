@@ -1,0 +1,423 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T09:03:13.574764+09:00",
+  "history_candidates": [
+    {
+      "year": 1568,
+      "text": "Spanish naval forces defeat an English fleet, under the command of John Hawkins, at the Battle of San Juan de Ulúa near Veracruz.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_San_Juan_de_Ul%C3%BAa_(1568)"
+    },
+    {
+      "year": 1645,
+      "text": "The Battle of Rowton Heath in England occurs, ending in a Parliamentarian victory over a Royalist army commanded in person by King Charles I.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Rowton_Heath"
+    },
+    {
+      "year": 1846,
+      "text": "Mexican–American War: General Zachary Taylor captures Monterrey.",
+      "link": "https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War"
+    },
+    {
+      "year": 1877,
+      "text": "The Battle of Shiroyama is a decisive victory of the Imperial Japanese Army over the Satsuma Rebellion.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Shiroyama"
+    },
+    {
+      "year": 1960,
+      "text": "USS Enterprise, the world's first nuclear-powered aircraft carrier, is launched.",
+      "link": "https://en.wikipedia.org/wiki/USS_Enterprise_(CVN-65)"
+    },
+    {
+      "year": 1996,
+      "text": "Representatives of 71 nations sign the Comprehensive Nuclear-Test-Ban Treaty at the United Nations.",
+      "link": "https://en.wikipedia.org/wiki/Comprehensive_Nuclear-Test-Ban_Treaty"
+    }
+  ],
+  "korean_war_hits": [],
+  "korean_war_date": {
+    "month": 9,
+    "day": 24
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian Offensive Campaign Assessment, September 22, 2026 - Institute for the Study of War",
+      "summary": "Russian Offensive Campaign Assessment, September 22, 2026 Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVGZSOVAyYWI2YlQ0V3BKLWdNSmg0bGlWR1lnekdRdzh3N0ZxT0Y0OEJTM2ZyLWd4RWktd2FRRjZWOThoalJ4TDV2QUtyeXduSWpVOHktM1p2MEdOcGx2bkhKMjd3eFExdUpidC1LWWFXYmtPc3k2ZVZfd0JDNjc1N3pRT3JUdkZ6WlhBR3dueU5LSHhndXl4M1dGU3FFUzRmVjVKM2F1MTBhSGQ2Wmc?oc=5",
+      "published": "Wed, 23 Sep 2026 02:56:55 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Trump pushes Russia-Ukraine ‘energy truce’: Can it work? - aljazeera.com",
+      "summary": "Trump pushes Russia-Ukraine ‘energy truce’: Can it work? aljazeera.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEQ1TzBYWEliSHc2ZGx0V1puSU5heGtla29INndSei10UWs2Um00NHozdGJ5cjQyMEJSSWhUcGI3bk1Rd2RIR2RoQjhwbXFUeGotd1FpbEVickNjZE5BZndBVW5GM3FGUXprTzhCN2daemhXdEJoVGZod1A5OEItc2pva0FlWkRqUzEwc2pCczFNT0ZPRjgyTdIBngFBVV95cUxNMGtLeHNCTDM4V295ME9aUUprUV9xdXBoWWo5U3NjdEp5em0wRGttZGhJSmhmTEZEQi0xelVtUjlJNGtaQklHNGhUcmpHbFdpU3M4LXRJR0d4aERSWTR3YjhpNHo0MlNqdGM4eHlDTUJMaDE4TjUyRHZsN0N5TzItTHBIWHZvVk12dGRlNWxKaklvd3NNcG50eGF4R3NWdw?oc=5",
+      "published": "Wed, 23 Sep 2026 14:57:56 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech - CNBC",
+      "summary": "AI drone maker hits $6.4 billion valuation as Ukraine war spurs defense tech CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTXpEYjd0OUZLUmJLOVVrMVBYRUd1T0s5YXVETHRSUnd0MVI0LVZBalhSaFRfWkRFZUhTTlh1cGgtRjRjNFU2enBXT0RFc0htQmtYaDR2N1c0NGpjOElwSFU4ekkyeTFuQXcyQ0FpdEhXTmJRNXNlbzNKVFFIQjM4RHFn?oc=5",
+      "published": "Wed, 23 Sep 2026 09:47:31 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Senior NATO commander warns Putin is becoming more cavalier and open to risk as Ukraine war drags on - PBS",
+      "summary": "Senior NATO commander warns Putin is becoming more cavalier and open to risk as Ukraine war drags on PBS",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2IyYkpwQ1ltOFRIY1hVMi1CTDlQMVdCYnFGQTM2cTdTZXBMTlFXR3BwU2lvaXVXaXFNWFBoVkZBS2kwbWhzVHpVd0tmeHRoalUzdWpnV1lwQ0ktTUFQYXFDZ3VQT21YLURCUnBBNEFXVzZudnhBTDFrb1k1Nk5WU2gyNTdsT3hyX2JfNTdvQ29Zc2JTU1pBd2ZWM2xlSlVPdU8wQWtLQjhEd1VFSWRtVDRDUG5TaDZFWTg3UW5McDRFY0pmU0RnRUNkZ0ttVnhv0gHWAUFVX3lxTE94QkxXQ1hkTXoyMmJNUmlBX1AtZnB3TlJFRURXUlYzMGtMbUQ3bzgyeGpsS1ZtM3NvdVNjUUVESFd2SzQzZ3ZyVDFORFcwRE9KUGgxX0lnajNyRWNmal9waDJwTGdDYmMyTWNDenM1cFFfbkk3RjExaDB3M3hWdjlFeWFjRnBURjBVVmlqc05oUEdPZnNEbjBPNi1ESDdUV0k5bmI1TngzV1AtTU1NekctNnBUbDVmZl9jNENCa0tZU01QalVZUlRyLTBHaXg1eGFrdThyVXc?oc=5",
+      "published": "Wed, 23 Sep 2026 17:03:12 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia-Ukraine war is accelerating the dangerous race toward fully autonomous drones - The Conversation",
+      "summary": "Russia-Ukraine war is accelerating the dangerous race toward fully autonomous drones The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSTBwUm5RbWpRUGNwUDJiZU1IZEVGWm5TV2JNeXJTblVnNXZ0cENfSzQwYnNOZTZuUGNVak9PZjhQd3h3WWsyeWJlY1hZbTdwdUlKNE5XTmVjbzA2S1p2QTB3NmFzdTBicWpKVG5YRnJwZV81cHpOM1NuV3JqOVluVDNBYW5UY2JlSTJPcjItWmJoRnlkYmdzV01wM1p0OXJmcDNGTjQxb1djU3hTT2RXaC1oMERJMjl0TnRr?oc=5",
+      "published": "Tue, 22 Sep 2026 18:29:41 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia pounds Kyiv with drone strikes after Zelenskiy-Trump talks - Reuters",
+      "summary": "Russia pounds Kyiv with drone strikes after Zelenskiy-Trump talks Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOTZWQVc0Z0NRMVp5VkdLOXk4RWM3TjBZZzNiaXk2djBNUl9wZm0yWHhJaC1iaTNxSDU4SUtxUk9tZ1ZEbjRGRklUcVRJMVFUcFFBT000NWlZUGZnNU1mU01KUnI0VE9tUjd0TExPR3JUdWFEaGNkSURjbHduMHVYdVNlT0kyYVRxQ0lTVW1Id1J1d0dFeWc?oc=5",
+      "published": "Wed, 23 Sep 2026 17:39:59 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Four killed in Gaza in strikes, Israel says it killed a Hamas finance chief - Reuters",
+      "summary": "Four killed in Gaza in strikes, Israel says it killed a Hamas finance chief Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb0g4R195Ync3Q29PRndqVFVqTWh2SzlrQWQ5VzdoWm94UmduS0VlOC01VzRzTktNU2FoYU5yVkctbXJxMENSOFE0WjUyZ1pqTWRTc1JwNnlXbUFLQmhOV05hSm11VWZzSHl0NmVkSl9xNEtDamxKU215ZVBtaGFBTUxMb2h4bzJnU1gtbEJoeEgtSUpSdHFGWWxlMVBMZVBL?oc=5",
+      "published": "Wed, 23 Sep 2026 12:15:59 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Board of Peace plans $2.4bn Gaza reconstruction as Israel kills seven - aljazeera.com",
+      "summary": "Board of Peace plans $2.4bn Gaza reconstruction as Israel kills seven aljazeera.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX3lTclUtLWRsNVlIckxMMzlzT3VnTml6NkhCa1lDTDhQZmVGZ0xzNDZDZHc2UGtlV1VJaGdkTHRfYWtBam51VTllR1RTNDdUWE9JUE50bGN0OXBPT2l6WEpyb19iMFJjekU3S1UzUUViWnRrNG9IbzRGYUozcHZCN0d4d0ZaaHBKRE5pVjFHZ28yU2c4OGEwNEdxTzRoWFlkUFpRaWVWMjc0LVJ1elHSAbMBQVVfeXFMTzFVNV9maHJ0bFF1eW5Xd3N1c3NpZDNNWGZRbkFGQTFySTZRMXlDb1BUaXd6Mmlram1fZE5LaEg3U21Rc3JnV2NldlgxTDdGazcwb3RuOGtTUkVhbjlZdzJ4QWZzRlEyRUNVUmwwa0VRQUpJdVdJSzRkWUhxNVlWWlItVmVrblpsbUktdkZvNlBBTlZDUnE5WXNVSjBxZEZSUmZMNzI3bTlMRkRFYndpZE43STQ?oc=5",
+      "published": "Wed, 23 Sep 2026 17:57:56 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Trump's Board of Peace proposes $2.45 billion blueprint to begin Gaza reconstruction - PBS",
+      "summary": "Trump's Board of Peace proposes $2.45 billion blueprint to begin Gaza reconstruction PBS",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGd5cjZHcTNyUkM0cXc0ZUZVRVp6VjRqRmpxX3BPYmFkZFBZMFo4cWE0N0EtQk9mR2tMZHVHZVlGSGVVa3FkUUdkVlNWWWlVOGJRMHdHQVQzUUpqSVQ2XzdUY0M3dV93ZlRSYjF6Wkl3Tk94bENyTHV6djdmbzRMQ1pDdEE1Tm1tdnNSd3NrNGJ6aThDY0xDNXoxZWJhWWh4NUFSMmZ3T3J5NmVDZmdkUkF4eDhTb3Ny0gG-AUFVX3lxTE5PemtGVHZvV0Raa0VUbUtYb3p5REcwYVR6TWVWOFVHZTA4OFg1ME0yV1ByQjYyd2JWQV8wR0tJNkdHWEJpa3FPb2Znc3JxaXFJTmZ1MzAxbTZmRVBseHg1V3NQU2U5Y2hrSkdmNTR5cEtLWWl0M1VUTVN1Z1VJREVtbGFvU1gyR2dZdHg5Sk4zUTU5eEcwU3JzS2ZLMHZFeFVXU0pHX282SC1veGNELVVETTJyeEtEaTl5V2JtNHc?oc=5",
+      "published": "Wed, 23 Sep 2026 15:03:08 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "It's been nearly a year since a ceasefire was reached. What is life like for Palestinians in Gaza? - WBUR",
+      "summary": "It's been nearly a year since a ceasefire was reached. What is life like for Palestinians in Gaza? WBUR",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JRkY4TmVIX2cyZmMzTWQ3eEZsV095V3Z2RnRYb2xMVlRxaklfUGJjdkQ3eC1tLS0yeW41cnVmVm1NZDZNX3BZUk1ELXRnc0dYS1dtQ0F4OTZ3WlhSOHJFbEhmT0paZjN3ZDhuSlVFY0w4c3Vv?oc=5",
+      "published": "Wed, 23 Sep 2026 16:16:16 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israel kills Hamas finance chief in airstrike on Gaza's Khan Yunis, Katz says - The Jerusalem Post",
+      "summary": "Israel kills Hamas finance chief in airstrike on Gaza's Khan Yunis, Katz says The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WQzloenBmNnZPQjctLXo4TFdBbGlVOVFuSzVCZ3lrZ2dHRHhVOHpKYkVJWkJRa3g3N2JLa09HOGZDYUJIV19uNzBjeXBZQ2o3TWk0czJBSUk1LTZXQnJHZk5ZejdtWVlhZDBpREV3?oc=5",
+      "published": "Wed, 23 Sep 2026 17:32:58 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Trump's Board of Peace proposes $2.45B for reconstruction in Gaza - DW.com",
+      "summary": "Trump's Board of Peace proposes $2.45B for reconstruction in Gaza DW.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1VNll4d0NrUXNJdEl0OVF1UV9taXNvQVc3ZHFtT3Y4ZDA1RE1sanZUXzNhN1hDZzZKQ2x0NnlqcGFvTlhWeFdoLURBUzMtWWxORGY5eVhzbmwweVlpU3F6SmsteTlBaFMwZUt3UWJaSDdYUGRPTVHSAXZBVV95cUxQemU3QU44QXVGbGRCclFYWl9oU2VqYVBUOUJZTkhTdFVfbVJpdXhmR0M4MlVCcnpnOWRpTnlZS0E0bDNEV2VtaWh6SW5QNHI4QkV1dzA3ekozQnE2aVl2d0p6aWg1TFdQa1hTR281cEF3RjFhd2JB?oc=5",
+      "published": "Wed, 23 Sep 2026 16:35:18 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Why new war in Ethiopia’s Tigray threatens to trigger wider conflict - Reuters",
+      "summary": "Why new war in Ethiopia’s Tigray threatens to trigger wider conflict Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdUNJbGRWamoxZS10VnNEUkNHeHk3N08zWVlJdWFLUWpHNVBjYnBJbjlaTGw3bzVjOVZTYl82TWxDR2h6by1PSEdHTmZLeHdyY2ZtMkp4V0lDQXoxN2lZeTJqdHVhVThRSTdueWJlX3dtWUY1Wm55M2N1R2RvTFdWUTdCU1Q0a19XSU1qQ19SQnFpeGdWOWcxVE1TalkyU0FVS2NGX1l6WURMNHFnWjdZ?oc=5",
+      "published": "Wed, 23 Sep 2026 22:09:37 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "US visa pressure on Burhan raises stakes for Sudan ceasefire push - The Arab Weekly",
+      "summary": "US visa pressure on Burhan raises stakes for Sudan ceasefire push The Arab Weekly",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTd2VDdCZmlneGx2TnBraFZpV01zTFE5UGFQQzRNMUJWenFPc3YydUIwX0FXVFlXX1Z1SUl2OU9jdmE4T1FpWUZjX3kwR3Y0QWJyajZNUktzN2x3TVJNeGRNOHFoSEZBekxXYVhNYmd3SDA1X1M4RkpnNmtkcjctd20tUzlQazh5aEk3aQ?oc=5",
+      "published": "Wed, 23 Sep 2026 09:56:45 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Sudan asks UN to intervene as US reportedly withholds army chief’s visa over 90-day ceasefire plan - Business Insider Africa",
+      "summary": "Sudan asks UN to intervene as US reportedly withholds army chief’s visa over 90-day ceasefire plan Business Insider Africa",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON1Z0RzlPZksxQ0Y3QzhaU0dRZm5jSG0tbUNYdmdnOTN1VkcyV1I2V292RFFBZmx2UjFoNm9hejZfUFQ0N2phWGZMZ0pZaVdjMkx4R3dUZWpVZDlvd0pOMHVmWnFCajFXV0hYTnB0ZGxPZFNJSVc5QnNGYmhuNmhaeEtNSnVtajhOZ0E2NDdJd3oxNmZYaURiLVZqTllLQURfdW9FUGlUNmJ3ZzdJUlg3MWhWaTZBT2Q2NWlXaTJkUVZyc0dURUs3dXJ5dHFrUEt6cGxxXzNn?oc=5",
+      "published": "Wed, 23 Sep 2026 07:38:24 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "US withholds visa for Sudan army chief ahead of UNGA over opposition to US-backed 90-day ceasefire plan in war that has killed thousands - CediRates",
+      "summary": "US withholds visa for Sudan army chief ahead of UNGA over opposition to US-backed 90-day ceasefire plan in war that has killed thousands CediRates",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNckxiQ2NYc1NxLVRWdXB4aHVxYjJnbDZYRUREUkJOOFpxV1FqZEJFd3dHd3A3OEw2ZGVzMUpQbjBLQXJidmlaU0V2MjR6VXdoSzIyVHhRR1Jkdlgyd0ZiQnM0RkhsVUlCZXFvMEJvNkZGcnVYRDA3MktuU0ZtLWdCMEVOZjlUVW1GVGFlRm5hLWhLa2pjS3lacEJUSXJrM1RtU0NuUU9IR0JBVmhrNVVsRXd0dEpFZnRvQ2xWMVBXYTRkSXBxX3hpTEZoeElQS2ZjNElIRWhrSW9OWEwtLVJfM2N3dEZob2ZSbkJyMDJXN1k1MVRsMHc?oc=5",
+      "published": "Wed, 23 Sep 2026 17:54:16 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Exclusive: Myanmar’s Dictator Wants to Rebuild Ties With the West - Time Magazine",
+      "summary": "Exclusive: Myanmar’s Dictator Wants to Rebuild Ties With the West Time Magazine",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR1UxaGx5TmhWa2lCLTdRTHN3YVVtNUNqZGxYLURmNTViaVJxY0RzMkNKR1NudXJEbDY0dGpCTGJjYzRzalExd1dDVlpJai1KZkhGcWJ3OFB4WDB0djNHZkhlQld6OXpfVkRCenZtY0c5YS1waGFtclVlSGl4RGtucTZFTjlYN0k?oc=5",
+      "published": "Wed, 23 Sep 2026 00:00:00 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Two Villagers Killed in Junta Airstrike on Ponnagyun’s Phat Kya Village - Narinjara News",
+      "summary": "Two Villagers Killed in Junta Airstrike on Ponnagyun’s Phat Kya Village Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95R3FmNXRHNVJRbXNKQ3hmVnVXLUFxMlBqY2hkTU1CMGQ0aUh0SXRZZ3VpVUxWbHo4dHh6R1J5amRVMG51N291RUxCcDNYeHVwZTdTVGMwRHRnNlcxMTZHMHNrOXNZRmhsMmZlbG9HMA?oc=5",
+      "published": "Wed, 23 Sep 2026 05:01:14 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+      "summary": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.",
+      "link": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
+      "published": "Wed, 23 Sep 2026 20:56:15 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Ethiopia warns of ‘destruction’ as Tigray rebels launch offensive",
+      "summary": "Ethiopian President Taye Atske Selassie warned of “forces of destruction” as Tigray rebels launched an offensive.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/ethiopia-warns-of-destruction-as-tigray-rebels-launch-offensive?traffic_source=rss",
+      "published": "Wed, 23 Sep 2026 20:37:18 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’",
+      "summary": "Ukrainian president urges world leaders to keep choking Russia's revenues to impede its war efforts.",
+      "link": "https://www.aljazeera.com/news/2026/9/23/zelenskyy-calls-for-sustained-pressure-on-patient-zero-putin-in-un-speech?traffic_source=rss",
+      "published": "Wed, 23 Sep 2026 19:31:12 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Zelenskyy: Putin is making the world ‘more dangerous’",
+      "summary": "Ukrainian President Volodymyr Zelenskyy is warning that Russia's “never-ending war\" could spread throughout Europe.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/zelenskyy-putin-is-making-the-world-more?traffic_source=rss",
+      "published": "Wed, 23 Sep 2026 19:13:09 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Wolfsburg terminate Christian Eriksen’s football contract by mutual consent",
+      "summary": "The 34-year-old has been recovering from an on-pitch collapse in June during a friendly between Denmark and Ukraine.",
+      "link": "https://www.aljazeera.com/sports/2026/9/23/wolfsburg-terminate-christian-eriksens-contract-by-mutual-consent?traffic_source=rss",
+      "published": "Wed, 23 Sep 2026 18:00:59 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "summary": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 16:53:37 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+      "summary": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+      "link": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 21:26:14 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "summary": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
+      "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 15:37:20 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Reports of violence against women in Gaza surge, UN agency finds",
+      "summary": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
+      "link": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 05:02:26 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Eleven killed in mass shooting at house in South Africa",
+      "summary": "One of those killed is believed to be a pregnant woman, police said.",
+      "link": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 14:02:55 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "A red carpet and military flyover - How Trump welcomed Xi",
+      "summary": "The two B-1 bombers that flew overhead are a key part of the US's combat arsenal, and produce a notoriously loud roar when they pass by.",
+      "link": "https://www.bbc.co.uk/news/videos/c6804ne8knklo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 23 Sep 2026 23:03:56 GMT"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI",
+      "summary": "The Security Council has been briefed by some of the world's top AI executives on the huge benefits and huge risks the frontier technology presents. With warnings mounting that the world may be losing its grip on systems built to outthink us, Yoshua Bengi, a recipient of the prestigious Turing Award and one of the godfathers of machine intelligence, said the dangers of AI beyond human control represent an unprecedented threat for countries “that none can contain alone and that does not respect t",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168414",
+      "published": "Wed, 23 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "LIVE: Climate change is here - What happens next is still in our hands",
+      "summary": "🔴 LIVE NOW From deadly floods in the Himalayas to wildfires and extreme heat across Europe, 2026 has brought a succession of stark reminders of a changing climate. The task is immediate: Protect people from the impacts already unfolding while rapidly cutting the emissions of harmful gasses driving climate change. World leaders are meeting today to discuss how to turn those priorities into action.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168372",
+      "published": "Wed, 23 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Security Council LIVE: World leaders debate ongoing war in Ukraine",
+      "summary": "Five years of war. Another winter closing in. Today, the Security Council once again debates a path to peace – though any resolution still runs up against the veto of Russia, one of its own permanent members, whose objections have repeatedly stalled any consensus. As world leaders take the floor, the gap between diplomatic process and battlefield reality appears to be stark.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168410",
+      "published": "Wed, 23 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "DR Congo Ebola outbreak toll exceeds 3,700 deaths",
+      "summary": "More than 130 days into the latest Ebola outbreak in the Democratic Republic of the Congo (DRC), health experts said on Wednesday that response efforts have been scaled up significantly and “the first encouraging signs of progress” are now being seen.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168407",
+      "published": "Wed, 23 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 22, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-22-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 21, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-21-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 20, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-20-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 19, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-19-2026/",
+      "published": ""
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "김정은, 미사일총국-제2경제위원회 축구경기 관람...\"국방건설 성과 격려\" - SPN 서울평양뉴스",
+      "summary": "김정은, 미사일총국-제2경제위원회 축구경기 관람...\"국방건설 성과 격려\" SPN 서울평양뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iYUZfaS1vcEpLVVRSMV8yWnBIR2cwTnlFd0xWQUg0X1o0cnF4QjJvekUxcmxkNzRlWUYzMEcyNWFUa3BZdHV4Mjc2clhzX09VUUlWWHVrOFJnN1VaUVFnODk3TDhOa0dsNFdj?oc=5",
+      "published": "Wed, 23 Sep 2026 22:05:14 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "김정은, 군수부문 축구 관람…\"국가방위력 비약·혁신 계속해야\" - 연합뉴스",
+      "summary": "김정은, 군수부문 축구 관람…\"국가방위력 비약·혁신 계속해야\" 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wZjJKdjRrTWhpazM4em9MbkpRV251Ri05QzlOeHRpRnFPNG81V3AzQThwWlMwbUZGOE9qVnB6OV9jWDh6SDRrQ0EyanUyQlprX0RrblBEUzNlSkHSAWBBVV95cUxNMFhYQW5qdXBnQlJrQlRvWEFWaG5qN3lrTUZOMUJHVlk3dzlpVjBZanA5VlFraWRsdnRyVVZLd0NGSmdlVmJkd1k3ZHNxQkNqZXJrVDZPSTZOanQ3Q2ZMNGk?oc=5",
+      "published": "Wed, 23 Sep 2026 22:38:54 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "극초음속 미사일 쏘고 미그기 남하해도… 軍, 北도발에 소극적 대응 - 조선일보",
+      "summary": "극초음속 미사일 쏘고 미그기 남하해도… 軍, 北도발에 소극적 대응 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOFRkNUUzQXhQeGpmTmpta09laTl2a0J6Q2Zqcmw3Q09lQm01Nnl6Z2tCQmxITXFxc3NoMDBIZ2tYcjJDWm0wQ0hCWDJQRkxGNmFwWjhSWF9LNHR4cWRuWkpZRzRFc3pXanNQVUgxWVNGN0Y0NWhTWjNVd2pCRmU3T1phandHVHNQR1J5Q3p6R182QQ?oc=5",
+      "published": "Wed, 23 Sep 2026 15:51:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "트럼프 “북한과 대화” 재확인…미 전문가들이 본 ‘김정은의 셈법’ - v.daum.net",
+      "summary": "트럼프 “북한과 대화” 재확인…미 전문가들이 본 ‘김정은의 셈법’ v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MOXplRHd1X1ktRmhSd2x1RFJhemFScmtoVzZuTW9taERoMUVvNHlFZWlSY2p2YkdueXhObVIwOVhubFZVUmxlcVJZVGZMNzA?oc=5",
+      "published": "Wed, 23 Sep 2026 22:02:07 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북한 “극초음속미사일 발사 성공”…한·일 추적 실패했나? - 한겨레",
+      "summary": "북한 “극초음속미사일 발사 성공”…한·일 추적 실패했나? 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15WXY3X09HQXdmRDV2WG5wNGo0WHkya01PbkJ1bGdRRUhJTzhtM0NOa0tKcmlhc3pMWWJDWk1FQU1VY0lRNkI4WEJvSXEyYXMxSV9PdERENDhMelRXcWxhNmxaTlJzdEpsaEtFUjgyZGppSGNH?oc=5",
+      "published": "Tue, 22 Sep 2026 12:19:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "젤렌스키 \"북한군 포로 2명 한국 보내\"...미\"러·우크라 제한적 휴전 관심\" - YTN",
+      "summary": "젤렌스키 \"북한군 포로 2명 한국 보내\"...미\"러·우크라 제한적 휴전 관심\" YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yQWRqbW1nb3hmNWdmcXJNczJrT0ZoRnlJcUZsQWd4ODQxcHJlRE4wTnNPNHhaWTloMjFrWG82SlZWQ0hFSUJGX0xSNnctZmxJZ3NOVktNM1ZnNDh3RkE?oc=5",
+      "published": "Wed, 23 Sep 2026 22:58:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Why North Korea is changing beyond Kim Jong Un - George W. Bush Presidential Center",
+      "summary": "Why North Korea is changing beyond Kim Jong Un George W. Bush Presidential Center",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYXZPZVFzY3MzNVFfT2dzRVNEME9rbHdjMTlQTWNkdlhtQy1iMHFFUkEybmo4NUV0ellzZ3Atb1JVczdPNk5xdk1XT09sbzhXa2VEXzBLSXJsVEVzazVlUWhBeEg2dkRsWmYtQTlNUUJFR2VkcERtWTgtczVoZFVCSmxaQm9RVnYzQnc?oc=5",
+      "published": "Wed, 23 Sep 2026 22:17:59 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea Tests New Hypersonic Missile - USNI News",
+      "summary": "North Korea Tests New Hypersonic Missile USNI News",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JemY0WWpPY3VQZ2RER3J5cXZnMXd4MU41S2J1MWk1dkwtTkJRa3J5Z0VTQ3F0dWk5V2sta1dBaUktN0V2MWFkVXFTbjFPSVFnc1FfRDUxX2g5QW1jZGN4aXYxazc3VkxKczVlMjVMTmpOVmhtQ0k1Y0lLVGMzdw?oc=5",
+      "published": "Wed, 23 Sep 2026 15:01:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea's Kim Jong Un lauds apparent hypersonic missile test, calls it \"incurable headache\" for foes - CBS News",
+      "summary": "North Korea's Kim Jong Un lauds apparent hypersonic missile test, calls it \"incurable headache\" for foes CBS News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT2c5NmdYU0hMLS1WMFk4eEQ3Y3ExN2NqMEYxNHhWWmhwNXppZVJqaTJaYWl4by1TZzJTNXBUbU9LNmJLYUw2TmNMNHh3ZW5WYU5aN2lHdEVyOHA4bXU4T0JTZHppdVJlbEdVQXg1RXI5YkpVM0hQdFJoZFUwdVRtUlFxb1l6b0RWLVAwbGUwTmV1Q0h5ZUE?oc=5",
+      "published": "Tue, 22 Sep 2026 13:28:05 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace - CNBC",
+      "summary": "South Korea pushes for Trump summit with renegade North Korea, seeing opportunity for peace CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPT01xZkdLbzBPSnNDbHBzQ0lDcHRiNDFFemRNV3FPdktjZndZUlNLaW5uOUpRc3BTV1FsWmp2eFM4Mkg4LXlVMlJQZTh1dzBwcm04T3h0cVBtbExBbHBYb1d1aGx4NzMtMW9yMFZzQUM5S1hFRi1QTUo5QnY5UzVkTzQ2eU1Sd9IBiwFBVV95cUxQU192WTJOSDl3VEx3Y09ycnFDcDN1OXBDRGZzRXI4Q0lCeWRVUzduTnFoaVBDMnZSMlRQV3ZnaFZCVHdxZ0c1dmUzV0VlOG10ejZjTTJLY0d5aXU3TFc1cHlwblRETnhEMUZ0b09iTTZNd2VzZmFIRHY1TGViNWNFTjVYVlFUNGpaUmJr?oc=5",
+      "published": "Wed, 23 Sep 2026 09:22:51 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Korean Peninsula Update, September 23, 2026 - American Enterprise Institute - AEI",
+      "summary": "Korean Peninsula Update, September 23, 2026 American Enterprise Institute - AEI",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5OczV3SzNHSDRnTm1KTkQ4ckVVZDl4eE1QYXJma0lNcGRhazYwN1h1ZTNWUVN3VFFuc05SOWtRVDZjbkZfdmo2WW5NZFpNVTBldXN1aExUaXlrMDZ1V005RXV0dzRVTkJ1eTgxU2RiOEN4NUJCX3NSN1RKN2tDQQ?oc=5",
+      "published": "Wed, 23 Sep 2026 20:39:35 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea conducted test of upgraded rocket launcher system, KCNA says - Reuters",
+      "summary": "North Korea conducted test of upgraded rocket launcher system, KCNA says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNanllWTAzN2RXLUlfQW9KRHozZmFFNDNmcHJIWDBQTXZYZHJCNjZLYjJJT3gzNEtOMkc3VzZNOWthSnJQVVNNd0htWnRpVDNVcEFTc1pzUDNXeEhoVGlPYkt5RHo3cENGd1lhY2xHOExTYUFJcm9sSEtpUkgyS0RRU1RCZ0NmaktIOWtSanZIalB4cGNVR0kwNHlrNGVVTUQ2cjRvRTZQekVpeTZYaVFZSDlnRG5yZDNHZm5pRHl4eE8?oc=5",
+      "published": "Wed, 23 Sep 2026 22:08:27 GMT"
+    },
+    {
+      "source": "NK News",
+      "title": "Ukraine sends 2 North Korean POWs to South Korea: Zelensky",
+      "summary": "Ukraine has transferred two North Korean prisoners of war to South Korea it captured during its incursion into Russia’s Kursk region in early 2025, Ukrainian President Volodymyr Zelensky announced Wednesday. “Recently we sent two North Korean prisoners of war to the Republic of Korea,” he said in a speech about the Ukraine war at the […]",
+      "link": "https://www.nknews.org/2026/09/ukraine-sends-2-north-korean-pows-to-south-korea-zelensky/",
+      "published": "Wed, 23 Sep 2026 22:23:47 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea wins its first gold, silver and bronze medals of 2026 Asian Games",
+      "summary": "North Korea won its first medals of the 2026 Aichi-Nagoya Asian Games on Wednesday, securing two golds, a silver and two bronze in weightlifting, soft tennis and table tennis in the space of a few hours. Nine days after the DPRK’s first event in this year’s Asian Games, weightlifter Ri Song Gum ended the country’s […]",
+      "link": "https://www.nknews.org/2026/09/north-korea-wins-its-first-gold-silver-and-bronze-medals-of-2026-asian-games/",
+      "published": "Wed, 23 Sep 2026 09:41:56 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Seoul’s new defense chief tells North Korea to halt fortifications along border",
+      "summary": "South Korea’s new defense minister Kang Shin-chul said North Korea should halt its efforts to fortify areas along the Military Demarcation Line (MDL), adding that Seoul will not be swayed by Pyongyang’s reaction as tensions persist along the inter-Korean border. Kang made the remarks to reporters at the Ministry of National Defense headquarters in Seoul […]",
+      "link": "https://www.nknews.org/2026/09/seouls-new-defense-chief-tells-north-korea-to-halt-fortifications-along-border/",
+      "published": "Wed, 23 Sep 2026 07:00:20 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Joseph Kim on why North Korea is changing beyond Kim Jong Un",
+      "summary": "North Korean defector and George W. Bush Institute program manager Joseph Kim joins the podcast to discuss his recent NK News opinion column arguing that analysts and policymakers focus too heavily on Kim Jong Un while overlooking the role ordinary North Koreans could play in shaping the country’s future. He explains why he believes North […]",
+      "link": "https://www.nknews.org/2026/09/joseph-kim-on-why-north-korea-is-changing-beyond-kim-jong-un/",
+      "published": "Wed, 23 Sep 2026 05:32:07 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Lee outlines three-part vision for ‘peaceful coexistence’ with North Korea at UN",
+      "summary": "South Korean President Lee Jae Myung on Wednesday outlined a three-part vision for “peaceful coexistence” with North Korea, calling for greater mutual respect, restored communication channels and broader cooperation as part of a push to end the Korean War and establish a lasting “peace regime (평화체제).” In a speech at the 81st U.N. General Assembly […]",
+      "link": "https://www.nknews.org/2026/09/lee-outlines-three-part-vision-for-peaceful-coexistence-with-north-korea-at-un/",
+      "published": "Wed, 23 Sep 2026 03:46:03 +0000"
+    }
+  ]
+}
