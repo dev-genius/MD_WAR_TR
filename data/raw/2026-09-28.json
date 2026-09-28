@@ -1,0 +1,406 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T09:03:30.406940+09:00",
+  "history_candidates": [
+    {
+      "year": 1106,
+      "text": "King Henry I of England defeats his brother Robert Curthose at the Battle of Tinchebray.",
+      "link": "https://en.wikipedia.org/wiki/Henry_I_of_England"
+    },
+    {
+      "year": 1322,
+      "text": "Louis IV, Holy Roman Emperor, defeats Frederick I of Austria in the Battle of Mühldorf.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_M%C3%BChldorf"
+    },
+    {
+      "year": 1538,
+      "text": "Ottoman–Venetian War: The Ottoman Navy scores a decisive victory over a Holy League fleet in the Battle of Preveza.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Preveza"
+    },
+    {
+      "year": 1781,
+      "text": "American Revolution: French and American forces backed by a French fleet begin the siege of Yorktown.",
+      "link": "https://en.wikipedia.org/wiki/Siege_of_Yorktown"
+    },
+    {
+      "year": 1868,
+      "text": "The Battle of Alcolea causes Queen Isabella II of Spain to flee to France.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Alcolea_(1868)"
+    },
+    {
+      "year": 1901,
+      "text": "Philippine–American War: Filipino guerrillas kill more than forty American soldiers while losing 28 of their own.",
+      "link": "https://en.wikipedia.org/wiki/Philippine%E2%80%93American_War"
+    },
+    {
+      "year": 1912,
+      "text": "Corporal Frank S. Scott of the United States Army becomes the first enlisted man to die in an airplane crash.",
+      "link": "https://en.wikipedia.org/wiki/Frank_S._Scott"
+    },
+    {
+      "year": 1918,
+      "text": "World War I: The Fifth Battle of Ypres begins.",
+      "link": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "year": 1924,
+      "text": "The first aerial circumnavigation is completed by a team from the US Army.",
+      "link": "https://en.wikipedia.org/wiki/First_aerial_circumnavigation"
+    },
+    {
+      "year": 1939,
+      "text": "World War II: Nazi Germany and the Soviet Union agree on a division of Poland.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "year": 1939,
+      "text": "World War II: The siege of Warsaw comes to an end.",
+      "link": "https://en.wikipedia.org/wiki/Siege_of_Warsaw_(1939)"
+    },
+    {
+      "year": 1941,
+      "text": "World War II: The Drama uprising against the Bulgarian occupation in northern Greece begins.",
+      "link": "https://en.wikipedia.org/wiki/Drama_uprising"
+    },
+    {
+      "year": 1944,
+      "text": "World War II: Soviet Army troops liberate Klooga concentration camp in Estonia.",
+      "link": "https://en.wikipedia.org/wiki/Klooga_concentration_camp"
+    },
+    {
+      "year": 1961,
+      "text": "A military coup in Damascus effectively ends the United Arab Republic, the union between Egypt and Syria.",
+      "link": "https://en.wikipedia.org/wiki/1961_Syrian_coup_d'%C3%A9tat"
+    },
+    {
+      "year": 1973,
+      "text": "The ITT Building in New York City is bombed in protest at ITT's alleged involvement in the coup d'état in Chile.",
+      "link": "https://en.wikipedia.org/wiki/ITT_Inc."
+    },
+    {
+      "year": 1975,
+      "text": "The Spaghetti House siege, in which nine people are taken hostage, takes place in London.",
+      "link": "https://en.wikipedia.org/wiki/Spaghetti_House_siege"
+    },
+    {
+      "year": 1995,
+      "text": "Bob Denard and a group of mercenaries take the islands of the Comoros in a coup.",
+      "link": "https://en.wikipedia.org/wiki/Bob_Denard"
+    },
+    {
+      "year": 2009,
+      "text": "The military junta leading Guinea attacks a protest rally, killing or wounding 1,400 people.",
+      "link": "https://en.wikipedia.org/wiki/2009_Guinean_protests"
+    }
+  ],
+  "korean_war_hits": [],
+  "korean_war_date": {
+    "month": 9,
+    "day": 28
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian Offensive Campaign Assessment, September 26, 2026 - Institute for the Study of War",
+      "summary": "Russian Offensive Campaign Assessment, September 26, 2026 Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWU1SnN3aTQ0UDZIakZaX0pWU3hxemVjd1ljZjVOZFpFdk5DLTNrTlpXczlWWXRxY0ZmZWxWNGV0b0ZJakNhZGNyRWlaRXExMEp3TTVudzZFZGpkdjdlR2wxQzdoWVkxWkV3Z0ZsZkdhLVVMQVd3RzV3TS1Jc3hRXzFsMlhld3BwQ01CZVE5MTBTR2ZLMUEtRXU5dy1TWHNRZGhXYlNrMnJyeTFPLWc?oc=5",
+      "published": "Sun, 27 Sep 2026 01:06:18 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Strikes kill 6 in Ukraine after Moscow rejects German calls to de-escalate - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Strikes kill 6 in Ukraine after Moscow rejects German calls to de-escalate ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRmxrM1VmQ3VqZEUwNklJTm5fNTYtaGZpcUpXZlNkUlU2TWw5UWw5a0dzR1daSHN1djEtMFRXeE5jU3BJZTVjWW83eUQwMlo2NzdCb1BCSmNIYTE5ME05N292Y2JXUkt1X2c4UmJ6TVUyZFpqNnYtM1RqTkE0OVl6a21nSkNVSlpEejkzQzdCSDAzM3hYa3FKdmhuMmRIQlAtcmZubGlyQ3TSAa4BQVVfeXFMUF8xUHNtdlFHWThtbUxaREFNOWRVOTV1NEVQeUFkbGl4dlZZWmpwM1NzUzg5NnBBa3RmbmFDdEpKYXJEY0k3bXhmOVFGTXdJZDFsbDBWZWhBS3VqajZQRGR3bWRCX1ZYUkthMUJZRGhHX19hM1RvcXZtZ3Q1M1M1MVhhRHpNVk5uM3VYY2x2elcxZElxLXBaMTdncUJocFhTLWtpODNxeVRPRFlqa2JR?oc=5",
+      "published": "Sun, 27 Sep 2026 18:55:13 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian attacks kill eight in Ukraine after Moscow vows to continue war - France 24",
+      "summary": "Russian attacks kill eight in Ukraine after Moscow vows to continue war France 24",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbjhFUzBKZjMtbTZrUnRFTDFCU2tkYzNlYWNvU1JHcWhPeXg5U1B4eFdWREg2QnB0RElLVlFjUWIyWW5tUGY1RmhicU5oUElONVM1al9HU3lOeEprTktvNjI3UlJTeUZHN2hneXRDakJCQnpBU3FKUkxjanoybjVjX2pzT25FaHFyRTRyUGtSNXNlUDA?oc=5",
+      "published": "Sun, 27 Sep 2026 21:55:28 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia expected to intensify hybrid war on Europe - DW.com",
+      "summary": "Russia expected to intensify hybrid war on Europe DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMUxrNzFJLThfQU82Uk82Q0pZbWxYa2ZQYXBieHRXdTQ1aERQVVZZdkh6V3JCU0dReUYtZ2Y4bVBXN2d5RjlmallvN0duSENPR0pQNmlfMTl4YlZaeWk5aE9pZ3l2OHN5UDdlS1V2bGhPV05tdGk0dnFMbzBhNmVwNlhKZmw1T1pVN0HSAYoBQVVfeXFMTlFnMjI4Qy1IdEdUaVV3cVlaY2RXU0VHT00tVjc3R0xHTjlqMmgwNGNSNkhmZER6OEpRZHIyOFI0UjRXY0o0M1JZNHd6VVB3ZUdhc0tKX1k0UjZQTXFjZ0ZjbGk0NHlfcmdtWkJaXzRwam15a3YtbzhyWnNwdUhxTzdxLTdraGZyMVln?oc=5",
+      "published": "Sun, 27 Sep 2026 14:37:55 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia says it struck military infrastructure, vessels in Ukraine - Reuters",
+      "summary": "Russia says it struck military infrastructure, vessels in Ukraine Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTlc5N3Y2SGJrR2NwcnR0cXl1bURjSnVTaDBXalZ4TlQzX1ZQb0VOZERydmxPTW1MalZfXzZnVHhmYnc2LWFRdW5uMDZoejlpcWxYRXhNRjdHaHA3LW5rRFFCV29WX3RmTHBudnY3VkVHRkhnWUVCNmdyMUpvRm1MZjdLR3FfSmhPMFRHMlNSZmc2dk12UGpUdXRpNkdwck1xUk1FZ2hR?oc=5",
+      "published": "Sun, 27 Sep 2026 15:15:44 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russo-Ukrainian war, day 1676: Zelenskyy offers NATO's neighbors Ukraine's drone-defense know-how - Euromaidan Press",
+      "summary": "Russo-Ukrainian war, day 1676: Zelenskyy offers NATO's neighbors Ukraine's drone-defense know-how Euromaidan Press",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQ1JtM2Y2UzRzWGJ1WS1MbE96czlpZGFxQkg5d19Tdms0VTk4czluSWZoRjUydU0xMTk0Yy02NnpfTWxuYTdTdTM5X3JNSXZoVlA2SlVyZmtJZkc1ZkdKMG5xQ3ZhVWt3a3lnNF91MVNxbWpGcVEtRWpjeFRWVFIwcHpvLWVQNnByWEN0M1llVzhVeUdvWHVWTkpDT3VkNERaczZMTjNfUFNPNGxIc0dGMy1EemJMb0p0UjJwZG0ybGQzZHd5ai1fV2Ewemx1UQ?oc=5",
+      "published": "Sun, 27 Sep 2026 17:21:34 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat? - Al Jazeera",
+      "summary": "Israel’s Smotrich calls for ‘war’ in West Bank: Rhetoric or real threat? Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFVCT3FMcTk1bzExSzlISVFTOE55SGdVNmI0TEFHN2ZmM3c4dWhFZXVRM2FOSUVzSFdoNldkOU1PZlFobzJOT014blV2MTdnWEgtdklNMWJONnNDUnp5a1ZrN3l1dzlkV2g3NWtkQ3lYM3QzUGdtcnRTQm5vQnV0eVVuRlRxWWc3SnFMY1NNZTQ1Q3pFbEh3N3U2SUVOakNLNDIzRU9TLUh1WDRzbHfSAbMBQVVfeXFMUG9rUUxsX3czdmhQWHktcGdwQldvUGFzRFRvTzdnb2xaM2hSbXFhMHJpck1uVlRPU2dlTVN6QTJDV05NNFdjRWxaVDU3NVhaVTk4SHh3VFNIXzdKclJjcTlsVmpjT1piRElGRXhUakJaU3llc2tIb29xbUstbTctQUMweGt5OTE5aDY2djZWbG8xOEpXSWd5TENOUDFIYUt2UzFlV0ZzZmJSZHFoOF9pNXVrOTA?oc=5",
+      "published": "Sun, 27 Sep 2026 14:13:08 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Palestinian death toll in Gaza war passes 74,000, and other Mideast news - Bozeman Daily Chronicle",
+      "summary": "Palestinian death toll in Gaza war passes 74,000, and other Mideast news Bozeman Daily Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPcnhGb0NzUkJocEdBM3dmM0NZU2RnQ1JybE5PSTV5ei1IOTg5eUR6WDIxVU9jbDhvSGVxVHJPWHhOUElqZklLUmZKUHpLYlhYWDN5T2NXM09VUHp2ZVZRUUs2SVBQR0N0eTdZWDU2Y1ZaVG91VldEbF9EOWcyMi1PbjFGQU9OMVFOUFprcFdVWEZCVHQ1WWtrbHZsbGlHZW1YWERTRm1DdzJJVjc0TmdGTUx4N3B2QWE1SXpQcnlQb2hnY0hlOC1ocENHVUNyS202VzNfbmRVenlKZjRmcXNydk4wTkthOEZ5TlZ6OWg2enMyQmJjREtESTR2cnRobTNaUlJvMGt3?oc=5",
+      "published": "Sun, 27 Sep 2026 15:28:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Palestinian death toll in Gaza war rises above 74,000 since war began - cbc.ca",
+      "summary": "Palestinian death toll in Gaza war rises above 74,000 since war began cbc.ca",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pUFUzRURfUEZPWXdJMnRQUi1uaHVLc3dIZnFvVzhOY0NkeVYxUHpRZWFadFBzbGFnVzdVTGVPWjY3ZzdQSzlWVWh3bU1YUTBaRDZZOVgyblNtcV9MdnJuNkFNRGlUMk1EQUFlZE5GMXZpTi1LME5sYWNR?oc=5",
+      "published": "Sun, 27 Sep 2026 12:05:28 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli drone strike kills Palestinian in Gaza City - Middle East Eye",
+      "summary": "Israeli drone strike kills Palestinian in Gaza City Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVQtWVplYjZtUk1qRkRwWUtaT1NjUk42RHFDNFk1VnZDNk9uTUlkNWRTSlJMMlg0aTY2dWhmdl9JVnBheXlqZk5seWZGRVU3NWZCcFA0ei1qQjYtbURTaHJEZWptYW5ZVW5PbzNLZVZ1Q0swYlQwVjQxeW1nUEVwUHRyMmxzZ1dzcUNLOVVNX1Jsekc2ako2NElSMzNnVWVaWmdiTEVORUw?oc=5",
+      "published": "Sun, 27 Sep 2026 16:17:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Smotrich: Israel must ‘go to war’ in West Bank, ‘do there what we did in Gaza’ - The Times of Israel",
+      "summary": "Smotrich: Israel must ‘go to war’ in West Bank, ‘do there what we did in Gaza’ The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTFljOWxVOHdnbXFSNURuWUR3OWRWRG13NUVXOF9SQVBXUGZzWXU0UEhiLTFjSkpPRTktQjhxQUlEVnJkWmpUMXNKMGxLMnVCWGVncWV1R0U0YVpWZzg0Z2hJYy1vYThubGFiMHRjcVRIdWlJekhKWjhQQkhMcFdpeFdwUkphUDlPT3h4NU9hR1BLazZzUWdsQ0NhUERweXZjMnBzejdB0gGrAUFVX3lxTE9odF9BaHdRUlN4cWgySFM1WTdNWDF3WFJkSVlPWUhkX0hCQmZQdWdmTmdReXZIRU13bkRQdUg3QUhoS1MxdnRwLV8teGtHZVJHWFVCdDl5Nm84OTBxek9mNmRNcHNQZDlBWmZISzVuTWI4dWk2N1Npc3gyWjVWNFNzNW16R2VEUlQzZElfSl9oUzBLa1RjMmQwTGEzQUN4WVcyd1BBRDE1WVk1cw?oc=5",
+      "published": "Sun, 27 Sep 2026 13:17:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Palestinian death toll in Gaza war rises above 74,000 since the war began and other Mideast news - The Boston Globe",
+      "summary": "Palestinian death toll in Gaza war rises above 74,000 since the war began and other Mideast news The Boston Globe",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3RnbUlLVVdyV3FIR2ZYV0M1ODdNc2JsMmctajFyLU9CYjMyelAwaGIwd0xSUXZBcXV5cnFmdk9DY19qTnY5U2hvY0RCZHVFajVPZXlEYWxNT3NhdEg4ZW5pTGdLek9hT2lmd1BYUXQ0S3N4VHFJZVRiZmJEWDU3bGxPSndFamp4ZnJzeklOSVdid3lTWE9MbHB3UEtMRFZZOXVEbG5RUXlzV0hrNW1GM2FOZXYwVVJENUE?oc=5",
+      "published": "Sun, 27 Sep 2026 12:02:05 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Two Injured, Monastery Burned, and Livestock Killed in Junta Airstrikes on Gwa Township - Narinjara News",
+      "summary": "Two Injured, Monastery Burned, and Livestock Killed in Junta Airstrikes on Gwa Township Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GczdsTzFvZHNBbk5MM0ZsRlpVQi1QQ1dsbENaRmtpd2xLanJOMWRTZmxJSWdSbjJfLXJLbl9MMVZNWWtkQVRYRTcxeDFSTUhBVkY5VXJVN3Z5VGFkelgyMURsV1NjTlZibm5hZjhHYw?oc=5",
+      "published": "Sat, 26 Sep 2026 18:04:50 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Intense Fighting Near Sittwe-Ponnagyun Border; Junta Forces Deploy Air Support - Narinjara News",
+      "summary": "Intense Fighting Near Sittwe-Ponnagyun Border; Junta Forces Deploy Air Support Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9meHVSSkpRLXUxV1hRSGl4ajctZDk3eWU0OTBoVjNhQUgzV3Y3Y1NnTmVhbURmNVc4YU5ERUN6dzA5aWJMMHZiMm0yeUx3N0FHS19SQkwtaDJqSkUteXhVeDIxeGRYRDhUQXVFd2M4TQ?oc=5",
+      "published": "Sat, 26 Sep 2026 23:45:31 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "‎'Imported and Sponsored': Niger's PM Uses the UN Podium to Point the Finger at France and Ukraine - Modern Ghana",
+      "summary": "‎'Imported and Sponsored': Niger's PM Uses the UN Podium to Point the Finger at France and Ukraine Modern Ghana",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcV96enZ4ZmtEWVMtTFhKOTFZbEZwQ00tTTBzRVZxdkdnVk9HSEFPcC1VbVpKQVQ1WW5RQ2hLbTF4bFRjMzEydXBLdjIzTlkyeU81NFV1cGJ6SHZtVVF4NFZ1Ri1JYjZqaVRfVm5WaWFpYnNuWWV3QWxQMGpHNU9MNGFfQ0hvQXNka1BGWjJlXzk?oc=5",
+      "published": "Sun, 27 Sep 2026 10:00:26 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Deadly strike hits market in Yemen’s Taiz",
+      "summary": "A strike on a market in the Yemeni city of Taiz has killed at least seven people and wounded 40.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 21:00:55 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israeli strikes continue in southern Lebanon despite ceasefire",
+      "summary": "An Israeli Apache helicopter struck a commercial centre near Mayfadoun in Southern Lebanon.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 20:57:38 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Ethiopian army reportedly recaptures strategic town as fighting spreads",
+      "summary": "Ethiopia’s army has reportedly recaptured the strategic town of Sekota from Tigrayan forces as fighting spreads.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-ethiopia-tigray-escalation-sv-mp4?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 20:44:50 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Three killed, four injured in shooting at Detroit, Michigan, strip club",
+      "summary": "Police say the US shooting followed an altercation at an after-hours venue, and four people are in hospital.",
+      "link": "https://www.aljazeera.com/news/2026/9/27/three-killed-four-injured-in-shooting-at-detroit-michigan-strip-club?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 20:44:40 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "‘Atrocious’ crime: Cuban official decries possibility of US military action",
+      "summary": "Cuba's deputy foreign minister slams US sanctions, labelling them 'equivalent to genocide'.",
+      "link": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 20:34:09 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Pubs in Ireland refuse to screen Israel match in protest over Gaza genocide",
+      "summary": "Ireland has been thrust into the global spotlight over two controversial Nations League football games against Israel.",
+      "link": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 19:35:30 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 21:16:31 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Four killed in helicopter crash near Montreal",
+      "summary": "The victims of the crash have not yet been identified, Quebec provincial police told the BBC.",
+      "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 02:43:10 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+      "summary": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 07:44:11 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Killer Christa Pike to be executed within days - but her defence say she's a victim too",
+      "summary": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 23:04:08 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "British national among six dead in building explosion close to Acropolis in Athens",
+      "summary": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 26 Sep 2026 12:47:25 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: BBC reports from the front-line of an escalating war in Yemen",
+      "summary": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+      "link": "https://www.bbc.co.uk/news/videos/crp3kgjygnkeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 27 Sep 2026 21:00:06 GMT"
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 26, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-26-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 25, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-25-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 24, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-24-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 23, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-23-2026/",
+      "published": ""
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "\"北드론·미사일 벌떼공격, 전술핵 후속공격 성공 가능성 높여\" - 연합뉴스",
+      "summary": "\"北드론·미사일 벌떼공격, 전술핵 후속공격 성공 가능성 높여\" 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lMFBNYW9VeVhoMlNJY293VWxXZmtPRDU0dS1jeHVyU2hOTmY0YWNHT1ZJX0UzZmxKdFhhT1Z5NlBadmNtTWlHM2FEWUFZMXBFR3Z6d1Zzb2V1U2PSAWBBVV95cUxOc3JCZGxJeEQ1djlRZ1JSeXFkRGVmd2FxaUNyUDFPTFdfS0k0cnBjbFBIcDkxcHQxcGxVRXFCdU14cExIMWtZLVlmR2NsYXp6Q0lRNjVTazY3VXhzM3VYWkw?oc=5",
+      "published": "Sun, 27 Sep 2026 17:43:29 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "\"北드론·미사일 벌떼공격, 전술핵 후속공격 성공 가능성 높여\" - 연합뉴스TV",
+      "summary": "\"北드론·미사일 벌떼공격, 전술핵 후속공격 성공 가능성 높여\" 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UZ1U3bFFLeG5oTzVhdUlHNWcySlUwRHVFVHdUY3NraHUta2ZMRE5fMVJ4TlNraFIwUnc4bjdlc1Q2YUJEUFk5STlZTWNZNUJYOGl1QnBEUGVKWktZUmlRaUlveWVwWUU?oc=5",
+      "published": "Sun, 27 Sep 2026 18:45:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "[이 시각 세계] 북한 드론·미사일 결합 전술‥\"군사 균형 바꾸는 위협\" - MBC 뉴스",
+      "summary": "[이 시각 세계] 북한 드론·미사일 결합 전술‥\"군사 균형 바꾸는 위협\" MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBZVVNlTG1TTXUxQlo0Wk0ySjVZNnRmbHc5blJNdWgxRWVLQ1d4dmJ6Y0JTMDRaNUluNXlOVy02Y0VUUGdEVlVURjVsb2ltUmNDVVdsRzhUVEFtMEtrYmlEN1V0Qm5RdlF6TzRvUXQ3TWpqbFNzanFOOFpB0gF6QVVfeXFMUFdMVlprVUhVTkM0SXd4VmZzQkRXUFFNcEZYMHM3SWZIZU54ZW1pVUEyUWtsR1hud1NMM0FGeUZYWVNscG9ETjVwMjluX29mc0t6SjZyVFoxV2F5YW1QOGpjVDhUZ1k0UmlwRXdPUC1IWGRVNXRnd0pVTlE?oc=5",
+      "published": "Sun, 27 Sep 2026 22:18:43 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북한, 드론·미사일 ‘벌떼 공격’ 첫 훈련..“드론·핵 결합, 한반도 군사 균형 바꿀 수 있다” - 아시아투데이",
+      "summary": "북한, 드론·미사일 ‘벌떼 공격’ 첫 훈련..“드론·핵 결합, 한반도 군사 균형 바꿀 수 있다” 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4QWphdlF5dWJCcHpCNTNWU3ozN3EyNHkzaUlablZJeXVCUlZqX0lldm05X0dSZVZWRkFEejdKQ01SR3o3aHZpN21tb0xmQ2NMV28xZGhXb1lzTDcwVVdWc3pIN20zd3BrVTc1eUJR?oc=5",
+      "published": "Sun, 27 Sep 2026 20:09:01 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "‘북한 비핵화’ 빠진 미·중 회담…북미 대화 염두? - JTBC",
+      "summary": "‘북한 비핵화’ 빠진 미·중 회담…북미 대화 염두? JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51UjdnYU1uTWk4V1VDYkpnbV9TVS0td2NMUjNoTTQ4aFBrb2JkSFFBcnR4NGNmRVJTLWJydFdPaDNoSm9rUVNFWjJGaG5od1lvTU1XMw?oc=5",
+      "published": "Sun, 27 Sep 2026 23:00:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "\"김정은 심기 경호\" vs \"북한 소행 단정은 위험\" - v.daum.net",
+      "summary": "\"김정은 심기 경호\" vs \"북한 소행 단정은 위험\" v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaTEV4dVZtb2FtcmlRSlRSSC1xUURjZFBLMlg1RHpmckZCMTJvMWQ1cW03dUxRdEhNUVpZLU5PWktYQXBuakh3NXo3YlgyVDA?oc=5",
+      "published": "Sun, 27 Sep 2026 21:18:05 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Will Donald Trump get to meet Kim Jong Un again? - The Economist",
+      "summary": "Will Donald Trump get to meet Kim Jong Un again? The Economist",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGNQYmJIM2FMRGh4WmtWTVVrYU1yT25ETUQzYTJ4SHRzM3huUVA3S19QS2otRTJuT2pGTHpzc0Jta25FdS1iTXU3S2NfRkUxUEZCd0xyb2NKemVUNUwzZ2QtdmhqWTdPdEdLSkoyQUM2YUs5VXZ2YVZYM2EwVmFUSkRCT0dnMmV1WkpSLXZRazJ2cmM?oc=5",
+      "published": "Sun, 27 Sep 2026 13:40:42 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "A Growing North Korea Problem - The New York Times",
+      "summary": "A Growing North Korea Problem The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYXFUdmhpZTZBQW9mR2tFdzV4OGNCMTJOT21zaGlSc20wVHFKTm1WV05sU2ZKMldXdWxzcVY5aUs5WTY1UnRKSXR6QmZ2UlBlQmxiX2lTSkJVVnl5bGk1cGJRX2pDY29rajdWeE0zWm5YbHZCeGlnWVM4dWJRcUZFa2Job2lEZzR3?oc=5",
+      "published": "Sun, 27 Sep 2026 20:52:18 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea Is Testing Swarm Attacks Mixing Drones and Missiles - WSJ",
+      "summary": "North Korea Is Testing Swarm Attacks Mixing Drones and Missiles WSJ",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ0hoV09vR2hMYnZleHBQSUVqTk5zZ3cxZVM3bGhCMkRCV29OdmhYUVNXSHF4WF8takQ0czdCdUUtaWk1WlI1YUJwT21hNUFvOFBadU1UcFpSM0xlQndUOHRZX3VpY0FicXVkWDVJS2pzZWQzc3RfSFpOcGhDRWkwcmJoOFRqcHAydEl5X2s3aTRkUUFPWnk3Wkg3Q3hMcHM?oc=5",
+      "published": "Sun, 27 Sep 2026 20:39:09 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Sculptures honoring N. Korean soldiers to be erected in Vietnam - The Korea Times",
+      "summary": "Sculptures honoring N. Korean soldiers to be erected in Vietnam The Korea Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVjJiYVUxZm9TMVhCdW5wc0UyTTBRbXRfd1FmNGlKU3FqV2pVcHZseVBxVnRmWk9OazNjQkg4bDZMWG01ZDJ1bDRXUkpOQlh5cWd4VG1oZGs1dFN2X0o3ZDdxVWZFVjdBWnJ1NFNESUFKazZaYnJhTGs2UWpDWjJGTVpzMkZHSjhwZ1BURjN5dG9jamF0MXhzSXRJcklCRHVuR2lLTEFNM1U2clB1WkVxbnNtbUxvV0x1TmdKY0lxSjVGcVRs0gHKAUFVX3lxTE4yZXQ1d2ROU3hWX093bWNCZ3BYSlNva0tCY2ExZmtFYUJfQ2N1UjdhZnRoel94X1h1dWFUcjlneXRUSkRCZXpCaFQyNmZ3TWZZY0phOUduSG16Q3J4b3lmVC03SmhmU3JhQy1ESmx4cWNZQVJ4dGF2M0x1bl9ScUFLamhNNEtUdXM5VlgyTWl4N1Badlh3QU1VOGM3UENLMDF6dW5NSFVkUGs3U0hkZDkwdTVmaENzbTRpc3p5Rk02M3RMWHQ2Slg4WlE?oc=5",
+      "published": "Sun, 27 Sep 2026 23:40:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "'Catering to Kim Jong-un' vs. 'Dangerous to Conclude It Was North Korea' - news.sbs.co.kr",
+      "summary": "'Catering to Kim Jong-un' vs. 'Dangerous to Conclude It Was North Korea' news.sbs.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qeng1NVl6d3pZUFpqLVpHSzNBMkNjY3pMU2tVdFVTTWtYdW1CTDlRNHM0aDBaRU5nT1pFMzVIN0k4bnBJMkNpSG5xWWJPOEdmZzFpS1M5R0cwUEprRWVLUHBYbFdSdEx2QUdkckFB0gFmQVVfeXFMTUY3UGJNbFlDbnprNHNJVE9vSi1ySGxIM3pHb0Rvb0tTaFl0Mjh3aGd3Y0dib1Q1aEdGcmh3clpKcGV5VTE0a2kxSlpVZ25hOUV6bjYwTW9KZWFyU3RVLWxYdzJIdGVn?oc=5",
+      "published": "Sun, 27 Sep 2026 13:56:28 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "\"Appeasing Kim Jong Un\" vs. \"Dangerous to Jump to Conclusions on North Korea\" - news.sbs.co.kr",
+      "summary": "\"Appeasing Kim Jong Un\" vs. \"Dangerous to Jump to Conclusions on North Korea\" news.sbs.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53OXdQdlgwV0RRUDY5UzR2bVlqa21xV3FabEU3OGZCNHVab3FlenFqbF81RUJHeFo3UG1fcEs2ZGF6UmdFMXlBSmNKd19qZ1BRS0NUQU83VWNMTTFjRUNmdHJSWEJPZ3B5NEpxblNR0gFmQVVfeXFMUEdlTXN0RWFvUFRrS1hZdDhiTXFuQ1NET0lFTVkxZlNfVVUtdy1yWVJQTm5tOXBTU0hQR1A4ZGtiZTd4X1RqWUpRRi1Vb01tdDU2Nm1nWkRzdGhXUFBtMURWRkJzSzRR?oc=5",
+      "published": "Sun, 27 Sep 2026 21:18:03 GMT"
+    }
+  ]
+}
