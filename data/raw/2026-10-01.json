@@ -1,0 +1,514 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T09:52:56.917166+09:00",
+  "history_candidates": [
+    {
+      "year": -331,
+      "text": "Alexander the Great defeats Darius III of Persia in the Battle of Gaugamela.",
+      "link": "https://en.wikipedia.org/wiki/Alexander_the_Great"
+    },
+    {
+      "year": 1795,
+      "text": "More than a year after the Battle of Sprimont, the Austrian Netherlands (present-day Belgium) are officially annexed by Revolutionary France.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Sprimont"
+    },
+    {
+      "year": 1800,
+      "text": "Via the Third Treaty of San Ildefonso, Spain cedes Louisiana to France, which would sell the land to the United States thirty months later.",
+      "link": "https://en.wikipedia.org/wiki/Third_Treaty_of_San_Ildefonso"
+    },
+    {
+      "year": 1827,
+      "text": "Russo-Persian War: The Russian army under Ivan Paskevich storms Yerevan, ending a millennium of Muslim domination of Armenia.",
+      "link": "https://en.wikipedia.org/wiki/Russo-Persian_War_(1826%E2%80%931828)"
+    },
+    {
+      "year": 1918,
+      "text": "World War I: The Egyptian Expeditionary Force captures Damascus.",
+      "link": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "year": 1936,
+      "text": "Spanish Civil War: Francisco Franco is named head of the Nationalist government of Spain.",
+      "link": "https://en.wikipedia.org/wiki/Spanish_Civil_War"
+    },
+    {
+      "year": 1936,
+      "text": "Spanish Civil War: The Central Committee of Antifascist Militias of Catalonia dissolves itself, handing control of Catalan defence militias over to the Generalitat.",
+      "link": "https://en.wikipedia.org/wiki/Central_Committee_of_Anti-Fascist_Militias_of_Catalonia"
+    },
+    {
+      "year": 1938,
+      "text": "Pursuant to the Munich Agreement signed the day before, Nazi Germany begins the military occupation and annexation of Czechoslovakia's Sudetenland.",
+      "link": "https://en.wikipedia.org/wiki/Munich_Agreement"
+    },
+    {
+      "year": 1939,
+      "text": "World War II: After a one-month siege, German troops occupy Warsaw.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "year": 1942,
+      "text": "World War II: USS Grouper torpedoes Lisbon Maru, not knowing that she is carrying British prisoners of war from Hong Kong.",
+      "link": "https://en.wikipedia.org/wiki/USS_Grouper"
+    },
+    {
+      "year": 1943,
+      "text": "World War II: After the Four Days of Naples, Allied troops enter the city.",
+      "link": "https://en.wikipedia.org/wiki/Four_Days_of_Naples"
+    },
+    {
+      "year": 1961,
+      "text": "The United States Defense Intelligence Agency is formed, becoming the country's first centralized military intelligence organization.",
+      "link": "https://en.wikipedia.org/wiki/Defense_Intelligence_Agency"
+    },
+    {
+      "year": 1965,
+      "text": "At dawn, seven Indonesian Army officers and a police inspector were assassinated by the September 30 Movement at Lubang Buaya, East Jakarta. In addition, two more officers were killed in Yogyakarta. The Army pinned the murders to the Communist Party of Indonesia, resulting in mass killings of suspected leftists.",
+      "link": "https://en.wikipedia.org/wiki/Indonesian_Army"
+    },
+    {
+      "year": 1991,
+      "text": "Croatian War of Independence: The Siege of Dubrovnik begins.",
+      "link": "https://en.wikipedia.org/wiki/Siege_of_Dubrovnik"
+    },
+    {
+      "year": 2014,
+      "text": "A double bombing of an elementary school in Homs, Syria kills over 50 people.",
+      "link": "https://en.wikipedia.org/wiki/Homs_school_bombing"
+    },
+    {
+      "year": 2024,
+      "text": "Israel invaded Southern Lebanon, marking the fifth Israeli invasion of Lebanon since 1978.",
+      "link": "https://en.wikipedia.org/wiki/Israel"
+    }
+  ],
+  "korean_war_hits": [
+    {
+      "year": 1953,
+      "text": "A United States-South Korea mutual defense treaty is concluded in Washington, D.C.",
+      "link": "https://en.wikipedia.org/wiki/Mutual_Defense_Treaty_(United_States%E2%80%93South_Korea)"
+    }
+  ],
+  "korean_war_date": {
+    "month": 10,
+    "day": 1
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "How Ukraine’s Naval Drones Are Remaking War at Sea - The New York Times",
+      "summary": "How Ukraine’s Naval Drones Are Remaking War at Sea The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbTQtQnNKdHY5aVEzVldLcDFGcTVma0pkZFFHOUZEYWF2VU9nZVpKWmpYMzQzUUIyWlMtQUFXTGo2WXFuZ0ltT2ZPbnlrUldpbzZfQXRqY0tuMXhRZzFGZTJyR2VxeGpEczlOZFR1Ml9zZ0E1eVNDbmljel9GaVFIbHA2VVg1QTQ?oc=5",
+      "published": "Wed, 30 Sep 2026 18:09:03 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Zelenskiy says he visits military command post near Ukraine's eastern frontline - Reuters",
+      "summary": "Zelenskiy says he visits military command post near Ukraine's eastern frontline Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUGpLcVVvVW15RFJFQ0twclJvMm9jVDVYQ0NFZ01XWmIwNmlMS2NJUGk1Z1NpMmhWbEpLY2dlUXpjckRuSHprQTBJcjRJSWc3bHRkcFEtSEdKYTBpalY5NFY0ZU8tYk02ZTdQUW1xRmxUSGFPb2tLS2VxYWREendlZGhIYzVvUHFibVZfdTd1UzdhRTFKZTdIZjFDWkFKVW9SUW1BcDM2ck9od0lZcGVKelhrUmstejN0elpGYw?oc=5",
+      "published": "Wed, 30 Sep 2026 16:56:54 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine’s innovative robot offensive just reversed a year of Russian gains - atlanticcouncil.org",
+      "summary": "Ukraine’s innovative robot offensive just reversed a year of Russian gains atlanticcouncil.org",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWtoWEp0ZEdLZy00NWxuVEN6MldibUpvZVFTc0R6MXNNb240Z3FWdVFZZHg1WTBCU1cyRVV2LXRaVE5oZWhyZTQzWXEtYVFjZmFSYUF4RHFmYzF2YVJwWHBPallBVUdqenNFcnJncWhCeV9NVTZnMGtZdW1yY29vZG80SFl0amM5REdjUi1pVGlxaU1fVXBYSGJvMnZUOGtUUjRiNUlHenJhWG5PbGRRZC1DX2NhZ0VYWXJhRjNGamc2R2s?oc=5",
+      "published": "Tue, 29 Sep 2026 19:07:07 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Drone War One: Ukraine | Private Film Preview - AUVSI",
+      "summary": "Drone War One: Ukraine | Private Film Preview AUVSI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95eVFCNFZrbjlPMTV6eDUtc3FISDZXSWtVNW5vb2tKbmh1T0FqYW5oZlROSjB3Tl93eWgzU2NwRVpDX3ZHU3NDZVpkaU9UQjB3RE5DakdPZFRLWUZiMTdCMDlXQ0Y0U1YtamZFc0RyZXNMY1lPQnZ4RTdPTQ?oc=5",
+      "published": "Wed, 30 Sep 2026 16:10:18 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "U.S. creates new Autonomous Warfare Command to fuse and enhance military drone ops - DefenseScoop",
+      "summary": "U.S. creates new Autonomous Warfare Command to fuse and enhance military drone ops DefenseScoop",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRnd1UWxDeFB4eHp5M09EQzF3aGNZWGRHeXBDUmRZdEo5Tktxb2E1WmQ5a2dQdFBCa0hKSlJVQVVsREtjcHRiZjdzUUFkTFg1VzgwTUpoUVZHeW9LaHlYeHFvZlRDTDhBQnVyNGZ2TDdoUDdPOXV2TVZQdkxJb0ZPcEc5cWdMSHNt?oc=5",
+      "published": "Wed, 30 Sep 2026 22:07:55 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian drone crashes into Kyiv playground without exploding - Al Jazeera",
+      "summary": "Russian drone crashes into Kyiv playground without exploding Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNakRsOC1CbHBkLUU0ems3c2tjTklQNEhhMXBsWWFJN1FvaW9zaFJUa0J6REFfMmd4bkJKbmUwTjNIZ09DOHg0d1Q4enJoVURLT1gzeGZWd1YtY0FRWVM4S3ZzRWc5UGd3cUpfYmk0VFZ2SGdoRDljc0ozb2Y0NTFlMnRWNFZ6RHJiXzFERkNVSGNKVUU0bHY3QndWVXh2cjc5dFA2cV91MWQwbVNLZmfSAbMBQVVfeXFMTUIwWFlTdDhOOXp2SVRoQld2Ml8tZDFtSEdBNDVnUXNUTEtUSk4tbjZ0YXoyVllYTWp5VXN6ZTNYM0ZMR3FKQk1kUTJRNGZjZUs2ZzlyWGR3OW1lNE1sbnlvQW13aUlwcDhsSlRBSzZ0aW54NnJWMldFX09BSV9IcDdJcVdqdWF2MEh4WW5yNTJEbEIyWmZmY2JvLVFvQ2haRHhabnZlMFdxY1F0cTVxSXVXXzg?oc=5",
+      "published": "Wed, 30 Sep 2026 22:24:19 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Journalist among eight people killed by Israeli attacks on Gaza - Al Jazeera",
+      "summary": "Journalist among eight people killed by Israeli attacks on Gaza Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHdaT1BsdUpWOE92cFV4aFNkYnNWSG9aRDhtYjBreTZRc1FJMUlqaGRBSExtLUVsYWswVUNBTEVaYUdWX085OVk3d21KU19RRThKNlJ4UWJOWTdfdjgxMl80QkI4dFZlM19BSmtDY1F5MHBQOWdoekV0V2hlekJ3bW5xcWltMFU2SWkxSHlsaVR4dXJpTDJnMm1ORTloc2JnNTBRVUlFNFRqUDlzYXF30gG0AUFVX3lxTE5wQjZCUG9idW1VYVFkeHJBN3VldEpjNDVTNklGd1owZUdZR0tUeHlEVkFXWHJfLWEwcHRwUUdvYWIwRWZxY0s4aTFlN1BwVkhiOFFmTmFTVGZ2LXJ5amVKb0VwU1ZXRGJaWENlZV9LdGdaWDhEeWlkZ0pNVGhidEZWRnJZMDYxdlZNTGwtSERHX0xMcG02QTAwcno1YTZSUThKNEpDOVg1amdUM3U1TVpMaGh0cQ?oc=5",
+      "published": "Wed, 30 Sep 2026 21:45:41 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli minibus strike kills 5 in Gaza City - アラブニュース",
+      "summary": "Israeli minibus strike kills 5 in Gaza City アラブニュース",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMnJEc0R2M2pGQU95ZEtjT2FZMERSUzBRRXNNNEYzNThHdEk5Sl91X29tWlVJU2I5SEkycERkbzgtQkJla1JjVUVaX1lCR181WklBTzJQOVB4MGRjUExTcFlDODE5M1o3SHEwN0FMT2lnSDFLMlYyOHc3TVRBRTZEbktRcXNDZkVCLVRXTVBsYlpCNUVM?oc=5",
+      "published": "Thu, 01 Oct 2026 00:26:32 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Three years since 7 October: How has violence changed in Gaza and Lebanon? - ACLED",
+      "summary": "Three years since 7 October: How has violence changed in Gaza and Lebanon? ACLED",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTTB5Zks3emw4RU1jWXU2R0VPcTlEYjVERGFsSjhNaU9WWWdOWjl6cE0wMzlEV21BY3NiOVpqcjBWNzNJS1FtRWZkdlIyR2NtaU9JOHBManBNc3VwUElsN1JFSk5qX2NzTkxuQVNkMC1GZHBTRDBrQUdpb2lCdy1lbzRHa0o3Q3Q2VVdXRkVHMXdnRmNiS09VbnBBUFZnTmVxdXc?oc=5",
+      "published": "Wed, 30 Sep 2026 14:28:25 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israel kills senior Hamas commander in Gaza strike - NBC News",
+      "summary": "Israel kills senior Hamas commander in Gaza strike NBC News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTBsbklMQXRHSVgtVWZ6LUJqQ2d2Vkx4TWlFcXhBMnJaa2p0dUNwMW1FczNnMzZSRGltdmJjNk04WVV2RGtPcGQ4Q1JLczZrTFhjM1JnQWNobmRfNk13RDdhMTNrMG0taTN5M2xtYU8zclQzNGNSSzkyaGpaQnhuS2lOSklrWHgyalJQZDM1VDJ2RS1PRjZ1eA?oc=5",
+      "published": "Tue, 29 Sep 2026 20:01:45 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Gaza: NGO reports dire camp conditions, says Israel is moving 'Yellow Line' - DW.com",
+      "summary": "Gaza: NGO reports dire camp conditions, says Israel is moving 'Yellow Line' DW.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORG1YNEdUVmQ0YVl2UURIMTRjeWJhUnlQbGtWRmxFQzN6RDZmTmRYLV9lNmtIU2FQSnVTeTAzdzVDTTlOajlpd1A3TDBCeVI2OW1CRXRiTVJUNS1JX1FOdm4xdWoyNFlyeXhUTlFPMENJVmtJV0dEVHI4M3FCUnY3ZF96YjhPanp2ak90MVJaS2VjTEJfdjM0OXF0VzNuQ1gxSU92YnhfUdIBpwFBVV95cUxNNzhzdDVUUnpLRXFZMTI2OFNSa2VvXzhXZEFVdTYyTlZLRWI1bjhxR2pDbjBVWGZDaVZIUUttME0tUU1wQ1FQUTJYMy1nTFJrYXdKMlFGLWo4SkFibDdvdjltSVoyM3BjQmdaT1JxaHJXMUs1NzhHNHhlMTZMdk1IRjZtMW82MlB2Y3JjajhOc1NZUm9hVk1DQW1fMGt5RjdlWTZSdWZ6aw?oc=5",
+      "published": "Wed, 30 Sep 2026 22:14:23 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli strikes in Gaza kill 5, wound 19 and other Mideast developments - Boston Herald",
+      "summary": "Israeli strikes in Gaza kill 5, wound 19 and other Mideast developments Boston Herald",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR3JKV2JLcGhFNkhtZTVUSTBUN2hyOHN5REFmTnhNa2Zsc29qVWROR3VaakxfeXhoY19nLVZTVEZrNTlZdUNvN1BCMDctaEdSQmRhTUJrYWVvcF9CakxJWjdDODNfczlHS3NxcnBxc1VKS3ZpY0ZUYmVOSVRMRXBRSjRkNVA2UFVnQ0tiWkpCWWZHYzJpZ0hXaEE0T1BGLUFma243bW1n?oc=5",
+      "published": "Wed, 30 Sep 2026 16:10:56 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Senate Bill Targets Foreign Support Fueling Sudan's Civil War - Legis1",
+      "summary": "Senate Bill Targets Foreign Support Fueling Sudan's Civil War Legis1",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KeDdDUkItamlTTWI3TVRaSXBnc3dLUktkQXNieHZJYmpFUXVZQ0FzcndKWUxlR1Q2VzNNTVQxem55VEQ0TXdBRkFWT3N2OWdpcGRFNV9Zc2pOX2pQYkpQT0NXN0hiUnhlb0hUVFQ2c0tjb01FcDBFSHhaVHFrZw?oc=5",
+      "published": "Wed, 30 Sep 2026 17:48:10 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "US ceasefire plan for Sudan could lead to Libya-style partition, adviser says - Reuters",
+      "summary": "US ceasefire plan for Sudan could lead to Libya-style partition, adviser says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0RmMU9vazY0cHBUV2I1Rm52MW5hbzFlYVNHWllqLVUwYVRMVmd2azBfR1FBbnlrU2Nfcnl3cGFfRHN6MzNfTUdJRUE5ZVVSa0gxUnFiR3pvXzFwQ0x4Y3JuVWJxWm9ybGpudlhLZzhwSEdrOWtkUjdscWdzRnFFV1EzSFpiQ1JMVXRtMUZDOHBSa0ZzMW1LRTNPb1F4WUFGSHdidnVZWjRuUk1VZHdleDdzbW9fVExZV3c?oc=5",
+      "published": "Wed, 30 Sep 2026 16:10:43 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "The Sudan connection: Could fighting centered on Tigray draw Ethiopia into a proxy war? - DW.com",
+      "summary": "The Sudan connection: Could fighting centered on Tigray draw Ethiopia into a proxy war? DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNemhvZE56MkFvRXBocnpaQjQ3MVppUUlIZGNjUkpoMXpoaGFqanI3a0VNZ1NxclhJZzNmY2xCY0NuWHFnSGZsb1F5YmRkMXBYcEZOd2FzXzI5RTlqLTZ2bWtzVVBtRFZjWVBsUl9RdFhPRkVxc1J1NHVPTWtNUXF4YnV0dDVNSjB5ODhxclpfSy1VQdIBkgFBVV95cUxQdTJRUEcwNTZwMnFTN281VzhwWWViYlM3R3VRanYyR2drdUJsMmNtMFhhQWMtMVRWVlhuTDBFR2l3cVktU1oyX2FmczVfa3JGQy0xZ3JpMENpb1BQY0pRVTItbnFGRWpJU0ExeGlPcW55a1VpTnkwaTNFRFo3NzJ3LUJmR2NBQUQ3T2lmdTRHR3hVdw?oc=5",
+      "published": "Wed, 30 Sep 2026 16:17:22 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "One of Humanity’s Most Pressing Conflicts: The Sudanese Civil War - Arab America",
+      "summary": "One of Humanity’s Most Pressing Conflicts: The Sudanese Civil War Arab America",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTzlYSmhXaWFnX3Job2xEclAyWlZ0Z0t0akJfVTF1bTJzcjFBN1A1enFyQUFlUXBkSDVxNEtzU1RrTjRoQmpoSjlwY3YtaUdHTE9rNHdZRV9aQy1BSEU0WTE0eUVHT3pWTHYxc1hXa0htQ1dXanUtNDlWY1MtWmZPS0pZb1JleVFKUTBnT3VZMWxVbVlyNHNN?oc=5",
+      "published": "Wed, 30 Sep 2026 04:06:05 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Ethiopia blames regional rivals as risk of conflict spillover rises - Al Jazeera",
+      "summary": "Ethiopia blames regional rivals as risk of conflict spillover rises Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTjREbEwzWHFGYU1OWE5uUnJYSEtnMG5hZk1ZWXgxbGlpNXhIRWE4elo1Q0VfNXgtYWw5N1U2RVozNnhURExsLW0tSUJWdEI5ZW9PM05rTl85eEpvNzI2SHVhQXF4TnlPT0lYRkFfbnZVQnJuZ2FvWWZFR0lDTHhUaHRFV2Z3WEpzdWxXbFFZWmVlX19VdUdFSU9ZaEtrdXVJV203YXR5SlVVejlk0gGyAUFVX3lxTFBkWFE5Z3VXdkhGSm9kMkdpRVNiYklqcWpYMUtMMk81cHpGd1pJSHNFbG8wZVJWZDYtMkczYzItTnlmMlFjV3Rkb19EaEI0bWJFT1FKMUUySGFVVnNBVEJsaV9mNzJWV29ZYlFYNzZhQi1XUzZELTdqcVVoOVp3WkxaaXZ5NE0zeHExYXpFUWw1N2FhUWNWUHlKTHNHYVI0YWpJVzk2OFV4NVFpbGU5MVNhRXc?oc=5",
+      "published": "Tue, 29 Sep 2026 17:28:55 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "The New York Times. . At least 50 people were killed and 58 injured when a military jet dropped two bombs on a market in rebel territory in Myanmar. https://trib.al/sWJwPeY - facebook.com",
+      "summary": "The New York Times. . At least 50 people were killed and 58 injured when a military jet dropped two bombs on a market in rebel territory in Myanmar. https://trib.al/sWJwPeY facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUUpkcy1VWkgtdnpOODcydnR6RHZrWXJOVnZwd1R5c193ZXRyb3NjcTRfTk1vcncybmhUMWlEaGpBX0F0SFhxWDE3b3hxZFdWUGlzY2NpRUhWd3hYMUljelhFVkMtMGRIcXRaZnhtbTBGZmxBSXl0ZS11azhRYU5rYjhJR25XdUVxR25ZeVQ1d19CaEIybmtXYWFKRS1BejREbldj?oc=5",
+      "published": "Tue, 29 Sep 2026 14:40:06 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update - UN News",
+      "summary": "World News in Brief: Deadly Myanmar strikes as Malaysia begins deportations, new emergency funding released, Gaza and West Bank update UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1cXpybXJRWXdVRXlySk1oSzBlLWtTWWhnSnlvTF9nNGpySnpYRTR5TzhhMXNjbXdYLXQ3bmdKSEJtNHZVblUya3JDdlpyZWtWb1d4UXBjWQ?oc=5",
+      "published": "Tue, 29 Sep 2026 20:40:43 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "UN alarmed by reports that Myanmar air strike killed 50 - Reuters",
+      "summary": "UN alarmed by reports that Myanmar air strike killed 50 Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdXNfc0kxMkFDRU1CWGhNZy1DWmF2U2lHTXZJa0RxWTJzU1I2cDcyQ1d3ajg5Zm1xYTdqNEVNamVmX2dVYWdVc0U1UTVOeXFHcHhsVmhTSlN5dDVhM2RlTkNfcGpsQTczdlIyQ0lRcmQtMG5WQ0lUT0NFUUp2RUE3bXNGM0V4dnVNNXV2LWtfY2RjZmo5YUZFeUthcE1FeDhoXzV4aGJJMkFyTXlfSmVn?oc=5",
+      "published": "Tue, 29 Sep 2026 19:56:56 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar Military Conducts Airstrikes on Ponnagyun Town - Narinjara News",
+      "summary": "Myanmar Military Conducts Airstrikes on Ponnagyun Town Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4a0FQYUZLODc1a0xSbEk3MVdVNEVyQkpLRVNiU184bU9UakFhTlpJMWNVbnpYQjcyWlFERjhRZDVLWEF0WlJhblk2V0NoQnUwa1Riamkwd0oxSXlBX2NnZ0RhaUFyUHlPS3I1dVEzVQ?oc=5",
+      "published": "Wed, 30 Sep 2026 16:14:07 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Aftermath of a Myanmar military airstrike, according to a rebel group that controls the area and a local aid worker, in Kyauktaw, Rakhine State - The Lufkin Daily News",
+      "summary": "Aftermath of a Myanmar military airstrike, according to a rebel group that controls the area and a local aid worker, in Kyauktaw, Rakhine State The Lufkin Daily News",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZHJlcmwzMnNwb2k3Vm54ZGdSUEV2ZmRaaWs1dkN2TkF3VWJyUnJPRDRJSnl2SzZHY3ZJR3VfVWNHYVkyNDFfblVRRXlGN0t4SUQ1cVVDamdRdzUzUEVESEVDMGJtM3dseE1FWWtRWHlxcVFnQWp5OUhFQ2JpUll6dUVQNHI3VjFUU1g0QS10MFZ3VWxDZkxiQ3B1bXJOdllFb0MzU0NRUkFpc2lJcnRvZGVLZm5EeUp0VUo1WlhuZFhvX193TWhYeTF6dm0xcFFGb21fZy14YVNTcXlEdE1QS1ZhZzhLLXVrUHBaSW44WDZfR2JHN2VnUTJaY0d2VGFRNFRmTU92RzhjMmJBTlhNbHlOODJEMTN3?oc=5",
+      "published": "Tue, 29 Sep 2026 19:46:11 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Video: Dozens Killed in Myanmar Military Airstrike - The New York Times",
+      "summary": "Video: Dozens Killed in Myanmar Military Airstrike The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObTBzdzkzYXRwNlNwMkd6UFF5THZzd2libmR3OHhqa3hVeEw2djNtTWtXVlQ4d19MeGkyZEdXaWJDR3MySUxLTkVYR19Nb2E2UU1xRGxWQ2Utd1hWNUpobUpIVm02S1k5M0I2aTVyOUs1OWQ1YWhQV0QycTh3VHE2LUEwamtnQVNwN3MyRmV3MDhUZWwwN3FWUDFR?oc=5",
+      "published": "Tue, 29 Sep 2026 13:38:07 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "Exiled Burkina publisher tells RFI of repression and fear four years after coup - RFI",
+      "summary": "Exiled Burkina publisher tells RFI of repression and fear four years after coup RFI",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOME1JYmQ1cVlQeFJud3p5WDBIa2RTRk9lY2pvVWE4U1R2WTVwZEZUR0U4VU0zN0h4VEZWYlRyTlA4Zi1DSlJNaUpzTFJ5bk1ud1pWNUF1LWlqakVTZjdnc2VvWnlKSGF3Nzc1U04zeWRDcko2U25VTVZqMjc3S1dPcERielZQUVlwa0piT3AwSTFCSW1KOWVIdFVFR084Q21YZlhqQUxGNTB2MHgzaFMwZlBQMXNxMTAz?oc=5",
+      "published": "Wed, 30 Sep 2026 12:21:36 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "Burkina Faso Opens First Gold Refinery - allAfrica.com",
+      "summary": "Burkina Faso Opens First Gold Refinery allAfrica.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JS3RBa0QxeTc5d3p6ZVBjLUpmYW9XS1NORkttMXJYRjJaaGpPcm9fUElCTEoySzVodWRyMEhUb2pDY2xzYlU0eFFwLXpWOGl3UThqQ1REMXdNVmZnd0VaUUxkYVJ0aWNFT3c0?oc=5",
+      "published": "Wed, 30 Sep 2026 08:02:17 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+      "summary": "Trump says the US may “blow up” Iran or strike a deal, insisting the standoff will end very soon one way or the other.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+      "published": "Thu, 01 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Russian drone crashes into Kyiv playground without exploding",
+      "summary": "A Russian attack drone crashed into a children’s playground in Kyiv, Ukraine without exploding.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
+      "published": "Wed, 30 Sep 2026 22:13:35 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israeli attacks across Gaza kill at least eight",
+      "summary": "Israeli attacks on residential areas across Gaza killed at least eight civilians and wounded others on Wednesday",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/israeli-attacks-across-gaza-kill-at-least-eight?traffic_source=rss",
+      "published": "Wed, 30 Sep 2026 20:12:22 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Displaced by war, young Sudanese turn to entrepeneurship to survive",
+      "summary": "Displaced by war and shut out of formal jobs, young Sudanese are turning to art, small businesses, and entrepeneurship.",
+      "link": "https://www.aljazeera.com/features/2026/9/30/displaced-by-war-young-sudanese-turn-to-entrepeneurship-to-survive?traffic_source=rss",
+      "published": "Wed, 30 Sep 2026 19:43:47 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 23:10:06 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "summary": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted, the Ukrainian PM says.",
+      "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 14:53:02 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 11:36:23 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Girl has multiple surgeries to control infections after strike in Gaza",
+      "summary": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+      "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 30 Sep 2026 05:02:50 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine's prized steel industry left in ruins by Russian missile campaign",
+      "summary": "Ukraine's remaining steelworks, a vital part of its economy, have all but ground to a halt because of relentless attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/cjkg7k6z9296o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 29 Sep 2026 23:33:34 GMT"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "World News in Brief: Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban proves lifesaver",
+      "summary": "UN teams are racing to protect families in Gaza from the coming rainy season, but restricted access to land and shortages of critical supplies are hampering the effort, UN Spokesperson Stéphane Dujarric said on Wednesday.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168496",
+      "published": "Wed, 30 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Somali families face renewed violence amid worsening hunger crisis",
+      "summary": "Children have been killed and injured in fresh fighting in Baidoa, in Somalia’s South West State, where families were already facing severe hunger and other overlapping crises.",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168495",
+      "published": "Wed, 30 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Lebanon: One in five children goes to bed hungry, says UNICEF",
+      "summary": "Four in five households in Lebanon struggle to afford basic necessities today, with children increasingly going without food, missing school and being pushed into work as conflict compounds years of economic crisis. \"I wanted to buy clothes for my children, but I could not. I also wanted to enrol them in school, but I could not afford that either,\" said one father of four, cited on Wednesday by the UN Children's Fund (UNICEF).",
+      "link": "https://news.un.org/feed/view/en/story/2026/09/1168490",
+      "published": "Wed, 30 Sep 2026 12:00:00 +0000"
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 30, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-30-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 29, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-29-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 28, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-28-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 27, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-27-2026/",
+      "published": ""
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "북한 김정은, 김일성대 방문…지뢰 사건엔 '침묵' - v.daum.net",
+      "summary": "북한 김정은, 김일성대 방문…지뢰 사건엔 '침묵' v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5IS1MzNW4tV2dGR2IwbXdDUl9INDBzRDN1aG1icGQwcjdJcndTby1aRDhkdnZVUnRsbFIyOXZnZGRyQWR2a1luQ2RVOVpkTlk?oc=5",
+      "published": "Wed, 30 Sep 2026 22:54:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "트럼프 \"내가 있는 한 김정은 괜찮아...상당한 핵능력 가져\" - YTN",
+      "summary": "트럼프 \"내가 있는 한 김정은 괜찮아...상당한 핵능력 가져\" YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HSFZkSXloRm5JYmNNOVE1cXZGU25sbUcxRWVHQUFjcjNjczNiWFprclBEbG4wckJuZWg4U28yWFItY0VpQ3luZDlJLUhMNHk5VlFJbEstR3J4UFdmX2c?oc=5",
+      "published": "Wed, 30 Sep 2026 13:58:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "김정은, 김일성대 창립 80돌 행사 참석...\"최고급 혁명인재 키워내야\" - SPN 서울평양뉴스",
+      "summary": "김정은, 김일성대 창립 80돌 행사 참석...\"최고급 혁명인재 키워내야\" SPN 서울평양뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1OY1VTTmpBVDJFRENDVVRkaTRtTVVPMmFNV25PRjJTdkh5VFRpRloybzE0WHJuVE5rSUc1cjZzRUxTYXJINTVjLXhSTGlpVUtQWGVuUnRHUk5aelR3N3h6X19mWjhWMlJjQWdz?oc=5",
+      "published": "Wed, 30 Sep 2026 21:47:44 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "\"북한은 왜 핵 가져도 되나\" 묻자…트럼프 \"김정은은 내 친구\" - JTBC",
+      "summary": "\"북한은 왜 핵 가져도 되나\" 묻자…트럼프 \"김정은은 내 친구\" JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13cHVucUZaeVNDZmM2TkZxTzc2MGkwQ084U0N5OHJQVURUZGR4WVY0ckVrSHphNGh2YV93RjlicUlVZ1BGZDRkLVJxN1kzWnRmUGRWYg?oc=5",
+      "published": "Wed, 30 Sep 2026 08:11:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "국정원 \"김정은 140kg대 초고도비만, 주애 160cm, 50kg 넘어\" - 조선일보",
+      "summary": "국정원 \"김정은 140kg대 초고도비만, 주애 160cm, 50kg 넘어\" 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcF9MLW84Yk0wT0hrUFRwZllLX1VoSnF1eU45RnltRjRKTmE3TzFwNkxPY1NDQ1U4YXRTaUdpakJOM2NfZ3dTU2pyb3dQN1ZpZVQ3N0Y2eHBHRFNncTVnYTdRZUxxdjIzSFk4cmJ4cVQ4UEd3SmlCMXR3UURzMHJMSTdOWGF6QQ?oc=5",
+      "published": "Wed, 30 Sep 2026 02:39:59 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "김정은, 80주년 김일성大 방문…\"교육·과학·인재 강국 견인\" - 연합뉴스",
+      "summary": "김정은, 80주년 김일성大 방문…\"교육·과학·인재 강국 견인\" 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JMFJIUGk1WmZINEJHX1puZ0tTZDAwY21oNkMzVk9DeDlxbmdpMVhtWTVZMFhvRFBZN3VhcjR1bHFmV1NyaDl4S1ZSa2s3bFZxVHIzZ2dsWXRLd1XSAWBBVV95cUxOY3hycUVhTVZYZkNlOThCalBIbUdvWjdJSXl1UjIzN3FDYnkzTUtvSTI3T25zMVhrYjFJMjBRdms2cThyQl94d0RyTmpmSHlGZWhsZktpa2xTd3NWRnRyTXU?oc=5",
+      "published": "Wed, 30 Sep 2026 22:08:55 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Trump calls Kim Jong Un a ‘friend’ and plays down N Korea’s nuclear arsenal - Al Jazeera",
+      "summary": "Trump calls Kim Jong Un a ‘friend’ and plays down N Korea’s nuclear arsenal Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbkk3Yl9aUURscXNLdEJ4b28zQzc4Z1k2TWJWUUU0ekgxamtuVlN0TVNlNFhnMXNqYlVqZmZJYWpMUHpZUGsxMXJxRUNLUlNqUzZ2TmhsaGhjX2ozMEROUExLX3pESm9tMVoxd1QxXzNtQ0JsclRJUzJJQnFXWGhpVmtjeGJJUlpiVFYySUM1SVJOblZnc3lndGFrbGluUGZ3bHZhaXZGWHJjdmxUbWRBUkc2VdIBuAFBVV95cUxQTG0zYzdoV0ZVX1FYb2tGdGFBbmlUZWN1TXh3WkdVWXc2Zk15c01yWEEtYWlrcGlFanJ2N3VGc2pmU3NQd1g2XzhvekpRcklKRm9JT1BNZUVpb3gxdzN4LU5zU09WN2ZBZXd5RTNwNTNGVXEyQUVNcEdRWURON1pnc0xtN00tTlAyem85bzQ3V0xPeUdMVF9ZRW5CTzZDa2M1bUE3TEdYdTFCVS0zYWowMklMbm9Kb2lO?oc=5",
+      "published": "Wed, 30 Sep 2026 06:56:56 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Trump May Meet Dennis Rodman, Won’t Say If Kim Jong Un Is Topic - The Pavlovic Today",
+      "summary": "Trump May Meet Dennis Rodman, Won’t Say If Kim Jong Un Is Topic The Pavlovic Today",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NM1ZRN2JNV3RRZjZIWHppOElRWjdUYUQ1QUIzZFdfVHcxM1lzc1doeEh2ZlVjaWd4QlBNdkt3SVBFNWZJMGhiT2lCNkRZdTV2OVN1Zk85S2hqZTczZmdIakJRVVpIRmgwVVVxZi13?oc=5",
+      "published": "Wed, 30 Sep 2026 23:38:26 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Trump Says ‘Friend’ Kim Jong Un Sets North Korea Apart From Iran on Nukes - newsweek.com",
+      "summary": "Trump Says ‘Friend’ Kim Jong Un Sets North Korea Apart From Iran on Nukes newsweek.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmI1ZWRuTjROX0p2UUJ5X204Z1UwS3lzWllHSUJjOUE4dWRhRUNldkQwcWJYLWlzUkJpbU42cWQzeFZnNVB0b2RfNjhQY0g3V0RlN3R0Q3NOZnhaSzNvWEZrMmowOWdvYkJpZnM0UnVJMTZxaVRNRXYtaTVKN2JNcVRTWmQ0ajNsZ0dLOHZabDhzRDFnOUF2VWZSRWNHM3RNTDdWSlVwYi0?oc=5",
+      "published": "Wed, 30 Sep 2026 01:23:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korean leader 'extremely obese': Seoul spy agency - afp.com",
+      "summary": "North Korean leader 'extremely obese': Seoul spy agency afp.com",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdDM3ZVVmeE8zbU1fWlJmMTZ2UHdyT3A4WnRUTnVxUFVNU3AzWUtoYXo5NkZJajJqaThxRjNfbEZqUGVKcTBqYmgwTE55Nm90aGh6eHVYSmNVeFRPQlVwV3hielgtMHAzdFBuUlQzaGdiU0xaWkxQTGo2dTJCSXg4MQ?oc=5",
+      "published": "Wed, 30 Sep 2026 06:02:30 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea calls DMZ mine blast a 'farce' as UN Command says armistice breach occurred - Reuters",
+      "summary": "North Korea calls DMZ mine blast a 'farce' as UN Command says armistice breach occurred Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMTM1eFpfWkUtNXRhbHFmLXN1OXlqMnJXNE5OUnN0MVV5Ti1IQkpGbGlBTnAxa1B1RFNLc1dISVZQcW5JLVJhazcwWG5qU194MDNBZk1mTTBBOXVlemJ1YXVkU0FDeDBMQ2RzSXZmWmRFLU8zeEU2aW9VekRVaVpRSUZrWnljTlVaYWh5Q2d2TG9OUTNlc3BRUm1veDFyLUNBYjBnbC1iTVNyTGZsME1yZDhXZDUzWEtTMnA5eG9NbldWSExldUJFaA?oc=5",
+      "published": "Tue, 29 Sep 2026 22:05:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Trump says it’s fine for Kim Jong Un to have nuclear weapons because ‘he likes me’ - The Independent",
+      "summary": "Trump says it’s fine for Kim Jong Un to have nuclear weapons because ‘he likes me’ The Independent",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLVd2M29HVXh0aVY0bkoxQTlPejUtVHM5UEhpU3plNjZkODJpcWtZdWw4SkZMb0N5ZGQwWGZMV3VUdTRBY1NaX2lzb0dINkI5Vi1VMEdOcURrdWNiM19zYVZmREs3Z1ByS3h1ejlGQV9Nbm1JQ0RZbktpLXE3RTZyWWNCaFdSbkU3Ny1hbXp0RVBMTXRaTXJfWDU0QUd6UFJBMzgwdzVCUnlqYTA4Y281REhxUQ?oc=5",
+      "published": "Wed, 30 Sep 2026 08:01:00 GMT"
+    },
+    {
+      "source": "38 North",
+      "title": "Land Clearance Could Signal Drone Base Expansion",
+      "summary": "Clearance of agricultural land at North Korea’s main drone development and testing base could ... The post Land Clearance Could Signal Drone Base Expansion appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/09/land-clearance-could-signal-drone-base-expansion/",
+      "published": "Wed, 30 Sep 2026 21:02:25 +0000"
+    },
+    {
+      "source": "38 North",
+      "title": "Quick Take: A Shift in US Messaging Amid North Korea’s Nuclear Signaling",
+      "summary": "When Presidents Donald Trump and Xi Jinping met in May, the discrepancy between the two ... The post Quick Take: A Shift in US Messaging Amid North Korea’s Nuclear Signaling appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/09/quick-take-a-shift-in-us-messaging-amid-north-koreas-nuclear-signaling/",
+      "published": "Tue, 29 Sep 2026 15:57:15 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "50% chance of US-North Korea talks around APEC summit: report",
+      "summary": "Talks between the United States and North Korea have an equal chance of taking place around the Asia-Pacific Economic Cooperation (APEC) summit scheduled November in China, according to a lawmaker Wednesday, citing an assessment from South Korea’s intelligence agency. The National Intelligence Service (NIS) believes “there is roughly a 50% chance of talks” around the […]",
+      "link": "https://www.nknews.org/2026/09/50-chance-of-us-north-korea-talks-around-apec-summit-report/",
+      "published": "Wed, 30 Sep 2026 09:23:11 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "UN Command says DMZ blast involving North Korean mine violated armistice",
+      "summary": "The U.N. Command (UNC) on Wednesday determined North Korea’s land mine that exploded on South Korea’s side of the western section of the Demilitarized Zone (DMZ) on Sept. 21 violated the Armistice Agreement. The UNC said in a statement that it conducted joint on-site investigations with the South Korean military and found an “active DPRK […]",
+      "link": "https://www.nknews.org/2026/09/un-command-says-dmz-blast-involving-north-korean-mine-violated-armistice/",
+      "published": "Wed, 30 Sep 2026 03:27:54 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea, Russia ink deal to recognize university degrees",
+      "summary": "North Korea and Russia have signed a deal to mutually recognize university degrees in a bid to boost academic exchanges, according to Moscow, alongside a series of cooperation agreements reached between Russian and DPRK universities in Pyongyang. The agreement was signed during the second Forum of University Rectors in Pyongyang on Tuesday, Russia’s Ministry of […]",
+      "link": "https://www.nknews.org/2026/09/north-korea-russia-ink-deal-to-recognize-university-degrees/",
+      "published": "Wed, 30 Sep 2026 02:01:23 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "‘Self-staged farce’: Kim Yo Jong denies North Korean role in DMZ mine blast",
+      "summary": "North Korea claimed it is not responsible for a landmine explosion that injured South Korean soldiers in the demilitarized zone (DMZ) this month, according to a statement by the leader’s sister Kim Yo Jong published by the Korean Central News Agency (KCNA) on Wednesday morning. In a statement titled “Those Behind the Provocation Should Be […]",
+      "link": "https://www.nknews.org/2026/09/self-staged-farce-kim-yo-jong-denies-north-korean-role-in-dmz-mine-blast/",
+      "published": "Tue, 29 Sep 2026 22:41:03 +0000"
+    }
+  ]
+}
