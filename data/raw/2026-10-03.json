@@ -1,0 +1,507 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T09:47:08.198856+09:00",
+  "history_candidates": [
+    {
+      "year": -52,
+      "text": "Gallic Wars: Vercingetorix, leader of the Gauls, surrenders to the Romans under Julius Caesar, ending the siege and battle of Alesia.",
+      "link": "https://en.wikipedia.org/wiki/Gallic_Wars"
+    },
+    {
+      "year": -42,
+      "text": "Liberators' civil war: Triumvirs Mark Antony and Octavian fight to a draw Caesar's assassins Brutus and Cassius in the first part of the Battle of Philippi, where Cassius commits suicide believing the battle is lost.",
+      "link": "https://en.wikipedia.org/wiki/Liberators'_civil_war"
+    },
+    {
+      "year": 382,
+      "text": "Roman Emperor Theodosius I concludes a peace treaty with the Goths and settles them in the Balkans.",
+      "link": "https://en.wikipedia.org/wiki/Theodosius_I"
+    },
+    {
+      "year": 610,
+      "text": "A fleet of the Heraclian revolt under Heraclius the Younger reaches Constantinople.",
+      "link": "https://en.wikipedia.org/wiki/Heraclian_revolt"
+    },
+    {
+      "year": 1574,
+      "text": "The Siege of Leiden is lifted by the Watergeuzen.",
+      "link": "https://en.wikipedia.org/wiki/Siege_of_Leiden"
+    },
+    {
+      "year": 1683,
+      "text": "Qing dynasty naval commander Shi Lang receives the surrender of the Tungning kingdom on Taiwan after the Battle of Penghu.",
+      "link": "https://en.wikipedia.org/wiki/Qing_dynasty"
+    },
+    {
+      "year": 1739,
+      "text": "The Treaty of Niš is signed by the Ottoman Empire and Russia ending the Russian–Turkish War.",
+      "link": "https://en.wikipedia.org/wiki/Treaty_of_Ni%C5%A1_(1739)"
+    },
+    {
+      "year": 1862,
+      "text": "American Civil War: The two-day Second Battle of Corinth begins as Confederate forces under General Earl Van Dorn attack Union defenses led by General William Rosecrans around Corinth, Mississippi.",
+      "link": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "year": 1873,
+      "text": "Chief Kintpuash and companions are hanged for their part in the Modoc War of northern California.",
+      "link": "https://en.wikipedia.org/wiki/Kintpuash"
+    },
+    {
+      "year": 1912,
+      "text": "U.S. forces defeat Nicaraguan rebels at the Battle of Coyotepe Hill.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Coyotepe_Hill"
+    },
+    {
+      "year": 1935,
+      "text": "Second Italo-Abyssinian War: Italy invades Ethiopia.",
+      "link": "https://en.wikipedia.org/wiki/Second_Italo-Ethiopian_War"
+    },
+    {
+      "year": 1943,
+      "text": "World War II: German forces murder 92 civilians in Lingiades, Greece.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "year": 1946,
+      "text": "An American Overseas Airlines Douglas DC-4 crashes near Ernest Harmon Air Force Base in Stephenville, Newfoundland and Labrador, Canada, killing 39.",
+      "link": "https://en.wikipedia.org/wiki/American_Overseas_Airlines"
+    },
+    {
+      "year": 1952,
+      "text": "The United Kingdom successfully tests a nuclear weapon in the Montebello Islands, Western Australia, to become the world's third nuclear power.",
+      "link": "https://en.wikipedia.org/wiki/Operation_Hurricane"
+    },
+    {
+      "year": 1963,
+      "text": "A violent coup in Honduras begins two decades of military rule.",
+      "link": "https://en.wikipedia.org/wiki/1963_Honduran_coup_d'%C3%A9tat"
+    },
+    {
+      "year": 1989,
+      "text": "A coup in Panama City is suppressed and 11 participants are executed.",
+      "link": "https://en.wikipedia.org/wiki/1989_Panamanian_coup_attempt"
+    }
+  ],
+  "korean_war_hits": [
+    {
+      "year": 1951,
+      "text": "Korean War: The First Battle of Maryang San pits Commonwealth troops against communist Chinese troops.",
+      "link": "https://en.wikipedia.org/wiki/First_Battle_of_Maryang-san"
+    }
+  ],
+  "korean_war_date": {
+    "month": 10,
+    "day": 3
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Putin has told military leaders to abandon rules of war, Zelenskyy says - Financial Times",
+      "summary": "Putin has told military leaders to abandon rules of war, Zelenskyy says Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzBOOS1DbVhuTjJneDh1azlCTHRWcDVYX1M1b2pDRHdweVhZUllPZ1p4TnhHR0tDWHcyZ1BxeFI5VUFpdXFXQU1Ua3FpWnhCTzY5dVU5dERQNzNDU3BST3lfZTNnNXg5ZjRBR2VyejFXNzY3QnpGZVFZeXhzXzJKQzdZdVI?oc=5",
+      "published": "Fri, 02 Oct 2026 04:00:33 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian Offensive Campaign Assessment, October 1, 2026 - Institute for the Study of War",
+      "summary": "Russian Offensive Campaign Assessment, October 1, 2026 Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORGJ6V2ozc1EweDNqNHhNU0VzMGZ0N3pudGtONFFRNHZfdEl2Y3ZpN3VtaUJqeGlyUE5DcXlVaHFpT3hJQmthb3JOTHpmTUd1YTZ3Z0lRZUlXa3FFUlltTDlIMlFUZXF3LUdONGd0Ml9HVXlxMGlELUxoYm9namVBTUktczd4LTltMjAxa1VJTFNsZDRrdk12R2lsZU0wQmxKcjNfSnlNYmZoZw?oc=5",
+      "published": "Fri, 02 Oct 2026 07:01:09 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock - Al Jazeera",
+      "summary": "Ukraine calls for tighter sanctions as Russian attacks spark Kyiv gridlock Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOHhDYkl3M3k1elhwZUJVZk5FbW5fNTJxMHlZYmdhOWkzY0E4YlNCa2JmQ0lDZ1QxbTRoemZjeHRsLWVLWllyUmJVX2RUTFREMEY1d2d0eUdXdm5QajRDMXZkbzdtYjBPbVZUcWNkM094YjAwc3ZIb1BXOVRWbzI4clVjQ3J5U3RZM0szcmstdER5V0p0MEJaVDBzcmNVN2lkVHBaMnZ5MFpVQko3Sm0zcGRRN29ld9IBuwFBVV95cUxPblUzWkpKLWZGQmxKeFQwSWo0emtiaGFlYzN4aWtQTC1XT2RkQXpEVXlnQVlPd2o2R0FYNFpNbDhUQ21uZF9SOWpCQ0lqdENUekNZM3I2QW5ISUVWZ1dLbFRNSWJhemRieFVNdE1FZ3NncVNCajVteDQ5ZXRUNnNnN05jLUVFdlk4Qm40M2hZbmMxR005T0ZqTVFRc0dpOGRqNWFnUHJFWjdLbHdxbWVyYW41LW9BWm1QZVUw?oc=5",
+      "published": "Fri, 02 Oct 2026 18:55:56 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine war briefing: Zelenskyy says new ballistic missile used in combat - The Guardian",
+      "summary": "Ukraine war briefing: Zelenskyy says new ballistic missile used in combat The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU2xnMjdWajl6OGE0ZmZZMWN4d1ZPc3lBQ3JfYjF1bFozMXg4NU5nSXhOZEkwV2FmRzlsU1hkUDRHbndyRWhqdDVxZHJ4Xzk4c1V6ZG0wdXhvemRfWFpUMlMwTHppQ3JZdTVfQURVSktoSG1reVQycWw0MFRqTklFR0s3YnRmcXFLek1HcE9OaWJZS09hTEVwTUdtc0ZnMkpBS3NLV2lLcTlsTnpzV0tlT0FncXB6RXIwbVE?oc=5",
+      "published": "Fri, 02 Oct 2026 23:42:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor - BBC",
+      "summary": "Intensified Russian strikes are tearing Kyiv apart, warns mayor BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pSUVURXBKWVA1YmwtNjFZQ0tQbmt6NnUtWEVESEFsamFXR0tlb0NEbzViWDA1Tm9OSzROV3d0VXhmQ3k1UjNTNTg5ejYxQzlmU1A3NWlvaU5FU1E?oc=5",
+      "published": "Fri, 02 Oct 2026 15:26:37 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia’s Offensive Goes Backward as Ukraine Regains Nearly 300 Square Kilometers Since March - UNITED24 Media",
+      "summary": "Russia’s Offensive Goes Backward as Ukraine Regains Nearly 300 Square Kilometers Since March UNITED24 Media",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNDJxZlJVck5Ya053S1psZ3NlclF0NThwYWN6WVJQamsyeDlXYXYzbVZTRnJTOTJDNGMtMEFIY0d0N3hpUHBra0FpTkxKTkhyTXgzZU9xYmYwRjlGWEt1OFlxV1lzMHJNTHZWckV4YVVoMElLT1JxU1NGYkpWMHUxY0I3RWlldnlIc2ZkT05zV2F0c2tNS0ZPWWFkMTFiX1M4cDZyQnZ4OFVOc0gzMmtpYWdjMDJtZ2FvX0RlN1hETUI3TWROcVVOZG9jckxDQXp4RE82QQ?oc=5",
+      "published": "Fri, 02 Oct 2026 09:38:39 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli strike kills four people in Gaza, medics say - Reuters",
+      "summary": "Israeli strike kills four people in Gaza, medics say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTRBdWs0UERVMW05RGtXdHdNWGJKajVmSkFZQVdpamVzQ0VqMkNqdjBmWHp6ZGUtZkozbXpnbEREeXBSeDZ6dXJJWC05UXc4UDBGTk1iOWZ6Y0hUR0NBWDZETkxCNGJOTURYUGhpRG9TVzRJTndvX3hieVczbzZHLU9aN21CV2J5cXYxLU4xVHVvcEIyTVVTbmlYem1QRGszQ1Ztbg?oc=5",
+      "published": "Fri, 02 Oct 2026 23:50:35 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Three Killed as Israeli Violations of Gaza Ceasefire Continue - - IMEMC News",
+      "summary": "Three Killed as Israeli Violations of Gaza Ceasefire Continue - IMEMC News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORFBRZGxVN2hKdG5Ba2pKY0F2bVFqWDVELTkxT3d3enV1TUVuZVpfc2RvMVlQdkl2Z2oybS02ZXJsNEpBdGpOQm5pU1NpUWlFUVVtcmN2VHZHdjBnZDItaHV3enp4SEctVzU0anBUZnhhdExQMlEybDUwcGxncjFhbHY1dlZ3VHlvT3YxMjBLVVB6QQ?oc=5",
+      "published": "Sat, 03 Oct 2026 00:19:30 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli Strike Kills Four People in Gaza, Medics Say - Haaretz",
+      "summary": "Israeli Strike Kills Four People in Gaza, Medics Say Haaretz",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQclNFSmdqYm1iSHFRWTBfSmlxMnRNNU5QT2xBZDIzSjhkNWt6UVVvWDNobGFYV3lwNUVKcEpzWGFEYmJBU05UaFVRY3FHLXBycXphVkt3SlltX1BaSnhxRndkamQ5Y2xGNmJzLTBHcnhaQk1uTVc4MlhLZjI5LWxCcFQwa3pGOE9YaVRYbU51cnBFakFYLWcybHdPanhUVGhOUFhDdEdpSGxFbVBCTnBGODNVV19oeHByUGRLUGNybVR0bnRNS0pFcnM0eWtnbUtULW1oX2d3?oc=5",
+      "published": "Fri, 02 Oct 2026 23:50:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "3 Palestinians killed, 4 injured in Israeli attacks on Gaza despite ceasefire - Anadolu Ajansı",
+      "summary": "3 Palestinians killed, 4 injured in Israeli attacks on Gaza despite ceasefire Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOa2l4TlFHMHJ1eUV0MS1zOEtSOXhsbWVFOTJldmduWHNySFNMaWJzaFo4Y05BUUxCaWE3QXpBdHNpc3dINmNkRFdvQ3k4NVhIbkRkY29uZWpKSnBaMmhWdDQ1RXViRjBzUkREZFlBU3BROFMtNFVvNUNZWUlQMnRVa1FRNW9Ea0dPekx1QnpNaUVmMnNfeTFUZ01aMUpsQXU3ZFBDT1lwUnRYLVJ1SThoZVpmZkNhZ2lnVzFJNDJ3?oc=5",
+      "published": "Fri, 02 Oct 2026 17:09:27 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli strikes kill 3 people in Gaza - arabnews.com",
+      "summary": "Israeli strikes kill 3 people in Gaza arabnews.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd3BLZC14ekFoMnZLZFpkdGRkUDdDeEhPV1FFRjhPS0N0cjVrcWxIeFZJcHd2OEIwa3NRTy13N1pMcXdxYTBva3k1VjlHNThPU3VLVmt3NmNELUtmckpVMFFOMWVZekJyUHlOemdJRkpIVlRiRmpUWXNKMVR5S3RoQlNSOHNBSkdqcVE?oc=5",
+      "published": "Fri, 02 Oct 2026 19:39:36 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "While Gaza dominates the UN, these are the people keeping it alive - People's World",
+      "summary": "While Gaza dominates the UN, these are the people keeping it alive People's World",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1hNSDBzTkVPQ0VpX0FTZVJMVUx2WG5renpvNmZtVm9SeXBDc3BBTDd2VGZlc3hYcElFM3BGZ011WDJkcnpRcHF1RFBCejJhVGcxQmZ3VC1YMVJ5QTdnZEJweWVhNlhmSGlvZ1NUamdnLWo5Y29tOEhxZHhHeDhNMlRRSmhwNnRpRmppQkNqZ051a2wtOFpCeFdLYmFDVlAz?oc=5",
+      "published": "Fri, 02 Oct 2026 17:16:50 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Why renewed fighting in Ethiopia's Tigray risks a regional war - Reuters",
+      "summary": "Why renewed fighting in Ethiopia's Tigray risks a regional war Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1Vib2ZuYTBsRWNFRnR5SE16MDh0Q1RYUnRtbHBYVnA5blZ1VURmcXNuVkZkUUVnb1JMbjdpcmVaQ0E1NlYxdzczb3c4akIwV2JHcl81UGM3VHk1dHdTUFFOUVhKbzVYWDc3TzNRNEYzbnlkdHlVUEZlaXJsOGt4NzN6TXh4UXRCd0ZBQkpoRlhhbnh0MHNLZ3RYZnBiWmhVblNmbTNIYks?oc=5",
+      "published": "Fri, 02 Oct 2026 08:02:33 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Sudan army captures key North Kordofan town from RSF - The Eastleigh Voice",
+      "summary": "Sudan army captures key North Kordofan town from RSF The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWHdBT3QxTDJQTVhtQ2ZCUU55YzJTR0lFVTNHQzR4ay16SE5PRXBLVUpDQjd5elFuckZ0NUtRYTk2VkM3ZXRIUXdvX1dHRGpHQTlRQXFEWUFFVUpQNm9nR3lCc1g0SXdDN21yejBNSVRJZWwzSVRGbWNVdjNMNlFrRXVRaUFVbnFtWkJLTnZ1TUJPNmhxcm54eTZB?oc=5",
+      "published": "Fri, 02 Oct 2026 19:31:52 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar junta airstrikes target civilians to coerce Arakan Army into peace talks - Radio Free Asia",
+      "summary": "Myanmar junta airstrikes target civilians to coerce Arakan Army into peace talks Radio Free Asia",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkpaeUtSeG9SYUNoSlNPeGVYUUxHRWJKOUtDeUFtMXNoN293a2FnY3JFNFNFcG1VRV9vc1gwNVN2dk04dTQyRXVsMDR3bEo0V3ZCT2o4Szg3dEIyelJzcFlIT3lHd09WRnV4bWdVaXItSGRwSEFiQm5xbHNIME1pU0kzWFJHOGhWcnB5MQ?oc=5",
+      "published": "Fri, 02 Oct 2026 21:12:42 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar Military Launches Repeated Attacks Targeting Civilian Areas Across Six Townships - Narinjara News",
+      "summary": "Myanmar Military Launches Repeated Attacks Targeting Civilian Areas Across Six Townships Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LVEQxMjcyaFV1N3prRkRxTTJYRWZGUHFyUWZNOG56dy05cy1uV3k4TlVULVljLXhJTXdyZHlVeUxvV0twN01hOEJyNG9Ta1gya2FMN0lxSjN1UFRGZWlKUWdPU05ZcG16aGh3TW5ySQ?oc=5",
+      "published": "Thu, 01 Oct 2026 22:09:38 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Heavy Fighting Rages in Myawaddy Township Near Myanmar-Thailand Border - Karen News",
+      "summary": "Heavy Fighting Rages in Myawaddy Township Near Myanmar-Thailand Border Karen News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRXBsVHVINzN5ZDBCV3pXNG5idG9LaVR2c1h6bFcyYnRGZUNKamNWUXBoVnFuTDN5N2M2WnVSWjVwX1hUVTB1UlY2Wm9uLVRiaGVNNkdJTVc5QlRvMmp6LWpnQ2VTbUFWMTZGWGR6SDQxOWltWlJLcF9jSWdkYlBJeXkwZ2loeWZab3dHQ3FDb2ZtYy0zbTJsNFhVSUtpeVQ5RXdv?oc=5",
+      "published": "Fri, 02 Oct 2026 03:18:42 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "Today in Africa — October 1, 2026: Burkina Faso Marks Four Years Under Traoré, Ghana Unveils New Cedi Banknotes - OkayAfrica",
+      "summary": "Today in Africa — October 1, 2026: Burkina Faso Marks Four Years Under Traoré, Ghana Unveils New Cedi Banknotes OkayAfrica",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaVNldTJfbDN2QXljMzNPWl9QV0pLazMwOHV5WFlxR0c5c0VsZHlFVkFKRS04RUxLcWVHUk0wZ3VwY1RSYUxHMm5tb21VRV85NU42Q01wUzFwN3ZPRFloZjJUUFp2SldRVTQ5bU5ZanFENnI3UURtbWxZOHlvTGlaV21xX0dYS01WamlOWF9uYnplZzZBTzZISnRZNUhpQWpQZnhMYmFuTWM1UEhFSXFqNTRnZnFiSHUxQzlwRXBRel8wblZMOWNMSDhJeTR6TUYyQXlqVGh1WjE?oc=5",
+      "published": "Thu, 01 Oct 2026 16:13:32 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "Burkina Faso Commemorates Traoré’s Fourth Anniversary - von.gov.ng",
+      "summary": "Burkina Faso Commemorates Traoré’s Fourth Anniversary von.gov.ng",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqaTVfMHRZWl9YYjBEN2JPWjdfWDVUc2hBTlNWT296TEdPcmZCWEJnalE1NWF4TVMtOE02alU2VklqX1d3cHVHTmQ1bWtKeFVfbVlndnJ1Rmo1bFhGdFRzcjNLSVNja1d2QXBuem1ua2l5R19GSzhTb0YzOHg?oc=5",
+      "published": "Thu, 01 Oct 2026 15:22:42 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+      "summary": "Fighting intensifies across Yemen as the army says 474 attacks in 24 hours killed or wounded 1,540 Houthi fighters.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "North Korea fires ballistic missile towards the sea, South Korea says",
+      "summary": "A ballistic missile is fired from the North Korean port city of Wonsan, South Korea's military says.",
+      "link": "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
+      "published": "Fri, 02 Oct 2026 23:55:24 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Why Carney’s economic overhaul is clashing with Canada’s unions",
+      "summary": "Unions say proposed changes to Canada's labour laws could weaken workers’ right to strike.",
+      "link": "https://www.aljazeera.com/economy/2026/10/2/why-carneys-economic-overhaul-is-clashing-with-canadas-unions?traffic_source=rss",
+      "published": "Fri, 02 Oct 2026 22:14:34 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israel could’ve ended Gaza war, freed captives sooner: Israel ex-negotiator",
+      "summary": "Retired General Nitzan Alon says more captives could have returned alive and a deal was possible 'maybe a year earlier'.",
+      "link": "https://www.aljazeera.com/news/2026/10/2/israel-couldve-ended-gaza-war-freed-captives-sooner-israel-ex-negotiator?traffic_source=rss",
+      "published": "Fri, 02 Oct 2026 21:53:17 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israeli general: Gaza captives could have been freed a year earlier",
+      "summary": "Israeli Gen. Nitzan Alon told a Washington Institute forum that all Gaza captives could've been freed a year earlier.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/israeli-general-gaza-captives-could-have-been-freed-a-year-earlier?traffic_source=rss",
+      "published": "Fri, 02 Oct 2026 21:15:58 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Could conflict in Ethiopia expand across the region?",
+      "summary": "Addis Ababa accuses Egypt, Eritrea and Sudan of backing armed groups.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/2/could-conflict-in-ethiopia-expand-across-the-region?traffic_source=rss",
+      "published": "Fri, 02 Oct 2026 20:17:50 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 23:53:35 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+      "summary": "Vitaliy Klitschko says Ukraine's capital is in a \"very dramatic situation\" as Russia hits critical infrastructure.",
+      "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 15:26:37 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 03:09:13 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+      "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 16:08:25 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Renee Good: Family of US woman killed by ICE agent sues Trump officials",
+      "summary": "Lawyers for Good's family say US officials created \"an unprecedented environment for state sponsored violence\" in Minneapolis.",
+      "link": "https://www.bbc.co.uk/news/articles/cwly7y5gvxlmo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 20:30:47 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "summary": "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Oct 2026 15:05:36 GMT"
+    },
+    {
+      "source": "Bellingcat (OSINT)",
+      "title": "Viral Google Maps Images Shared Widely This Week Show Gaza Ruins. We Obtained More Recent Satellite Imagery",
+      "summary": "Earlier this week, several viral social media posts and news articles stated that Google had updated satellite imagery over Gaza. The imagery shared in these posts and articles shows several areas, including the southern city of Rafah. Huge destruction is detailed in the images, including what appears to be entire neighbourhoods flattened But the imagery […] The post Viral Google Maps Images Shared Widely This Week Show Gaza Ruins. We Obtained More Recent Satellite Imagery appeared first on bell",
+      "link": "https://www.bellingcat.com/news/middle-east/2026/10/01/viral-google-maps-images-shared-widely-this-week-show-gaza-ruins-we-obtained-more-recent-satellite-imagery/",
+      "published": "Thu, 01 Oct 2026 13:46:03 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "World News in Brief: Cycle of violence continues in Haiti, seafarer deaths off Somalia, food insecurity in the Middle East",
+      "summary": "Haitians remain in the grip of lethal gang violence as it continues to “adapt and expand”, the UN’s top rights official, Volker Türk, said on Friday.",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168511",
+      "published": "Fri, 02 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Gaza: WHO appeals for massive aid influx ahead of winter",
+      "summary": "Repeated delays in bringing lifesaving medicines, prosthetics and more from Israel into Gaza risk having devastating consequences on Palestinians who urgently need them in the war-torn enclave, the UN World Health Organization (WHO) said on Friday.",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168508",
+      "published": "Fri, 02 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, October 2, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-2-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, October 1, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-1-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 30, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-30-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 29, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-29-2026/",
+      "published": ""
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "북한, DMZ 지뢰 폭발 후 첫 탄도미사일 발사 - 연합뉴스TV",
+      "summary": "북한, DMZ 지뢰 폭발 후 첫 탄도미사일 발사 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aVWgyRGxsSTM4VzFjRVdtTzg4bkR4a1F4NDByZ3p3VnhSYlE0c0liVFlpdVJKQUpScDByR3poZGFzV3ZyYWY3RThOY2RBRVVZMlRrOU01Q2hHallDM1JLWXp5djFXLWM?oc=5",
+      "published": "Fri, 02 Oct 2026 23:15:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "[속보] 日 \"북한, 탄도미사일 가능성 물체 발사…이미 낙하한듯\" - 연합뉴스",
+      "summary": "[속보] 日 \"북한, 탄도미사일 가능성 물체 발사…이미 낙하한듯\" 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5WGRaZXlkdXRUbjJkUzZ1T2Z2aVJIX1lGOTZoejBFMWF0clJUSGF2Z3lEVENvU3JrQnlSeVlyRGJaMm4tUXhES1pJMkRtbjVlQzZnWmVLN214V0hieGFxNdIBYEFVX3lxTFA5WGRaZXlkdXRUbjJkUzZ1T2Z2aVJIX1lGOTZoejBFMWF0clJUSGF2Z3lEVENvU3JrQnlSeVlyRGJaMm4tUXhES1pJMkRtbjVlQzZnWmVLN214V0hieGFxNQ?oc=5",
+      "published": "Fri, 02 Oct 2026 22:06:24 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "[속보] 북한, 원산서 동해상으로 탄도미사일 발사…올해 15번째 - 강원일보",
+      "summary": "[속보] 북한, 원산서 동해상으로 탄도미사일 발사…올해 15번째 강원일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TMEhmcEFlVWJSbUZOYUM3bHpaNlJISS1hejVRblB4MVBpTEJ4TWxseExJenVKclpzWlQxNlRxUVpha21jeFNQZmFQaEpqRWxLMFFqbVZqcFFNUUU?oc=5",
+      "published": "Fri, 02 Oct 2026 23:30:10 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "청와대, '북한 탄도미사일 발사'에 긴급 회의…\"즉각 중단 촉구\" - v.daum.net",
+      "summary": "청와대, '북한 탄도미사일 발사'에 긴급 회의…\"즉각 중단 촉구\" v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40NTYyRmJ3SkFUeERta1c3WU16d2xnZkRSSjZGUTFMMnc0cFlndnJPRnJIYnVraG9tS3cxanEwWFVQOFBKdk9nZE0ydy1lV1E?oc=5",
+      "published": "Sat, 03 Oct 2026 00:30:01 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북, 김여정 담화 하루 만에 동해로 탄도미사일 발사 - ytn.co.kr",
+      "summary": "북, 김여정 담화 하루 만에 동해로 탄도미사일 발사 ytn.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QYmk1WGVSZUtiSHVnTWYzeVdGbFB5Z1ktbjBfV1NsQ0txaXJvaVFaVkxyRTZ0eWFTQ2RfLUhoZDJDX0FTUG8zMXVTMFZrTXFldW1YYmZhRFhqZDFMdXc?oc=5",
+      "published": "Fri, 02 Oct 2026 23:55:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "[2보] 북, 원산 일대서 동해로 탄도미사일 발사…한·미·일 정보공유·대비태세 강화 - newspim.com",
+      "summary": "[2보] 북, 원산 일대서 동해로 탄도미사일 발사…한·미·일 정보공유·대비태세 강화 newspim.com",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByNzgzUnpBLTRkYV9HTzBhczNfNXIyV1pfbTVPLU5iSHA2ME1CNjljQ2k5RVp6dzNJeVY3THFmVmhhQThkdDE5OVdjOUtJWXNNNzVMNjdzTGw4RW42?oc=5",
+      "published": "Fri, 02 Oct 2026 22:46:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea fires ballistic missile towards the sea, South Korea says - Al Jazeera",
+      "summary": "North Korea fires ballistic missile towards the sea, South Korea says Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFVmemVUU2lMbHoxVS1yNHJGWXFQUExrSWUtb1lxNHUyYkJCWGRSaEdnelZSSGRWdi04TUt0RnQxVEktVEpaUGx3TnBpdGFqeEJTNGlxdm9uV0Z0MnNqZUxNRUR0eWpSMGJpb0t0dlFBOWxyb212OWN5eU9rSnRyUlctYlJERFRDdEdxMXdLLXJNRlZIMXFvbDNvQkwzcGZtdzJtaml2RTkxR0JTemfSAbMBQVVfeXFMUHhtOV9YSWhnZ1dYZmlJTU1qMDRhNXpVQmMxbnM5TTBVU1ZhZWhrdUQySHgyOHE5Qnh1UEllVWNDRzNjbEREbnV5LXFMRllyc1hOb19FYnNpZWZDN0F5NWNJUGZwQWcyM3VyYnllQzhYMGhia0hnQS1SVDQ2Z0VvR0o1SXZoTTdnaHl2RFVYWlB4VnV6blJ6bEJOeDNLOXlXc1NNOGRtNi1rV0drWGFxZUdTQ1k?oc=5",
+      "published": "Fri, 02 Oct 2026 23:59:12 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "[Breaking] North Korea fires unidentified projectile toward East Sea: JCS - The Korea Herald",
+      "summary": "[Breaking] North Korea fires unidentified projectile toward East Sea: JCS The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VdnBRQjc2UF9VcUp1V281YTY1NmJtMUlRbGpKVEM1MThBWGJveV8zOF9FTXprclVOLWVlWHhxTTQ3cjgwNGtKekY4OVFWVlJxY0ZUTnowSQ?oc=5",
+      "published": "Fri, 02 Oct 2026 21:49:22 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Noem backpedals on anecdote in book about meeting with Kim Jong Un - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Noem backpedals on anecdote in book about meeting with Kim Jong Un ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWJ5S3A0VlJab0M4WEFVX0hOZVdHYzdfY2VLcTBQV1BiME9iSEx6WDBlQl9JeXpsX1h5SzJ5OFhqN3pTU2V1ZkFab1VCZW5SVEEyOHF6Q1FMb25sYTUzQVMtdnEtM3dVaFlweWp6NmV4TndFbThCWnlaTVNEMGdZSjFUTUgzX09LajFCcHppd3AyNFpsVDA5Y3hn0gGfAUFVX3lxTE43ZDQwQXY1YXRQbk40b3dkWTRXQ2hhMTREczh3Q0VrVEFHR3JRZi1GaHFNUVU3ZU9zMTJ4NmhZMUdUbTJMcWhXMFVmVkZKbjdpa2JHSUtuejlMeWxTTTV1d25XOUJXaWRMT3VMQUUtdG9pWVdxVkRFRkdHVFpiX1ZXQ2JPZlBqbnEzQzF3aGZmWlpXd2pucWNEREpIUkY0VQ?oc=5",
+      "published": "Fri, 02 Oct 2026 11:13:47 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea fired off apparent ballistic missile amid landmine row with South - The Japan Times",
+      "summary": "North Korea fired off apparent ballistic missile amid landmine row with South The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEJYVUNDZ1hpVGg4bm1IRmUxYy1aS2wwQTlFZ1hXLWkyQVNGaWRWZXc5ZlhNU2xDR0p4LV9DcDRCek82akFMUkJ3MUNheE5JZGlDYlRSakE4REVYdENQVXBvUE91YmZmWkpXUkRPUmU2eW5GdFZRdlc0UXdBeDFEXzV4ZmVleklP?oc=5",
+      "published": "Fri, 02 Oct 2026 21:56:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea test-fires missile as tensions grow over border mine blasts - Seattle Post-Intelligencer",
+      "summary": "North Korea test-fires missile as tensions grow over border mine blasts Seattle Post-Intelligencer",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaF80anQ2a0N6ZnQxVlJTNU9yVk5vVjZuUy0yZ2xlYkJfSjhLbVI4bzNRMkg1d2E3UkRHbjAxeEoxMlBwYWNCY1dRYXRTRVN3RWNxdktXc2xWZldYV3JNb0xBRl93Mk9Cd2huX3k5T09rX0c4Z3FkSUd6VXNqTmVTa3V6bTJ4XzVyQmtxdTV6MlR0a3hDNU44?oc=5",
+      "published": "Fri, 02 Oct 2026 23:24:15 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Trump reunites with Dennis Rodman as he seeks Kim Jong Un meeting - usatoday.com",
+      "summary": "Trump reunites with Dennis Rodman as he seeks Kim Jong Un meeting usatoday.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM1dROWxDakh5N2dwaGZzU0VoYzZLdEk1aTB5ZTZwYU56eDZvN2FUMzVGT3lzX0F5cVVuN3RhLUVDcDJmU2Rjd2NnQ0plS0QzYXBCNUptWEpUVk9NR18zbGNEU2N3M1pWYlZTdXJtSlZ1cWRrZmVXYlpINU96Y2lCbW9TTVhZalJaQ1YyQzU2WXBpSzZ3T3prc1lYem42YXd2RVVRNk9nZUh2RnNlXzNRSWNwTUUzaER1U3lXag?oc=5",
+      "published": "Fri, 02 Oct 2026 16:37:00 GMT"
+    },
+    {
+      "source": "38 North",
+      "title": "Several Naval Construction Projects Underway",
+      "summary": "Construction has resumed in earnest on what is expected to become a flagship naval ... The post Several Naval Construction Projects Underway appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/10/several-naval-construction-projects-underway/",
+      "published": "Fri, 02 Oct 2026 13:31:30 +0000"
+    },
+    {
+      "source": "38 North",
+      "title": "The Dangers of North Korea’s Nuclear Status Quo",
+      "summary": "Since President Donald Trump expressed his desire to meet with North Korean leader Kim Jong Un ... The post The Dangers of North Korea’s Nuclear Status Quo appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/10/the-dangers-of-north-koreas-nuclear-status-quo/",
+      "published": "Thu, 01 Oct 2026 13:52:13 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea fires ballistic missile toward East Sea",
+      "summary": "North Korea fired a ballistic missile toward the East Sea (Sea of Japan) on Saturday, according to South Korean and Japanese authorities. A ballistic missile launched from the Wonsan area of North Korea toward the East Sea was detected at around 6:30 a.m. on Saturday, South Korea’s Joint Chiefs of Staff (JCS) said in a […]",
+      "link": "https://www.nknews.org/2026/10/north-korea-fires-ballistic-missile-toward-east-sea/",
+      "published": "Sat, 03 Oct 2026 00:04:18 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Kim Yo Jong accuses Seoul of fanning inter-Korean tensions in land mine dispute",
+      "summary": "North Korean leader Kim Jong Un’s powerful sister Kim Yo Jong on Friday accused South Korea of seeking to inflame tensions by blaming Pyongyang for a recent explosion at the Demilitarized Zone (DMZ), insisting that Pyongyang’s goal is to sever all ties with Seoul and close its border so tightly that “even wild animals” cannot […]",
+      "link": "https://www.nknews.org/2026/10/kim-yo-jong-accuses-seoul-of-fanning-inter-korean-tensions-in-land-mine-dispute/",
+      "published": "Fri, 02 Oct 2026 10:02:00 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "DMZ land mine explosion should not be politicized: Unification Minister",
+      "summary": "South Korean Unification Minister Chung Dong-young warned against politicizing the Sept. 21 mine blast in the Demilitarized Zone (DMZ) that left several soldiers injured and argued the incident should not be used to undermine Seoul’s efforts to pursue peace with North Korea. “Stoking hatred and hostility is not politics,” he told news reporters Friday in […]",
+      "link": "https://www.nknews.org/2026/10/dmz-land-mine-explosion-should-not-be-politicized-unification-minister/",
+      "published": "Fri, 02 Oct 2026 09:52:18 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korean POWs face uncertain future after Ukraine transfer sparks feud",
+      "summary": "For two North Korean soldiers who spent over a year in the hands of Russia and Ukraine, arriving in South Korea was supposed to mark the beginning of a new life. Instead, the political feud surrounding their transfer has thrust them into the international spotlight — raising fresh questions about their safety, the fate of […]",
+      "link": "https://www.nknews.org/2026/10/north-korean-pows-face-uncertain-future-after-ukraine-transfer-sparks-feud/",
+      "published": "Fri, 02 Oct 2026 09:49:46 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Why North Korea could build a new bridge linking key port city to southern area",
+      "summary": "North Korea’s recent economic growth and leader Kim Jong Un’s repeated nods to addressing a widening regional “wealth gap” suggest the time may be right to build a new bridge linking the country’s main port city on the west coast to the southern provinces. There are currently no bridges across the Taedong River between the […]",
+      "link": "https://www.nknews.org/2026/10/why-north-korea-could-build-a-new-bridge-linking-key-port-city-to-southern-area/",
+      "published": "Fri, 02 Oct 2026 07:45:46 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korean state TV turns to Disney’s ‘Frozen II’ for English lessons",
+      "summary": "A North Korean television channel recently aired a segment from Disney’s “Frozen II” movie to teach English vocabulary and expressions, despite the country’s ongoing crackdown on foreign media, according to NK News analysis of state media. Ryongnamsan TV on Monday aired about seven minutes of the movie in English, including scenes featuring the song “Some […]",
+      "link": "https://www.nknews.org/2026/10/north-korean-state-tv-turns-to-disneys-frozen-ii-for-english-lessons/",
+      "published": "Fri, 02 Oct 2026 05:11:48 +0000"
+    }
+  ]
+}
