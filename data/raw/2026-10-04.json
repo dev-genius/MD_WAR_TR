@@ -1,0 +1,452 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T09:10:07.876607+09:00",
+  "history_candidates": [
+    {
+      "year": 1302,
+      "text": "The Byzantine–Venetian War comes to an end.",
+      "link": "https://en.wikipedia.org/wiki/Byzantine%E2%80%93Venetian_War_(1296%E2%80%931302)"
+    },
+    {
+      "year": 1363,
+      "text": "Battle of Lake Poyang: In one of the largest naval battles in history, Zhu Yuanzhang's rebels defeat rival Chen Youliang.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Lake_Poyang"
+    },
+    {
+      "year": 1602,
+      "text": "Eighty Years' War and the Anglo-Spanish War: A fleet of Spanish galleys are defeated by English and Dutch galleons in the English Channel.",
+      "link": "https://en.wikipedia.org/wiki/Eighty_Years'_War"
+    },
+    {
+      "year": 1636,
+      "text": "Thirty Years' War: The Swedish Army defeats the armies of Saxony and the Holy Roman Empire at the Battle of Wittstock.",
+      "link": "https://en.wikipedia.org/wiki/Thirty_Years'_War"
+    },
+    {
+      "year": 1693,
+      "text": "Nine Years' War: Piedmontese troops are defeated by the French.",
+      "link": "https://en.wikipedia.org/wiki/Nine_Years'_War"
+    },
+    {
+      "year": 1777,
+      "text": "American Revolutionary War: Troops under George Washington are repelled by British troops under William Howe.",
+      "link": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+    },
+    {
+      "year": 1853,
+      "text": "The Crimean War begins when the Ottoman Empire declares war on the Russian Empire.",
+      "link": "https://en.wikipedia.org/wiki/Crimean_War"
+    },
+    {
+      "year": 1862,
+      "text": "American Civil War: The two-day Second Battle of Corinth ends in a Union victory, with General William Rosecrans protecting the critical rail junction of Corinth, Mississippi from Confederate forces under General Earl Van Dorn.",
+      "link": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "year": 1917,
+      "text": "World War I: The Battle of Broodseinde is fought between the British and German armies in Flanders.",
+      "link": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "year": 1918,
+      "text": "World War I: An explosion kills more than 100 people and destroys a Shell Loading Plant in New Jersey.",
+      "link": "https://en.wikipedia.org/wiki/T._A._Gillespie_Company_Shell_Loading_Plant_explosion"
+    },
+    {
+      "year": 1925,
+      "text": "Great Syrian Revolt: Rebels led by Fawzi al-Qawuqji capture Hama from the French Mandate of Syria.",
+      "link": "https://en.wikipedia.org/wiki/Great_Syrian_Revolt"
+    },
+    {
+      "year": 1936,
+      "text": "The Metropolitan Police and various anti-fascist organizations violently clash in the Battle of Cable Street.",
+      "link": "https://en.wikipedia.org/wiki/Metropolitan_Police"
+    },
+    {
+      "year": 1991,
+      "text": "The Protocol on Environmental Protection to the Antarctic Treaty is opened for signature.",
+      "link": "https://en.wikipedia.org/wiki/Protocol_on_Environmental_Protection_to_the_Antarctic_Treaty"
+    },
+    {
+      "year": 1992,
+      "text": "The Rome General Peace Accords end a 16-year civil war in Mozambique.",
+      "link": "https://en.wikipedia.org/wiki/Rome_General_Peace_Accords"
+    },
+    {
+      "year": 1993,
+      "text": "Battle of Mogadishu occurs killing 18 U.S. Special Forces, two UN Peacekeepers and at least 600 Somalian militia men and civilians.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Mogadishu_(1993)"
+    },
+    {
+      "year": 2003,
+      "text": "The Maxim restaurant suicide bombing in Israel kills twenty-one Israelis, both Jews and Arabs.",
+      "link": "https://en.wikipedia.org/wiki/Maxim_restaurant_suicide_bombing"
+    }
+  ],
+  "korean_war_hits": [],
+  "korean_war_date": {
+    "month": 10,
+    "day": 4
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian Offensive Campaign Assessment, October 2, 2026 - Institute for the Study of War",
+      "summary": "Russian Offensive Campaign Assessment, October 2, 2026 Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVC1XWWpaVHk2UWRVOGVGdlhoOTRPT3Rua2dNR0ttak1EcGlZbU1IektndjN5bk1VUlMxTnlJTG9DQlRhZTF5ZEg5OXhDdEE5cVEtcFdoSnkwS3prNXlCcnBmNDI2a29zbWUycy1rRl9mdENUWDFNZ3pzcXVxZnZReGNtcnNOcnBUTzNBWVI5aE9ja0pIY0dIZWpWVGd5d0RiVnR1YjRrcmZMQQ?oc=5",
+      "published": "Sat, 03 Oct 2026 01:56:43 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia’s ‘new doctrine’ targets civilian sites in Ukraine, Zelenskyy says - Al Jazeera",
+      "summary": "Russia’s ‘new doctrine’ targets civilian sites in Ukraine, Zelenskyy says Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3lZLWVIelc5T0xId2d1c2tlNFNUQnRRMmtySTRlQTR4UHlxZFJ3d1dkNnBTUVdSVW44VUdpSy1sRjVVdnZBMTNaUHI2dFRZSFhMeEpQWXhwbGFHOE01VUdaSmR1VHBWMDNMZXRUTDdlX1dxenVTVHNMd0FudXl1RnBuUHB1R2o5azJocDhJelpvLV9lWV9IaVlaZXkzd01rVkNXQUFzeEYxSUpQaXJmN9IBtgFBVV95cUxOSnItVjVtcG9ITWhVZEtLaWhBdTZqQW1RSmxRdmYyeUh3MlJWeGRVVXFzSWZSdVhUWXF4NXZuXzZoV1JBV05XWjN5MVk2Nm1qTzFyRkhXV1pwMUgzZGhzRUgzd2sydmFPZndIbU51cmNsZTBZZ2JLV3lIdFEzWFhpdnlhRFhwSWx4aTVGOWtlWEdzSXpEdGs5Wk5BUGg3ZWFoalVsRnY5VnZXOUpVcEgyRjVidFkyZw?oc=5",
+      "published": "Sat, 03 Oct 2026 22:03:50 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "EXCLUSIVE: Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskiy says - Reuters",
+      "summary": "EXCLUSIVE: Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskiy says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQ0JETXJlUlJGblZwbTljbXFFb0JkS2REVzBWUVdPUE5uN0xSRGpVZVBpS3B3Qnh1VkFWQjdYUzdOWnFFZkd4aVRFQmViaEJkVkVzTUxUMDJKdWh5UWJfaExXMi1UbTlLd1AxVnJ2UF9BUUZFc2g0ZEFTOWJGTi1WS3h0YlNtYzFRY0FTam5WbllJVXdGbUp1S0tQcGgtdmppSHpIMGg5dUtuLVN3SjJFME9MYTNSci1maHptc3RVVVk5d3k4NmgwS0oxZUZ5alpUNmYzR09R?oc=5",
+      "published": "Sat, 03 Oct 2026 20:25:53 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline - The New York Times",
+      "summary": "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXVpakVXTEFmeS1tM2JITW1LUmZManF3c2NCVEYxOUVMdG50azJUOW1lZzQ4WDY1V1QwdHFBT1RlQ3RTcDFLeWhjZ0dUemJ5bUtxTmZCWHQ0emZHUm5pSENFOUwyM1VUWGdBcDVoUXN3TWgwUW16bDlzM0Zza3FRYXZxbVlKWEE?oc=5",
+      "published": "Sat, 03 Oct 2026 20:17:31 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv - BBC",
+      "summary": "Russia hits second major bridge in Ukraine's capital Kyiv BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HODF1UFRyVVc3bTJMRmgteHFIODNtNjN3eVhiYzdpN21CTi1jZUgwNlBBd05XdjcxS2s2eUhVRmtXOEd3ODFfWW5BNDhkNVg0TmVZS0M2dGtUU2c?oc=5",
+      "published": "Sat, 03 Oct 2026 16:16:49 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian attacks kill 6 in Ukraine and damage Kyiv’s Northern Bridge - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Russian attacks kill 6 in Ukraine and damage Kyiv’s Northern Bridge ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTY1YlNnTkowNWN0VEI2eGVBVVFYOU83WllGSFJPb1RuY1lvUHdMOTBWa1cxUlhkWTltdFk2S2dIY2hHYVBpY3BadHFTQ2E3aWpIdXRITXJXSFpQR1R6aUp0NElFN0lXWWdVbTVTemduTHRDd2tHRXhQOTZRNmZONGVEWTRQVXczQnFyNFlHXzVnUG9qeDRhY2ctMjFSbTl5Wjl6dWl5NFZYXzRWX1HSAbMBQVVfeXFMTTVUWVprWGg1RXlTQ2tYU0dLOXE5YzBic3AzTVRUSnhmV3VMUmlkU0lEdzJWRTBoWmNqLXBOZldDSFJQNnNZUnByZm1IUXIyQU94VFZTbkI3V29lYkVQTzk1TGxmc2FpeVlZa3VvMEwzQVcxY0JNUEVIaldybDN1QkVMcFdYSDBPSTBsWjd5Zk5IVjdzWGFYT0Q4bFVCR0Zzc1gxUWx6eHJmcVJfVEVjRlhMSXc?oc=5",
+      "published": "Sat, 03 Oct 2026 23:15:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli air attack on Gaza City apartment kills at least five - Al Jazeera",
+      "summary": "Israeli air attack on Gaza City apartment kills at least five Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSGpPWHZhNW9TMDk2OUxsRlFnbi1ycDRyeW9mSmN0dHduSnp2c2FZckF5cFRlMTdXX0c1QmUtc2VVOFhibmg5UnJHLXBKdnlSZmtOTWV5T19hODloTGppM2EtYUEzdzkwbkVEY3gyZTcxTzFvMllYOUwzVEJ6NWFidGNqMlpsWnhWUnMweXdQeDlMUnVYOEdRSlg2MTZoNFJpSzdobtIBqgFBVV95cUxPbFExTEIzRWk0V09YdHAyaUdjYjFaNnFZbXRNazJvUFhDNUpQNGNGRmpPT3p0X2dmUWhhUU1lZ1JFRjBtWGJiZ2xUazBaYkhkMGltdXFpWXpxb2FWcV9nZzg1TEFzeC1KOXdOQmNtLTZ4Q0tzakZGelpXOERYOTVBOGJXeFNoR08zWlZoNmxSZGtpSHRhY3ZSNWpWMHYtTG9ZZ3VQYmVVVk5CQQ?oc=5",
+      "published": "Sat, 03 Oct 2026 21:00:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli strike kills five in Gaza, including four women, health officials say - Reuters",
+      "summary": "Israeli strike kills five in Gaza, including four women, health officials say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaTRBdWs0UERVMW05RGtXdHdNWGJKajVmSkFZQVdpamVzQ0VqMkNqdjBmWHp6ZGUtZkozbXpnbEREeXBSeDZ6dXJJWC05UXc4UDBGTk1iOWZ6Y0hUR0NBWDZETkxCNGJOTURYUGhpRG9TVzRJTndvX3hieVczbzZHLU9aN21CV2J5cXYxLU4xVHVvcEIyTVVTbmlYem1QRGszQ1Ztbg?oc=5",
+      "published": "Fri, 02 Oct 2026 23:50:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli strike kills five in Gaza, including four women, health officials say - al-monitor.com",
+      "summary": "Israeli strike kills five in Gaza, including four women, health officials say al-monitor.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLXR6bE03OTlxd29LRGhZYWloMkc4RnN4clJUMGJfNTZDVmQ3TElSckF5bUlqdU0xVmJFaGo0LUxfQmdYSGV3SElGWU01NVlBS05vMXF5TkpLWmVSQ2tCOE5lQnNnM05PSjlDLWNMTWFDQVhIUXd3cDV6Uk5MbHpuZWdKUDgtYVJTYWpUUUtPN0ktV0U5djJ6aFM1WVFfRjBKVkdxM0dZTE14TV9mMndwWmlORUJhLWV4?oc=5",
+      "published": "Sat, 03 Oct 2026 14:33:42 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "IDF targets Yahya Sinwar's successor, Hamas Gaza leader Ali al-Amoudi, in strike - The Jerusalem Post",
+      "summary": "IDF targets Yahya Sinwar's successor, Hamas Gaza leader Ali al-Amoudi, in strike The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBuSGxyQm1rZmxHTkxxUDFQaFk4STRKanRWcnhUazBiRlU4RENPOEQwYjQzaERjQzZJSldUcmNiYVVjNEVUOVRfOUhTeDdJYll1dVNOUUd4TjhudG9sM2ZRUnV2VXlOX2pOOUZtZ1F3?oc=5",
+      "published": "Sat, 03 Oct 2026 19:07:14 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israel Targets Top Hamas Leader in Deadly Gaza Strike on Anniversary - ASHARQ AL-AWSAT English",
+      "summary": "Israel Targets Top Hamas Leader in Deadly Gaza Strike on Anniversary ASHARQ AL-AWSAT English",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMUUzX1pmZnFnZWtxLWo0TlV0VUgwdnRfOHQtWlZyOUdJeU9MZDdpbFFsQmpiTU5pOGYzY3JEbkQzZTNjUXRmaXREUUpIbEZBaXM1T3JpR0h6UHhWQXZweHNJc05ZblBRTFBteWZPM25iWFBJazI5WFZQZHFCdlp3dXVfWEJPX0dDZVEybUM5R05tRlhtVFNieFE2dkVuQlE3aGg0NjVPeXNKaktZ?oc=5",
+      "published": "Sat, 03 Oct 2026 23:07:52 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli strike kills 2 Christian women, lecturer, her mother in new Gaza ceasefire breach - Anadolu Ajansı",
+      "summary": "Israeli strike kills 2 Christian women, lecturer, her mother in new Gaza ceasefire breach Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY1NHVHZOUXZjdE1sYnlsaWNkZ3Jqb202N2h3S2pRWVFvcWNxN1hLRURxdjJXNWRjNDJENGRhOUtIWE9yellrTURTcTNuN2ZiR3ltM0xmZ2sweWlvOG9VM21yYTVmX0JJMnNVQ19KdGlGSnpCWlE3VW80cExqYU9ibHB0dS1lbTI0cEE4WEljSzUybVdfM05Ta09WbEp6SDFucTRKQ0VwaDl1SUxZZUZRUzlDNVZXZnZvdXF6S2hlZU9Oc1ZBbngySkd1cmlKdw?oc=5",
+      "published": "Sat, 03 Oct 2026 15:21:43 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "The Sudan connection: Could fighting centered on Tigray draw Ethiopia into a proxy war? - DW.com",
+      "summary": "The Sudan connection: Could fighting centered on Tigray draw Ethiopia into a proxy war? DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNemhvZE56MkFvRXBocnpaQjQ3MVppUUlIZGNjUkpoMXpoaGFqanI3a0VNZ1NxclhJZzNmY2xCY0NuWHFnSGZsb1F5YmRkMXBYcEZOd2FzXzI5RTlqLTZ2bWtzVVBtRFZjWVBsUl9RdFhPRkVxc1J1NHVPTWtNUXF4YnV0dDVNSjB5ODhxclpfSy1VQdIBkgFBVV95cUxQdTJRUEcwNTZwMnFTN281VzhwWWViYlM3R3VRanYyR2drdUJsMmNtMFhhQWMtMVRWVlhuTDBFR2l3cVktU1oyX2FmczVfa3JGQy0xZ3JpMENpb1BQY0pRVTItbnFGRWpJU0ExeGlPcW55a1VpTnkwaTNFRFo3NzJ3LUJmR2NBQUQ3T2lmdTRHR3hVdw?oc=5",
+      "published": "Fri, 02 Oct 2026 17:40:01 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "#Daily_Brief: #Sudanese army orders troops to prepare offensive against rebels in Blue Nile - Addis Standard",
+      "summary": "#Daily_Brief: #Sudanese army orders troops to prepare offensive against rebels in Blue Nile Addis Standard",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBGdy14VEZLRVJmZkhscGRDZEV5dmdqVUt5TzZVUUlVbHAyWHRLRG84R1RUa2J4VmUzRFhtWktoalBaRHVVcHNRcW1SS3JucmdlV0E?oc=5",
+      "published": "Sat, 03 Oct 2026 05:46:40 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Sudan army captures key North Kordofan town from RSF - The Eastleigh Voice",
+      "summary": "Sudan army captures key North Kordofan town from RSF The Eastleigh Voice",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWHdBT3QxTDJQTVhtQ2ZCUU55YzJTR0lFVTNHQzR4ay16SE5PRXBLVUpDQjd5elFuckZ0NUtRYTk2VkM3ZXRIUXdvX1dHRGpHQTlRQXFEWUFFVUpQNm9nR3lCc1g0SXdDN21yejBNSVRJZWwzSVRGbWNVdjNMNlFrRXVRaUFVbnFtWkJLTnZ1TUJPNmhxcm54eTZB?oc=5",
+      "published": "Fri, 02 Oct 2026 19:31:52 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Philippines urges ASEAN talks after 50 killed in Myanmar airstrike - Daily Sabah",
+      "summary": "Philippines urges ASEAN talks after 50 killed in Myanmar airstrike Daily Sabah",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVlOU2Y0cERMUkIxVFVWM2VxcVJJdVJhOFdwaTgyNXZaWFVmSm1jYXBCZ2daNU1oT3hDaFVGUVFyelBvMEhIb2J1XzhVejV2bUlqTGk0bEt3bm1tZm1QeEZaa1gyclA3Q0ZHR2xDUUx3dVprZEVVa2ROM1kwMGcwc3E4Z0VJV19pSHlPYWpsbnRpNTZVOVlvdjlRWmZ0TnluUzhnXzZieWFaeTNBSzNadUhB?oc=5",
+      "published": "Sat, 03 Oct 2026 09:17:00 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar junta airstrikes target civilians to coerce Arakan Army into peace talks - Radio Free Asia",
+      "summary": "Myanmar junta airstrikes target civilians to coerce Arakan Army into peace talks Radio Free Asia",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkpaeUtSeG9SYUNoSlNPeGVYUUxHRWJKOUtDeUFtMXNoN293a2FnY3JFNFNFcG1VRV9vc1gwNVN2dk04dTQyRXVsMDR3bEo0V3ZCT2o4Szg3dEIyelJzcFlIT3lHd09WRnV4bWdVaXItSGRwSEFiQm5xbHNIME1pU0kzWFJHOGhWcnB5MQ?oc=5",
+      "published": "Fri, 02 Oct 2026 21:12:42 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Philippines voices concern over Myanmar airstrike deaths - Bangkok Post",
+      "summary": "Philippines voices concern over Myanmar airstrike deaths Bangkok Post",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGFPbjRVb2FKTDlwMTZTQ3U0OEZ1a1V5OG45UmxKRFRoRmdmeTNRLW5aeFlZRWRSTlFCNEFEcjZVck5TcFVuWFlrS2VERnBJa2FKWXlIeXdXTnVBN3B6Wk5nTEFLc01TeDlDMW9wNi00Y1NzaHN0ajRDeWFMcVJlVExUcjNWODRGTlZ5bE14elpmVDFjVi11VlJEQTcwbU0?oc=5",
+      "published": "Sat, 03 Oct 2026 09:25:00 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Two Killed, Including Schoolgirl, and Many Injured in Military Airstrike on Rathedaung - Narinjara News",
+      "summary": "Two Killed, Including Schoolgirl, and Many Injured in Military Airstrike on Rathedaung Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50bjFWYjlUTTllSzU2bDRlV090SEZkazl0S19SOENiVno2VDBxVTNyNXp0djlTUzQxSWNqM3NyMy1rRnlSQkpCQkN4alJJa2NPd2tZQjJKblJwRHVTNTRqSENURzFlUVEtZHFDYzJEUQ?oc=5",
+      "published": "Sat, 03 Oct 2026 06:04:19 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Philippines voices concern over Myanmar airstrike deaths, injuries - internazionale.it",
+      "summary": "Philippines voices concern over Myanmar airstrike deaths, injuries internazionale.it",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdWRKN3h0a2NnTDNGWTNWcVVqcWJxdmVJS1R2dng0M0pjUERsajhRUTQzZGNiM0hJME0ySGVLUkxIV0Z4alZTaWF5ODVWdm1LZlAwRHNSY3pzaUs1cmZuX1ZiZU9hMjFWQ0xDc2tRbmZYNzlBWkF5djJDZzFieWY5YkJWcG1TTlR4MlZ0Smh0NmY5X2x4d0szOFZHX0M3UmxQN0JBd3lId21HX0xVTXhkRzdxeExOV21Wb1pJUGdBVlFnMVA3RFVsSw?oc=5",
+      "published": "Sat, 03 Oct 2026 07:08:55 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Philippines voices concern over Myanmar airstrike deaths, injuries - channelnewsasia.com",
+      "summary": "Philippines voices concern over Myanmar airstrike deaths, injuries channelnewsasia.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYXdHd3REa0NpY3ZucUZvWEZMblBmQkRORnBzcFBHbjlrOURsMEVSenBDNHlqdmU3ZllSYXJpdXJkQWJXeUdfN3dtNEFVZmVMTDgzXzRwX0J3OVFLNW5sdFRhQnp0VnlWcktWdTlfZk5hSHlrMFVzeXRKT3V6a2lpX0gxTFh2Z25qRTV6RUFGNW1WQUdhdFNqRy1MTndLOHlSNEFfRG1IaXRkRWVsdjlv?oc=5",
+      "published": "Sat, 03 Oct 2026 08:34:09 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "60 killed in Burkina Faso ‘by men in army uniform’ - Eye Radio",
+      "summary": "60 killed in Burkina Faso ‘by men in army uniform’ Eye Radio",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3WWZacmdGUG5rNU04Nm1VMUNRYkJuQmI0dkF5X2tfbUxvTEN3UU9McGJacFlKNjZQcVpzQ0VaMC1RWWpYYWI2dmJiNThvMDJZVzNOX1RjblZ0a3dYQVliYUZCcXdhamkwLTBUTzRSekdtVy1FMXFRVW1B0gF_QVVfeXFMUHdtREd2azRXR3RvdERhcHRSdkRVS3gtTHNjVzkwQlg5SmJXV2w0Tm95YjBSV1JxdFZ6cWpPdFc5MXNmak8xTGI4QzJNbHZIMHpFT1dUeTZLX0RvbEFrZnBXNUVQZDNhMko4bVJjbnhMV2JISkszd0p6YVVuS1dKWQ?oc=5",
+      "published": "Fri, 02 Oct 2026 14:48:53 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Pelosi-backed US candidate calls for ‘full arms embargo’ on Israel",
+      "summary": "Connie Chan, endorsed by Nancy Pelosi to succeed her in California, says she will vote to 'end a genocide in Gaza'.",
+      "link": "https://www.aljazeera.com/news/2026/10/3/pelosi-backed-us-candidate-calls-for-full-arms-embargo-on-israel?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 22:43:58 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
+      "summary": "Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 20:10:17 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
+      "summary": "President Abdelmadjid Tebboune says Algiers deployed warplanes to Niamey in late August following an attack by mutineers.",
+      "link": "https://www.aljazeera.com/news/2026/10/3/algeria-sent-fighter-jets-to-niger-to-thwart-coup-attempt-president-says?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 18:03:08 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "At least 17 people, mostly pilgrims, killed in Kenya road crash",
+      "summary": "The multi-vehicle crash occurred in the Salama area, 90km southeast of Nairobi, killing mostly Catholic pilgrims.",
+      "link": "https://www.aljazeera.com/news/2026/10/3/at-least-17-people-mostly-pilgrims-killed-in-kenya-road-crash?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 14:30:40 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Britain’s military in Kenya: Allegations, immunity and a fight for justice",
+      "summary": "Kenyan survivors are challenging the UK military over decades of alleged abuses — and the immunity that has shielded it.",
+      "link": "https://www.aljazeera.com/features/longform/2026/10/3/britains-military-in-kenya-allegations-immunity-and-a-fight-for-justice?traffic_source=rss",
+      "published": "Sat, 03 Oct 2026 13:18:37 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "summary": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 16:16:49 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Kim wins Asian Games gold to secure military exemption",
+      "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 08:51:14 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+      "summary": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 02:23:07 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ethiopia and Eritrea cut diplomatic ties as northern conflict escalates",
+      "summary": "The diplomatic fallout comes as Ethiopian forces battle rebel fighters across its northern region.",
+      "link": "https://www.bbc.co.uk/news/articles/crpd0d0jl0y0o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 02 Oct 2026 16:08:25 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Why Canada is preparing for a (long shot) US invasion",
+      "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
+      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 03 Oct 2026 23:30:06 GMT"
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, October 3, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-3-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, October 2, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-2-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, October 1, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-1-2026/",
+      "published": ""
+    },
+    {
+      "source": "ISW",
+      "title": "Russian Offensive Campaign Assessment, September 30, 2026",
+      "summary": "",
+      "link": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-30-2026/",
+      "published": ""
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "북한, 지뢰 매설 ’사과’ 대신 탄도미사일 도발 - 연합뉴스TV",
+      "summary": "북한, 지뢰 매설 ’사과’ 대신 탄도미사일 도발 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PUVRpU1IxVURtTS14ejFYR2ZUUzZXOFl3aUpUOF9oWFdpc2x6TEF4bHZ6SE0xanIzcnhDbllGWktxZTdjcTlKNlBscmtRVUMyblhPQU8xYnVUd1IyT1hlOFlCVS1zbXc?oc=5",
+      "published": "Sat, 03 Oct 2026 08:10:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "김여정 \"한일, 우리 미사일 놓쳐\"...무력 과시 속내는? - YTN",
+      "summary": "김여정 \"한일, 우리 미사일 놓쳐\"...무력 과시 속내는? YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwNnBGd0ZWeThCUm1qaWxvQU5PVC1ZS3RVdDhBbjhTUUxTN1E1VnA2dUM0cHFucUZ0aWsxaUZLMkVkNTFrd1cxWDF4WVlkVE9OWGtTbEdGSjdHazNvRGc?oc=5",
+      "published": "Sat, 03 Oct 2026 23:22:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "미사일 발사 참관한 김정은…\"핵 전쟁 억제력 강화\" 주장 - KBC광주방송",
+      "summary": "미사일 발사 참관한 김정은…\"핵 전쟁 억제력 강화\" 주장 KBC광주방송",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82ZUZaREU0dERBbDdjS0RZckNLZlFLT3d4dEJrYzlNRzVpWklxZXJ2cGtnQzBGYnYwdkI3X2xQdS11T3JhM0hUQjB5VWRZU01zRGdlZXo3dWp5V1g3ZlplaA?oc=5",
+      "published": "Sat, 03 Oct 2026 23:08:13 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북한 김정은 \"핵전쟁억제력 고도화\"…딸 주애도 참관 - v.daum.net",
+      "summary": "북한 김정은 \"핵전쟁억제력 고도화\"…딸 주애도 참관 v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hc0dSNXQ1VkEyM000bGZkVU1lQXhOdlRlSHFOcVJXd2Nzend1cXZtSXVWLTM4UWpkLUtqOWtLNGMxR2FNWnZtY2R0a0R4eTg?oc=5",
+      "published": "Sat, 03 Oct 2026 22:41:14 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북한 김여정 “오늘 동해상 전략무기 발사 훈련…중거리전략미사일” - KBS 뉴스",
+      "summary": "북한 김여정 “오늘 동해상 전략무기 발사 훈련…중거리전략미사일” KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqbnNZcjRVN0J2Z25LR2V3QlM2S0VCc1F1N21qcWRfOXRrUVEtWHlXR0xXZDZkMXA5UHp2c2tVNWlvdXdWUmtTZnFMSkxON1lpN2VTOVljc0RsTDg?oc=5",
+      "published": "Sat, 03 Oct 2026 10:20:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "北 탄도미사일 700㎞ 이상 비행... 김여정 \"광대극\" 조롱 하루 만에 도발 - 조선일보",
+      "summary": "北 탄도미사일 700㎞ 이상 비행... 김여정 \"광대극\" 조롱 하루 만에 도발 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcG9KYkd3Y0p1a0lZVGJmaHlaTkRvYk53dkdkSFlRU2d2MmlSem9kSk1RclNwRVF0N08ybVZDRzJzWGF3Vnc0T0JKcmg1eUMtQVU0aVdBUHc0LUdzd1hJbTdvNzl1TVkxOFBscENCRFhsMjNNc2FEaGVlOTY3N2JoczQ2Q3IwSldLaFd4c2RRa04?oc=5",
+      "published": "Sat, 03 Oct 2026 01:41:25 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea's Kim Yo Jong says intermediate-range missile test was conducted - Reuters",
+      "summary": "North Korea's Kim Yo Jong says intermediate-range missile test was conducted Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUDhZV3ZlNnY5c1FBQThfWXpEdWpHaEROXzlWQVNSdnVVZE9iN29HTEZIeFFWT1VXRDNVNXpGWFZwTGZ5RFYyNXJobFpkY1NOOHY5SlpQUzhpbXpmSGJ3WnNJNHJ1Z3VJM29tQ2lXRFJoRThxQWRZMkIxWjlCTDJOQU1iRTItRzdtX3dleDFtMklWendLSkVfRExodTdZN1ZPNnp4N0swdXc0RmZaU29YMWVtTmJDTGpiMGVPWjJtRGZDZmxmVEdzNVJR?oc=5",
+      "published": "Sat, 03 Oct 2026 11:05:43 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers - The Guardian",
+      "summary": "North Korea launches ballistic missile after Seoul demands apology over wounded soldiers The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcUZLbG9yWVZrUkJnOFdzdmpEM2NSM3R5OTByeDFucmRmVng0RWdwa3ZQZHRWSFM2NmtqZjdEWlBsWEtBQXdtSHA2ODVwWmFGZ2NzN3VLb1kxMDNwQ1k4S1hfbEw0VzNIVWZNTVZuZ1J1NjJuVV9VS1JlYTlNRHZ4WUFLdWhuOEZ0MHRQQ3RhNmMteGUyai10WVIzblk4V2FzQnNsSVFWWVZUTDJ5dWJIOUdEbXEyVS0yelk5dmxRTDcycWNzejR4Xy1sZ0RwM1E?oc=5",
+      "published": "Sat, 03 Oct 2026 05:31:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea launches ballistic missile 700 km. as hostilities heat up - The Jerusalem Post",
+      "summary": "North Korea launches ballistic missile 700 km. as hostilities heat up The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVTG5qWWdhd3lsQ2pJdEVweklJZkhYNXBsNXZIQ1lJeEdfejlSdFVRU0U4dndLVzZCUmFZSVV4YXF1YnRmZjBaZFZuOVUzR29WVGdLdW5UUXVYVmgtbmNN?oc=5",
+      "published": "Sat, 03 Oct 2026 23:50:59 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea mocks Seoul, Tokyo over alleged failure to track missile - NK News",
+      "summary": "North Korea mocks Seoul, Tokyo over alleged failure to track missile NK News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRWtqMHhuVmQxY25sLTdQNXNOVlRRenpXSloxUWEydnhucHFSeGItd2RsMGxSbk41MmZvcDFaQVRfQ0NpOWRaNUd3OF9tZkcxdUp5S2R2X1k0TkM5cWpzSW5ySG85dllBYW4xQWFqdFZPVzBoZHk5QkZrdGpyQWNCN1U1dEw1R3ZGemozZnNPMks2ZnFubXZkcGZ2U3FPdjJH?oc=5",
+      "published": "Sat, 03 Oct 2026 21:11:15 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "N Korea test-fires missile amid tensions with South - Taipei Times",
+      "summary": "N Korea test-fires missile amid tensions with South Taipei Times",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9OR19hZFVQMldrRlZwOFZOYXM4Q3dRQU56VVpESTlZYXJURUNESzQ0eUo5Y0lUNHBBYTJPRmdBVEVjXzRGSkFqOFBUd0szVFdjaFhFUHJTZC1vTnJsQnhVaEFSMklnZHhKc1JWSEx6M0NFVlVJVzFrZQ?oc=5",
+      "published": "Sat, 03 Oct 2026 16:00:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea’s Kim Oversaw Hypersonic Missile Drill, KCNA Says - Bloomberg.com",
+      "summary": "North Korea’s Kim Oversaw Hypersonic Missile Drill, KCNA Says Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmZ0ZlhFM2VCT2wwWU45Uld0dEh5WUtkZXBSQ0NMZ2xaQ3h6bVRWbGdidzFBZjdpaExFSzY3S2J0dENHVEVNTWtzQmZVdGdWSUM5VWdlOVdYTlhrYjJaQXdOQkQwWTFxOGtpNFgyXzk1UUJRa3ktVVJzNkVOZ0pSTExIbTAyN0JQUE1DdlZRc3NKcUJtMUVxNWZFVnJGQktMUjJNdzY1M28xalliT1paRG13NHdITlVRdTNPWXRQZERtVElDSk92SA?oc=5",
+      "published": "Sat, 03 Oct 2026 23:37:29 GMT"
+    },
+    {
+      "source": "38 North",
+      "title": "Several Naval Construction Projects Underway",
+      "summary": "Construction has resumed in earnest on what is expected to become a flagship naval ... The post Several Naval Construction Projects Underway appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/10/several-naval-construction-projects-underway/",
+      "published": "Fri, 02 Oct 2026 13:31:30 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea mocks Seoul, Tokyo over alleged failure to track missile",
+      "summary": "Kim Yo Jong, the powerful sister of North Korean leader Kim Jong Un, said North Korea conducted an intermediate-range strategic missile drill Saturday, claiming its maneuvering flight prevented South Korean and Japanese militaries from tracking its full trajectory. “At dawn of this morning, a drill of firing a strategic weapon toward the East Sea of […]",
+      "link": "https://www.nknews.org/2026/10/north-korea-mocks-seoul-tokyo-over-alleged-failure-to-track-missile/",
+      "published": "Sat, 03 Oct 2026 15:14:48 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea fires ballistic missile toward East Sea",
+      "summary": "North Korea fired a ballistic missile toward the East Sea (Sea of Japan) on Saturday, according to South Korean and Japanese authorities. A ballistic missile launched from the Wonsan area of North Korea toward the East Sea was detected at around 6:30 a.m. on Saturday, South Korea’s Joint Chiefs of Staff (JCS) said in a […]",
+      "link": "https://www.nknews.org/2026/10/north-korea-fires-ballistic-missile-toward-east-sea/",
+      "published": "Sat, 03 Oct 2026 00:04:18 +0000"
+    }
+  ]
+}
