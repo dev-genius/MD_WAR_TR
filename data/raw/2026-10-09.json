@@ -1,0 +1,474 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T10:31:21.249967+09:00",
+  "history_candidates": [
+    {
+      "year": 1594,
+      "text": "Pressed by a food embargo, the five Catholic cantons of Central Switzerland declare war on the Protestant canton of Zurich, starting the Second War of Kappel.",
+      "link": "https://en.wikipedia.org/wiki/Central_Switzerland"
+    },
+    {
+      "year": 1594,
+      "text": "Troops of the Portuguese Empire are defeated on Sri Lanka, bringing an end to the Campaign of Danture.",
+      "link": "https://en.wikipedia.org/wiki/Portuguese_Empire"
+    },
+    {
+      "year": 1683,
+      "text": "Allied Imperial and Polish-Lithuanian forces defeat the retreating Ottoman forces in the battle of Parkany.",
+      "link": "https://en.wikipedia.org/wiki/Holy_Roman_Empire"
+    },
+    {
+      "year": 1708,
+      "text": "Peter the Great defeats the Swedes at the Battle of Lesnaya.",
+      "link": "https://en.wikipedia.org/wiki/Peter_the_Great"
+    },
+    {
+      "year": 1760,
+      "text": "Seven Years' War: Russian and Austrian troops briefly occupy Berlin.",
+      "link": "https://en.wikipedia.org/wiki/Seven_Years'_War"
+    },
+    {
+      "year": 1779,
+      "text": "American Revolutionary War: A combined Franco-American assault on British defenses during the Siege of Savannah is repulsed with heavy casualties.",
+      "link": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+    },
+    {
+      "year": 1806,
+      "text": "Prussia begins the War of the Fourth Coalition against France.",
+      "link": "https://en.wikipedia.org/wiki/Kingdom_of_Prussia"
+    },
+    {
+      "year": 1812,
+      "text": "War of 1812: In a naval engagement on Lake Erie, American forces capture two British ships: HMS Detroit and HMS Caledonia.",
+      "link": "https://en.wikipedia.org/wiki/War_of_1812"
+    },
+    {
+      "year": 1861,
+      "text": "American Civil War: Union troops repel a Confederate attempt to capture Fort Pickens in the Battle of Santa Rosa Island.",
+      "link": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "year": 1864,
+      "text": "American Civil War: Union cavalrymen defeat Confederate forces at Toms Brook, Virginia during Sheridan's Shenandoah Valley campaign.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Tom's_Brook"
+    },
+    {
+      "year": 1874,
+      "text": "The Universal Postal Union is created by the Treaty of Bern.",
+      "link": "https://en.wikipedia.org/wiki/Universal_Postal_Union"
+    },
+    {
+      "year": 1914,
+      "text": "World War I: The Siege of Antwerp comes to an end.",
+      "link": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "year": 1918,
+      "text": "The Finnish Parliament elects Prince Frederick Charles of Hesse as King of Finland, but he never accedes to the throne due to Germany's defeat in World War I.",
+      "link": "https://en.wikipedia.org/wiki/Parliament_of_Finland"
+    },
+    {
+      "year": 1937,
+      "text": "Murder of 9 Catholic priests in Zhengding, China, who protected the local population from the advancing Japanese army.",
+      "link": "https://en.wikipedia.org/wiki/Zhengding_Missionary_Murder"
+    },
+    {
+      "year": 1941,
+      "text": "A coup in Panama declares Ricardo Adolfo de la Guardia Arango the new president.",
+      "link": "https://en.wikipedia.org/wiki/Panama"
+    },
+    {
+      "year": 1966,
+      "text": "Vietnam War: the Republic of Korea Army commits the Binh Tai Massacre.",
+      "link": "https://en.wikipedia.org/wiki/Vietnam_War"
+    },
+    {
+      "year": 2006,
+      "text": "North Korea conducts its first nuclear test.",
+      "link": "https://en.wikipedia.org/wiki/2006_North_Korean_nuclear_test"
+    },
+    {
+      "year": 2016,
+      "text": "The Arakan Rohingya Salvation Army launches its first attack on Myanmar security forces along the Bangladesh–Myanmar border.",
+      "link": "https://en.wikipedia.org/wiki/Arakan_Rohingya_Salvation_Army"
+    },
+    {
+      "year": 2019,
+      "text": "Turkey begins its military offensive in north-eastern Syria.",
+      "link": "https://en.wikipedia.org/wiki/2019_Turkish_offensive_into_northeastern_Syria"
+    }
+  ],
+  "korean_war_hits": [],
+  "korean_war_date": {
+    "month": 10,
+    "day": 9
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Learning Without Bleeding: China’s Lessons from the Russia-Ukraine Drone War - CSIS | Center for Strategic and International Studies",
+      "summary": "Learning Without Bleeding: China’s Lessons from the Russia-Ukraine Drone War CSIS | Center for Strategic and International Studies",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT084NGZGMmRldWROY3VwTk56TkxXazZ1MVJKeDh6WnZOS1dkenFMa0dNYXNIWXZyeXMyTDgxRnJ0NkVmSDhvajh3eVJSb2dqbFhQaTU0OEZlTExhRmEzLUpYcmhsOTZjMmc2bm9ud0FpTTBpWXdzTThmTldkQ0czOThVWkJ4Ui04NWwwMEYzOVg0TzNiSlo5eF9OVQ?oc=5",
+      "published": "Wed, 07 Oct 2026 13:32:38 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian attack on buses in Ukraine’s Kramatorsk kills at least 30 people - Al Jazeera",
+      "summary": "Russian attack on buses in Ukraine’s Kramatorsk kills at least 30 people Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcjBwR180MWVSRmxPRXA4VFFleWdyTWxBTFZGMTg3aWN6ZGtxZlZoem1saEQ2Y0FCMHp3cmszZEs5RUVTbGtvajdsZUVYQTNTY21wZXNTMEVnNEkyYmFhSWV0b2U5N2lpRDJ2ZG9wc2FmOHVyUHZkQWFlSkl5VU1fRzBGUUwtWWpvdU9XdWQtQdIBlAFBVV95cUxNSnRHOW5UT19vXzdJZ2VlQjFBUmdpa2g0QnZMWHBHamxaSUYwU19yVDN3aEJBMkxLc0dMQ1RDeW91b2ZiVUp1UkZuVUM4MzlzQWt2NmdLZWtEcXFadzdJWm80TVo2bmtKRmFteXJTTmtxbXpTMkdqMW1zVTFtS3htb252QUpkdnRkTjgyekVWTDdDWG5J?oc=5",
+      "published": "Thu, 08 Oct 2026 23:13:08 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv - NPR",
+      "summary": "Russian strikes on Ukraine's public buses leave 30 dead as blackouts worsen in Kyiv NPR",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fYV9KOTh2Vlcwa3lTc0hybW94VkJwR2NSTk9pSmlmV3dyTHZpZEdkVFpYcGpPalBFT1pCODNuMlRzbGsyU1hxQTBfakVLNGx2Wk9fTGpVdmlLd0oyNm1oOU9TX1JFWThsTGlhMHN3?oc=5",
+      "published": "Thu, 08 Oct 2026 11:25:28 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian strikes kill 30 in Ukraine frontline city, talks set in US - AFP.com",
+      "summary": "Russian strikes kill 30 in Ukraine frontline city, talks set in US AFP.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcUY0ajZOQ0hRT1J0RlRIekowejJJWUxwZVZ4WWM1RWpFUkVidndFRHotMWxjcWExREhRT3prRXFISWpUb25WblZqS09NTDVtUWJUVlQ3TS1Mb0U5eU1CSVRhOWNSbVFjUGVVbGdyby1hTVNITXJwemFXajBZM1RJY0x5VllRNUdBekE?oc=5",
+      "published": "Thu, 08 Oct 2026 23:08:50 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Drone hits data center of Russia's 'Google' in 1st for Ukraine war - Daily Sabah",
+      "summary": "Drone hits data center of Russia's 'Google' in 1st for Ukraine war Daily Sabah",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT1ZFdjZ2RkdfTmY1RllMcDRGSTRLOFB3eEtyQUhuTDNXandJYU5oOEh5QWxWdzA1Wlc1X25jSWV6RkxSeGFxcWt0RjNiTDlKRFFyX1ZIVVNuSzRYSU1ScG9Nekk5Tjd5Y1VQdkhza2dHZzNaZ3F0cVlLa2laaUl2aDhLNjJCOENITmRyMUxhaGc5WVRiLTBaY1ZTazluajFyWWZJWnhmMmZiUWM?oc=5",
+      "published": "Thu, 08 Oct 2026 17:04:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Zelenskiy accuses US of inaction as Russian strikes kill over 70 in two days - Reuters",
+      "summary": "Zelenskiy accuses US of inaction as Russian strikes kill over 70 in two days Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOREpyQzZYbFZlVDczYVA3Z1dEMGo2WFJ6WG1TZ1lMM0lCRUxBWllBVHd6VkJ0WHV3a2pRUDNnZ3o5blBmbG5aSjVCOGpXWUVBN3hqYmY2SmlhdG9sUldWVXBESjJSZWZpRjVtVHo5WXRpU1FZM3ROTm5iMHM3VU41N19FOVdYYUp0XzNzYlhqX29uZWxfMVBPMWVJSFJYRnR1OGtn?oc=5",
+      "published": "Thu, 08 Oct 2026 22:14:15 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire - Al Jazeera",
+      "summary": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN21oVnllWUpmQnB0T19IRzZJbXlCNkNqSFdJRWNiTkxVY0ozczN3RmhCVk5LRjd2UWNicG1BUWg5V216MzNWdkZmY0hiTXd6cC1OZjMxeU5hRGdOWWxsNHRxSzVCMDBCTU9FSUxTOU15b0UxVFFtNmJzZElNQms1VkxSY1RWeVBvMjBRSXdnMmlSSm40U1JTcTdxM2oxQkxjYkNsQjB3SXJYYW04T1dHdm1fdTMzWG_SAbwBQVVfeXFMTnlYUWx4VWRsdUNWcDUxdFBoUm51TWZabW8tTV9XUHF1SkpVeXpYYWN0VEMwTUt1SC1TaVpxZnBtQ1g2YmVMbGdYa2RJYkhqSXMxb3daWGwyZEtPQm5rY2p2Q0hoN29tZUNKV0JaWXFpMlJLWm10VzhoSW9LZ0hwY3J2NHozeEN4TGtpVGhKUzJfSUFZc1pkaXpBQVV4bTdqZE1RaE9odWNrZ3FMajRaX3E5Znl2T1FXNjRJbjU?oc=5",
+      "published": "Thu, 08 Oct 2026 23:04:46 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Gaza ceasefire exists in name only, say more than 100 organizations - www.nrc.no",
+      "summary": "Gaza ceasefire exists in name only, say more than 100 organizations www.nrc.no",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONzJ4eGJVUjlLa0RNZTNsOUt2OENKdnBtSnBHZHJtU0ZnbXJaaTRqT1ptSlpNV0JybE9jSDBlTy14WWozajRwZ2FxREJSUXJESkVyOE03cVIzcDJab3ltTUJRVFktSmxGTXR5SW9jOHI2SEtZNDNVWWdFRHNnWGc3WnNBMmZGbXJjdkdpTk9nQkVOZkl1MUpCMDlBbmIwVjRFVkdMQncwUHI1QTlKTXhVQkVKWS1lVzJRc2xRak5ZeTVIdm1xUmVLdlVpX3I0ZllMUFN4ZFdzNkMyVjdMUFNCWWxjWHpiMk1LRlE?oc=5",
+      "published": "Fri, 09 Oct 2026 01:03:52 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Three years after Oct. 7, Israeli strikes in Gaza grind on and deaths climb - The Washington Post",
+      "summary": "Three years after Oct. 7, Israeli strikes in Gaza grind on and deaths climb The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMm1kWlRJQmYxbUtXcEpCcjV6ZGdzSGRlZ1ZGaUhHMWRzc3hMb3FFQnA5Ym5zV1F3UHNhUnhPWDh2Y2U4OVZ3YWFmdVdySEc3VEIyRzI3azV2S3hrWkVrTmI1OG1GdFMxVnJqbXZJMTlkRjZLano5d01JMldGUmF4MFZEMlZNSU5uaUJCRkpHX1k3WkxObXBJVmJVRzBLcTlNb29sSnpfTXBFd2ZIZzBoYTln?oc=5",
+      "published": "Wed, 07 Oct 2026 16:00:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israel kills 7 besieged Palestinians, wounds a dozen in attacks across Gaza - TRT World",
+      "summary": "Israel kills 7 besieged Palestinians, wounds a dozen in attacks across Gaza TRT World",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObDRreXozWFo4RjU0cGJpcWFicUNCUEJpdTEwVzNMZjcwUkVScTc2SE9lR0VBRDJuLWtVTWRnaWctbGRtdWpudDR1Sk1icVd6VTY0T0wzZVAzeW9COVZ6NV80SmwxblNRRWF3U2ROUHA1anlLaGRieW5mZklHdkwzUmhwWWdZYU54UWx6Z0RxcGtVQUhFMEwzT2xWSUlqb2xFN3l1X0l1ckFIR2tLb2ozUGgzUXNucmNUZ0VvQjh6TXVjU0RDM3FBVTZVZE9xem9jMmxrSFY2ZTVNQmtOSUYxM1BycXVoaTNaSXBN?oc=5",
+      "published": "Thu, 08 Oct 2026 21:05:49 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Satellite photos show how Israeli forces have erased Gaza towns - AP News",
+      "summary": "Satellite photos show how Israeli forces have erased Gaza towns AP News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTmVHSldjT2ZoWHJCbzd3M0g4YjZJRTBFMWVNYnZOeklobVRQT3g5NllKaEVzRnBhVHRXbm41WXg2YUpMZU9KWGRRSUo0WXh1RXRLUTNJSmk1c0pkaUhMTFlCUWVidGJMN2kwV29iX3N0V1VrcG9ESU1UTGl0X1ZoU1J0R0lqSGhnaVF4Ry16UQ?oc=5",
+      "published": "Wed, 07 Oct 2026 15:04:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "A father’s agony after an Israeli air strike hits Gaza apartment - Al Jazeera",
+      "summary": "A father’s agony after an Israeli air strike hits Gaza apartment Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaWNhZ0dpN3c5cFY2Ykx6b2Y5ZVdabTRMZHJLenpKLWxpRHYwLWRZellyUWYxT0JnR2x0WEloa0ViZXZWOFhxV1EtZXVWVXQzRmk3YUxYb05YZHdKd2dsQXJyUmNzT0VXaUU3c0NvTVlyTWhFN0pBZEFubE16YUxnS0xRUVdHdU5uUTg2UEpDRHBHQkJCRHJkOHdka1VkMDhONEJsbk9EUWZVQWc3VFIwdzlDZHPSAboBQVVfeXFMT0xDZmVMQ3NKU2F6MHVGeHNCNnVzb3hXanMxLUttTS1fTGRKbXowbUlpQ3piZjRFV1dRQVRzV3dnUFFHTEQ0MC1wdUVfLS0tQXE3Q1V6TWNtdXQwN2ZFU3p3dHRqb1p1a1RmOEc4bUFUenpPcWZSWF9wSUFYcDM2VTV1ekt1d0tLWGNHeVAzc0l6OWdlVEpqZk1rYkNySnF3dkNFU3lYM29Wd0d6WEMwZDZzVXpZQ2ZIOWpn?oc=5",
+      "published": "Fri, 09 Oct 2026 00:14:46 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Sudan RSF commander defects with 300 troops - Yeni Şafak English",
+      "summary": "Sudan RSF commander defects with 300 troops Yeni Şafak English",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYlJxazBxVVpmQml2b3h3Y3VodkhnZ3h0UHV2UlpUZC1jNjV2RjFhRDRVdjRYQlFfWkRQb1NxX09GcFh3clVoMlhVY1hXWGlwUGJQZXpvamlncUNQSk5BLXlXei1GWlEyb0xFcENxa0I2RE9NOFlwYjA5Zk9NRTNnUHVXa2hSUy04enc?oc=5",
+      "published": "Thu, 08 Oct 2026 15:19:41 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Suspected RSF drone strikes kill four civilians in Sudan’s Ed Damazin - Sudan Tribune",
+      "summary": "Suspected RSF drone strikes kill four civilians in Sudan’s Ed Damazin Sudan Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OYlgxSy1iZVd6T2JOWklERUI2VUlTMXdBQk5RU1JBQ21UNG5xeEV1dENBaWplVFBIdXc2d1FGbVhNdUNPejlJWTVUOUE2cDJs?oc=5",
+      "published": "Wed, 07 Oct 2026 20:14:09 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar Military Retreats After Failed Tri-Force Offensive on Ngapyi Kyunt Island - Narinjara News",
+      "summary": "Myanmar Military Retreats After Failed Tri-Force Offensive on Ngapyi Kyunt Island Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Jdl9sQW1iUU81cDBnZUJLRGZWRFo0cXBhTUZ1WGw0WlY1azJ5MlBjTmoyMVpzajB5ZXJFMWhpTmZhQ0dZZmVfSnk3MXlQd1VSVjBFR0Znemd5T3NDSzJwMjU5cVlURFo1aWdpRFdaTQ?oc=5",
+      "published": "Thu, 08 Oct 2026 19:50:30 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Steering Council for the Emergence of the Federal Democratic Union office@scefdu.org www.scefdu.org Date:October 8, 2026 Statement on Military Junta's Airstrikes Targeting Civilians 1. The Steering Council for the Emergence of a Federal Democratic Unio - Facebook",
+      "summary": "Steering Council for the Emergence of the Federal Democratic Union office@scefdu.org www.scefdu.org Date:October 8, 2026 Statement on Military Junta's Airstrikes Targeting Civilians 1. The Steering Council for the Emergence of a Federal Democratic Unio Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ3ZDTm9iUEc1dXpUY0wzSFhaT1Y5eGtEc1dIWGtNWlBsY0huNG56ZTJ0QkFwRm9IU3g3dmZLYjFqa1l6VmxkMXV5dWVUczFCUGp4bUpOSUFfMUhLNDV5dDZ6a2t1ZmgyOGRpWXY0NU9NVXhkNnZ2T19xYkpMR0FFbG9PdHVrMFRvR2xWMVZNOG1ScGgzbmJMVGJfWnpNalhtUW9VdUVHTGtEU3hsekFFc2VQWXRaTEhCNHFkYl9ubFB0cktPUUh0ZlREWXJteXFOSEVGN3RYUQ?oc=5",
+      "published": "Thu, 08 Oct 2026 13:12:15 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar Junta Escalates Military Operations in KNU Brigade 6 Territory Following Peace Forum - Karen News",
+      "summary": "Myanmar Junta Escalates Military Operations in KNU Brigade 6 Territory Following Peace Forum Karen News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNEd2QjB6QWpjMHhEVUk0dk5QTEZXMEhkTHMxRXYxXzFoZ2dVWHIxZmZuTmF5X2RWSzJMaHRId2FLYjlTeW1uUkhhVnppX2daSTBYYU5hZ3NjMTJobWFUOEFSS2lEVzlVcFY0anZFWVp4V3MxOUxHeTBtVFNLeFBnNy1zZDFvTDZ5TkJTN0FkOTA5OXJqWDF5S2VDNG1TSmpNVFVJMnNSTGtJRHJKQW5XNU1aQnhvdkdoSHRmMDk4dWg?oc=5",
+      "published": "Thu, 08 Oct 2026 06:10:17 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar Junta Rare Earth Talks US Strategy Risks - Rare Earth Exchanges",
+      "summary": "Myanmar Junta Rare Earth Talks US Strategy Risks Rare Earth Exchanges",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83NzREYkVSSHg1bTF2LTIycFRqbllyVXlsX2xiREJteHpyekxNSmdvaXJEeUdlR3VKQXZEZEFLSzVjejNBOUJBYnFDcjdZb01ISExyWmozTEFNQjdhUm03QmhmSVlnTVhLVDc5R3g5NXN2TGk5ZFlueGxOU19JT2s?oc=5",
+      "published": "Thu, 08 Oct 2026 21:14:08 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Guest Column | Arakan Under the Myanmar Regime’s Air War - The Irrawaddy",
+      "summary": "Guest Column | Arakan Under the Myanmar Regime’s Air War The Irrawaddy",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDNqUjNvZEh6XzRkNlBkek1zQ09SQnZ1a2JXQ05PeUxwNmdqWVlJSk9YZXJ6eXJlWmIyNS1fdzJXazR3RWZ3dkJ5R3VoelpHOFdwZkttZ084aHBBV1hZZEZPWl8tVmlOV2kwb20yTUdoTGd5X1F1Z3JXNDVlNjRVVnduTTlvazQyZHNlQ1RoeXNmdnNmTWVr?oc=5",
+      "published": "Thu, 08 Oct 2026 08:12:50 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Malaysian Firms Linked to Myanmar Military Aviation Supply Chain: JFM - The Irrawaddy",
+      "summary": "Malaysian Firms Linked to Myanmar Military Aviation Supply Chain: JFM The Irrawaddy",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ1QtbUc1cDlNVEJiNk9CX2hwcVJUQU9tOXVmcmcydjFwbjZKd0ZXQzRNZmItS2lOSkV3ajBzMENadWZhVjUyV3poRURSQXh4N2xWLVdYbFNuNnZvOENYbjZuVDI2WDktOGJnT1k0V3pPZTFNVjBqZk1SZW5KdUVBZmVjOVZzVjcyLUtzUUtzeW95SUpvOVEweURqVFdwY2Nsd09ESDY4OV9wS3dlbVNzZktvVEpiYVJEampCVUk1VF9HQTJqcXVGck93?oc=5",
+      "published": "Thu, 08 Oct 2026 12:24:53 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "UN extends Darfur arms embargo, blocks broader Sudan sanctions proposal",
+      "summary": "Russia and China block US efforts to expand the Darfur arms embargo to cover all of Sudan amid ongoing conflict.",
+      "link": "https://www.aljazeera.com/news/2026/10/9/un-extends-darfur-arms-embargo-blocks-broader-sudan-sanctions-proposal?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 00:50:38 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "USS Lincoln returns to US after long deployment supporting war on Iran",
+      "summary": "Crew members express relief after a record 265 days at sea that strained conditions on board.",
+      "link": "https://www.aljazeera.com/news/2026/10/9/uss-lincoln-returns-to-us-after-long-deployment-supporting-war-on-iran?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 00:39:20 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "A father’s agony after an Israeli air strike hits Gaza apartment",
+      "summary": "An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood, killing several people, including children.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 00:12:18 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Will Ethiopia’s neighbours intervene as Tigray war escalates?",
+      "summary": "Tigray’s renewed war is testing Ethiopia’s already strained regional ties.",
+      "link": "https://www.aljazeera.com/news/2026/10/9/will-ethiopias-neighbours-intervene-as-tigray-war-escalates?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 00:08:33 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Iranian media reports ‘massive explosions’ in Hormuz Strait",
+      "summary": "Iranian media reported massive explosions in the southern Strait of Hormuz, with Fars citing unnamed military sources.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/9/iran-war-live-iranian-media-reports-massive-explosions-in-hormuz-strait?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 00:00:21 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’",
+      "summary": "An official at the Pentagon told Al Jazeera that former US Army Major Nidal Hasan's execution would be 'livestreamed'.",
+      "link": "https://www.aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public?traffic_source=rss",
+      "published": "Thu, 08 Oct 2026 23:36:44 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "summary": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
+      "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 16:31:29 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says",
+      "summary": "Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.",
+      "link": "https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 12:11:31 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "South Korea recalls Ukraine envoy over prisoner-of-war row",
+      "summary": "It is the latest in a diplomatic spat after Kyiv disclosed that two North Korean prisoners were transferred to Seoul.",
+      "link": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 16:23:09 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Eritrean troops move deep into Ethiopia's Tigray region, residents tell BBC",
+      "summary": "Residents of Adigrat tell the BBC they have seen truck loads of soldiers from Eritrea moving south.",
+      "link": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 18:40:52 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+      "summary": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
+      "link": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 05:06:09 GMT"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
+      "summary": "UN human rights chief Volker Türk said on Thursday he was appalled by a wave of attacks that have killed civilians across Ukraine over the past four days.",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168557",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
+      "summary": "More than 700,000 displaced people in Tawila, in Sudan’s war-ravaged Darfur region, face severe shortages of healthcare, food, water and protection, the UN World Health Organization (WHO) warned on Thursday as it called for an urgent increase in resources.",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168556",
+      "published": "Thu, 08 Oct 2026 12:00:00 +0000"
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "중국 맞댄 김정은 별장 앞 4km '수중 도로' 포착…정체와 용도는? - BBC",
+      "summary": "중국 맞댄 김정은 별장 앞 4km '수중 도로' 포착…정체와 용도는? BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02QnFFMzQtNTN5cDN0aGZSRXhMOEZmY2hrNWZJbmRQcTM1TVZ0cm5paGlFd1MweTRFS0ZEalloa2RJX1lCZEFkS2s2OVhyRm96QkVBMmgyNXl0TUVv0gFiQVVfeXFMTzJzTFd4czBjb3dwUDg3b2xya3NyOXJfbFlWcG56VGNTNnRUc2tDMnlwNEJsc3hhWUl6NDdlSjBKQjBrWXhqckkzUG5XaHE0bU5fd3FDaVRIMnNhanJYTkthcUE?oc=5",
+      "published": "Thu, 08 Oct 2026 10:23:57 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북 열병식 준비 정황… 병력∙차량 집결 – RFA 자유아시아방송 - Radio Free Asia",
+      "summary": "북 열병식 준비 정황… 병력∙차량 집결 – RFA 자유아시아방송 Radio Free Asia",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUFVvQ3J2Y0xRQjg0WU1zX3ZvYWg0RmZ6MC11VW4xcWhXeTlTOTZwR1FKWjVJb1BJU0tCZUNxcFRONUlSWnllSWhmLXl6SlZoVC1BQ0dfN0tIeWNiS2RSYWVhbnVSbTJxdFZvbTR0RlR4ZHdYNzNCX1ozOVlkNmtlbmZtUTV5NEtJMlJ5Zjl5YWZ5cUh1UXZxeHBGNlROYUNNQ25Z?oc=5",
+      "published": "Thu, 08 Oct 2026 16:15:13 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "합참 \"명백한 북 도발\"...한미 정보공유 두고 여야 공방 - YTN",
+      "summary": "합참 \"명백한 북 도발\"...한미 정보공유 두고 여야 공방 YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE84cm5ZeXJwVEZaODJaaDhGM1RKVlcxUE9VUkxxOU5RTmRpTWdTSlRmZG5PVndtQkdCaDRpY0hfaVV6by12NFNrTjB6eXN6NmhaeDBCb3RCbFNvVngzdXc?oc=5",
+      "published": "Thu, 08 Oct 2026 13:02:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "\"北미림비행장서 기념행사 준비 동향…과거보다 제한적 규모\" - 연합뉴스",
+      "summary": "\"北미림비행장서 기념행사 준비 동향…과거보다 제한적 규모\" 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a3Vla01VSjB0TTdQSWJ2bzE5S1g2MHV2LW1yYi1Bd1d0MXktS1R1OXBCTVIzWmF2NFNHZS03QUk1WWtGbjFyVzdDLTcyMGp0dzRtSXRwS1JXWXfSAWBBVV95cUxORlp4YUhpdUR5RWNBdGl6TFBwWTZjbDg2dlNPZ3Y5U1RqN3Z0aXRZNlVHRFk5c1NqcDBaaml2RWpWN3czRl9HenRHRnpFcW9xRWswNkFPeXdfSjFpVXB1QjE?oc=5",
+      "published": "Fri, 09 Oct 2026 00:26:04 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "정점식 \"북한 도발은 현재진행형…안보 현실 직시해야\" - 뉴시스",
+      "summary": "정점식 \"북한 도발은 현재진행형…안보 현실 직시해야\" 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zWDFiTnFfOURadmUyU1NDQ1l0c1F4NFQwZE1tRm1iTmhYUkdPaHRQa3J1b2E0cnZZYk42QXhpS3hhQVJZZ0s5VDk3TjdZRC1zRFpGcF9ON0xGUVJSNjllbtIBeEFVX3lxTE5nSWFjZ2tfdTZWWjBHanJxczdyQy1aR2stMThsSjFTdEswQnVhV2ZPVjg5c0V6TnlhNXNaOGwtTzlXOWEyaDBzZVZveUxRcGYxXzFGdWVHRnZmb2JWNTd6YVk0U2lxdjFNWWZQY3NFczJHekEzMy1xUg?oc=5",
+      "published": "Fri, 09 Oct 2026 00:36:20 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "김여정 \"한국 외면하고 무시할 것\"…北지뢰 도발 등에 비방 공세 - 뉴스핌",
+      "summary": "김여정 \"한국 외면하고 무시할 것\"…北지뢰 도발 등에 비방 공세 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lRm85VXlzVThnV2FMQ2h5d0ZTcWl0R0s2ZGRKYVB6TXJaMm1pdG94Qmg1STBXY1dXTXcxMnMzUjdwS1NDRHZyZ1FfdGVkSlp6SzNhSVZLRUhZZG9u?oc=5",
+      "published": "Fri, 09 Oct 2026 00:11:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Japan seeks Trump's help arranging summit with Kim Jong Un - upi",
+      "summary": "Japan seeks Trump's help arranging summit with Kim Jong Un upi",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVGNTWjNYeTNjQ0h6NGtWNUV4OWJvNk9sMG5mRUlKRWpkUnRZU3RMTzVvWlpGTDljb05kTkxSOXIxT05PcV8xYW4zTEdVV0d3R19kLVZsTTJZX2RyRWZwNHIyM3BKejZvM0xXRGtXd0hWSG5Bdnk1alVSZ1hTaE1nVE1rM0NaWWhPZGFvajh4WWN6YVJNMUFuUnpKcGlva0Y3WHZ2OHQtenNoRmRh0gGyAUFVX3lxTE01czFiZjFZWjkyRWZSVzdKdDhXdms2bFVqS0RodjRVdTZIZFkzUU93VGUwSWI4akNJR2FhTXNNVnE2STJ5bWgwWkJObVVrYjVuUnpTZmxiTEJiQVg2dFlVVGZUdk1NaXU3cnpldkpkS3J2bkJrWlI1UjNhWG4xVzVmNjFIZnNkaXA0d2lUdzIxZVBITjh0aElfMTgtSThTTDFSYVdLMWhxWUgzT3BrQngzUHc?oc=5",
+      "published": "Thu, 08 Oct 2026 22:28:10 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea publishes first biography of Kim Jong Un’s ‘revolutionary’ life - NK News",
+      "summary": "North Korea publishes first biography of Kim Jong Un’s ‘revolutionary’ life NK News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1obEpDS0N1TWpEOXBFZUtBb2FfcHlrVk02aGRsM0FSa1I2NG13Z2hsU3EyR01qQWdvMzg4VEw2QWdaUmVXZEtJ?oc=5",
+      "published": "Thu, 08 Oct 2026 05:48:39 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "N. Korea gains confidence as nuclear power 20 years after 1st test - Japan Wire by Kyodo News",
+      "summary": "N. Korea gains confidence as nuclear power 20 years after 1st test Japan Wire by Kyodo News",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Za1VRWU05N0xjNmh3MGxRTWNVLUFqeXVkUzduT3VVLXVja09SWTlsMDI5Y1pjYlN2Smxmd0VfMGE4YTFzUlNPWFJnNmYtVC1WU2JjWS1Jd0RnUQ?oc=5",
+      "published": "Fri, 09 Oct 2026 01:08:11 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Land Mines in the Korean DMZ Deliver Warning Against Defections - WSJ",
+      "summary": "Land Mines in the Korean DMZ Deliver Warning Against Defections WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSWdaZmd6VERDckI1ZW1KcE5nTmh3NlFIOXo3SG9WMGtIcGtIcGRNNWtiTlZrM3lKLTVIM042ZzhBM2xDZWVndkVhZ19oV09Gb2JWM0ZUVGVlaVdTY2ZsSGEtcERabG13OW5HdGlfdWktQmc1b2xZZVpEd09IejV6N1h1ODlESWJYNll2bXdSVjlnamVwVThhcnhrZS1VLUZGRHRXVEpR?oc=5",
+      "published": "Thu, 08 Oct 2026 09:52:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Seoul kept the door open. Kim Jong Un just slammed it shut - Washington Examiner",
+      "summary": "Seoul kept the door open. Kim Jong Un just slammed it shut Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSUQ2dUNleTM1VVVMM1Z5OFBQdGRTZy1zME5NYU9HZkI2MENBczhkblVrMFhEczlqUVpuX2RWZVFhbjJHc1QzamlBRG1wWTNHS1c1QUtRVkFzMTZsb3JiMHkxVExXUHlNODBnY09uN0FPdG1yNTI0LUNYR2s1WFp0TklRNl9FTzAwclBRSW11SEhRQmViUm9Ua19SZ2gwdw?oc=5",
+      "published": "Thu, 08 Oct 2026 12:00:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "South Korea test-flies its first domestically developed hypersonic weapon - ABC News - Breaking News, Latest News and Videos",
+      "summary": "South Korea test-flies its first domestically developed hypersonic weapon ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2x5NnpzUFRPT0FQYVFiOHVSVWlFY2l5NnpQOTZWWWhRQTNSZkRmSUxsTWlwR3N1dnVUckJGOHpKMGplalJiQzgtU1JxMTdhNlJoZ192UUN5R3MwV05UQ0Y0WHlGREVaLUZLZUdBUktzeHM1Rzl6b1ZrTFNJWVZNUWpEcFQ4Wmk3d3F1UENtYVZzdWQtenRydGVkMTl5dC11bFJNT2QxSWxkVlVNS2ZTcHJCWVdRNEFy0gG-AUFVX3lxTFB5MDZ0TDBBTC1MZzlVb1hRLThGZGxvZU81Y2pTcVNjdU9wTm1wTWNKRGNOaXA3anE1eFgxeXR6bUJOb00wYm9rTzN4VnpWNHRjcDQzS1FyWXFNd3FCRm5PbWV5Z0VGVGlNUlhZVHA0VUxPTTk4VVIwYWdEWE1idjZUdHhvQjIwQ0dLM21URVozS0xGZkk1d3Y4dVZia2hacVJ0ZkVZVm9XSDBEX1c5T0lQcTNCVVR4bXp4UkhnNHc?oc=5",
+      "published": "Thu, 08 Oct 2026 11:31:22 GMT"
+    },
+    {
+      "source": "38 North",
+      "title": "What Seoul and Kyiv Should Learn from the North Korean POW Dispute",
+      "summary": "The dispute over two North Korean soldiers transferred from Ukraine to South Korea has exposed ... The post What Seoul and Kyiv Should Learn from the North Korean POW Dispute appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/10/what-seoul-and-kyiv-should-learn-from-the-north-korean-pow-dispute/",
+      "published": "Wed, 07 Oct 2026 22:13:46 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "South Korea recalls ambassador to Ukraine over North Korean POW spat",
+      "summary": "South Korea has recalled its envoy to Ukraine over a diplomatic spat surrounding the transfer of North Korean prisoners of war (POWs) between the two states. The ROK Foreign Ministry announced the move in a press release on Thursday evening, following the Foreign Minister Cho Hyun’s warnings of firm measures against Kyiv. “The government has […]",
+      "link": "https://www.nknews.org/2026/10/south-korea-recalls-ambassador-to-ukraine-over-north-korean-pow-spat/",
+      "published": "Thu, 08 Oct 2026 09:07:24 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "US nonprofit cleared to send medical equipment for North Korean children",
+      "summary": "A U.S. nonprofit has received a sanctions waiver from the U.N. Security Council (UNSC) to ship medical equipment for North Korean children with developmental disabilities, the first time in four months the committee overseeing DPRK sanctions has confirmed a humanitarian exemption. On Sept. 18, the UNSC granted permission to IGNIS Community, a nongovernmental organization offering […]",
+      "link": "https://www.nknews.org/2026/10/us-nonprofit-cleared-to-send-medical-equipment-for-north-korean-children/",
+      "published": "Thu, 08 Oct 2026 09:01:39 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "ROK military chief condemns North Korean mine blasts as a ‘clear provocation’",
+      "summary": "South Korea’s top military officer criticized North Korean mine laying on the ROK side of the Demilitarized Zone (DMZ) as a “clear provocation” on Thursday, pledging “appropriate” measures in response to last month’s explosions that injured three soldiers. Joint Chiefs of Staff (JCS) Chairman Gen. Jin Yong-sung said the Sept. 21 mine explosions were “a […]",
+      "link": "https://www.nknews.org/2026/10/rok-military-chief-condemns-north-korean-mine-blasts-as-a-clear-provocation/",
+      "published": "Thu, 08 Oct 2026 08:54:53 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Ukraine denies it apologized to Seoul over North Korean POW row",
+      "summary": "Ukraine has denied Seoul’s claim that it apologized over the transfer of two North Korean prisoners of war to the South, blaming the diplomatic row on differing interpretations of confidentiality arrangements. Ukrainian Foreign Ministry spokesperson Heorhii Tykhyi said in a briefing on Wednesday that Foreign Minister Andrii Sybiha merely expressed “regret that the situation had […]",
+      "link": "https://www.nknews.org/2026/10/ukraine-denies-it-apologized-to-seoul-over-north-korean-pow-row/",
+      "published": "Thu, 08 Oct 2026 08:22:11 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Seoul’s plan to send medical aid to North Korea is a ‘provocation’: Kim Yo Jong",
+      "summary": "The North Korean leader’s sister denounced Seoul’s plan to send medical equipment to the North as an “insult” and a “provocation” on Thursday, after reports that the U.N. has granted a sanctions exemption for a shipment. “This is an insult to our state, a mutated political provocation and a grave act of sovereignty infringement that […]",
+      "link": "https://www.nknews.org/2026/10/seouls-plan-to-send-medical-aid-to-north-korea-is-a-provocation-kim-yo-jong/",
+      "published": "Thu, 08 Oct 2026 07:33:58 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea publishes first biography of Kim Jong Un’s ‘revolutionary’ life",
+      "summary": "North Korea has published the first “Revolutionary History” book about leader Kim Jong Un’s life, according to state media, a state-produced biography that may signal plans to start openly promoting tales about his childhood for the first time. The revelation came in a Korean Central Television (KCTV) program from Sept. 28 profiling Kim Il Sung […]",
+      "link": "https://www.nknews.org/2026/10/north-korea-publishes-first-biography-of-kim-jong-uns-revolutionary-life/",
+      "published": "Thu, 08 Oct 2026 05:44:05 +0000"
+    }
+  ]
+}
