@@ -1,0 +1,439 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T09:41:31.467275+09:00",
+  "history_candidates": [
+    {
+      "year": 1066,
+      "text": "The Norman conquest of England begins with the Battle of Hastings.",
+      "link": "https://en.wikipedia.org/wiki/Norman_Conquest"
+    },
+    {
+      "year": 1322,
+      "text": "Robert the Bruce of Scotland defeats King Edward II of England at the Battle of Old Byland, forcing Edward to accept Scotland's independence.",
+      "link": "https://en.wikipedia.org/wiki/Robert_the_Bruce"
+    },
+    {
+      "year": 1676,
+      "text": "After superior Ottoman forces fail to break through Polish defenses under Jan Sobieski in the battle of Żurawno, the Ottoman commander initiates negotiations.",
+      "link": "https://en.wikipedia.org/wiki/John_III_Sobieski"
+    },
+    {
+      "year": 1758,
+      "text": "Seven Years' War: Frederick the Great suffers a rare defeat at the Battle of Hochkirch.",
+      "link": "https://en.wikipedia.org/wiki/Seven_Years'_War"
+    },
+    {
+      "year": 1805,
+      "text": "War of the Third Coalition: A French corps defeats an Austrian attempt to escape encirclement at Ulm.",
+      "link": "https://en.wikipedia.org/wiki/War_of_the_Third_Coalition"
+    },
+    {
+      "year": 1806,
+      "text": "War of the Fourth Coalition: Napoleon decisively defeats Prussia at the Battle of Jena–Auerstedt.",
+      "link": "https://en.wikipedia.org/wiki/War_of_the_Fourth_Coalition"
+    },
+    {
+      "year": 1809,
+      "text": "The Treaty of Schönbrunn is signed, ending the War of the Fifth Coalition, the final successful war in Napoleon Bonaparte's military career.",
+      "link": "https://en.wikipedia.org/wiki/Treaty_of_Sch%C3%B6nbrunn"
+    },
+    {
+      "year": 1863,
+      "text": "American Civil War: Confederate troops under the command of A. P. Hill fail to drive the Union Army completely out of Virginia.",
+      "link": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "year": 1915,
+      "text": "World War I: Bulgaria joins the Central Powers.",
+      "link": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "year": 1920,
+      "text": "Finland and Soviet Russia sign the Treaty of Tartu, exchanging some territories.",
+      "link": "https://en.wikipedia.org/wiki/Treaty_of_Tartu_(Finland%E2%80%93Russia)"
+    },
+    {
+      "year": 1923,
+      "text": "After the Irish Civil War the 1923 Irish hunger strikes were undertaken by thousands of Irish republican prisoners protesting the continuation of their internment without trial.",
+      "link": "https://en.wikipedia.org/wiki/Irish_Civil_War"
+    },
+    {
+      "year": 1939,
+      "text": "World War II: The German submarine U-47 sinks the British battleship HMS Royal Oak within her harbour at Scapa Flow, Scotland.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "year": 1940,
+      "text": "World War II: The Balham underground station disaster kills sixty-six people during the London Blitz.",
+      "link": "https://en.wikipedia.org/wiki/Balham_station"
+    },
+    {
+      "year": 1942,
+      "text": "World War II: The German submarine U-69 (1940) sinks the Canadian passenger ferry SS Caribou approximately 20 nautical miles southwest of Port aux Basques, Newfoundland.",
+      "link": "https://en.wikipedia.org/wiki/German_submarine_U-69_(1940)"
+    },
+    {
+      "year": 1943,
+      "text": "World War II: Prisoners at Sobibor extermination camp covertly assassinate most of the on-duty SS officers and then stage a mass breakout.",
+      "link": "https://en.wikipedia.org/wiki/Sobibor_extermination_camp"
+    },
+    {
+      "year": 1943,
+      "text": "World War II: The United States Eighth Air Force loses 60 of 291 B-17 Flying Fortresses during the Second Raid on Schweinfurt.",
+      "link": "https://en.wikipedia.org/wiki/Eighth_Air_Force"
+    },
+    {
+      "year": 1943,
+      "text": "World War II: The Second Philippine Republic, a puppet state of Japan, is inaugurated with José P. Laurel as its president.",
+      "link": "https://en.wikipedia.org/wiki/Second_Philippine_Republic"
+    },
+    {
+      "year": 1947,
+      "text": "Flying the Bell X-1 over Muroc Army Air Field in California, Captain Chuck Yeager breaks the sound barrier in level flight, reaching Mach 1.05.",
+      "link": "https://en.wikipedia.org/wiki/Bell_X-1"
+    },
+    {
+      "year": 1973,
+      "text": "In the Thammasat student uprising, over 100,000 people protest in Thailand against the military government. Seventy-seven are killed and 857 are injured by soldiers.",
+      "link": "https://en.wikipedia.org/wiki/1973_Thai_popular_uprising"
+    },
+    {
+      "year": 1982,
+      "text": "U.S. President Ronald Reagan proclaims a war on drugs.",
+      "link": "https://en.wikipedia.org/wiki/Ronald_Reagan"
+    },
+    {
+      "year": 1998,
+      "text": "Eric Rudolph is charged with six bombings, including the 1996 Centennial Olympic Park bombing in Atlanta, Georgia.",
+      "link": "https://en.wikipedia.org/wiki/Eric_Rudolph"
+    },
+    {
+      "year": 2025,
+      "text": "A coup d'état successfully overthrows Malagasy president Andry Rajoelina.",
+      "link": "https://en.wikipedia.org/wiki/2025_Malagasy_coup_d'%C3%A9tat"
+    }
+  ],
+  "korean_war_hits": [
+    {
+      "year": 1952,
+      "text": "Korean War: The Battle of Triangle Hill is the biggest and bloodiest battle of 1952.",
+      "link": "https://en.wikipedia.org/wiki/Korean_War"
+    }
+  ],
+  "korean_war_date": {
+    "month": 10,
+    "day": 14
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "War in Ukraine | Global Conflict Tracker - Council on Foreign Relations",
+      "summary": "War in Ukraine | Global Conflict Tracker Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
+      "published": "Tue, 13 Oct 2026 13:51:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Trump says US still sharing intel, even as Ukraine reports attacks with no warnings - Reuters",
+      "summary": "Trump says US still sharing intel, even as Ukraine reports attacks with no warnings Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVA2WjlXNVNqR1RhTzFnOFd4bGstWUFZMDhCbXBNUEsxNzU4b2N2Tktwck9tMlFvSERMbFVwcnNkMUFTSVBxMjlia2VhMlQwZVllRlo5ZFpaUnl6aWFxSWJGaXhIeFJFcVA1ZUUxRHJqWjNqalNrU1UwMUtfX1hKTXhtN3pNVHdOSW93WGh5NlRuZW5KdVJPOGtsWWVHbG9UMy1tUjZrcWxEWGZkUldicFVURDFjdmdza3Q0?oc=5",
+      "published": "Tue, 13 Oct 2026 23:07:11 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine had no intelligence from partners about missiles headed to Kyiv, Zelenskyy says - PBS",
+      "summary": "Ukraine had no intelligence from partners about missiles headed to Kyiv, Zelenskyy says PBS",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSnMzRkV3bXI2VkoyZ0J6MDFqbUtpUW5ISmtfaEZUN1V0dTZDQkhhV1hWQ2Y0ZWFySGk1YmNWM0pYem04aEwwcmtyc21IOXBna243QmhNZXlFaDhqMzhOYUdmb0QzLUhjMUF4dW5XRTlFUFhWS0JVUmxDelVyUDh3Yzl1V1gzTUEwUnE0QnpjNXVCbmgwekNQdU9SUUsyc2JrSGtHYWw1NFMyNVJWWjdqWUN5T2x3MGRzZXJCY1VB0gHDAUFVX3lxTE1LVk4zZll6OC15cUNIOEdYZVcxQ2haLUFIbXVsWUZ0QjNZVFJPeVEwUjNJRVpkT0NONG1vV1VRSldkSnVnSUpwYWdfcWRWSHR4RTBHWlFwNDdGZ1IyWE01MmkzcHdmNGlyOVNCeGtfb3lvWXRhSDlLQl9lMUhzSGFGMVFjOGlONDZsQ1lyN0g5Z3FqNnowV1QyaU1OYUc0NHRGa0VZV1JhWW9YakNYeDdqYVpSRTUwRkJYczY2SXN0ZGVqZw?oc=5",
+      "published": "Tue, 13 Oct 2026 17:39:21 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan? - Al Jazeera",
+      "summary": "‘Block, blunt, break’: What’s in NATO’s new Russia war plan? Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaU1pNWJVZ2x4MVhKNXVXbnVNYmVHbjljUU1hN0tyWF9EaHcwV0NOVlNoS0V3ajZqRXpleWtDQlRUUlJWVmNTYkplWkdjbzNjUXh2eDk4aVoyRFlPS0dyYXFMcU82aEtTWUVkcG9na0FNUlBtWE5QbVFXZFlLbzBTWERrai1GbWhiMWVxYnJSanJGaWpBNzNGSjRn0gGfAUFVX3lxTFB5M3JjZElvbUhfdXVUdV9nTWRna2ZSLXllUnNIQi1vZm9ZbEMwNnpVaGZHNWU2cWQzV3d1dmdQWXNNWVFvazVIT2todE1fdFhoUmdMVWFsVHl6Z2N6YU85WTlaQ1BVZHNhdTVFNlR5OHhLQnVBdVloOXpuajI0c2RaRmpIekpOSnRVdzVkVEpaclZfMng5elJjcTU1YTJqNA?oc=5",
+      "published": "Tue, 13 Oct 2026 15:11:04 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "The Ukraine War’s Growing African Front - Center for European Policy Analysis (CEPA)",
+      "summary": "The Ukraine War’s Growing African Front Center for European Policy Analysis (CEPA)",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mWjlOcXNIV0JZU1ZCT0FvRkpSX0JtNHJjRzlsd2wta0RKTXlJT2VBU1RUam40ZnlZX3EycjhrNGVqTG93ZVZudVB5WjQ3eUpuZUxmd0lXRVpYMVBYVEZXSUh1THNvVnFFOUtETUp3eTBXdw?oc=5",
+      "published": "Tue, 13 Oct 2026 18:03:12 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine's Operation Vivaldi shows why artillery still matters in a drone fight - Business Insider",
+      "summary": "Ukraine's Operation Vivaldi shows why artillery still matters in a drone fight Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRXFPZkpxTE4xcjRYWFhNcWdGVENWNnBBQ21ocXpsVkpVb3pzS0ZBaHdqNzdLS2VJQk9FVEF6Y1Z1dkIyMkZmY192ajc0UjRjS09wb3hZVEpPSF9scGttZ0JjNl9tbG9nMElBaFJIQmxzanllLVpzS1FobkdQNEc3eTNmQXViMzBHX2k2RnQ0UQ?oc=5",
+      "published": "Tue, 13 Oct 2026 11:58:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing - Al Jazeera",
+      "summary": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcVBmcWUxWWc3WU5kZEJKWWxVMkFGRS1yN1JGLVZWSEpjVTdCeVVNaHhOSnJhdmpreV9wUFBJa2ZReXR6RDRsclBkb2lQcDNUZDl5WmlvVWpVZGpEdUNpV0VHd05hZnpoNjhaVTZIUzJHdWE0YkYtTkVfTDJDYVZxOFAwSkptZjhhdThscFhSb0t6Ty1nN0JRdlI0bGJUUlBLNmdNRXExRnhRYzhKamptTVRDd9IBuAFBVV95cUxNOVRSNVRrem8zUHZWelhONndycjFxUHVWWDZpWHVLd2V0S3NIdjVqV0ZzX29TRTVnaHFuYVhneDlzVU9lbEh5dS1nOWN2N205UTEwRy1TLUhaZ1JzLWg1LXRNZm0wZGcwRGNTSGxRNFcwZXIyaU96Sk9ZM01JQWg0M05EZXBOeUdvYXlyVnJiY1JkR2pGZ0JBTHEtSlVLMWZUWnA2cVlaa3lZTFRsX1VaNVVaajFqb2Vl?oc=5",
+      "published": "Tue, 13 Oct 2026 08:03:50 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Palestinian killed, others injured in Israeli attacks in Gaza despite ceasefire - Anadolu Ajansı",
+      "summary": "Palestinian killed, others injured in Israeli attacks in Gaza despite ceasefire Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ0k3VmVQWVNQU1ZUN2o3X09OczNtSmpWOGpCUFA3SWZvZUp6d3dtTVYxd3dBUDhEc3c5RVVoMjlvSGZsN2xXeVZrTGRQYWUzYTBxZV9oMnlRc2FFX05rSDg3a3piRTh1bmhoWGt3dmFCREJkYjlnakRwWUJ5UFJObWdiV1V2N0RFNllxYkkzQVpWTGFIajE0RWNmeWMzRU1razdVOTVKZXN3aFVqY1Bsc19vOWZpa1ZhSnRrcTlCVGg?oc=5",
+      "published": "Tue, 13 Oct 2026 10:22:36 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "One year into ceasefire, vexed Gazans say they’re still living like war never ended - The Times of Israel",
+      "summary": "One year into ceasefire, vexed Gazans say they’re still living like war never ended The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDgxN3hUS3NDZG9OM00xRHNyLTlwbURCNWV6QldxX25ReWMxWkxvTE1mR2FRVWFVQ2FrLXJfUkZyTlpZam85eXp2SUZQbFctWEM0UmlnbHM5V2dBN3d1WlBTWHpHWk5YUjdFYzVBWjQtU1ZWaDNJVHJnTkhvdi1PVFkzdUdUZWlveVFIYWtjd0dnY2d2X2pjbVdRenRQeWdla1hleUJtSW5zRTQ4dUNCMmdR0gG3AUFVX3lxTE1Mc2psXy1nRHhqaHFqc3VCMGxvRFh6YXdQOWVIVTV5WWNqcnp3UzhXVDNLQnc2Y1g2aGdVX0FkNUI1T1JLcHVuRDhIZFA3VHVUY2VkTkE5bndyM2Y4Wk5HQnF2Q1JsZzhkM2tZUG9oOS15OW9XdXNMbEhlSWlzTVBfckRRWTNhejdNSDNjZW4xZkR0R0tjZFFnZGNYR2VpMTFXamZ5OUtueHVkbEppdFQ5RUhiWmJPUQ?oc=5",
+      "published": "Tue, 13 Oct 2026 09:58:01 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Report: Hezbollah preparing for war with Israel, upgrading explosive drones - The Jerusalem Post",
+      "summary": "Report: Hezbollah preparing for war with Israel, upgrading explosive drones The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSdXA5WmFoRnRPcUx2UU9sU0JOcFlGa3R1Y0t6Mk5fV3lnbGVDampPY0c3ZVVuSENPUDhpVWd6ekZVZGdPRTRvNnprU3lucHRtWFlOUnI0TEx3eDlv?oc=5",
+      "published": "Tue, 13 Oct 2026 12:35:57 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israel’s ‘Yellow Line’ Squeezes Palestinians In Gaza - Genocide Watch",
+      "summary": "Israel’s ‘Yellow Line’ Squeezes Palestinians In Gaza Genocide Watch",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGpvckJ3eGlvZFBqTXNQc3Vkc1hweHFsYkEzd1FRM3lHdGNrUTUwY0tOYVRnS01LQzlscXhOVE9HR0RBT2JXYXVkWjFlODY4ZF96Q1VjSEtIMUM3TFU5bnlWemFGZGRZbFhOSHd3RHFKcVFSRXo2aVJ3RmhSUkJDYVpsZWxha2w2cmhFRHliX2phTmJpdUh3?oc=5",
+      "published": "Mon, 12 Oct 2026 17:24:58 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go - Al Jazeera",
+      "summary": "Israel’s Yellow Line in Gaza advances, leaving displaced with nowhere to go Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3plV0hCU0hzN2lUMkF1U1lLa2licDV3OXUyWlNlNXZTWGg1b3BaODQ5TDJYUXpoa21CclJGTHVtZzJKS0xVc0FOOHJHTU15N3RqcTRIOVd6LWg3RFBUb3JiN0JfTHhMRzY5MFlXWTI2d0FHSGUyakJoVjdGQlYwVlZFVUZub0JwNVRvbzNpS3h0SE5pRW9xTmNyM1BOb0hUMkx1QkFWOGl0S052ckhfcmRWM2jSAboBQVVfeXFMTXVmazVPR2d0WTFSNC1mZVNjRTdLWVVBQzZCTjlseGpPNDFhRWVCdjVtUmVOOS1WNVYxSGJMeDZQYmJoSzB3eXJtTjhxLWQ0Z2pmSEo5dGJwa291UEF6WndxQ25fVDZVSUs0LS1ON0lGRFdHVk9ubmN4U3hsNTZuUllsM1A1UHlyREVtbXkwZjhOVHlSUGJRSVFHY1J2azBZeWI1NEtJczZYT1J5SGJOQUJDSE92QVhma2ZR?oc=5",
+      "published": "Tue, 13 Oct 2026 18:45:55 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Conflict, drought increasing risk of famine in Sudan: UN - Arab News",
+      "summary": "Conflict, drought increasing risk of famine in Sudan: UN Arab News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM21wZ0VwMWl5Ti0tODNUVUJZR01UdFE3SEZxekQ3OGNnTlJUTURmOGQ2dUVjbW93OFlIY3VtSjh3VkNwb1JXV3FkN3hRWnpYZHhCTnZpMVBZOU1jbXRqaVEyMEpST3ZvTFU1QXV4d3ZjQzdMdzlWR3VabHpEbnpVcTFhVURYSVlyZ2lvSi04cVl2dGVDZGZtSQ?oc=5",
+      "published": "Mon, 12 Oct 2026 19:07:43 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Conflict, drought increasing risk of famine in Sudan: Monitor - Al Jazeera",
+      "summary": "Conflict, drought increasing risk of famine in Sudan: Monitor Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ0Rual9hY0o2RjhWZjZidWdIVjJXRVlrN0pZMDczYkVScThXWlZ0cVE3U3dEOS1GM29WV0Z6RFhBM2NJcHpVOXZmanNpQWNLdERKQUhxTmdpdnpxZWpfZ05VN1ZTZXVqVzhkNEJ2VktpV3M1UzgzRmFKUW5xRnBWbnZZeVNraFoxRjNkVkwyQWRSdzBMUzlmcXlUUVpuR2h1NlJB0gGoAUFVX3lxTE1VczlBMnBWY1BrdmJBakZYdmVkeUxNOEVhTjl6dGdoQ05WbHRWR1ZpLVZzSXRGbWpOU2RiOGtoX2lCNm9tWl85WTlyOHBvRzdPbGpLNVZDZHZMNW4wN2tWVTNienBoR1ZMYl85dHN5eDZHQ2g2T2NpMmhTWU9aaF92RWdXcm5EdWc1R3VHSnAzZE5EZmhrU1RSa3luTVAzVHFGSFEzZkpsUQ?oc=5",
+      "published": "Mon, 12 Oct 2026 21:39:46 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity - Al Jazeera",
+      "summary": "Deadly gold mine air strikes highlight Egypt-Sudan border insecurity Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU2dnaHNITDBvX213czhVVkliQlljXzFiY2diU2tmRXo4NUpfWXlJUFZRSUI2V0NVWFNxa0wtRGNQYlR6b1FLWUY0R0V0UW1xVEV5c0xJZlBMTzNMajU3ME5KN1NZb1RiSzJuV2t4QU9LMWNXa0E2TW9XLW9vbFhaY2lvUEVWNXNmRXl5ek9ySmVCWlZGdllIZXJjVjNRUXZ1RHhEdm9nUlR6Y2xab3FR0gG0AUFVX3lxTE9scUJENm5GandPYWxfYnJ0MnFOYWI5WFZNVUxxd0N5N2ktSzJubkhLeGpWdDVKODhYSi14NVdQM2JsY1p2LUxXamJpOE1PU0x4ZkRkTkVjdTRyaUlFSGxJWVl0UW82NjFzUklzSm1hNlBNVmhxN1ZZb3lXNUJWVlNQeGItOGprXzZ6TFoxaG0wZzNuWTVNSlJjRFNzZHpSTUVSZHVfSWd2ZE1SR0xOT2hmdGI3Ng?oc=5",
+      "published": "Mon, 12 Oct 2026 15:44:35 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Sudan's famine risk worsened by conflict, drought and funding shortages: Report - War in Sudan - World - Ahram Online",
+      "summary": "Sudan's famine risk worsened by conflict, drought and funding shortages: Report - War in Sudan - World Ahram Online",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHcHhRUGZHVjFhT0h3ckhHR0xja1YtQ0poczFmazNBdlZDWjdGNHZJWXFiTi12RVktQTJfQjRhUGJ2STlhMDRrUm9tY1FRNFd3R1hicWdHN24?oc=5",
+      "published": "Mon, 12 Oct 2026 16:10:18 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Labor group urges Asean to reject Myanmar junta-linked groups - Inquirer.net",
+      "summary": "Labor group urges Asean to reject Myanmar junta-linked groups Inquirer.net",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTS1BUlpaMWFKaldPQ243a0d1YUd5bmt3LThtczI4VHk2RHpKQ0UzdzUyWURucmRzSUY1RXVPVTloTnMyeWkxclpmZkNjVUpVbGVSTEN3UEwyQXFkNWhrbFhpQWhseXZqZmQtLTY0d2pHNkZPeTE5TzVlcElRT3NWVXVldTNNTzRtVkNDSi1yb2hwby1saTBLYXNEeWZGQUswWUE2UtIBqgFBVV95cUxNZkVxTi1xb0h4MUV5TmQwbmNHZW95UGl5WE9QdVZjNk1PTk8xeHFGRlQ3aklKNktOR2lPM1Y1UHp2U1lBTWJqSzRCeDhwX1JYV2NUUGpmSGpZYlczdU1mbk9FOFMtTDdfZXNtWVdtZXZCV1BtOUpGMGpuOEFLN05QZG1NMEp6NzEyOVZiOENrbW44SEdkdmI1ZUhIUWxGYjl3S1J4Ny1BTXBlZw?oc=5",
+      "published": "Tue, 13 Oct 2026 08:09:00 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Military Regime Reshuffles Key Posts from Regional Commanders to Defense Minister in Myanmar - Narinjara News",
+      "summary": "Military Regime Reshuffles Key Posts from Regional Commanders to Defense Minister in Myanmar Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtN0JEa2tacFhxTFF2NXVGNkZTemk5NWl3aVpZOV9tZ3phQU4xei00ZHk1MkgzaElpMXE1ZEdwWkxSalpoSjhpdkZUNmtBazBKOG9LUGI2dmpwTWEybG5oeGZpUWpPTGpJZDZXYWtYUQ?oc=5",
+      "published": "Tue, 13 Oct 2026 01:02:19 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "20 Released Political Prisoners Rearrested and Imprisoned in Arakan State, PPNM Announces - Narinjara News",
+      "summary": "20 Released Political Prisoners Rearrested and Imprisoned in Arakan State, PPNM Announces Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tZnNMUTVyNDA3b2ZXNy1MOTYtVXloNWFGZzhQbjBQaW1CLU1uRGRFajZyenQtdTV3eXpKUEhBR0R1NUlKVXZ1OVZ0VHpISHVqZ1dZUlgtN1V6VjZlZ2E5THUwNC1fdGd5aV9GRDVwOA?oc=5",
+      "published": "Mon, 12 Oct 2026 19:37:19 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "Inter-Jihadist Clash in Burkina Faso: ISSP Claims Major Victory over JNIM - Bloomsbury Intelligence and Security Institute (BISI)",
+      "summary": "Inter-Jihadist Clash in Burkina Faso: ISSP Claims Major Victory over JNIM Bloomsbury Intelligence and Security Institute (BISI)",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb1k5TjZlODNFZ3QtMFlNY1JCZTZ4eVZLU3oyZXZaSUl1b2JQVGxpd1VZZHFISUtnbTV3R3ItaDlWd2o1bTBvM1RRd055R0g2b2hiUDJTMUg1UU1fM3BxeklPSVhIdUZMZ1hEaHhTcEYzRHF3NHNkbWs2b2FXM0o0akJmbE5oaVpvYmZsdW13NnhnSWdNTnlEbHhnN25neXhwS3c?oc=5",
+      "published": "Tue, 13 Oct 2026 10:59:50 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Saudi coalition hits Houthi sites; Aramco office hit in east",
+      "summary": "A Saudi Aramco building has been hit in Dhahran, following Saudi-led coalition strikes on Houthi 'vital assets' in Yemen",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/14/iran-war-live-saudi-coalition-hits-houthi-sites-aramco-office-hit-in-east?traffic_source=rss",
+      "published": "Wed, 14 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Food shortages in Yemen’s Taiz as Houthi siege hits supplies",
+      "summary": "Yemeni government forces are encircled by the Houthis in Taiz, where blockades on road routes have worsened shortages.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss",
+      "published": "Tue, 13 Oct 2026 21:04:44 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+      "summary": "Funeral for Egyptian flight attendant killed in Houthi attack on Riyadh",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss",
+      "published": "Tue, 13 Oct 2026 20:33:10 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "link": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 22:14:33 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+      "summary": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 13:27:31 GMT"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
+      "summary": "Russian attacks in recent days on on Ukraine’s two largest cities have again killed and injured civilians, damaged homes and civilian infrastructure, the UN aid coordination office (OCHA) said on Tuesday.",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168585",
+      "published": "Tue, 13 Oct 2026 12:00:00 +0000"
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "트럼프 “김정은 만날 수도”… 다음 달 아시아 순방 주목 - SPN 서울평양뉴스",
+      "summary": "트럼프 “김정은 만날 수도”… 다음 달 아시아 순방 주목 SPN 서울평양뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vMEtGR1BkeWpHdlowYzk3M3BsazR3b2ZXQ3hNSzJCR2Z5blVHXzRVdmhnXzhpMWZmcW5sdHUwTklvcHBSa3dVYlBMcmxpaTcwMEszUlVSZjNrSno3NXNUZVlGTV9ndGtPclVv?oc=5",
+      "published": "Tue, 13 Oct 2026 21:40:09 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북 \"전술탄도미사일 시험\"...'신형무기 총망라' 박물관 개관 - YTN",
+      "summary": "북 \"전술탄도미사일 시험\"...'신형무기 총망라' 박물관 개관 YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sRTJjb0hoU1FZRlAyQlJZOEtuWERKNmhSRHA0d0dmREh1bUVSRWh0YncydEdMMVNNRm5VQXFudk55czNiZEI0a3dxZ2ZsbGt1NlJuM2RiTEJxU1laQlE?oc=5",
+      "published": "Tue, 13 Oct 2026 10:07:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "유엔 국감서 ’북한 지뢰’ 대응 공방…유엔대사 “안보리 대응 미정“ - 연합뉴스TV",
+      "summary": "유엔 국감서 ’북한 지뢰’ 대응 공방…유엔대사 “안보리 대응 미정“ 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDT3ZpUWRqXzJ1VGUxeGRHbEhwak11NVBmZktjdm5yb0RtMlMxLTQ0bEdUMG9abC1BQ0k0ai0tZDlwZk14d3lZSFNxODI5UWliaS0zbmdkTjJvZDNRYUVvZmJ1Ylh5ZlE?oc=5",
+      "published": "Tue, 13 Oct 2026 21:44:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "트럼프 “김정은 만날 수도”…북한은 여전히 ‘무응답’ – RFA 자유아시아방송 - Radio Free Asia",
+      "summary": "트럼프 “김정은 만날 수도”…북한은 여전히 ‘무응답’ – RFA 자유아시아방송 Radio Free Asia",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBONlQ3ZUFqakozVXpncjE4bUNkdkV1SGk5cTlZc19TQnZvUDZlS2dLYU5EZmJ4djc3Yk5wVnRsUzB4Vm1ySzlXa3loOFZETzd1dTlwX0tMNHIyZS1VN0JEZGVSU1pIWV9RSXNhUWdCdkpxdUJIYnZ0bjJ3?oc=5",
+      "published": "Tue, 13 Oct 2026 06:19:47 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "트럼프 “내달 亞 방문중 김정은 만날수도” - 동아일보",
+      "summary": "트럼프 “내달 亞 방문중 김정은 만날수도” 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9QektUZlgyUXJqZ2VnZEt2WnE1WUtqU1JLR3BWREMzWGxXQlBJS29zMjFDTlcyVHRfRzNpcHdzbkdVbVFQcU9LTjc1WlRWb010SWpidGZXVDFwdmlKWC1pQ1BRVEN1SFh5WjM4VEdINjNIczjSAWZBVV95cUxOejRBaUpONWo0MWs1RDk2UVphSjE3RHNOdUVtOHoybTNzWnBSaTUxcnduRUhsdE5VZENQRnZOdXBVdXRVa01YdUVpT2pUTkFEMmJhNDBxUjNmQ2FsblhEc0FtNGFzTVE?oc=5",
+      "published": "Tue, 13 Oct 2026 19:30:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "트럼프, 북한에 또 러브콜…“김정은 만날 수도” - KBS 뉴스",
+      "summary": "트럼프, 북한에 또 러브콜…“김정은 만날 수도” KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZdF9VcGdEUENsWDJKdUhKWV9GQ0dpOFNqZW8yQ2Z1VGx1bTVkR0UtV2pPOFcxRi1PbExOR19odUtpUjlXZGViSEQxMkZkVjM2bWpxbUFsT1dodzA?oc=5",
+      "published": "Tue, 13 Oct 2026 10:15:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un opens new weapons museum as North Korea claims missile test success - NK News",
+      "summary": "Kim Jong Un opens new weapons museum as North Korea claims missile test success NK News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBFR1BnOFczVmRFUWhWWEp0TWFkUTJzaHRzNDNkMjV3NWwyZi1vbWNnUjN3QnczRmJRajhhMGpBVndjY2didU5Z?oc=5",
+      "published": "Tue, 13 Oct 2026 10:38:23 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "While Trump Floats a Kim Meeting, North Korea Flaunts Its U.S.-Range Missiles - WSJ",
+      "summary": "While Trump Floats a Kim Meeting, North Korea Flaunts Its U.S.-Range Missiles WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUlsTldlam9NenVtdm9weTRGQktGeUFBdzFkS2JGU0U5MUtZVkN1T1BmZGMtU0RjM0dhN3ctZVBLcXNFZGpZdS1uUnd2VHIzS2NQTXpkb3BpdlZ6LWtZUFppbC1GNGczakdJRU5VNXlZUjRmZE1LSHFzQ2c0QlFGNVM3OVlPNkJzd1NCdVFBUU1qUHZTdzBRZDNSYjV1SEl5cU5VUURlQ0tPX2phNzVvMHVyd1hCUQ?oc=5",
+      "published": "Tue, 13 Oct 2026 16:29:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea's Kim showcases missile capable of reaching US as Trump signals possible meeting - Reuters",
+      "summary": "North Korea's Kim showcases missile capable of reaching US as Trump signals possible meeting Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV3ZjaXowUkVCSkx4TVpHUFY1S0ttLV9kYW9TN1YxWnh6N05YSEFQMFVUb29weUJpNkcydVRoTFplY2locjdUSUVNd2tZeWNmZnJ3TzhubWRuUzZMLUZpakRFM2U3dXJMeHNfSWV3LVNteU51aTRZeFMxeEdTMjl6UENYcWxvcWMyZnkwYVRRZGlwTHh2LWc1OFFBcjJ6TGJXcG5hVWY0MTRYY19FTXAzdGxNM1M?oc=5",
+      "published": "Mon, 12 Oct 2026 21:44:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea’s Kim visits new defense museum as Trump floats meeting - The Japan Times",
+      "summary": "North Korea’s Kim visits new defense museum as Trump floats meeting The Japan Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUnJ3VmEtMEtiX1N3SExmSmtFTUF4c3dOZVNETnV0WjRhMmJoOER3YXd1cDVhQzFuS1pOaUhDVGlsNDZXNzA4ZjRRVzdxU29aUmpHSWxCTTA1dlI4VnJqOGhHZGtFMnlSem1vY3MxRWJOcmxSV2NtbDdLRUdyMDBPSE9yZjZRcWtVQ2EwOXEyWUY?oc=5",
+      "published": "Tue, 13 Oct 2026 09:30:53 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un Displays Missile Capable of Hitting US - Newsweek",
+      "summary": "Kim Jong Un Displays Missile Capable of Hitting US Newsweek",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOenJLb1ZidkdpVjNOam45U2tMcDFoVlRHWWJSY0lZOUdNaWlRNzk2MG96SDBTSzNGRjdyMmpmNG1SUVh3RUk1Um1VQ1lqQkhYX3c1RnpQdXRzbWVzN2ZjMzJUMlV6U0RiUWsyVHd4blJJVVdvYXBRaEd4eG5FWmM4RlJOa2hZZ3hFRUE4RA?oc=5",
+      "published": "Tue, 13 Oct 2026 16:31:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un Shows ICBM as Trump Floats Meeting - Technology Org",
+      "summary": "Kim Jong Un Shows ICBM as Trump Floats Meeting Technology Org",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMThEOVV4QnFRVVdDSXJBTUk5YTdEQVJhcWVsYnBJaFlhcFBfTjdkNHhSVmpZanJQak13eWRpM2xYOXhaVDNudUhycGRxaVhPbm5nN0x5amxibGhfSGtPejBJSXRpRzlOOHNLWEY5WHJaeVRhSk45a3JjaTctQkNRSnNZYXg3UkRxYklXUEJEdi12akEz?oc=5",
+      "published": "Tue, 13 Oct 2026 08:20:00 GMT"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korean escapee takes lead of defector aid group in South Korea",
+      "summary": "A North Korean studies researcher who defected to South Korea has become the new president of the Korea Hana Foundation, a government-funded organization tasked with helping defectors resettle in South Korea. Kim Young-hui, who previously led the North Korea Development Institute (NKDI) since May, is the first North Korean defector to lead the Korea Hana […]",
+      "link": "https://www.nknews.org/2026/10/north-korean-escapee-takes-lead-of-defector-aid-group-in-south-korea/",
+      "published": "Tue, 13 Oct 2026 10:37:15 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea-China passenger train belatedly resumed service last month",
+      "summary": "A passenger train linking China with North Korea’s remote Jagang Province resumed service in early September for the first time since the pandemic, more than four months after it was originally scheduled to restart, according to Chinese social media users. The Ji’an-Manpho international train, which crosses the Yalu River between the Chinese border city of […]",
+      "link": "https://www.nknews.org/2026/10/north-korea-china-passenger-train-belatedly-resumed-service-last-month/",
+      "published": "Tue, 13 Oct 2026 09:39:59 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Intel sharing one of most difficult issues in US-South Korean ties: Seoul envoy",
+      "summary": "South Korea’s intelligence cooperation with the U.S. has become one of the most difficult issues in bilateral relations, Seoul’s ambassador told lawmakers on Monday, confirming that Washington raised concerns about the unification’s minister’s remarks on a suspected North Korean uranium enrichment facility. Ambassador Kang Kyung-wha made the remarks during the National Assembly’s audit of the […]",
+      "link": "https://www.nknews.org/2026/10/intel-sharing-one-of-most-difficult-issues-in-us-south-korean-ties-seoul-envoy/",
+      "published": "Tue, 13 Oct 2026 08:16:37 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea eases entry controls for tourists who visited India, Bangladesh",
+      "summary": "North Korea has eased entry restrictions for tourists who previously visited countries affected by infectious disease outbreaks, including India and Bangladesh, but continues to bar travelers who have visited several African states. Sweden-based Korea Konsult, a tour agency specializing in DPRK travel, told NK News on Monday that India and Bangladesh are no longer on […]",
+      "link": "https://www.nknews.org/2026/10/north-korea-eases-entry-controls-for-tourists-who-visited-india-bangladesh/",
+      "published": "Tue, 13 Oct 2026 07:54:27 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "EU sanctions North Korean, Russian targets for supporting DPRK weapons programs",
+      "summary": "The EU has introduced new sanctions targeting North Koreans and Russian entities for allegedly contributing to Pyongyang’s weapons of mass destruction programs. The designations announced Monday are part of the EU’s largest sanctions package to date covering 1,569 individuals and entities primarily in Russia’s military industrial complex, also including a section pertaining to Russia’s growing […]",
+      "link": "https://www.nknews.org/2026/10/eu-sanctions-north-korean-russian-targets-for-supporting-dprk-weapons-programs/",
+      "published": "Tue, 13 Oct 2026 06:53:40 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Kim Jong Un opens new weapons museum as North Korea claims missile test success",
+      "summary": "North Korean leader Kim Jong Un opened a new arms museum to showcase the country’s nuclear missiles, drones and other weapons, vowing to continue their development, according to state media. The Korean Central News Agency (KCNA) separately published a brief report on Monday’s missile test, claiming it heralded “an important change” in improving all weapons […]",
+      "link": "https://www.nknews.org/2026/10/kim-jong-un-opens-new-weapons-museum-as-north-korea-claims-missile-test-success/",
+      "published": "Mon, 12 Oct 2026 23:19:01 +0000"
+    }
+  ]
+}
