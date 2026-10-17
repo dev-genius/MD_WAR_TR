@@ -1,0 +1,492 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T09:00:05.477436+09:00",
+  "history_candidates": [
+    {
+      "year": 1173,
+      "text": "English Crown forces under Richard de Lucy defeat rebels under Robert de Beaumont in the battle of Fornham.",
+      "link": "https://en.wikipedia.org/wiki/Richard_de_Lucy"
+    },
+    {
+      "year": 1448,
+      "text": "The second Battle of Kosovo begins between Hungarian forces under John Hunyadi and Ottoman forces under Murad II.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Kosovo_(1448)"
+    },
+    {
+      "year": 1713,
+      "text": "Great Northern War: Russia defeats Sweden in the Battle of Kostianvirta in Pälkäne.",
+      "link": "https://en.wikipedia.org/wiki/Great_Northern_War"
+    },
+    {
+      "year": 1777,
+      "text": "American Revolutionary War: British General John Burgoyne surrenders his army at Saratoga, New York.",
+      "link": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+    },
+    {
+      "year": 1781,
+      "text": "American Revolutionary War: British General Charles, Earl Cornwallis surrenders at the Siege of Yorktown.",
+      "link": "https://en.wikipedia.org/wiki/Siege_of_Yorktown"
+    },
+    {
+      "year": 1797,
+      "text": "Treaty of Campo Formio is signed between France and Austria, ending the War of the First Coalition.",
+      "link": "https://en.wikipedia.org/wiki/Treaty_of_Campo_Formio"
+    },
+    {
+      "year": 1800,
+      "text": "War of the Second Coalition: Britain takes control of the Dutch colony of Curaçao.",
+      "link": "https://en.wikipedia.org/wiki/Invasion_of_Cura%C3%A7ao_(1800)"
+    },
+    {
+      "year": 1811,
+      "text": "The silver deposits of Agua Amarga are discovered in Chile becoming in the following years instrumental for the Patriots to finance the Chilean War of Independence.",
+      "link": "https://en.wikipedia.org/wiki/Agua_Amarga"
+    },
+    {
+      "year": 1912,
+      "text": "Bulgaria, Greece and Serbia declare war on the Ottoman Empire, joining Montenegro in the First Balkan War.",
+      "link": "https://en.wikipedia.org/wiki/First_Balkan_War"
+    },
+    {
+      "year": 1919,
+      "text": "Leeds United F.C. founded at Salem Chapel, Holbeck after the winding up of Leeds City F.C. for making illegal payments to players during World War I",
+      "link": "https://en.wikipedia.org/wiki/Leeds_United_F.C."
+    },
+    {
+      "year": 1941,
+      "text": "World War II: The USS Kearny becomes the first U.S. Navy vessel to be torpedoed by a U-boat.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "year": 1952,
+      "text": "Indonesian Army elements surrounded the Merdeka Palace demanding President Sukarno disband the Provisional People's Representative Council.",
+      "link": "https://en.wikipedia.org/wiki/17_October_affair"
+    },
+    {
+      "year": 1956,
+      "text": "The first commercial nuclear power station is officially opened by Queen Elizabeth II in Sellafield, England.",
+      "link": "https://en.wikipedia.org/wiki/Sellafield"
+    },
+    {
+      "year": 1973,
+      "text": "OPEC imposes an oil embargo against countries they deem to have helped Israel in the Yom Kippur War.",
+      "link": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+    },
+    {
+      "year": 2017,
+      "text": "Syrian civil war: The Syrian Democratic Forces (SDF) capture the last foothold of the Islamic State of Iraq and the Levant (ISIL) in Raqqa, marking the end of the Battle of Raqqa.",
+      "link": "https://en.wikipedia.org/wiki/Syrian_civil_war"
+    },
+    {
+      "year": 2018,
+      "text": "A mass shooting and bombing at Kerch Polytechnic College in Crimea kills 21 people including the attacker and injures 70 others.",
+      "link": "https://en.wikipedia.org/wiki/Kerch_Polytechnic_College_massacre"
+    },
+    {
+      "year": 2023,
+      "text": "An explosion at Al-Ahli Arab Hospital in Gaza kills hundreds of Palestinians during the Gaza war.",
+      "link": "https://en.wikipedia.org/wiki/Al-Ahli_Arab_Hospital_explosion"
+    }
+  ],
+  "korean_war_hits": [],
+  "korean_war_date": {
+    "month": 10,
+    "day": 17
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say - Reuters",
+      "summary": "EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFVmdXZNRHVvVzZhYTJWZTRETDgtRElBT0RibUJvX2VfUkI1NGt6Q1lTVmdON21mNjdXTjFNcXBkZlJ5X0NFYkMzOVQwWjZZTjNPN3hlY09Ta3ZUMUVoRm9lWWV4N29rWXV6dXpQNTNCRUhXTHVySUlUZTNaR2dORUVPd3l0SEJOTmJFaTJURnNyTi1icE5qZmsxSDNuNFRKTEd5Q21iSEdtUXJCWEI0UWNwOGZDdw?oc=5",
+      "published": "Thu, 15 Oct 2026 23:07:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia strikes 9 Ukrainian regions as strain grows between Zelenskyy and Trump - PBS",
+      "summary": "Russia strikes 9 Ukrainian regions as strain grows between Zelenskyy and Trump PBS",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM0lWSG5QWUoxQW5VOXlneDVleXYzbmd5QjI4NVhoU25yb0N6cTd4dEF2b0lJVUJvUXlZRlBOazJWcWo4U1E3b0V3ZHI3ZzB5QWc0WDFQWFRXSms4b0lwcEdUdDRrczVKT2UwZ3RPTGV0clI1S2VaZnpjZTZTV1puUV9RWmNOeWZOc1l4VldnSTFkOFdCSW5hRXB3Tk9HZlVBSUNUVXd4WmNyMUp6RFhROFpFWdIBuAFBVV95cUxPUE1UMUwxODhYcmxDN1RxMkZVTWI4aFVEMGRtYUFXQU84Y05IUmVsX1ltYUdhbVg0OGVReTVKNjM3dFZFa0tIMFJodFVRSnRpdzlMTlJYVTFfVWhvb1JDbWFadjZDU0pSdUM1WWJJNHhPdkVZYUtEbEI5bUN6VXYzeTNLMDBmdzZiMmFlcmRUXzZSYTM4ZlNCeExhckJjYnRfNXFHY2VucEg4WVBHZEFRMzJ1c2tuUTZx?oc=5",
+      "published": "Fri, 16 Oct 2026 17:55:44 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian Offensive Campaign Assessment, October 15, 2026 - Critical Threats",
+      "summary": "Russian Offensive Campaign Assessment, October 15, 2026 Critical Threats",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzNVRVlkZ3ExZjg4dHp1QkNKamt2SjQwZ25oaG9QLS0yc1M2TllQN3lqTlBoa3NuTThXV0V5ZTdzYk1qcEEwTWU1SWtFYUdIVTJHdjlFR2RRckljYzg1UjItU3dPZXdNVUxVWEo4NS0xVlBxMlR3cUhSUElJYmlCU0VZdVd5WEdqRXBiNzM3ZVJmQVV3dWhkMXBR?oc=5",
+      "published": "Fri, 16 Oct 2026 00:27:26 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukrainian drone strikes highlight the vulnerability of Russia’s data centers - Atlantic Council",
+      "summary": "Ukrainian drone strikes highlight the vulnerability of Russia’s data centers Atlantic Council",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONVRQUl9mVHM2cE5sVERoWjVDZlN3ZHI2ZVYtZU5USlluc1dGM0REZXpqclQ2WFZfbHVqVmFPMjc3anRPVkQ4blJxUnd6OVlhbTZFckltdzhHSmJqS19VOU84dEhvdmh1azNEM3p6a1RYdm15VWtnOUNUNW1adUFKaVlzR0JHNlFTTE1RZDE1YWxfcWlMTUh2VWhzQmdXbzNvRUxTXzNFMlRFTzQ3cXBwamFqclRhbzVDVUZZUm1rYWxHNUNIT0E?oc=5",
+      "published": "Fri, 16 Oct 2026 15:06:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts - NBC News",
+      "summary": "‘We’re done’: Ukraine resumes strikes on Russian oil refineries as anger at Trump mounts NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOGlmVmZvMDNPb3VjRGN2ckNvY1ZaaHRxQmdENlI4U1hLX2tNZlVHR2lzdEt1cTN1RnZldFQwRlFzMW5jMkNsbXlYYVhmWktsRXBtdU1EN0E2ODFpWWNtenBSSjVIYS1QWHluTzFiT3BiV0pzbl9IVEZHcmNWZGEyUWUtYXFONDhBYURjdHc5WDdzZFlEZ042YVJkMUFiaTNQX0hTd01hZFdqMG9yNXIzQ0ZFUGs3cms?oc=5",
+      "published": "Fri, 16 Oct 2026 09:22:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal - Al Jazeera",
+      "summary": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZnRrME9ZQUVSeGlIUVp4Q25qU2NFZ3BHeDlGdkM5Sy1BNHkzVlJDd3pWNHpuTUhmcWFZUnM2NmI1NDVQV21iNm5GU2tHV1QxdlpPcl9mSzhmVjZLSTZLaExIbXBlWkFmRU1wdjBNdXhjSlZVZF9yRUt6UEhBdVZackxoOS1WNE9DdXM2RElnaVoteWpveHVEQXk5aC1reUVZcUYxaG5KdHdJTzlrQzJXMFFKcTA2T0nSAbwBQVVfeXFMTll2bEE2R01ucHJ5RTdqQUtiSV9sdW1fdzJkdmNMTWo2a2RpNXhoejhObVRWR3M2VndNQlB4Vkl4WjJ5TzBRMzFqQlFHVHdCeUtzTXFKbjhlX001SWRFS21lZ0lpcVhSMUYyR0ZuVnVjOG9kendRbzE1ZEVoWnJQdnQwWU9ySjdnZmhDOHVJeVRxN3VGbm1tS0dxRDVXb1lVdDJBVFZFRWVLU1BWZk5GaW03RmxpY1JsVFVlSEM?oc=5",
+      "published": "Fri, 16 Oct 2026 17:31:42 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "More than 340 children killed in Gaza in year since Israel-Hamas ceasefire, UNICEF says - Arab News",
+      "summary": "More than 340 children killed in Gaza in year since Israel-Hamas ceasefire, UNICEF says Arab News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbnhCRW1oVVhVaXlSVlh6X3VkS0NTZl9ubHZKVTA4a0dRakRMNHZvdTZzTzBTbzVZRDJWbU5fVnJYMlFUa2hzSEhPUVFMRkJGNDE4cDZUVXVUTVVmUU9Va3haNmZ1SjN6NzQ5SEhJNVItSE9uMjF2aDQ0TElSRXV3VGo3RTAtaG9lT2d6VTNnckhCMG9zTlJuVnhtLWJleTZEOHR5QUtIMnkwNElfa3owb2FuVzFSamFiTmlXTENzMTFMU1dTbW1JblJQdw?oc=5",
+      "published": "Fri, 16 Oct 2026 19:47:20 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF - UN News",
+      "summary": "Gaza: 340 children killed despite ceasefire agreement - UNICEF UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE94N19hcVhoa1F6QW9pZ3R2eEZBWnpJN1RHTjczS28yZFIyQ183VnI5RlBxZFk2a0tTVkszOWNXOG11dVZDZEhhd3JYUjh3dUI0Mk85eEpTNA?oc=5",
+      "published": "Fri, 16 Oct 2026 12:37:48 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "A Year Into Gaza’s Ceasefire - Billions Pledged But Families Live Amidst Sewage And Waste - Health Policy Watch",
+      "summary": "A Year Into Gaza’s Ceasefire - Billions Pledged But Families Live Amidst Sewage And Waste Health Policy Watch",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeE5SNUtyclpGZ0pPWFJwLVVqNEFTN1ZYa1RDaFlhU3RGbk5abWJISUhFZFBkU29lVVh1RVBFXzN0WWx5NGpfcDhnWEFpRVBaSW0tZVZfVFZJSHJTMmQ4aEFaUjN1Nk9iLXQ0Mmd3NWdra2x1Qk5mMHJ3bTl0LUVwMklZRkEzQ25GNFA5SzliN08wd2tHa09QMDRxeXFVX0ZjRFFCalI5QTNfZVJjSUxDYlFKa1hBcjgxVkJr?oc=5",
+      "published": "Fri, 16 Oct 2026 16:00:46 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "UNICEF: Israeli Attacks Kill More Than 340 Gaza Children During Ceasefire - - IMEMC News",
+      "summary": "UNICEF: Israeli Attacks Kill More Than 340 Gaza Children During Ceasefire - IMEMC News",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRWtuSTBObnBacVJnMzJyYXBtWFRxUHppQlFWTE9tSHdvR0JOSWtoTkxFdDd1RWN6SWJ6RGJMdG1ENVUybDdsU3RNVmtoLVA5VTBOZXJUbnVLckRGdFRReGJ0MS1JWWY3RzVNNTctUWpvX3lmeVo3RzBXQUFkZGlyTDRQaFpUSm1fRGhLRG9pcnZGZTM1WWw2YmhzRjh2aEdC?oc=5",
+      "published": "Fri, 16 Oct 2026 21:33:55 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israel reportedly blocks Board of Peace base in Gaza, IDF reports 31 ceasefire violations October 1–15 - The Long War Journal",
+      "summary": "Israel reportedly blocks Board of Peace base in Gaza, IDF reports 31 ceasefire violations October 1–15 The Long War Journal",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZmp0dFdHRnQyRkpuMUdra0RBcHJmU21rYUkwUHFzV0cwM3hnV083UTdpMXY4RTFZQm84X1A5XzZEYlFyaDN5X0I2SHhyd1EyLXhCbjU3UTg5anBlbFM3a2dHbUhPcXJVUU52ZW93QnhIMFJVZkJZRWZ1QmFyMFE5eUwwMFBXZ3J5S2ZUcS1FUXk4TW9jOUk1elNycExCZjhYTnhEd05Pa1EtRFd2emwyeU1oLUgzUENxXy05OUYzaURYZkdTcGI2OG54THFQZWEyR0tOZHRid2FZU3FDWmtTNGQtSUJEMjVk?oc=5",
+      "published": "Thu, 15 Oct 2026 20:38:20 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry - Al Jazeera",
+      "summary": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPajRZMzRUcGFPYUdKY2dtWFJxYWo2SzEwVVprTm9xLUwyYlBhQ0l3azVRa3YwY1otU0NCdDRvTEtuU1ltQkYtVVIzeHZoX1Bhc1FNRTY1akVydnB6X3ktcnc0M21pT0Fmd3dNcFoxN3A3clhoUlR2UnlmV3BYSlQzcDdzM010SXVmX0Y5eHJpV0tWT3MyTUJDdVI5X0RhU1d5NElENnI4bHFMRDFiWkI4RFVXb9IBuAFBVV95cUxQNTFDVU03bldibTFIWTItTUN6X1dNS0pqSHRYNmNUTzJ4eENhUHU3OGpCck8zR3VQUmpIZjE5VnQzUi1GdjQ2ZEw3Nl90czZpYzRwLVB4a2t5d0llMGVQeWVLMzU1MmJqLW5EVm8zTFFFb0F2M3k5WTFtczFyYUFHa0lZR0hqdmVYSDFzaGl6dURkMlBBMGNhUjNWMUxMalpmaXIyRkYxYlJ5M2YtdC1OTURNLXIzcWRW?oc=5",
+      "published": "Fri, 16 Oct 2026 15:48:09 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "EXCLUSIVE: US holds more secret talks with Myanmar's military-backed rulers in Tokyo, sources say - Reuters",
+      "summary": "EXCLUSIVE: US holds more secret talks with Myanmar's military-backed rulers in Tokyo, sources say Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUWpMVGJHdmxrQnR6QTZzWnBsTEk1VldyRmdLdmloMFBfYnNNZTg2YmxIMm02OXlTWTRsNkkxUDRONmJoLXc1bHMxcnloRS10dDJwdDg2SmMyN04xRTdmU1JUYzRBa2ZTNmI3aDlWc08zMTRGbnh0NWMwbmdYeElFNEtFdUxuUmxGMGNORVFfZmNGazNlaTFMa0FzcHJ4S01WMWZEQ3F6Rk1GeUJLVFBFNjdHSXJOdmprZURzYzQxTG11NTIzdFFXN1h0cEM?oc=5",
+      "published": "Fri, 16 Oct 2026 04:35:00 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Nearly 70 Percent of Myanmar Junta Airstrikes Targeted Civilians, Report Finds - Karen News",
+      "summary": "Nearly 70 Percent of Myanmar Junta Airstrikes Targeted Civilians, Report Finds Karen News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX0FmV1RwYmNVRHl6ZVpoeVUxcTJwMktfSVFKbFBvaDQwRmt5NF8xNEMtbEdtTFpob1lpXzEzaDhDal9YS3psaTJfbWNVSTUwNWV3UHRqRVlXNXhhdXMyMTdCVVBySGQ5RzVXekJrbG9sSGdLdzM1RXA3VTRKV29xREVscHZ0bUh2MUZFR3Nzb3FEMWY5TmJjVURMUlhMb3BXTC1hMUJWTnplUDYx?oc=5",
+      "published": "Fri, 16 Oct 2026 04:57:58 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Arakan Army Secures Full Control of Ngapyi Kyunt Island After Intense Fighting - Narinjara News",
+      "summary": "Arakan Army Secures Full Control of Ngapyi Kyunt Island After Intense Fighting Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuMW9BTlp1U0F0bDJ4Wk9uREpqcjN4Z2tQQnpjVGQwSW12Qmk1QXNuNDJEMWxsNUxOY3VkRWpQa2x3LW14LTNPenBSNng1WGFyTzNDT2J6YUFlY29ZQzJLU1Bzb0ZtOUVfaXZGdFFDUQ?oc=5",
+      "published": "Thu, 15 Oct 2026 21:58:29 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "\"Don't Go Out After Sunset\"... Fear of Forced Conscription as Young Men Are Seized on Myanmar's Streets - 아시아경제",
+      "summary": "\"Don't Go Out After Sunset\"... Fear of Forced Conscription as Young Men Are Seized on Myanmar's Streets 아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaYXVKeFNkWENIYXdsMjQtRm55N21PVDJfWkFTSVJuZFQ3YkNFc0JCYTQtb3AtXzBmenVfU081UXhfa1A1TEZLZW5fa2RETUZaOW9SWm5JM2U3ZG1sbnV0QmlTeVA?oc=5",
+      "published": "Fri, 16 Oct 2026 00:52:04 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "AFRICA/BURKINA FASO — A war within a war: the clash between JNIM and the Islamic State in the Sahel - Agenzia Fides",
+      "summary": "AFRICA/BURKINA FASO — A war within a war: the clash between JNIM and the Islamic State in the Sahel Agenzia Fides",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWXI5aGJXU3BNUURfYUR2ODB4U2ZKaHhSXzNGckNHSnAzSFJXTDkybHpfNjNpRWdTSVRzZVU0X2ZGdExJUFZzN1pzRWhCUDBVVE1FY0NnR2RCNS1VcEp4T3ZEMVphVTBCQko4ZkRzckhFd3NnZVJXb1pEZHB2eVdJRjlscXBUSFlLc05GVi10SEt2am1ZaUZtR0J1algxT3ktY0ZpTUdFVkdpQkRidEYwODNuZXk2Mk9JbDZGUGhlSmVqMDN6UlBoWGUwQnQ?oc=5",
+      "published": "Thu, 15 Oct 2026 12:33:06 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists",
+      "summary": "Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 22:48:54 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Families demand justice after Pakistan school collapse",
+      "summary": "Parents are demanding accountability after a school roof collapse in Pakistan's Peshawar killed 34 children.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 22:38:04 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Food affordability fears plague Gaza as Israel halts commercial goods",
+      "summary": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 20:37:22 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "AOC transfers $1m to Michigan candidate El-Sayed in progressive push",
+      "summary": "Progressive stalwart, who is seen as potential 2028 candidate, says she wants to combat 'smears' against El-Sayed.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/aoc-transfers-1m-to-michigan-candidate-el-sayed-in-progressive-push?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 20:07:25 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "How Iran messaging highlights cost of war ahead of US midterm elections",
+      "summary": "Through statements in English, Iranian officials are emphasising gas prices and issues with the US economy.",
+      "link": "https://www.aljazeera.com/news/2026/10/16/how-iran-messaging-highlights-cost-of-war-ahead-of-us-midterm-elections?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 18:21:43 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Ukraine president targets Trump, Putin at EU summit",
+      "summary": "President Zelenskyy warned Russia’s ambitions extend beyond eastern Ukraine, saying its drone attack threaten NATO.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/ukraine-president-targets-trump-putin-at-eu-summit?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 17:59:48 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+      "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+      "link": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 16:00:30 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump denies limiting Ukraine access to Starlink network",
+      "summary": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+      "link": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 19:33:48 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+      "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 15:26:16 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 17:47:22 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 23:38:46 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+      "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Oct 2026 14:51:30 GMT"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
+      "summary": "Civilian casualties in Ukraine remain at record levels, with intensified Russian attacks in September continuing a pattern of harm in 2026 far exceeding previous years, UN human rights monitors in Ukraine said on Friday.",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168614",
+      "published": "Fri, 16 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
+      "summary": "As drone strikes kill civilians from El Obeid to Blue Nile and famine risk spreads across Darfur and Kordofan, the Security Council meets on Sudan – the world’s largest hunger and displacement crisis. Ambassadors are expected to press yet again for a ceasefire, safe aid access and an end to the weapons flows fuelling the brutal conflict.",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168612",
+      "published": "Fri, 16 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
+      "summary": "A little over one year since a ceasefire agreement was announced between Hamas fighters and Israel, more than 340 children have been reported killed and hundreds more injured, the UN Children’s Fund (UNICEF) said on Friday.",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168611",
+      "published": "Fri, 16 Oct 2026 12:00:00 +0000"
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "[리뷰] “北, 대러 미사일 공급 차질 없어…북러 군사협력, 경제에도 영향” - SPN 서울평양뉴스",
+      "summary": "[리뷰] “北, 대러 미사일 공급 차질 없어…북러 군사협력, 경제에도 영향” SPN 서울평양뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04Ukdvb0tFSllhZnBrdzRkOG9pRzg4VjAxUGZQT2dwOWQ2YjFseDU2d1haazVvaU1SU0lWTzZZRW51Y3QyeGpRS1ExSUZWYWl6dVNIcTFidDFKTnVFTjFTM1h2azRlUG1NeFVR?oc=5",
+      "published": "Fri, 16 Oct 2026 21:30:33 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "[이슈&한반도] 미사일 쏘고 신형 무기 전시…북, 국방력 대대적 과시 외 - KBS 뉴스",
+      "summary": "[이슈&한반도] 미사일 쏘고 신형 무기 전시…북, 국방력 대대적 과시 외 KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GR1puek52aTI0NjBvVTRZdEctcGRPZGFjYmIwS0RUWnJrUDBTcDI4RXRYNWx3TVJtcTEya2hRc3kyRmdhM0NYSnFjZ1NDZVFOeW44V3hHNW8xdXc?oc=5",
+      "published": "Fri, 16 Oct 2026 23:03:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "러 비상사태부 장관, 김정은에 ‘세상에 하나뿐인’ 소화기 선물 – RFA 자유아시아방송 - Radio Free Asia",
+      "summary": "러 비상사태부 장관, 김정은에 ‘세상에 하나뿐인’ 소화기 선물 – RFA 자유아시아방송 Radio Free Asia",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vbFozcHdHWTBlT0NXTndOWHF3UG0wdVlaeFFQaHVEbmk0Sm8yeHVxMVMxMlhjTHBwYVFfdTB4UXIwUmFUaGxJZG1DYWU3ajk3d2NTVmVSM1dsQ1RqV2VMbkx6UVgzMjBPemdQMXJ5bmd2WWtMb3pxZ2t1NA?oc=5",
+      "published": "Fri, 16 Oct 2026 15:45:23 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "미국 의회조사국 ‘북한의 극초음속 미사일 시험과 러시아 밀착 심화’ 강조 - VOA 한국어 홈페이지",
+      "summary": "미국 의회조사국 ‘북한의 극초음속 미사일 시험과 러시아 밀착 심화’ 강조 VOA 한국어 홈페이지",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4VlE3eDhnVktIV09iOXNFakpfbVk0WXpVU3h3cXVzbVdpUUJxbVZFZllqZFAzYlQzcGJXd2RVdS02QmNycDlkTVdrZEZIMmktdk84cXVXM3lhVG9vQ3U0UXc3QXpXckpXeG43Nm9QS1hjaXJmd19oT3g3VUXSAXxBVV95cUxQOFZRN3g4Z1ZLSFdPYjlzRWpKX21ZNFl6VVN4d3F1c21XaVFCcW1WRWZZamRQM2JUM3BiV3dkVXUtNkJjcnA5ZE1Xa2RGSDJpLXZPOHF1VzN5YVRvb0N1NFF3N0F6V3JKV3huNzZvUEtYY2lyZndfaE94N1VF?oc=5",
+      "published": "Thu, 15 Oct 2026 16:50:37 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "[단독] 서울 노원구 공공축제에 北인공기 미사일 모형 설치 논란 - 조선일보",
+      "summary": "[단독] 서울 노원구 공공축제에 北인공기 미사일 모형 설치 논란 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaEJPdVhUckI1U2xMc3cweWRwNm1XMFRBMlZfNVNPZ255Mlczb0toRS1YODJ2ZjV0WVFsREtjVVNvUUFkeE42N0g5RUIyaExEZFR1RUhlYTdoWlBSWVJoOHFTbnZBR1NTaHUyYVNPQjRkNkYyZHg0N3pRS3VGRXk5Ui1BVDVkQko2NTd3RFVGekE?oc=5",
+      "published": "Fri, 16 Oct 2026 10:34:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "北, 南 극초음속미사일 기술 비난…\"국방력 강화 명분 제공\" 강변 - 뉴스핌",
+      "summary": "北, 南 극초음속미사일 기술 비난…\"국방력 강화 명분 제공\" 강변 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11dHpaVW5RMTdidjFMX2lodGNnamZhVzBJYUZCT1pLZ3JjdnA4NERJOGhUN3ZXRmZSbGc3bHFOYXNONmRLR2JsSEI1M3BMZjVSZHh1NDA5ZFFEYUZF?oc=5",
+      "published": "Fri, 16 Oct 2026 13:35:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Report to Congress on North Korea’s Nuclear Weapons and Missile Programs - USNI News",
+      "summary": "Report to Congress on North Korea’s Nuclear Weapons and Missile Programs USNI News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHZDWlY4NEhkX2p3SnNLMVh4N0NUVzQ1anpUeGwyMUhES21FSy1jcGdITWVmNnFWNEdoZWpIc1RXa0E1eGdKZEVxN19PWXdPZWpmQVI3V2wwR1VIZzJCa0xkd09iY1VrQVBfc1IxUTZtaERyUWl5Qll5d25DcHF5aHF6TkNKSmdTOVRaWmdoT2xacHVoMVJwczdnSC1pMm1NM1dfUVk1V1hxUQ?oc=5",
+      "published": "Thu, 15 Oct 2026 14:12:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un's rarely seen wife and daughter join him for terrifying new development - AOL.com",
+      "summary": "Kim Jong Un's rarely seen wife and daughter join him for terrifying new development AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WT19GLW4zWjVJSlNPZWFFWERnYk9KRllGMGhIaUJJZVkxMF9TanhHTDQ3Ump3dW5pQUpsU1pVanB4Z09INjh1dU5lSDU0all4SkN2LXZBOTdWOGhJTDJyclRZamVMTXhWcUxrbEd4SFFKYlZJcXBj?oc=5",
+      "published": "Fri, 16 Oct 2026 16:03:53 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "‘My Friend Kim Jong Un’ Tells the Truth About Korean Struggle - The Tyee",
+      "summary": "‘My Friend Kim Jong Un’ Tells the Truth About Korean Struggle The Tyee",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOTGY1TWZia2xVRkg2UkhKR0JHdC1OMFVPZ0ROSGtVVGNQV2VFYWJIa0NQU05sNkJzS0gwcjhjS200ZGNaeHlnZTltTnVNcHdGUjVKNEhjUWxLcXVCTmZpM2NBcGhmb0x5YmhaNA?oc=5",
+      "published": "Fri, 16 Oct 2026 22:30:29 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "The party, its partners, and the bomb: North Korea’s survival strategy - Washington Examiner",
+      "summary": "The party, its partners, and the bomb: North Korea’s survival strategy Washington Examiner",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT2hnajhMWW90WGRpbXRBVDlGOVhEUkg4cUFKb0JJYkJxWUptVDFPM2dQMUJkaWpjUlBYdERMcW14YXVuWXhjWTlFdVBVMk8yWU1lUm1YdlZCYlExTWZrX3EwWmRxcUYwZVkzV1Nnd20yRzV5NTBmT0hpTVI3T1U1dVd3eGVjY0xPTEhrLWdkcUlZZDBtSlhWOW9CeTd1TF8zVkNtREk2OXNkUmhfb3c?oc=5",
+      "published": "Fri, 16 Oct 2026 11:00:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Nuclear Stockpile Uncertainty Amidst a Continuing Strategic Missile Launch Drought - 38 North",
+      "summary": "Nuclear Stockpile Uncertainty Amidst a Continuing Strategic Missile Launch Drought 38 North",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMlRKQTc0M0djTkFJbFNNcnBiS2pLbDh3WGVteEprMzIwdF9Lb29IU3dBM3VyTUo3Rlh3d1JJZzdDWkRPR09waTlFQ0ZmdFREalJXc2t4VzlDN3VpVlZ6T3k1LVJYUlpmcWpOal8tczk3TGxKY3VwVjA2enRsa3g1NzllTjhMaENqdW55bEdsaF9xY241alRIUkFLQjdtVkNMcWI2MzF4S3Y4bVFodnRERG1uT1JXUQ?oc=5",
+      "published": "Thu, 15 Oct 2026 13:00:38 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "The last chance for a Trump–Kim summit? - Lowy Institute",
+      "summary": "The last chance for a Trump–Kim summit? Lowy Institute",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORVpIVVI4RzIxY2lvV281SlpXMHY2YV9LdVdCTy05TGs0Q2xzOEQ0TGFFWV9Wd0NFUkFkWE0zS2h0d1J5TWZVeGRpUWlNWmtnV2x3dHZPRENlc0paV1drOXV4NHEzMjNiLXJiU3VlSE1vMmFBb2VicFRIODJaR0E1NmVuUWhqdm94MnNVcA?oc=5",
+      "published": "Fri, 16 Oct 2026 01:01:16 GMT"
+    },
+    {
+      "source": "38 North",
+      "title": "The Korean DMZ Has a Verification Problem",
+      "summary": "On October 5, South Korea’s military concluded that North Korean forces had deliberately ... The post The Korean DMZ Has a Verification Problem appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/10/the-korean-dmz-has-a-verification-problem/",
+      "published": "Thu, 15 Oct 2026 17:27:04 +0000"
+    },
+    {
+      "source": "38 North",
+      "title": "Nuclear Stockpile Uncertainty Amidst a Continuing Strategic Missile Launch Drought",
+      "summary": "This article is from the sixth edition (July–September 2026) of 38 North’s quarterly product, ... The post Nuclear Stockpile Uncertainty Amidst a Continuing Strategic Missile Launch Drought appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/10/nuclear-stockpile-uncertainty-amidst-a-continuing-strategic-missile-launch-drought/",
+      "published": "Thu, 15 Oct 2026 12:55:49 +0000"
+    },
+    {
+      "source": "38 North",
+      "title": "Private Cars and State Lotteries in North Korea",
+      "summary": "This article is from the sixth edition (July–September 2026) of 38 North’s quarterly product, ... The post Private Cars and State Lotteries in North Korea appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/10/private-cars-and-state-lotteries-in-north-korea/",
+      "published": "Thu, 15 Oct 2026 12:55:48 +0000"
+    },
+    {
+      "source": "38 North",
+      "title": "North Korea’s New Party Rules and the Limits of Delegated Authority",
+      "summary": "This article is from the sixth edition (July–September 2026) of 38 North’s quarterly product, ... The post North Korea’s New Party Rules and the Limits of Delegated Authority appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/10/north-koreas-new-party-rules-and-the-limits-of-delegated-authority/",
+      "published": "Thu, 15 Oct 2026 12:55:27 +0000"
+    },
+    {
+      "source": "38 North",
+      "title": "Closer to China and Russia, Firm on Nuclear Status",
+      "summary": "This article is from the sixth edition (July–September 2026) of 38 North’s quarterly product, ... The post Closer to China and Russia, Firm on Nuclear Status appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/10/closer-to-china-and-russia-firm-on-nuclear-status/",
+      "published": "Thu, 15 Oct 2026 12:55:23 +0000"
+    },
+    {
+      "source": "38 North",
+      "title": "Sustaining Production: Coal, Regional Industry, and a Domestic Wheat Economy",
+      "summary": "This article is from the sixth edition (July–September 2026) of 38 North’s quarterly product, ... The post Sustaining Production: Coal, Regional Industry, and a Domestic Wheat Economy appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/10/sustaining-production-coal-regional-industry-and-a-domestic-wheat-economy/",
+      "published": "Thu, 15 Oct 2026 12:55:07 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea tests new high-precision AI-equipped torpedo: state media",
+      "summary": "North Korea has test-fired a new high-speed precision-guided torpedo equipped with artificial intelligence (AI) technology, according to state media, in what Pyongyang hailed as a major breakthrough for its navy. The underwater test of the new “Zam-2.0” torpedo took place on Thursday, state media Korean Central News Agency (KCNA) reported on Saturday without releasing images […]",
+      "link": "https://www.nknews.org/2026/10/north-korea-tests-new-high-precision-ai-equipped-torpedo-state-media/",
+      "published": "Fri, 16 Oct 2026 22:29:04 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Belarus belatedly opens embassy in North Korea: Minsk",
+      "summary": "Belarus opened its embassy in North Korea this month, Minsk’s foreign ministry announced, nearly three months after the initially planned launch in the country. The ministry’s readout late Friday didn’t specify the date of the embassy’s opening or the name of the ambassador to the DPRK. Belarus also opened its embassy in Myanmar this month, […]",
+      "link": "https://www.nknews.org/2026/10/belarus-belatedly-opens-embassy-in-north-korea-minsk/",
+      "published": "Fri, 16 Oct 2026 20:55:12 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "On Chinese social media, users hail opening of new bridge to North Korea",
+      "summary": "Chinese social media users have hailed the opening of a new bridge connecting to North Korea this week as a “historic moment,” voicing hope for a resumption of tourism to the DPRK even as some locals expressed skepticism about the impact on business. Footage of Thursday’s ceremony showing convoys of trucks crossing the New Yalu […]",
+      "link": "https://www.nknews.org/2026/10/on-chinese-social-media-users-hail-opening-of-new-bridge-to-north-korea/",
+      "published": "Fri, 16 Oct 2026 09:39:46 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korean missile chief accuses South of faking hypersonic weapon test",
+      "summary": "North Korea’s top missile commander accused South Korea of making false claims about a recent hypersonic missile test, according to a short interview released Thursday, drawing a prompt rebuttal from Seoul. DPRK Missile Administration General Director Jang Chang Ha said “It is hard to believe that [South Korea’s hypersonic glide vehicle (HGV)] underwent hypersonic flight” […]",
+      "link": "https://www.nknews.org/2026/10/north-korean-missile-chief-accuses-south-of-faking-hypersonic-weapon-test/",
+      "published": "Fri, 16 Oct 2026 06:27:58 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Ukraine blames smuggling scheme on man tied to North Korea-Russia arms sales",
+      "summary": "Ukraine says it has busted a scheme to steal military equipment for illicit sales in Kyiv, allegedly at the behest of an “arms baron” implicated in weapons shipments from North Korea to Russia. The Security Service of Ukraine (SSU) and the State Bureau of Investigation detained two individuals who “had been stealing” parts for military […]",
+      "link": "https://www.nknews.org/2026/10/ukraine-blames-smuggling-scheme-on-man-tied-to-north-korea-russia-arms-sales/",
+      "published": "Fri, 16 Oct 2026 06:22:51 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "A school for North Korean defectors found a new home. Then the backlash came.",
+      "summary": "When the Yeomyung School announced that it would build a new campus this summer, it seemed like a dream come true for Seoul’s only accredited institution for the children of North Korean defectors. The school has moved from one rented space to another throughout its existence, but under a deal with the government and Hyundai […]",
+      "link": "https://www.nknews.org/2026/10/a-school-for-north-korean-defectors-found-a-new-home-then-the-backlash-came/",
+      "published": "Fri, 16 Oct 2026 05:16:39 +0000"
+    }
+  ]
+}
