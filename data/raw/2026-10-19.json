@@ -1,0 +1,416 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T08:45:22.571013+09:00",
+  "history_candidates": [
+    {
+      "year": -202,
+      "text": "Second Punic War: At the Battle of Zama, Roman legions under Scipio Africanus defeat Hannibal Barca, leader of the army defending Carthage.[citation needed]",
+      "link": "https://en.wikipedia.org/wiki/Second_Punic_War"
+    },
+    {
+      "year": 439,
+      "text": "The Vandals, led by King Gaiseric, take Carthage in North Africa in a surprise attack in breach of treaty.",
+      "link": "https://en.wikipedia.org/wiki/Gaiseric"
+    },
+    {
+      "year": 1453,
+      "text": "Hundred Years' War: Three months after the Battle of Castillon, England loses its last possessions in southern France.",
+      "link": "https://en.wikipedia.org/wiki/Hundred_Years'_War"
+    },
+    {
+      "year": 1466,
+      "text": "The Thirteen Years' War between Poland and the Teutonic Order ends with the Second Treaty of Thorn.",
+      "link": "https://en.wikipedia.org/wiki/Thirteen_Years'_War_(1454%E2%80%931466)"
+    },
+    {
+      "year": 1662,
+      "text": "An English Buccaneer force led by Royal Navy commodore Christopher Myngs launches an attack on Santiago de Cuba which is subsequently sacked.",
+      "link": "https://en.wikipedia.org/wiki/Buccaneer"
+    },
+    {
+      "year": 1781,
+      "text": "American Revolutionary War: The siege of Yorktown comes to an end with the British surrender.",
+      "link": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+    },
+    {
+      "year": 1791,
+      "text": "Treaty of Drottningholm, between Sweden and Russia",
+      "link": "https://en.wikipedia.org/wiki/Treaty_of_Drottningholm"
+    },
+    {
+      "year": 1805,
+      "text": "War of the Third Coalition: Austrian General Mack surrenders his army to Napoleon at the Battle of Ulm.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Ulm"
+    },
+    {
+      "year": 1812,
+      "text": "The French invasion of Russia fails when Napoleon begins his retreat from Moscow.",
+      "link": "https://en.wikipedia.org/wiki/French_invasion_of_Russia"
+    },
+    {
+      "year": 1813,
+      "text": "War of the Sixth Coalition: Napoleon is forced to retreat from Germany after the Battle of Leipzig.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Leipzig"
+    },
+    {
+      "year": 1864,
+      "text": "American Civil War: The Battle of Cedar Creek ends the last Confederate threat to Washington, DC.",
+      "link": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "year": 1864,
+      "text": "American Civil War: Confederate agents based in Canada rob three banks in Saint Albans, Vermont.",
+      "link": "https://en.wikipedia.org/wiki/St._Albans_Raid"
+    },
+    {
+      "year": 1866,
+      "text": "In accordance with the Treaty of Vienna, Austria cedes Veneto and Mantua to France, which immediately awards them to Italy in exchange for the earlier Italian acquiescence to the French annexation of Savoy and Nice.",
+      "link": "https://en.wikipedia.org/wiki/Treaty_of_Vienna_(1866)"
+    },
+    {
+      "year": 1912,
+      "text": "Italo-Turkish War: Italy takes possession of what is now Libya from the Ottoman Empire.",
+      "link": "https://en.wikipedia.org/wiki/Italo-Turkish_War"
+    },
+    {
+      "year": 1914,
+      "text": "World War I: The First Battle of Ypres begins.",
+      "link": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "year": 1921,
+      "text": "The Portuguese Prime Minister and several officials are murdered in the Bloody Night coup.",
+      "link": "https://en.wikipedia.org/wiki/Bloody_Night_(Lisbon%2C_1921)"
+    },
+    {
+      "year": 1935,
+      "text": "The League of Nations places economic sanctions on Italy for its invasion of Ethiopia.",
+      "link": "https://en.wikipedia.org/wiki/Second_Italo-Ethiopian_War"
+    },
+    {
+      "year": 1943,
+      "text": "The cargo vessel Sinfra is attacked by Allied aircraft at Crete and sunk. Two thousand and ninety-eight Italian prisoners of war drown with it.",
+      "link": "https://en.wikipedia.org/wiki/MS_Sinfra"
+    },
+    {
+      "year": 1944,
+      "text": "A coup is launched against Juan Federico Ponce Vaides, beginning the ten-year Guatemalan Revolution.",
+      "link": "https://en.wikipedia.org/wiki/Juan_Federico_Ponce_Vaides"
+    },
+    {
+      "year": 1950,
+      "text": "China defeats the Tibetan Army at Chambo.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Chamdo"
+    },
+    {
+      "year": 1956,
+      "text": "The Soviet Union and Japan sign a Joint Declaration, officially ending the state of war between the two countries that had existed since August 1945.",
+      "link": "https://en.wikipedia.org/wiki/Soviet%E2%80%93Japanese_Joint_Declaration_of_1956"
+    },
+    {
+      "year": 1987,
+      "text": "The United States Navy conducts Operation Nimble Archer, an attack on two Iranian oil platforms in the Persian Gulf.",
+      "link": "https://en.wikipedia.org/wiki/Operation_Nimble_Archer"
+    },
+    {
+      "year": 2019,
+      "text": "Members of Parliament met at the House of Lords to discuss the United Kingdom's Brexit deal, this was the first Saturday sitting in Parliament since 3 April 1982 during the Falklands War.",
+      "link": "https://en.wikipedia.org/wiki/House_of_Lords"
+    }
+  ],
+  "korean_war_hits": [
+    {
+      "year": 1950,
+      "text": "Korean War: The Battle of Pyongyang ends in a United Nations victory. Hours later, the Chinese Army begins crossing the border into Korea.",
+      "link": "https://en.wikipedia.org/wiki/Korean_War"
+    }
+  ],
+  "korean_war_date": {
+    "month": 10,
+    "day": 19
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Trump says he's \"negotiating Peace\" as Ukraine launches 1,000 drones at Russia amid continued back-and-forth strikes - CBS News",
+      "summary": "Trump says he's \"negotiating Peace\" as Ukraine launches 1,000 drones at Russia amid continued back-and-forth strikes CBS News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSmpzT0JqMHd6elRCQmR4Z1JKWWpycEc4UXI0dXJfQkN0NGlvOENSdjl3REZ6SndFSVRaNUo0cV9hX2hKNEN1bXFwbkdmUTlsUlQzUDgwLTFQUVdJWnRHTm5IMjZPSGw5M0xRTGtvZDA5VFhLeHRLWnVZSGZ0d2dxVklrTU8?oc=5",
+      "published": "Sun, 18 Oct 2026 18:29:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites - Al Jazeera",
+      "summary": "Ukrainian drone attack on Russia’s St Petersburg kills 1, hits energy sites Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0hLWEJLMnJtamZLbEhtMUZleWYyMUN6dFRCMjhuZGd0Vy1ucmMwUm01OHZPY2RCWE00QVAzNEtrNXZtajVTUTlJRGFHOWk4VzNxNnc0YzJlOGVpakF6VW5EZzFubGxYdjNsNmVUR0k5azk3amZ0TWJGeURrTDNtNkFocUFNd3NnckxxQy1oanlyclQ5aEM2NXdWM0dma0ZGeFlqNldOdDdoakh4Q2pQcUtmSDBQd9IBuwFBVV95cUxOTjlHLThmNE45Z3gteWs3S2VvU1hRTGsxdml5eTF3d0paWS1rNFhMVENZbHlKTFctcTRhcENxNzlqRXJVMEhQeVpnMzFaRzhUZ2l5ZGZrTjdOdlI5SEdPNjdxTFJ3MHpiaXBMeF83ZjBKeDVrenh6QVlyVlFUa2h5Tm5wc1hYbEtOYk8zak9GeW1TSHlZWDRPaFZiNFBxVUxnWEI3Sm5GYWJmU1JhVXRVR1pnaU0yTV81Sk5J?oc=5",
+      "published": "Sun, 18 Oct 2026 10:44:36 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores - The Guardian",
+      "summary": "Intensifying drone attacks on ships in Black Sea bring war ever closer to Nato shores The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1dUTUxGUjZOM0tsVmtncWRlV2ZaZTRBUDFSRE94Q2U4ZktGZ1FCVFpDMHZ2VlY2aTRsSDRWaHVrWk00SDR4YnFueFJaYVFKT1daa2Ixc3BuNElkM0ZINjN0LWxMN2lYZ0xPdGF3U3pjdXpMTVg5c1oxVFNCR01zcU5YUTVLbzZ3Ty1LM0NuU1VGa3pZcHV0aS1BLVpfUQ?oc=5",
+      "published": "Sun, 18 Oct 2026 14:21:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year - CNN",
+      "summary": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year CNN",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa1NDR01YZm95TF9nSGhfZFdidlRLWDFfNkpVOTd0Ymg3V19laGlfQjUzTVhoWG85NlB3R0ZLN04yWGt3cHB2REszc0R1U3BCVTMzTUxIdnU1c3VTbFFNbm1qTWI1ZFloT0dSaS1JLWtJQnJOUkl5WHR3LXRxeWZpTndR?oc=5",
+      "published": "Sun, 18 Oct 2026 10:49:15 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian Offensive Campaign Assessment, October 17, 2026 - Critical Threats",
+      "summary": "Russian Offensive Campaign Assessment, October 17, 2026 Critical Threats",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY05pcm5DNjRacFlEa2hWallTVTNxUklVd1lEZ3NuVUVCWk9TSTZvdVEwRnVZbzRHZ1QyejdzWnFHeG5LOGpUNVhhX2JkeWhvS0xQRFA3dE5ub3lJVUp2dXBIRFcxT1hJNlV3X3FiTzdGUVVFVnJ2OVNpVnFhTUg0bHBQZXRJU3c1OEl6TWxwamJhOV9wZFF4Umx3?oc=5",
+      "published": "Sun, 18 Oct 2026 00:05:16 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukrainian forces strike St Petersburg and Leningrad region - Euronews.com",
+      "summary": "Ukrainian forces strike St Petersburg and Leningrad region Euronews.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdkhxelNpNWVqQ3JYNGxzTDM4b09VN3ktanc5RWM4Ri1zdHMzZk9HMlhoQnB6b1Q3dkM5VzM3VUNWcUZMbTYyZ2hISFpZamNMUEFpU2l6UU9RdE1ZTzU1M2Nybi05d0FjVjZFWlpVam1LSFJ4NmVTWlhaNkhoVXgwbFVRVFI5RDFfOUdJazQ3Q0J6VkF4U0paSVNB?oc=5",
+      "published": "Sun, 18 Oct 2026 11:06:16 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Gaza families fear food shortages as Israel halts commercial shipments - Al Jazeera",
+      "summary": "Gaza families fear food shortages as Israel halts commercial shipments Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ0QzZUlyTkhzQVg1TkhMWldXSHJkb2U4SmFyVUQwdWV3MnQyR09TOVpwWFBuV3RfSVRUVmRRRmkyWHlLRmhYNFN6RGJzVHNwZy1STkQ5dlNXcUV3VlI0ZTgxbGdfV2UtQlFobW00VzZLYURJUVBJWkMzWUNyVzRlS0xDbFZGWFA2WmZvT0dPZjBsRmpBZjhEeHR1anNCaHlWampkWExvN2xWMEZ3bXRCakR30gG3AUFVX3lxTE5WbFU0b3JHdVNjUlItLWpWVkZQT28yQnFXaWJDVXk0TlVIMncwMDNqYzJES21ISzdWYVhVZGpQT3ZEN2VKRGUxVVNyODJSelpldXdjOHRVd0loc093M3ZfWmJlNXhocFpkdTFMQ1c1cE01S3hOUVZpWEZFTENnci1HZ1QzMmVJUHBHNjRyTXp4VlZJRDlIZGhXSi16c2cxY0s2M0NBYmt2VjEtaGFsbFdZVGlmZWdBbw?oc=5",
+      "published": "Sun, 18 Oct 2026 13:23:33 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Reports: Two Children Among at Least Eight Killed by Israeli Fire in Gaza - Haaretz",
+      "summary": "Reports: Two Children Among at Least Eight Killed by Israeli Fire in Gaza Haaretz",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLVA0U05lXzNiZFVrUnQ5RVFWcHEtNlV0UkxXaG15QnJCMmh5SEpqeTZwbEtJQ2J6U3A1RjNUVHBxUjlQU3F1ZXEzLVhLc1RObkNQa3ZKY3c3Q1NrMDYzcE5Yek01TGVFblFoRElnQURpbVZWU1h6ZnNvVDJHeGRySkNvLW5VS3V3aF9nV1B3MUtwX3kxM2swTXNod194TmtjVnVpRFJac1QtVzVUQjNfLTduTzc2akx5eGZXSFlVdW9Nb3lwXzBDalo2UVVTN3dOMTNmTmVWenRPSG0yTnY0bEgxeEVrQlczTm5wMWVWUXJ4dw?oc=5",
+      "published": "Sun, 18 Oct 2026 14:11:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Senior Hamas Official Reveals Gaza Political Chief Wounded in Israeli Strike - ASHARQ AL-AWSAT English",
+      "summary": "Senior Hamas Official Reveals Gaza Political Chief Wounded in Israeli Strike ASHARQ AL-AWSAT English",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY1VvTUtLVkNXTTJVUnhTemQwSHhpQ1BuZVl4NkZTSk01X0ktNmh2STBXSGo4eVAyU2MxcmpJTGhETlhvVDVRd0xLQXlUdzNMU2lxVkoxYTMwU21HZ2VINGtjajQ0OW9Wa01sNkdRQll1RWVjckhkMldYVDZLaEU3TklGVjJtaFVfcVQ1ZjJScVM3MWd4b0VzUjVjR29zY0lDRWhqMDB6OU5oWUJPZ2RLQmNMX1RNSXZ3Y2lR?oc=5",
+      "published": "Sun, 18 Oct 2026 06:59:16 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Lebanon seeks Israeli withdrawal, international presence in the south - The Arab Weekly",
+      "summary": "Lebanon seeks Israeli withdrawal, international presence in the south The Arab Weekly",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVnRXT1lwSkpxSEtUeWZURF9KR2IxdHBPU2NIS1B2UkhuWTNvUl95SU9uQ3ROY09iY2l3MmFjblZOUVBtZEt5UFNESm1FV1JiNE1QTFJlcHZwWlhNVEowbDFqakh1TDh0Tk9QcGxNX1AyNU5icC01bUdzU0lqT3NhWFhQNi1HcVRPNDlyaVVlSlU?oc=5",
+      "published": "Sun, 18 Oct 2026 08:44:27 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Gaza Family Reunion: Finding each other after the ‘ceasefire’ - Al Jazeera",
+      "summary": "Gaza Family Reunion: Finding each other after the ‘ceasefire’ Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0V6UWxfY082czVzOHFkTm9ySE5ucVR3S2I1eVl4Z1lWLTd3a0hESXVSV3ZkbHdJZ3hUZjBrZVh1cVhUaWtCaTlkTDZhUHlBa05QX3A1cUlLTjZRSjIyQXR6V2tDYkQzZ1VxSTN0ejl5cmxLNUFTVWY1M1ZEMHRtLXEtdllIZmpkVTJveFA2WHZtQ0VCTmtZV01Bb1BuMV83NHVGa01oa1dvYzFET3fSAbMBQVVfeXFMTUJBTkZZRkc2Y0RPTW9TTjNJVG82T3lYX0VGNE15bjlueEVSWE9ud3hQTDNJcDdsWGhIZjAzeEhCdTRFZFhfTGkwUnRfYUw3M3VoR2ZoYmZRak1qQTlVdV80TGlVWWhzbXBtLWl6azhkWW9TR0cxSzB2TGxseFVlMDBnRFp2RzUzaWhvM2l2bXNuRGE2M0RnYi1MbG5IN3Jwek5sVWVyUy1PZ2pvXzNScGdmNUE?oc=5",
+      "published": "Sun, 18 Oct 2026 11:08:22 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’ - Al Jazeera",
+      "summary": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’ Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFFTd0tBVFB3WGFRWGtIWEFRVXpiMC1oZFFwRmVNZ2d5WU5kM09seFBWNUp5SFRIa2R6NC1aWF9XODk4QlFTZDZNcnVwbFVNRmN4V2VzbTdxWE9sckVxMWpwVXpzUjFycGpfcE1NWktmZmZyR01oUUFGdUdwTGliZmFicENPcVJBR0RMeTNFdUdpd0w3YVVxbUxSSlVvZ3ZibmtKYXBsd2FxOWhjeXJCVjZRb011UdIBuwFBVV95cUxQYnVxTE1iNGhaNXdsdjFiWEVsaElON1FIVFNONS1CbTVQMjl2ZjJfakp3UDN2MXB6UzQ0WHRJd05ja05GRzJ4SEFOWjhTdjhLVTE1bEdjSTV2b01EZHVLRE93ZFBQTmxsU0ZZemxUV3lpMHB1dVdTMVBYckRZek1hWlRQU1FtTTg0ZUNjeTRnTG1zeGttZXpIcHdYOVBiSkJqcDhnaVlSY1hPS0xSYlVuZS1ZSllGSGJka3dv?oc=5",
+      "published": "Sat, 17 Oct 2026 18:30:16 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "How coordinated international pressure can change the course of Sudan’s war - Sudan Tribune",
+      "summary": "How coordinated international pressure can change the course of Sudan’s war Sudan Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KOTk3Y0RhVXBkNmw4anBjNkNiSkUtNklFNGxkd3ZMQVg4SnFhRjVmN3ZvWXNRZmFKMkZLNGI4dWlSSnoxZjR0VE11QVN6dmdi?oc=5",
+      "published": "Sun, 18 Oct 2026 16:29:06 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Blunder in, abandon allies and court a dictator: it’s the Trump doctrine, now playing out in Myanmar | Steve Bloomfield - The Guardian",
+      "summary": "Blunder in, abandon allies and court a dictator: it’s the Trump doctrine, now playing out in Myanmar | Steve Bloomfield The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSURmbUNIZWk0Q3h5VDQtMzR4QU1mWENiWEJqZFdDeXNmdGdHVVBQXzV2elhPOFhOZ1FrV21YMWJZWS16R0E2eWV6VEZfc0ZMcjRNVVFJMVo2NWVOXzVtVHAweTZXR24tLUpHcUpwTGZxRGdJNkZHVHJlTEdhWHZ2Ylo4WG56eS0wanQyRXl2SVY2a091VlhwazhuUy1DbDlkb0ZF?oc=5",
+      "published": "Sun, 18 Oct 2026 16:37:00 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Junta Forces Bomb Rathedaung Town in Nighttime Air Raid - Narinjara News",
+      "summary": "Junta Forces Bomb Rathedaung Town in Nighttime Air Raid Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhRU1BbnRmNEV4T0t5REpkZGV5NzRGUW1JbktGbk44RFN4VE9KT05ZTGpuU0IwQlJUMUFjc3lhdG1qak5ZeE1JamgySkV6cW52bmVmbE1BaDFFdWhsbUJjaHppSHBjS2FTdUxDRkZldw?oc=5",
+      "published": "Sun, 18 Oct 2026 19:28:27 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "State of Emergency Extended for Another 90 Days Across 55 Townships - Narinjara News",
+      "summary": "State of Emergency Extended for Another 90 Days Across 55 Townships Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xUGhrRVd1UjNLY3Y0Ym16XzB2Rmg4dUpQT3Joc3JVT3JCdGxWelRMWE8tTGZ3OElCeDFKZXhURURJTUdYa3F1RUI3ODNBRGt3MklmbV8wSlY1ckozd3U3cDBwaEU5dTV1NzJSbHd5TQ?oc=5",
+      "published": "Sun, 18 Oct 2026 19:58:29 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "\"Blood Money\" Campaign Urges Sanctions on Junta’s Aviation Fuel Supply Chain Amid Daily Arakan State Bombings - Narinjara News",
+      "summary": "\"Blood Money\" Campaign Urges Sanctions on Junta’s Aviation Fuel Supply Chain Amid Daily Arakan State Bombings Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCS2xsUHRTaXQ5MTJ6YndBQXVIa1hmRjUzRlJBWFRzaXBTNlVRUWVkc2c2ZE5KT1Y2QnJxQ3R2TUZSb0hYUVVCU29rRHl4YW9RZU5DWGo5NUlGckhFVVVHS2VqMlhOSl8yRHA5c1ZQWQ?oc=5",
+      "published": "Sat, 17 Oct 2026 21:02:56 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "“Our drummer went to the jungle to fight the junta” - Freedom Press",
+      "summary": "“Our drummer went to the jungle to fight the junta” Freedom Press",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVHVGYm1obUVEQTFVLW82Z3J3U1pXWXlpRUM4YlItZjk1LW5mSmpGaEtHdl9pQ2xKSG9YMjY4ZzMxM0ppQzlDaWNTMWp0QjlHVE9CUzA3VElJR3dWLV93X1lPUTRHMWc0UXRqRjFjWlVJYXN4QTF1WWNJSXVwc1BaRGJYc1VBX2xFdkh1Z2ZDa3ZtLUk?oc=5",
+      "published": "Sun, 18 Oct 2026 07:39:49 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "11 killed in Myanmar military airstrike - Daily Observer",
+      "summary": "11 killed in Myanmar military airstrike Daily Observer",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4tdDl0RGlxT0kzMlNQcmdHVDlibzRKNWplVEdEZ21aMGV0aUhoaFVpYjZ0eWtXenhCbjNsaUVRNnAzMDluNHdDdVJn?oc=5",
+      "published": "Sat, 17 Oct 2026 12:32:28 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "India’s crackdown on cockroaches, critics and cameras",
+      "summary": "A government at war with its critics - from young protesters to the media.",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
+      "published": "Sun, 18 Oct 2026 19:31:45 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
+      "summary": "Ukraine's president says communication between Washington and Kyiv 'virtually nonstop', despite a spat with Trump.",
+      "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
+      "published": "Sun, 18 Oct 2026 19:11:27 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Gaza bodybuilders find solace in strongman competition among the ruins",
+      "summary": "Bodybuilders in Gaza are finding solace in testing their strength during a competition surrounded by rubble.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss",
+      "published": "Sun, 18 Oct 2026 18:36:02 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Why the US is holding secret talks with Myanmar’s military ruler",
+      "summary": "Why is the Trump administration holding secret talks with Myanmar's military ruler, accused of genocide?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
+      "published": "Sun, 18 Oct 2026 18:22:11 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Residents recount drone strikes in Ethiopia’s northern Tigray region",
+      "summary": "In Adigrat, a city close to the Eritrean border, residents recall recent drone strikes by Ethiopian forces",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss",
+      "published": "Sun, 18 Oct 2026 17:20:20 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 23:06:09 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 15:46:10 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 12:16:14 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Anti-government protesters battle with police in Albania",
+      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Oct 2026 20:53:00 GMT"
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "북한 “그을음 없어 가짜”, 한국 “그게 기술”…‘공수’ 바뀐 극초음속미사일 논쟁 - 한겨레",
+      "summary": "북한 “그을음 없어 가짜”, 한국 “그게 기술”…‘공수’ 바뀐 극초음속미사일 논쟁 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YdHozUWJlRENfRU1HMW5wRmpBZm8wQXBOS2xvMXh4YjJGdU1Fb085cDhpcUh4YVhBdFBlT3d5S3QteExZRnVaU2tPd25XYlBQNDZReVl3dW1UYlh0ZXlEUjNaNUtLMENh?oc=5",
+      "published": "Sun, 18 Oct 2026 15:31:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "“수영장만 50m…북한 김정은 호화 선박 4척 포착” - 채널A",
+      "summary": "“수영장만 50m…북한 김정은 호화 선박 4척 포착” 채널A",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qVndPdldyVUZaX251TWFJWlV6RGJ6ODRoOFVqSDdKb1dwUW53RzRQcFRiU1BBOWE5M0V5ZFp6QThkUGRTWk5fR19FMVpMTlRaZUgtZFpfZ2h0Y0lBMEptb1h4VdIBY0FVX3lxTE5qVndPdldyVUZaX251TWFJWlV6RGJ6ODRoOFVqSDdKb1dwUW53RzRQcFRiU1BBOWE5M0V5ZFp6QThkUGRTWk5fR19FMVpMTlRaZUgtZFpfZ2h0Y0lBMEptb1h4VQ?oc=5",
+      "published": "Sun, 18 Oct 2026 22:48:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "CRS '북한의 핵무기 및 미사일 프로그램' - SPN 서울평양뉴스",
+      "summary": "CRS '북한의 핵무기 및 미사일 프로그램' SPN 서울평양뉴스",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0UTlRSjZkRHFyalZ4UlplRWlUYThLUndFV3hfbU01R0NWNWd1cnhRM2NZcHBUWlhOWVRoemRiRHBnY2paaExab0g3eTBPNkxIOXR5S1RFZ1F4ck41VTEwYW04QjFqRVR2UUR3?oc=5",
+      "published": "Sun, 18 Oct 2026 14:24:31 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "\"북한 원산 앞바다 호화유람선 포착‥김정은 여름휴가용 추정\" - MBC 뉴스",
+      "summary": "\"북한 원산 앞바다 호화유람선 포착‥김정은 여름휴가용 추정\" MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zS29ZWjJQRW9lQzNkNEV5YWs0ejcxaU5iOUdPRGRTWk1tZVk1MTFjYXBBU0hrRGs1am5lanlsNGFRR3NVSlVSUVE5UWhqOFVKOEJWT2lTS1ZJM1dfbjFfN0JEcy1KbFJ4UnI1ekVRclhIZVFn0gF0QVVfeXFMTU5HN3V5TFVJMHFDM2l3VWlFdFRZM3ppaXpCYlM1OUNrRC13UjJTQnZwUHBMNld3TEk5MHdtM3g1c3pqV0liT3cybjhPaURWenpOTU9wUWx3N0tCdXFMb2I1TjlLcXR4M2R5SElLQnhYb3FWSzM?oc=5",
+      "published": "Sun, 18 Oct 2026 13:19:40 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "北 40% 영양실조, 김정은은 1300억 호화 유람선…수영장에 워터슬라이드도 - 매일신문",
+      "summary": "北 40% 영양실조, 김정은은 1300억 호화 유람선…수영장에 워터슬라이드도 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QYXAyZUlWMVhPOTI2akM4SDUwU0FuWDNyak5zYU15MDRJV0w5MnVJdFBucEczV3M1N0VFWXRPd3ZJYjZ1azRYZlA5TjRFWGVFM09hS2diSl9sUGR5RHRsSm1n?oc=5",
+      "published": "Sun, 18 Oct 2026 22:01:47 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "“북한 주민은 굶주리는데”…김정은 별장 앞에 뜬 80m 초호화 유람선 - 매일경제",
+      "summary": "“북한 주민은 굶주리는데”…김정은 별장 앞에 뜬 80m 초호화 유람선 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5eVJFSWFKYmRENmQ3aU9rQml0RGh4bjVJY3dSTnpNbnFhbmJpTS1FM1VrSTROV0liTmNkV0VlN2w5VkpCT0tmU1lUZjd5NzMtTmc?oc=5",
+      "published": "Sun, 18 Oct 2026 12:54:23 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea: What satellite images reveal about Kim Jong Un's summer retreat - BBC",
+      "summary": "North Korea: What satellite images reveal about Kim Jong Un's summer retreat BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVQlhoVlRBdEE1LUlxbFk2djZkckktbnQ1cUZBT2JwQkNVNWNDNWR4ekt3V3pEX2JzWU0yZ3dpQWVBUDlndmRnU2tuOGdaRXB1bWNHaDhqaUVGNU0?oc=5",
+      "published": "Sat, 17 Oct 2026 22:09:50 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "China APEC summit raises prospects for Trump-Kim talks - upi",
+      "summary": "China APEC summit raises prospects for Trump-Kim talks upi",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQazd0VENaTU4xTlhFVUlvdHY2MFYzNTBhbmt2SnZtQ2taUzFmN0ZSSEZIMFY1RHBjTzFsRU9zZjdiaXV2U1VGX29IUWJxZ2dsc3l4SmtCWDB1QmROUG5OVzVGNXJFX05PcjFscHp6RURHTDRZclBLM2ZRWnd5Snd1cWVOaGdiUWthYUFhRHhtM1RtWXFJQUUtbWhsOS1qX3lWVWFubXNuYXRpMHYx0gGyAUFVX3lxTFBvSlNyZUxHQ1VuU2tFU2IzNmhGbDdJOGh4MW5rTU40ZzhHYVA3LUNCRl8wN0oxYzBOMldTSmlnak9wVllXMWhuaGRSdjcxWFZQRkZCRDNiSk80Q24zc1ZzTHNLNFcyVHFjNnZ3ckRtNzhtY3BidGRHVGVPNmpwLVFaOEl4QS01MXB1cDRObDF6VXFOdnVqUkJ1eUkyVG9yZXg2M3FRcFd0WV9wMDFFWjNPLXc?oc=5",
+      "published": "Sun, 18 Oct 2026 23:14:28 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea's Military Power 10 Times Stronger Than Iran... South Korea Would Lose Without Nukes - 조선일보",
+      "summary": "North Korea's Military Power 10 Times Stronger Than Iran... South Korea Would Lose Without Nukes 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU18xWkFCdUxkZ2R5QWVPSnRTcWJXMkUtYlh4ZDlEM083VTJ5dXVSZWdZdUM2bmE3YmRpWlhCZTJsMF9hZUk1aHFSNG85YlFBODFVMVVEcUlPQ1cxVFBVaTUwVEFWY0Y3aUU2NUdZLWxJWUNZTlJqVldiS3lQNUhwQjhEdHU1MUU?oc=5",
+      "published": "Sun, 18 Oct 2026 23:19:31 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Four water slides and a swimming pool – Kim Jong-un’s luxury yacht revealed - The Telegraph",
+      "summary": "Four water slides and a swimming pool – Kim Jong-un’s luxury yacht revealed The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRmNYYUtzWjVpYUJRTHRpYlZKYWJEdko5TlYtemg0WVVmQURsS05SM3dvbHNEekFWTnZEcWlZUGtKZmw0YzBxX2hsRHNOTFlhbnFfWlBtWDVLeGZwX2JBMktJOVpEUXU1blQ1N0Q3WHRmXzhrUzdPV3YzdndwbWFONlBXbm5YWFQ2U1ZINnFDb092dFBCR0xkWEFadTdLM3l3NU5LN1dRZ2Ztb3Fm?oc=5",
+      "published": "Sun, 18 Oct 2026 17:54:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Satellites Spot Luxury Yacht Near Kim's Seaside Villa - Newser",
+      "summary": "Satellites Spot Luxury Yacht Near Kim's Seaside Villa Newser",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWVZRc2x6XzN3dTJ6dFBQdkZNcHB4Y1cydUg2QmNJd0F5WXVuNFczZEJnUHo4LUVyUXNQV0RBTDUtY0VBTlQwN2F4dUtnVS1yRjBCZGV5Nkp2ODFiNE9WM1ZCQUJxRFZ5RmR1OUVZN3NfWnJ3WHJ6Z3dWQ2c0Y1VLU004R2lRTmhzV0ktLUNjcHNtVktEODB3?oc=5",
+      "published": "Sun, 18 Oct 2026 14:38:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "South Korea readies solid-fuel rocket launch as rivalry with North intensifies - Korea JoongAng Daily",
+      "summary": "South Korea readies solid-fuel rocket launch as rivalry with North intensifies Korea JoongAng Daily",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWldvZGozbDI1S21XNlJsQlgzWkctNWJEWXhhOVA5aW5hV1E0ZlByU3RMZXFoejZjVTY2U19USlMwdk9IcGZ5RFBsdUxXTUdwUzRFQmFibnBoLUU2VHNnRmhpV0lUUTJxT29TUnBOVHpwNTNkblVacjIzMVpsNDdLRDZKTkZKU3FMX2VIeWN1Z0RHYzhCOUQzX0dFWTRwczMzWUZ6MTRJMU5Pbnp3eGtxZ0Q3N2NIX2xOYTdzZ0JQYkFQNk1HWEE?oc=5",
+      "published": "Sun, 18 Oct 2026 22:01:13 GMT"
+    }
+  ]
+}
