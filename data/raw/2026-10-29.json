@@ -1,0 +1,444 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T10:19:57.053133+09:00",
+  "history_candidates": [
+    {
+      "year": 312,
+      "text": "Constantine the Great enters Rome after his victory at the Battle of the Milvian Bridge, stages a grand adventus in the city, and is met with popular jubilation. Maxentius' body is fished out of the Tiber and beheaded.",
+      "link": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+    },
+    {
+      "year": 1281,
+      "text": "The Mamluk Sultanate defeats the Ilkhanate in the second battle of Homs.",
+      "link": "https://en.wikipedia.org/wiki/Mamluk_Sultanate"
+    },
+    {
+      "year": 1467,
+      "text": "Battle of Brustem: Charles the Bold defeats Prince-Bishopric of Liège.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Brustem"
+    },
+    {
+      "year": 1658,
+      "text": "Second Northern War: Naval forces of the Dutch Republic defeat the Swedes in the Battle of the Sound.",
+      "link": "https://en.wikipedia.org/wiki/Northern_War_of_1655%E2%80%931660"
+    },
+    {
+      "year": 1863,
+      "text": "American Civil War: Battle of Wauhatchie: Forces under Union General Ulysses S. Grant repel a Confederate attack led by General James Longstreet in one of the few night battles of the war, protecting the Union's recently opened supply line into Chattanooga, Tennessee.",
+      "link": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "year": 1888,
+      "text": "The Convention of Constantinople is signed, guaranteeing free maritime passage through the Suez Canal during war and peace.",
+      "link": "https://en.wikipedia.org/wiki/Convention_of_Constantinople"
+    },
+    {
+      "year": 1914,
+      "text": "World War I : the Ottoman Empire enters the war on the side of the Central Powers.",
+      "link": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "year": 1918,
+      "text": "World War I: the German High Seas Fleet is incapacitated when sailors mutiny, an action which would trigger the German Revolution of 1918–19.",
+      "link": "https://en.wikipedia.org/wiki/German_Empire"
+    },
+    {
+      "year": 1944,
+      "text": "World War II: The Dutch city of Breda is liberated by 1st Polish Armoured Division.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "year": 1944,
+      "text": "World War II: The Soviet Red Army enters Hungary.",
+      "link": "https://en.wikipedia.org/wiki/Red_Army"
+    },
+    {
+      "year": 1955,
+      "text": "The Soviet battleship Novorossiysk sinks after probably striking a World War II mine in the harbor at Sevastopol, with a loss of more than 600 sailers.",
+      "link": "https://en.wikipedia.org/wiki/Italian_battleship_Giulio_Cesare"
+    },
+    {
+      "year": 1980,
+      "text": "Demonstration flight of a secretly modified C-130 for an Iran hostage crisis rescue attempt ends in a crash landing at Eglin Air Force Base's Duke Field, Florida, leading to the cancellation of Operation Credible Sport.",
+      "link": "https://en.wikipedia.org/wiki/Lockheed_C-130_Hercules"
+    },
+    {
+      "year": 2022,
+      "text": "At least 100 people are killed and over 300 are injured by a double car bombing in Mogadishu, Somalia.",
+      "link": "https://en.wikipedia.org/wiki/2022_Somali_Ministry_of_Education_bombings"
+    }
+  ],
+  "korean_war_hits": [],
+  "korean_war_date": {
+    "month": 10,
+    "day": 29
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian Offensive Campaign Assessment, October 27, 2026 - Institute for the Study of War",
+      "summary": "Russian Offensive Campaign Assessment, October 27, 2026 Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOWdTTktDLXBCUU50ak5KUVBpWnV0T1hMX1VjeU1qLWdEczE3RnYwQmlIaHFLX1ZMX1VleDVTR2pBRXF5clFWQjBQYkZuS1lYbGNWZmFiRlFPV2R6S3hHVjlZaDJpT2hJRFZMb1lOM2VSeXVIRllnVG5HM1BSTUpvWDFuSEZ3VjZKZjJTcEcxOGVRazhXSWtmVGJpbmloLW5LekVxM2JwNHhRTWM?oc=5",
+      "published": "Tue, 27 Oct 2026 23:18:22 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Opinion | Ukraine Enlists a Drone for a Pioneering Rescue - WSJ",
+      "summary": "Opinion | Ukraine Enlists a Drone for a Pioneering Rescue WSJ",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVjdHRlBwdXBBMXlFMmtvQVVzN3JKOXBJR1Ezb0prQ3FIVllBR2NUOGVrWnhaVHVqSkk4bVpERmVMQUNuV0NlUnNOaFZMNmFWUDY4MDRTZjlyU0FaeFpEdV9LejBoV2VyX0NQSUFPOUItaEs4R05uN3Q5RFJXamh2VDFGRGJDeUtyV3k0QQ?oc=5",
+      "published": "Wed, 28 Oct 2026 21:15:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Opinion | Ukraine knows the secret to defending Taiwan - The Washington Post",
+      "summary": "Opinion | Ukraine knows the secret to defending Taiwan The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM3dqclczS21pSWF0QmxyRnBZZkFjUktDM0REem5taVFIcEhIdUJjWFRmX0R6d09ya2RxMWxuU1gxdVBoZUZWOTVDbm90b05UdURvYTBRZ1lNQk5fWldjY3VEbVdwTXhuRkVOdDhhYWxEZTZFemVmNGxncEdiRlE5c18xVVUwQTctSjQ2S3hWWXljTkFWOGhvODlaWQ?oc=5",
+      "published": "Wed, 28 Oct 2026 17:00:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Faster, deadlier Russian drones shift warfare into horrifying new phase - ABC News & Headlines – Australian Broadcasting Corporation",
+      "summary": "Faster, deadlier Russian drones shift warfare into horrifying new phase ABC News & Headlines – Australian Broadcasting Corporation",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjh2REhBYWJsd0RoWldjYjZfQ0daUlJuc3lwVjE2ZmFIekZ3VGpCdG9rT21XLUdVMnFZLVNMZVg1cTkxdzRmRDJBNFVTY1d1TkF0cnRfQlNzMXc5eGNwNmxvVHdPeG1IVW1ZR0dVZ0VkVXFyOHVUaGJiVXRrNWtuWTZKTDlKb01qeHdGdGhrc3pQS0JFMzlYaFQ4Y0lpdDFJamlWc3NUcVVzb0ZXUWRVLWhB?oc=5",
+      "published": "Wed, 28 Oct 2026 18:40:57 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Kremlin downplays rare Putin call from leaders of Finland and Norway - Al Jazeera",
+      "summary": "Kremlin downplays rare Putin call from leaders of Finland and Norway Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb2xMY1ZNOGZMdGFLZGV6Ui1rTTZmODJnOGprdHhzRlJXcmkwbndqd2libFRWeF9jSkowZXE5SF9EYmhoZ3pwekhNZWUxYmtRRE5wSHRSMXRUd0JyWkNnTi1HeWdJUjZHRXRtZDJKaVZZN1BrQzNnamdCWVZGVXJFTXlCWTFfLTFZSnpMeVB1RHRwa2pMYUxZT2I3c05WTDdoNXVuVHdsTDgzYkRINVFXbFR5a29jUEnSAbwBQVVfeXFMUHduZGtfYlZfU2EyYm9WQmNMaFFZT2lyR3R4Z2JtOEN5NHUwZzhMTWpkSWx6TVVwOWJVbzdiM2plZTR3NUpvSkhQVlFGNVBtNEdvWWNaOTRaOUF3Z25sXy0wcEFMZ2F3MzNjMzY5aXl2bXJ4a0xEZjMzWjB3TE8tekVtWmJ6azk3bE1ndnRRdzJackdzUFdOY0R2NHlPZk00c0d5c1kxZXZpVEREWDkxUEpsTS10VHIxQXFmcEc?oc=5",
+      "published": "Tue, 27 Oct 2026 21:11:27 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine's Zelenskiy says territory recaptured, forces on the offensive - Reuters",
+      "summary": "Ukraine's Zelenskiy says territory recaptured, forces on the offensive Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMEQ4aXRxak9YazJ6cHdyRU0zOERvRFlIOV9HWldZeEU3VXEtejNHZThWWHp3TU1LLThqeHItX3BqTjBMQU13X2VCOVgxV0RkZldtMEM2bHYzWGNTR1A4U1pjejhvTWZCLUZneWR2cHlUVlNEZVNGZlpha3hCYTlQSmlLZ3NPQXFTcDhwUlVjcHBKeF9zTURQamNNakI2ak5uUlF1cEJWZkZiRk1QcnVRVkV3dHdvSTI1bDFvaG1BSjBFUQ?oc=5",
+      "published": "Tue, 27 Oct 2026 22:18:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "The Gaza Ceasefire That Quieted the World - Arab Center Washington DC",
+      "summary": "The Gaza Ceasefire That Quieted the World Arab Center Washington DC",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG5JUFN4MmZHWlFlMlZzcTVVRTNtQ1ZXVmJFOVJFU3lXcWRxNUxnNUp5Qk14S3llc2Y3WTBkRXRxRDk0LTBKQlVHcUVFc2ptM0p5UEYwTXNfM1l1X0Y2UTRqTFpoY3V0RUJOWmh4Z0FfSjZVcXlkU3EyYVp4ZXRlaHFB?oc=5",
+      "published": "Wed, 28 Oct 2026 14:49:20 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Gaza residents watch Israel election, hoping to unseat Netanyahu as airstrikes continue - Boston Herald",
+      "summary": "Gaza residents watch Israel election, hoping to unseat Netanyahu as airstrikes continue Boston Herald",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5RUEpYVEdoZkJQLW5acW1IRGM0X2Q3LU5VUHNkemJQdy1ETFBfSW05MkNwSUlIbGdyQUp5N3pCa0JfT2NVRWxjU1ZrUE44X1dJbVJBX1RrS3NTdkxFMkprUUxjM0ZFdVIwSkZDVU1R?oc=5",
+      "published": "Wed, 28 Oct 2026 15:17:35 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Dockworkers Worldwide Are About to Strike for Palestine - Jacobin",
+      "summary": "Dockworkers Worldwide Are About to Strike for Palestine Jacobin",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFZYSjNRVlR4a3ZRcl9XaTJCeFRvMnNzVmFfUTl2UUJwYjgtd25kNGRiaXVRUmxXenZPYWZiRjdweTBnOWNpX3NQQ1ZTaFprcFlYOEJxb2t5ZzBYMzg5VHY5S25VQ0xTbWRob3BPaHZsaXRDVWhOZW5xZ0RiUGpFY2ZMSlVSWGZRZ0JHVA?oc=5",
+      "published": "Wed, 28 Oct 2026 15:26:57 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israel Kills Four Palestinians in Gaza Despite Ceasefire - teleSUR English",
+      "summary": "Israel Kills Four Palestinians in Gaza Despite Ceasefire teleSUR English",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ1lPSHFkdkItS2wwcjBha3VVRTJYVmZiMWdtcmNkNFFTNng0VUJIR0ktZC1lTTNfOUpkMVhheWc5NHlCMElPTGlwUldPWkJNc2I5bmZBY0hReDlzWmJ6V2EyTWoyRzVOMy1nWXY0Rkdua1d3ckF6ck1CSk9RRHRBOFVfWnQ4b2RqbUpyQTdvN08wdw?oc=5",
+      "published": "Wed, 28 Oct 2026 16:03:14 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli attacks kill 5 Palestinians, wound 32 in Gaza - Anadolu Ajansı",
+      "summary": "Israeli attacks kill 5 Palestinians, wound 32 in Gaza Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOTJMOW1mcDlEY0VKM1BrZXg3S21oRG9XTy10Q0VnWU1VMko3OEM0RXhTSmhWWVZCdjZrOEtkSWs2b0ItX0J6MDRQLWhZUDVVNFhlQkozYzBwcU9TZDVtWmdNaDk1Ul9Xc0tZTF9BSEpMelpGdklFTkUyMDRVdjNpZTJRdnU3RlNXMnZLRkZzSUtpUl90MGtR?oc=5",
+      "published": "Wed, 28 Oct 2026 15:57:22 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "U.S. boat strike kills five; No clear winner in Israeli elections; 100+ killed in Sudan attack - Drop Site News",
+      "summary": "U.S. boat strike kills five; No clear winner in Israeli elections; 100+ killed in Sudan attack Drop Site News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX3FVaV9BVGExWXhNeWhvYmNxVTZnbHpNWFFyanJLbG9HTGVacmxWZ3lhNWh5MGlKeXk4NWlJX2FiLWlmMHBmMENrNDJ4WXdqRGtOYjlnOVB0RU1hc2hoc2gxMlFfQzNjTUxncldTanVyU2Nxd2o2dzNUOWpVbVFVNzZySGNrVGNiVXZOM3lZb2k4eDJvaG43Yw?oc=5",
+      "published": "Wed, 28 Oct 2026 15:20:40 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "More than 100 people killed in Sudanese army drone attack on market says Sudanese rights group - Arab News",
+      "summary": "More than 100 people killed in Sudanese army drone attack on market says Sudanese rights group Arab News",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON1B3cTJZa1lXSzFlbjF3ajFiT2RVZTJOUVpsTk55d0kxUENEVEM0WTZyX1BycFQtTnhvaUprdERYamN1ZC0zdjQ0ZkZMSFk3RlFnS1hobnZXODA0RENSQVIzSmlfVUE0aVIyc3Y2RG9vM1pVZXk2WWNZRl93LUh5RHNtZXBlYVZQOFQ4dXduSHNibTgwaUkyeFM0WjdETEJWd3BsQUJaUnFkRV82MEttU3hxeHhSc1M2aGh2eEJ4ajRMNDJxYUEyU292bXZITVV3UURyRDlB?oc=5",
+      "published": "Wed, 28 Oct 2026 09:38:39 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Drone strikes target power station, fuel depot in central Sudan - Latest news from Azerbaijan",
+      "summary": "Drone strikes target power station, fuel depot in central Sudan Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON29XQndBY2J1THJidzE0c2R6YlNoZHVzNWsyb2ZqczhEU0hRN1ZMSWFGb3UyTm0xc2Nib0p3dWtkbE9IUHhlY0RtaWh5MFQtb0hLazRCNF8zRVRuN1ZVZ3U2SDNpaVNWVVFDaDVOcUU0dFFFd29TVVYtYnNvOGxueFpKTEhKYkU0Q1M0?oc=5",
+      "published": "Wed, 28 Oct 2026 10:26:28 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "El Fasher crisis: Sudan says civilians faced extreme food shortages - Latest news from Azerbaijan",
+      "summary": "El Fasher crisis: Sudan says civilians faced extreme food shortages Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR1dJbXpPV295LTg5ZG1LcmZoOG04RzF6Sm84OXpmLUNUVVVfN1dlQm1relN4RnFZNG90VE1mQzlRRzNPNjB5Y0pUWkJCSG1PNW12WUZ2RmRkZzdPMjRSajJldkFWTlZtczh3QmRibmdXY3RILUg2SGVwNC1LZU5zNEpkWk8tV1huRmJEbUozb1A?oc=5",
+      "published": "Tue, 27 Oct 2026 17:47:14 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Army drone strikes busy Sudanese market, killing over 100 - NewsBytes",
+      "summary": "Army drone strikes busy Sudanese market, killing over 100 NewsBytes",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHpVQW9LSmFvaUN1NEZWR3hQLWlaY3FtNjlkTUlxbVZiOWdwWFkyTEZGV2d6UHhFbkJmV2R4NDBZMlRySEpVdDBJZmRQaVBpSlBDeThudFBpSkprVlliLUJ2Z2hVOTFYTjBWOE1uWXphcHFZdlFBNmF5eVFCbGE0aHprZFNmbTkz?oc=5",
+      "published": "Wed, 28 Oct 2026 05:36:02 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar: Is the US undermining the EU's diplomatic blockade? - DW.com",
+      "summary": "Myanmar: Is the US undermining the EU's diplomatic blockade? DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMno2RDZLMGtCWXo1WWNGdk1pZUxFYXNaQTI0T3hHQmRucm96SGIwb3FOV3o3bjhkdzJCZmFpNFE2bXh5MWJhZlZsSTdzaGZmZWNGZHR1VHlSbndfWmpOa1JmT0RjT3lPVXFlejkzWDBMWlNBcWtyTlNfLWJ4WFBwWFVwLUpqTHNUTk9TejFCc1NLQWlE0gGUAUFVX3lxTE9pRzk0T2YxdkVsd29qcmdBeHhsUnNOT21nZE1sZm54ZzFfc0g5di1Ia1daZkxwendPdmQxNldGOE5PMTBjeXZBSTVJZERSWEZOVzJkZUVqVDBvS1dXQ1ZuM0tmQUxvODFPa2NoQjA1OW9LMHJBMUlsT2JHSlZsOTFocGlmbm1MblBGaXdTZjh6MXVoUTQ?oc=5",
+      "published": "Wed, 28 Oct 2026 14:13:26 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Guest Column | China’s Monroe Doctrine and Its Strategic Blunder in Myanmar - The Irrawaddy",
+      "summary": "Guest Column | China’s Monroe Doctrine and Its Strategic Blunder in Myanmar The Irrawaddy",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWxqTWJmME1vVENvY1ZpdDRCdTU1NTB0amwxandIZE5naUVDQ2JrMlROMnFBcjhuSHlNS0hodzVXM2RhWTRtVTNVZFN0Z3lPb25XWFI3djFEek1xQTY2cXNBY1hEV2hwOV90TDJlTHBVQXBjQndvcTJNZDVoNGZXY193NWItOWEwWmJOai0wWVA0Z0pfblZ2eVN6NnFmYlRicXEtT3FLWFYxbkNGelg1Ng?oc=5",
+      "published": "Wed, 28 Oct 2026 09:59:26 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar regime imprisons two Islamic teachers and seizes mosque - Myanmar Now",
+      "summary": "Myanmar regime imprisons two Islamic teachers and seizes mosque Myanmar Now",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN3RldHRrZlZVVllraWlGYTZsT2lEeWRiV2I5Y01XSVZ4aVpwS3h6cjI4Z1Nmd19IOC1Icjg0NmNTenpUa01zREs0NlJhZVZFdG1oaWhTb0FvTlM2a19ZWEU5TF83Tld0TlZWZUM0MkpGYUVRNlpmbTEyX25VRkxPcURKNWJiWVJOZ01xeURZSlZaUGZsQ2FFM2FHNDU?oc=5",
+      "published": "Wed, 28 Oct 2026 10:11:40 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Two Military Junta Naval Vessels Attacked on Kaladan River and Reported Sunk - Narinjara News",
+      "summary": "Two Military Junta Naval Vessels Attacked on Kaladan River and Reported Sunk Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40cDdoeTRQbDhPalk5S25JT2xGMEFwYXhiRE14OWd6dnZGWEdZQ1laZkhRcms1Wm91VkRXTGx0ZVJSeFZrNGtwRTVjZkUwNUYybFdxbjc5a3dVT1ByeTlaLWR0M0kxYW9kdXZ4Z2FpUQ?oc=5",
+      "published": "Wed, 28 Oct 2026 05:01:16 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "Niger : The Algerian Army Enters the Scene, a Threat to Tiani and the Sahel - Sahel Intelligence",
+      "summary": "Niger : The Algerian Army Enters the Scene, a Threat to Tiani and the Sahel Sahel Intelligence",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcmhlalhFcXpXOXBzS1B0dnVxd0RTUGZYd1pkQ0JKeGJyVm5Hc0xfVEU5Sjc0a0FyRmVja2pMOElfcDNua05qck1Ib3ZSMDZNLVlxV3RBZHc4d21FNGNaMHVWS1FHX1NBR0M5WFZNNnd6SFJCcWpZcHQ2bTlrLXlKeGdxc05USktYNWo2VG9Gbmw5LTBocUF5UFMyR2h1SFlUYVpicUxKakVtdW9KV1FLSGkxQlA?oc=5",
+      "published": "Wed, 28 Oct 2026 11:34:05 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+      "summary": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+      "published": "Thu, 29 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Spain demands answers after deadliest train disaster in over a decade",
+      "summary": "At least 68 people have been killed and more than 100 injured after two high-speed trains collided south of Madrid.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
+      "published": "Wed, 28 Oct 2026 19:32:57 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "What are the implications of Israel’s elections?",
+      "summary": "No clear winner in Israel's first election since the October 7 attacks and genocidal war in Gaza.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+      "published": "Wed, 28 Oct 2026 19:03:03 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Students on hunger strike in India demand restoration of student union",
+      "summary": "Students at New Delhi’s Jamia Millia Islamia university are on hunger strike demanding a student union.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss",
+      "published": "Wed, 28 Oct 2026 18:52:58 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Jerusalem Daily: What’s next after Israel’s elections?",
+      "summary": "Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot are both claiming victory in Israel’s election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
+      "published": "Wed, 28 Oct 2026 18:31:33 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Sudan war and inflation leave families struggling to survive in Khartoum",
+      "summary": "Soaring food prices and shrinking incomes force families in Sudan's capital to borrow money and skip meals.",
+      "link": "https://www.aljazeera.com/features/2026/10/28/sudan-war-and-inflation-leave-families-struggling-to-survive-in-khartoum?traffic_source=rss",
+      "published": "Wed, 28 Oct 2026 17:09:05 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 01:14:01 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "summary": "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 22:11:08 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 18:28:23 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Watch: At the scene of Spain's deadly train crash",
+      "summary": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+      "link": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 16:45:16 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
+      "summary": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
+      "link": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 17:34:41 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "What we know about Ukraine-Russia truce in Oleshky, brokered by Melania Trump",
+      "summary": "The Russian-occupied city of Oleshky has had no electricity, gas or water for three years, as residents reported having to eat weeds to survive.",
+      "link": "https://www.bbc.co.uk/news/videos/c687z5ne1w4ro?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 27 Oct 2026 20:42:38 GMT"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Backing for UN call to end Cuba embargo falls to 20-year low",
+      "summary": "The UN General Assembly on Wednesday called for the 34th time for an end to the US economic, commercial and financial embargo on Cuba – but with the weakest backing for the resolution in two decades.",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168694",
+      "published": "Wed, 28 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Protecting the storytellers: Women journalists on the frontline of conflict",
+      "summary": "As online abuse, gender-based attacks and impunity ramp up the threats to women reporting from crisis zones, journalists and UN leaders are calling for urgent action to protect those who document conflict.",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168691",
+      "published": "Wed, 28 Oct 2026 12:00:00 +0000"
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "미·한 등 11개국 공동성명 “북한 비핵화·대북 제재 완전 이행 촉구” - VOA 한국어 홈페이지",
+      "summary": "미·한 등 11개국 공동성명 “북한 비핵화·대북 제재 완전 이행 촉구” VOA 한국어 홈페이지",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOFdYdmRzNkVaR19FQkZfUGVRSUxTdUkxNUFIczlWUW96dW12VHhvVVRmLW56UjRua2R6cGRyTDRKMzRaRWpnTEh6Y3pEZXJxc1AyQkRURmtTemJSWThqaXNjQkZlY1VOeG1tTWdUREVIZTMyYU1rN0N1Y0s1MXRhVjQtVdIBhgFBVV95cUxOOUNnUThoR2xLUXVlcUFxbnB0UUdxRDdTSl9TcFlMay03LUNWUUdXSFVBM2o3eXR3dEY4SWNEak9OQUNVYU1zT0YxME81N1dUbm5HWF9NdE5KcXYxVEp6ODdIRFVpal9VQ0JwMjZPX1p2OVlTTnVKNXY1X1htRXFxdU93UE9oUQ?oc=5",
+      "published": "Wed, 28 Oct 2026 19:12:25 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "한일 국방장관 회담‥\"북한 핵·미사일 대응 한미일 공조 재확인\" - MBC 뉴스",
+      "summary": "한일 국방장관 회담‥\"북한 핵·미사일 대응 한미일 공조 재확인\" MBC 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aZGNOV3lzaEFKN0dPSkRIcmE5RzAwQ2hTQnQwN3l0YjhlWTltSFQtajJtRjhSdHVEYVVIVUJBcjhXc2owQ3BGLUZxNld6U0RjdUI4Y2NTcEsxb0prYlNpc3NQYmIxbjdYOFoyejBrci1WVVY5R2FnS9IBeEFVX3lxTE9FbFVKV01nZ1k4MUc0b1VZS1c1REJHU2FQRmNPWndpRl82cURqRW5EcFdvc2c5Mk5VNG9aa2tGc3VQcUZBblVnQUVMRWpZbnlfQWJMV0ZzdFJGWHhwM3A0aXAyalNlQXQ5MlBhVDI4QWpBVkNlTllYdQ?oc=5",
+      "published": "Wed, 28 Oct 2026 10:44:16 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "美, 北 IT 노동자 '해외 위장취업' 제재…임금 대부분 핵·미사일 개발에 - 뉴시스",
+      "summary": "美, 北 IT 노동자 '해외 위장취업' 제재…임금 대부분 핵·미사일 개발에 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5FcU9HMFZNQVpGVnV3U1NhOV9mT2M4bk5zSjRNc2dCMF9vQkhtTjVGNGZDZnlvYklLS1Z3endRVWpvMGh5TGpMQ0NqX3VEQ1I1YkhLODYxTkhwUUlGSVN5VtIBeEFVX3lxTE9DaExzN0ZrN3BmcklORVo1MWNfTnhTUnRvb1FSb0NnR3VOZWpKRHNyVnpDc21YMWoybVRLaUx1c0hVQTVnNzMxWXpYaHN3QmdEUUV2a20zWHc4UzlpWXpRMWFIMENEdGhMS0QxVm5WU2hMR1VuZWhydw?oc=5",
+      "published": "Wed, 28 Oct 2026 16:58:24 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "한일 국방장관, 북핵·미사일 대응 한미일 공조 재확인 - 연합뉴스TV",
+      "summary": "한일 국방장관, 북핵·미사일 대응 한미일 공조 재확인 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBENlFBY0N5dXJKWXlYeTFieTZTRU5FbXo0ZEF0eFcxak9RcS0wc0ZZWnpkU0V6NnZueHliR281NFNsek1wc0JhWDZja3dVSWNlOU1JbU9jUHA5OUo5NnhGQThOdHluUEU?oc=5",
+      "published": "Wed, 28 Oct 2026 12:08:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북 김정은, 중대장대회 참가자들과 사진…\"만반의 임전태세\" - JTBC",
+      "summary": "북 김정은, 중대장대회 참가자들과 사진…\"만반의 임전태세\" JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WRlhHRVk5M1BjeDFLOTNnT3pSdm43NUdCY0RKd1RxMUdVVTJVYUFpci1rTmpXY3FJUi1KU0VyMUktQ0JjME1ka3FFUVJZeTNQU2gweA?oc=5",
+      "published": "Wed, 28 Oct 2026 05:35:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "도봉구의회, ‘북한 지뢰 도발 규탄 결의안 채택’ - 시사프리신문",
+      "summary": "도봉구의회, ‘북한 지뢰 도발 규탄 결의안 채택’ 시사프리신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XaU1fdDZlWVlxUnhMdkNELW5OMDk4UVdMMk5aSFRabUNxR0tvcUlWUkNWd2YwcjdUOFNrbTdiY2RQZ3ZZQWF0alVzQktSUHROczN3RThRUkozUQ?oc=5",
+      "published": "Wed, 28 Oct 2026 19:03:37 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un’s curious visit to China - The Economist",
+      "summary": "Kim Jong Un’s curious visit to China The Economist",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNemNJaGxMR0YtdTlrVjVYR1NRVHl5QkFLdmVvNkNacHZTbTJOUnVsdmVkZ0lXbWxIUkFVN1ItandrYXBybDRSUWVGZDBSQzVtM3RHNkZjRlY1RWxubmhNelk4MHZ1SEJvU05sSW5jYkhObHdvV3NVTDdLd25BTnFLOHhMQkY?oc=5",
+      "published": "Tue, 27 Oct 2026 16:17:18 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Korean Peninsula Update, October 28, 2026 - American Enterprise Institute - AEI",
+      "summary": "Korean Peninsula Update, October 28, 2026 American Enterprise Institute - AEI",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DUGlNbUVXLUJXNUFHbkZXVHM0OHA5V1NaSGQwa1Zmam55WVlaUUhCU1V6d1BaclBMSlZoOUhNdlk4bGVYVTJRdWFVTzhYVWRrbWdkT092YnVYTlhJdklQMV9mNkhFcDdCNkVtNmExcy1DTlpOcDRLNm04cw?oc=5",
+      "published": "Wed, 28 Oct 2026 20:27:40 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un tells commanders to prepare for war as border tensions rise - upi",
+      "summary": "Kim Jong Un tells commanders to prepare for war as border tensions rise upi",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS3psejN6d0RfZG1VSlJVVTB0bWxPY2JKbUdfTnFVSXJqOF81clozN1JQcU5ieEVYNHBLQVBmYVY5Nkg1U2U1RU9lYTZMUW5oZXg0S205MFNtTFdTcmhKUlNHNkNKQVkzS1ZHR0xUVklVSk1YYzVzSW5IZU03SGdCdFJnbDBkd2hMUHhDdEtvbDVaZzhtMlU0b1l0Nm55TWg3ZF9OeWZzdGFveENLb2fSAbMBQVVfeXFMTTlGTDJyN1gzdk56a1UxYkszV2FfeFU0eFhXSkZlVnp4Y245MEFrYW04QkJaa0swVlpkcXkwanJSU1ZLUnd0SWlHeHhZeGhhZnhwTUxVeEM5OU9TUHZ4ZWFyQWZUYTBvZUFDajBLc0xnMVhwVWp6eFN2el93TS1VNGF6MlRnNDN0N1NPWUhVbFRKTk9PS2JyWlNBMjZoY2w1S3d1TU1oaG5QVVNiU2Z2TTRmYlk?oc=5",
+      "published": "Wed, 28 Oct 2026 10:00:08 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "[Wang Son-taek] Why did Kim Jong-un visit Dandong? - The Korea Herald",
+      "summary": "[Wang Son-taek] Why did Kim Jong-un visit Dandong? The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00OHpnYkgtVTZpQjhONHY2YnJTLXJpWXdLb2NhN2xiWkpWZXA3ZkN4VXRIUFZHUUYydVVTS25hdmhraWFnUnJodnZwbFJsSjkwTERNcXBJUQ?oc=5",
+      "published": "Wed, 28 Oct 2026 20:30:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Could China’s President Xi broker a US President Trump-North Korean leader Kim summit? Seoul sees opening, US experts skeptical - Asia News Network",
+      "summary": "Could China’s President Xi broker a US President Trump-North Korean leader Kim summit? Seoul sees opening, US experts skeptical Asia News Network",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNXRhOEpEOHZTaFNHcXhrTUZLUENVTGljYlJtXzZnZFZqMnNXc3pTZDNIWGhkX25wTlprdGVnaUVoUVN4WXNQRlZQb0tuaktBQzZYVHVRLUJsX09DdlhzNmZSLURuekxEbjhPYVBrRDlyYmdUd1BoQ0R1QUxhTEF4bWpONmZkY25HSUp1dm9MSk9pTWN0NlNIdHRiRjJlZHB0YWRrc3ZIRFItWWRCOEE2R0VKRHA1ZE5ydmlFYVJTS2gtYmNwdGtHcW01V0IwYzl6bGlTeG44czBZNmFXSWlBLXpwdVk?oc=5",
+      "published": "Thu, 29 Oct 2026 00:35:33 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "How War Memorialization Legitimizes the Russia-DPRK Alliance and Strengthens Kim Jong Un’s Legitimacy - 38 North",
+      "summary": "How War Memorialization Legitimizes the Russia-DPRK Alliance and Strengthens Kim Jong Un’s Legitimacy 38 North",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMzFXVjQxS3N1dWZqSFNGcVJEbkxzN2ctcW1fRVpaUTZiMms3QlkzS01RTWwtRE12VGk2NWxtcWhiSG1GcUd0cVdHNkpXR2JpaFNkMkRtQTYwdXVYR2JaNDJSMHowcFpJaUJKQ0kwX1VXYlNGTUQ2MnNTQ0pacHZHSF9IWW82S1BmM1dYU3dmUnpYdVVES1d3TC1ScVdUR1RLREM1dFFudHlfNDhMSEduWFpqcjJXOXNFRkV1amtwYkVDY0JrM3dwVHhBbG1FZw?oc=5",
+      "published": "Tue, 27 Oct 2026 21:16:07 GMT"
+    },
+    {
+      "source": "38 North",
+      "title": "North Korea Continues Installing New Fencing",
+      "summary": "South Korean news coverage from earlier this week shows that North Korea’s fortification ... The post North Korea Continues Installing New Fencing appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/10/north-korea-continues-installing-new-fencing/",
+      "published": "Wed, 28 Oct 2026 20:22:00 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Bonnie Jenkins on the future of North Korea diplomacy: North Korea Unpacked",
+      "summary": "Former U.S. Under Secretary of State Bonnie Jenkins joins North Korea Unpacked with Jacco Zwetsloot to discuss the growing gap between Washington’s denuclearization goals and North Korea’s expanding nuclear arsenal, the credibility of U.S. extended deterrence in South Korea and the prospects for renewed diplomacy between President Donald Trump and Kim Jong Un. Jenkins explains […]",
+      "link": "https://www.nknews.org/2026/10/bonnie-jenkins-on-the-future-of-north-korea-diplomacy-north-korea-unpacked/",
+      "published": "Wed, 28 Oct 2026 08:25:38 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "The elephant’s gambit: Why Seoul and Washington should ignore North Korea",
+      "summary": "Editor’s note: The following article is an opinion piece by Rocco P. Santurri III, a national security professional with extensive military background who is based in Korea. Views expressed in opinion articles are exclusively the author’s own and do not represent those of NK News or the U.S. government. For years, the Korean Peninsula has […]",
+      "link": "https://www.nknews.org/2026/10/the-elephants-gambit-why-seoul-and-washington-should-ignore-north-korea/",
+      "published": "Wed, 28 Oct 2026 08:23:58 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "US-ROK command could be ‘suboptimal’ after OPCON transfer: Ex-USFK commander",
+      "summary": "The former commander of U.S. Forces Korea (USFK) said the combined command structure with South Korea could be “suboptimal” after the transfer of wartime operational control (OPCON), while highlighting the need to address issues with the ROK military’s culture before it can take more responsibility for defending against North Korea. Speaking at an online symposium […]",
+      "link": "https://www.nknews.org/2026/10/us-rok-command-could-be-suboptimal-after-opcon-transfer-ex-usfk-commander/",
+      "published": "Wed, 28 Oct 2026 08:10:04 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korean trade fair shows off foreign goods, but without foreign attendees",
+      "summary": "North Korea kicked off its autumn international trade fair this week with goods from across Asia but few if any foreign attendees, while also promoting a new foldable smartphone. The DPRK’s External Economic Relations Minister Yun Jong Ho opened the 18th Pyongyang International Autumn Trade Fair on Monday, state media reported the following day. The […]",
+      "link": "https://www.nknews.org/2026/10/north-korean-trade-fair-shows-off-foreign-goods-but-without-foreign-attendees/",
+      "published": "Wed, 28 Oct 2026 06:48:52 +0000"
+    }
+  ]
+}
