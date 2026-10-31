@@ -1,0 +1,439 @@
+{
+  "date": "2026-10-31",
+  "generated_at": "2026-10-31T10:07:56.993355+09:00",
+  "history_candidates": [
+    {
+      "year": 683,
+      "text": "During the Siege of Mecca, the Kaaba catches fire and is burned down.",
+      "link": "https://en.wikipedia.org/wiki/Siege_of_Mecca_(683)"
+    },
+    {
+      "year": 1702,
+      "text": "Anglo-Dutch forces, under the Duke of Marlborough and Earl of Athlone, capture Liège during the War of the Spanish Succession.",
+      "link": "https://en.wikipedia.org/wiki/John_Churchill%2C_1st_Duke_of_Marlborough"
+    },
+    {
+      "year": 1812,
+      "text": "Russian forces under Pyotr Kotlyarevsky defeat a larger Iranian force under Fath-Ali Shah in the battle of Aslanduz.",
+      "link": "https://en.wikipedia.org/wiki/Pyotr_Kotlyarevsky"
+    },
+    {
+      "year": 1863,
+      "text": "The New Zealand Wars resume as British forces in New Zealand led by General Duncan Cameron begin their Invasion of the Waikato.",
+      "link": "https://en.wikipedia.org/wiki/New_Zealand_Wars"
+    },
+    {
+      "year": 1917,
+      "text": "World War I: Battle of Beersheba: The \"last successful cavalry charge in history\".",
+      "link": "https://en.wikipedia.org/wiki/World_War_I"
+    },
+    {
+      "year": 1918,
+      "text": "World War I: The Aster Revolution terminates the Austro-Hungarian Compromise of 1867, and Hungary achieves full sovereignty.",
+      "link": "https://en.wikipedia.org/wiki/Aster_Revolution"
+    },
+    {
+      "year": 1940,
+      "text": "World War II: The Battle of Britain ends, causing Germany to abandon Operation Sea Lion.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "year": 1941,
+      "text": "World War II: The destroyer USS Reuben James is torpedoed by a German U-boat near Iceland, killing more than 100 U.S. Navy sailors. It is the first U.S. Navy vessel sunk by enemy action in WWII.",
+      "link": "https://en.wikipedia.org/wiki/USS_Reuben_James_(DD-245)"
+    },
+    {
+      "year": 1943,
+      "text": "World War II: An F4U Corsair accomplishes the first successful radar-guided interception by a United States Navy or Marine Corps aircraft.",
+      "link": "https://en.wikipedia.org/wiki/Vought_F4U_Corsair"
+    },
+    {
+      "year": 1956,
+      "text": "Suez Crisis: The United Kingdom and France begin bombing Egypt to force the reopening of the Suez Canal.",
+      "link": "https://en.wikipedia.org/wiki/Suez_Crisis"
+    },
+    {
+      "year": 1968,
+      "text": "Vietnam War October surprise: Citing progress with the Paris peace talks, US President Lyndon B. Johnson announces to the nation that he has ordered a complete cessation of \"all air, naval, and artillery bombardment of North Vietnam\" effective November 1.",
+      "link": "https://en.wikipedia.org/wiki/Vietnam_War"
+    },
+    {
+      "year": 1973,
+      "text": "Three Provisional Irish Republican Army members escape from Mountjoy Prison, Dublin aboard a hijacked helicopter that landed in the exercise yard.",
+      "link": "https://en.wikipedia.org/wiki/Provisional_Irish_Republican_Army"
+    }
+  ],
+  "korean_war_hits": [],
+  "korean_war_date": {
+    "month": 10,
+    "day": 31
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian Offensive Campaign Assessment, October 29, 2026 - Institute for the Study of War",
+      "summary": "Russian Offensive Campaign Assessment, October 29, 2026 Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUm12TUZIbmZKMHNWZFFvZDBaUndxeTB0UFFoN3phRG5oNkRVaDd0Q3RpMGVqeklrcWVuRDZaUnBpdVI5TEZ2Zkhiekg5cWQ5U0o2MzNQWk1SM3hranl1bnQ0cmVtZ1dseDBOcHpGUVNJRmNGUFp3OUw0UVJVYjdGR2VSWnVuaXVvU1FNUGdIenJTVFVvNnI2RldsemdTN05PbU9LcENFVGNFZTA?oc=5",
+      "published": "Fri, 30 Oct 2026 00:05:48 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro - The Guardian",
+      "summary": "Ukraine war briefing: Outrage in Europe after Russian drone kills 14 on rail platform in Dnipro The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSWt0VWJyTE1EbGtrSXlMd0NBcVZuZE1nMV9tMkNTVzVrQzFjTTVrZ1F5alhlVEJPdExmakltQkkybkRmNmd5X1ZEMTJ0QnZFNGFNejRPMG1jenhjQVRadEVUZTVnNmtJNDNnVzVPNlBSbGNIYjVGRml0QmlWc3Iyb1lEY09nbVE4TnluamRxdXJyZzR2SFA0a2J0QzQ4QlRFSUtJZ1d3X0FLNF9T?oc=5",
+      "published": "Fri, 30 Oct 2026 09:36:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine invests in firepower as it inflicts a new Russian casualty record - Al Jazeera",
+      "summary": "Ukraine invests in firepower as it inflicts a new Russian casualty record Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHBEMmxTeGtyU0ZCYk05WXFQTE5YVjY2Q2w4VFRIOTI0UTRtR0c3emNIZEthQzRuSGdEQ1NXb1FGYVRVZ3JWV0VwMHRlcGRxeDlpTXB6ZkdLWXNMSWY5SS1ZZW1lNHBRUDNDem1hSVZxMlJ5RkZVZmVHWXlYanQ5aXRfMUlyUjlncWhwbVZ0Wk1qWTlpeG5MMTBGTnloS0NLWVh1MDNlaUkzb2pJMktDMkdLVjBWZ9IBuwFBVV95cUxPYzJJZElWMC1xLVVMS2dhY0ptOVQtT1dhVDFGaEtjMGZBVWpJQmZoTmNNeXNiTndNSlB3UmduR0lkQ05Bb2NRQUtRTGhaWm9CUERQTERwcmVyaGh0WndybHNyZE5EdDdLV2xRcWUtNTlya1piYXNnaUpGOW5UdzVfdnlnOTM5MEtRbU1XbUVJdmQ5MFk2R0kzYnN2cTNXNGtPTU9rLUZUdUZKdG1SdHRiSVowcVU3S0t3LVF3?oc=5",
+      "published": "Fri, 30 Oct 2026 13:32:56 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine’s drone defenses debunk the myth of inevitable Russian victory - Atlantic Council",
+      "summary": "Ukraine’s drone defenses debunk the myth of inevitable Russian victory Atlantic Council",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNUpHSnhYdUV5N1BUWEhLczF5QUIwcFBQa0FRS3dnMmlTV3NRcmlMMERvTTFiTHozdVE4dGpuMC1aRTlTVjdPQlFvS1hpaFlnUUtEbW8wMS1WUmNBTGZRd2xvT1h5ZEhjclNFcmxrTTdGOHY1X0QzOXRSTmZWeVBZRGlfdmFTdDZWOUhpUV9EQjdEY0NwdWxrSDFiYWRnOFgzOTNLX0NLQkw2TkV5eTlNbHhURFJIYUdHS1hrZm5B?oc=5",
+      "published": "Thu, 29 Oct 2026 21:57:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine War, Day 1,709: Russia Murders 15 Civilians on a Train Platform in Dnipro - EA WorldView",
+      "summary": "Ukraine War, Day 1,709: Russia Murders 15 Civilians on a Train Platform in Dnipro EA WorldView",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPajlkb2RDaFZxVjNsQkk1YkRocVlqeFEybndaaWN1MzI3eHdWdnVlYy0taUs4eC1xWkc0WklsOVFoNjhmRmtweUg2ek9pN0RDWElDQUhEaVJFdlpSMGVScFN0NTRPZW8zeFhWeTdnamtsMzRCYlFCR1NuaHJ6Q204cXN6UVVxN1ZlZGcwWnlIa0FsZ1N3Z1FVcExQYkFkVlNz?oc=5",
+      "published": "Fri, 30 Oct 2026 18:31:07 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian drone kills 14 at Ukraine train station, but local truce credited to Melania Trump brings some hope - CBS News",
+      "summary": "Russian drone kills 14 at Ukraine train station, but local truce credited to Melania Trump brings some hope CBS News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWd0M0wwVlZvUTBQUGdrS3lzUE5iT09FOGJLWk5FdEgzTEozS0VTN1d6MF9EbGRtM1V0b1gwSDN0S29hTkJPN3FWRG9oVmtRXzdKeDVWUXAtVWtYbkljbmV0WGhNNG8wVkZmb1ExSGl2RnJ0RlFWaTAyM3F0X0UtNUJwRWNwNmRhODhYVVp2TjZWQmFOZl9xWg?oc=5",
+      "published": "Thu, 29 Oct 2026 16:33:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN - Al Jazeera",
+      "summary": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNFQxWW1hcVlGV0JWcmVIanlrQ25rSDhCQ1BOcHJHTzd1andHWHZWcXpwT0ZNUC1GTlRnbkQ1Wno4WFFqdFRaQTBraTZpS3FOaDhpT0xCbmFoYnVQVE1kTFlES3cwTGI1NzBMT0RSZWpCb3VzUmlTbEhua0syR3M5V2FrZzNzWF9fWmR6TXV2ZWEtTEdSNXVsUE5kRDhvWEZMR1RWVzZpdmXSAa4BQVVfeXFMTTdvVXcyRm9IWEdyYjR6T205MGRMRDdtY0JGWDNoQWhWTmVFZ1gyenAzcGpXNmlHVDBQd3gtNGwwNTVTdUcwT2JWU19jRVh4OXRBcTlCOXZ4U0tUNjEwLUYzQWhxZjVaMmM5cUc4b280WW5PTi1pb3VDWmRxMEF0RDN4eG5jOHZZVldRVkVhR3kwZFFmQ0wzMkhSTDRnVUs1d2JyRHc4cGJld0JMTXBn?oc=5",
+      "published": "Fri, 30 Oct 2026 14:24:54 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Report: Israeli drone strike wounds 14 in southern Gaza Strip - Haaretz",
+      "summary": "Report: Israeli drone strike wounds 14 in southern Gaza Strip Haaretz",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbnEwNy1uWjNWbENfbXVsV1dHSXl4dkQ1OFVYcmlLSjZCN3M3SW14dmNaNWNWa0ZaeVprbXJ4R1lVS21KTXZNZ2kxZUpIN3poTmkxV204YXN6ZVpSQUlyN29vRDl3S2N5YjBILTMxa0xQMllvSHlNZXlLR3F3UDZqRmVaU2E0RGE1Q2lUbDZocmpaSnY0MG93NXhKTnFYeXh1MUVDNF9DOS1uVjNWNlUzYlNfR3hMYnNGeWFWZEV5azVPUVVRQTRSOElFUDQybU1KOTdYMUNTVEQxSkJnR2ZUbVh2RWZHaWFielJDaDZn?oc=5",
+      "published": "Fri, 30 Oct 2026 19:35:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "International dock workers strike to protest arms shipments, including to Israel - The Times of Israel",
+      "summary": "International dock workers strike to protest arms shipments, including to Israel The Times of Israel",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdnQxUlR2WU1zSWQxeERyaEJVVkFackppV0ZVS2s2ZUc1Wjc0QWVpeGpMNWVNYVRDUkZSemxMRzhBUGZFaWR6VElTblFFcGNrNUQxTTVjcV9nV3B1eGtPQTlPTVlnLWx0UDlGMTF4aWhjMFV1dzJpdDRFQXBpRVRvdHhvbFBOYTBETFpKNzJERXR0SnVENXdYcFppYnlqSlVsSURJTFVwVGtMRkVKQjQ40gG0AUFVX3lxTE1DRTdoMTItNUxHRWdYUEQwd0gta29tQUR0UUs5WkkyQkRwcXNSUkZsRGxtWkFHeTlzSVVWZlZOZ0syenNudTVOQ2xMU2dkd3BtZFFVSDVjemhNeFdQNGJUQzN2QlNIdDhLeWltcHVfMXlvMkljOEVWQ3dCdC0wOHhmbnFSNjRUWTZ0LUtOZ1BIN0JEaDdJblpPWFh4elBvZy1ZRGRKTk94YWNEOUozSHl4bUowLQ?oc=5",
+      "published": "Fri, 30 Oct 2026 12:10:30 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "2 Palestinians wounded as Israeli attacks continue in Gaza despite ceasefire - Anadolu Ajansı",
+      "summary": "2 Palestinians wounded as Israeli attacks continue in Gaza despite ceasefire Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOW9RSnBidmd0TEtMRjhJcVR4bTg0Mk1ESWlUcjdoWVBiV0F6cGZybzF0X2xEYVZZcEI3UGNHdzZnc3ZNV1NxM3gwc09VR2FNdUJNeVFzemxPUzNWYVBIbkxZeE5HSjdPanUwcHhBWm1nTnY3TzE5RW1mVlR2YUtrVmtGZXlpal9JeTZQdjNYQ2VHMXNZM1FNWVBESV9PZTdScUlaYm1LSE5IczRLNnNLS3ZZc2JHUEk4U2FZaXFB?oc=5",
+      "published": "Fri, 30 Oct 2026 07:36:37 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Resumption of basic chemistry research in Gaza put on indefinite hold following Israeli airstrikes - Chemistry World",
+      "summary": "Resumption of basic chemistry research in Gaza put on indefinite hold following Israeli airstrikes Chemistry World",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVmZRLWQzeHRIcHo5U2NQX0x6bkRJOUV3VEM1YnpldlBGbXdFeF9QZjBDVTllZXk2VXVhX1dhMllNX0t6aFBfd19KR3hZWWdXMXlfaGhwRExNWU40ekRwbmt6Q2ZjTnY4WjFVeDI3T2xvSmJLdVVVV0twVHlteHBiNk5vTGlxdC1BNTJhdWQ2dlpselFpc3c0Uml1dHdoTlN0ME9ZWmVNWlZweGVGOE0yTExHU3Vxc3RmX0ZMU3BoTHF3Q0NzYTdCOU9qWm01YW5iZU9oa2txdGttaTFyTnRCNXRNNEI?oc=5",
+      "published": "Fri, 30 Oct 2026 09:42:51 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "IDF kills Hamas terrorists in Gaza, including commander who held 12 hostages - The Jerusalem Post",
+      "summary": "IDF kills Hamas terrorists in Gaza, including commander who held 12 hostages The Jerusalem Post",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fUnJtY1dhOVpsR2tmSzlXOWZtUGV6blZ6NlplUUNXMTBrOXJkNWQxdXdVeTZKNXNaYzBXLWVYV3lIOTh5bkphYTRFTVVfaDEwd3VHcThGYjlab2o1OVBMRlE3SFN1VndMaXgzNVNR?oc=5",
+      "published": "Fri, 30 Oct 2026 15:28:21 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "UAE sentences eight people to life over arms supplies to Sudan’s army - Al Jazeera",
+      "summary": "UAE sentences eight people to life over arms supplies to Sudan’s army Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPU2VWZFF2b1Q5eHZ6aGdvTC0xZExxVnBjSzQ4aW5yLUhnQ2wxT2I2VDl4Y0g1QU5wdlk2dEFHQU15cy1waTBaNmhobWZSSFpXWjhCb3ZpX0tsWjNiN21KUHFfOWp0X3pSdXk2eU00bUZuRG5MYTQ0WDdVTmFwTXdpMmVYdldXVmlabDE3cWdoNXNiZ2tEVThiQXNta1hoR1F5R3JUV1B4anJTYTJFdGFB0gG0AUFVX3lxTE9yMjFGeEhsaktycXM5Qnc5LWV4NWxQNTBCMUdRV2h1ekplaTJyMThRWnhyNnZLQ0kxbmVkWUNjN1g0MmhnNzZrWFBvUnQ2VWpJMW5uWGlmYVcwdmVYTHJ2ZmtJTlh6a05mOVBPUUdoazRXaWJHYVFWOTZxQzlnRVlGQ202SjZkOG9RMTVUeUcyOVJRZnBWTDVJcVNFLUhzUTBzN0ZwVnlDNS1fWFNjaUZKam9nYw?oc=5",
+      "published": "Thu, 29 Oct 2026 17:27:56 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "From Port Sudan to Mogadishu: Saudi Arabia as a Player in Red Sea Conflicts - EU Today",
+      "summary": "From Port Sudan to Mogadishu: Saudi Arabia as a Player in Red Sea Conflicts EU Today",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbFdtVTVWWndxUXc4SXRabUJXMDl3eE1Wal9COG5xdFE2OFQ4Qk9sN1VFNS00RWlKcG80TXVsRmxHaUtXVk4wa05vNUp6ejQxdjZQaWk3b0FuVlNSSzFlRjRZRk1BWGNTbW15R2JCMEU5anF6WUtsX192bHBHaTNXSXRkT3VTWmhJTW80b0R5eVMxZUxDTFFtN2p5SQ?oc=5",
+      "published": "Thu, 29 Oct 2026 17:02:58 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "UN investigator: Myanmar junta attacks civilians to terrorize them as arms buys fuel war - Greenwich Time",
+      "summary": "UN investigator: Myanmar junta attacks civilians to terrorize them as arms buys fuel war Greenwich Time",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPc0JvUnVnNEU4N1RSOW16Wm1IeXdidFB1WHdsdk1SR0QwV3VCQ2dDYU1oOWhNN011ZGdWTjJQbmJoR0xiRTRmVmJMSzNUeWNkN1Vwb2hoeWQ5OE85SG5rY1h0cF9nSU50V1dySHpFSmg1LThIc1JVUlA5RmxxUFJ3SWRFUXJJVnloakVGSDR5NC1XblJqMUtscVJUUjh4YlBNQThQNG80aExvMDBWY0E?oc=5",
+      "published": "Fri, 30 Oct 2026 17:00:10 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "UN investigator: Myanmar junta attacks civilians to terrorize them as arms buys fuel war - Bozeman Daily Chronicle",
+      "summary": "UN investigator: Myanmar junta attacks civilians to terrorize them as arms buys fuel war Bozeman Daily Chronicle",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPSjJPME9CbjdYbUo2Sm43ZkRlbzJ6MHZBbGp6QjkzamdrellNV3FvWnNzUmlHMzZIa3ZYaWRkWUV0aTBTYV9NQk5WWk8xN25WQVRyOUs3cFRZYmtIMTIyeUpxQXM3aFhQeWFUazNReENUQnBoaGg0VUU2bzdic1g1b2xwcE9QOXdCZUhuSjhKMWZNQkRIUnc2d0tpMkdaMXF5eVVnaGdheDdPRGRlTDRTWGtQMUUtOG9odTI1Q0ZKdGxPaHdkdDc3dmhXcTdxNFN4OC1VSllpU3JUa3p2VUhBR1B6aVFGR2ItTjROQUJONlA2LWk3WXBBMzZ2SDV6YXd2YUxhdEJJdHVkSHNGUGtIUkdvMWNkbEdmMzJLRU50aw?oc=5",
+      "published": "Fri, 30 Oct 2026 16:50:39 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar Frees Some Rakhine Deportees After Malaysia Demands Explanation - Narinjara News",
+      "summary": "Myanmar Frees Some Rakhine Deportees After Malaysia Demands Explanation Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zcFdVbEtzMlRTakstMUVHNlNhWVZxMkhySE9KSG9xSUhqbWJVREVOalpmWFN3R2ZMZW1sNUQxZVJ6RXIyR3lJWk5HVkJHRGlZTmNlUGZMd0pjTjZRanNPMEZTWXNUajZwVG9sendRZw?oc=5",
+      "published": "Thu, 29 Oct 2026 19:21:56 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
+      "summary": "IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will 'get wrapped up soon'.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+      "published": "Sat, 31 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
+      "summary": "Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and other crimes against humanity.",
+      "link": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss",
+      "published": "Fri, 30 Oct 2026 21:00:51 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+      "summary": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.",
+      "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+      "published": "Fri, 30 Oct 2026 20:37:20 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Port Sudan families can barely afford water as shortages persist",
+      "summary": "Despite efforts to restore damaged infrastructure, residents face soaring water costs as war, displacement strain supply",
+      "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss",
+      "published": "Fri, 30 Oct 2026 20:10:22 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
+      "summary": "Pakistan's military spokesman warns of 'powerful spoilers and detractors' who still believe the conflict serves them.",
+      "link": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
+      "published": "Fri, 30 Oct 2026 18:55:36 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
+      "summary": "Troops hold at least 12 Palestinians near demolished homes as nearly 5,000 remain displaced from Hebron neighbourhoods",
+      "link": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
+      "published": "Fri, 30 Oct 2026 18:35:44 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 31 Oct 2026 00:40:43 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
+      "summary": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+      "link": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 16:26:11 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
+      "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 22:11:52 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Democratic senator blames Egypt press crackdown on US military aid decision",
+      "summary": "Chris Murphy said waiving a human rights condition on aid paved the way for arrests of journalists.",
+      "link": "https://www.bbc.co.uk/news/articles/c63r529wn2vzo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 15:17:11 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "How has the ceasefire in Russian-occupied Oleshky been unfolding?",
+      "summary": "Ukraine correspondent Dan Johnson explains the temporary ceasefire in the devastated town of Oleshky.",
+      "link": "https://www.bbc.co.uk/news/videos/cmp3gp2vg078o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 30 Oct 2026 23:19:17 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+      "summary": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 29 Oct 2026 20:05:57 GMT"
+    },
+    {
+      "source": "Bellingcat (OSINT)",
+      "title": "EU Satellite Imagery Delayed Over Gaza and Parts of West Bank by 24-hours",
+      "summary": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. Become a member and support our work here. Imagery captured by the European Space Agency’s freely available Sentinel-2 and Sentinel-1 satellites appears to be delayed over Gaza and parts of the West Bank, a Bellingcat analysis has found. While […] The post EU Satellite Imagery Delayed Over Gaza and Parts of West Bank by 24-hours appeared first on bellingcat .",
+      "link": "https://www.bellingcat.com/news/2026/10/29/eu-satellite-imagery-delayed-over-gaza-and-parts-of-west-bank-by-24-hours/",
+      "published": "Thu, 29 Oct 2026 22:15:59 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "World News in Brief: 300,000 displaced in Lebanon, Türk ‘deeply concerned’ over Novaya Gazeta closure, $50 million refugee appeal, World Cities Day",
+      "summary": "More than 300,000 people displaced since early March remain internally displaced in Lebanon, where the humanitarian crisis is “far from over,” according to the UN’s aid coordination office (OCHA).",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168713",
+      "published": "Fri, 30 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
+      "summary": "Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168712",
+      "published": "Fri, 30 Oct 2026 12:00:00 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Yemen war makes reaching assistance too dangerous for many",
+      "summary": "More than 280,000 people have now been displaced by fighting in Yemen and many vulnerable people are unable to access lifesaving relief because it is too dangerous to do so, the UN refugee agency (UNHCR) said on Friday.",
+      "link": "https://news.un.org/feed/view/en/story/2026/10/1168706",
+      "published": "Fri, 30 Oct 2026 12:00:00 +0000"
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "[클로즈업 북한] 김정은 속마음 대변하나…특별한 존재 ‘김여정’ - KBS 뉴스",
+      "summary": "[클로즈업 북한] 김정은 속마음 대변하나…특별한 존재 ‘김여정’ KBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxNlFaeUlBR0ZQR0l5SEVTV0tKYmNYbHNWdzkwbzdQQW44WVRXVlBaREFoc1A4THduXzdvOWdGeWRUMmNTeG0tSHM4UUl3UXFGSUwwLXk1ZHNscVJGcDFFTkZpVUtjdw?oc=5",
+      "published": "Fri, 30 Oct 2026 23:12:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "미 대화 급물살 타나…김정은 방중에서 드러난 결정적 단서 [뉴스모아] - YTN",
+      "summary": "미 대화 급물살 타나…김정은 방중에서 드러난 결정적 단서 [뉴스모아] YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GcTZfWTlKUE5fUi1Yc2ViTkphZkdTR0FTQnZMWGNPUlNYOXZaTmctd1VVU0RfT0FoaV9WU2U5U2E3NVdoVFJ2eHVobWhyaGc5VGR2TWd0aWhvSmVjRGc?oc=5",
+      "published": "Fri, 30 Oct 2026 22:30:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "핼러윈 ‘김정은 코스튬’, 사망설 겹치며 7년 만 검색 최고 – RFA 자유아시아방송 - Radio Free Asia",
+      "summary": "핼러윈 ‘김정은 코스튬’, 사망설 겹치며 7년 만 검색 최고 – RFA 자유아시아방송 Radio Free Asia",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTVBKTmNPa19uRVZBN3JldDJ3XzRsSEZHODhGMjgxT2tqOEFGMnFkZER4TGJ1aWZjMXZwTTBQeW5WNHBJdzN2QzZVcXFPa3kyUTE2T2taMC1PZjdzS09sR3c4bUNZdmRaWGY2emFfb1pMMjJwN2tncHVwZUFrOW1jcWx6TzJiUGF1?oc=5",
+      "published": "Fri, 30 Oct 2026 19:17:58 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "김정은의 ‘드론 협박’… 스텔스 무인기 등 30종 공개 - 조선일보",
+      "summary": "김정은의 ‘드론 협박’… 스텔스 무인기 등 30종 공개 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX0N3UnNwLVAxb0ctZkRpMkZrdFdEQ0VfbWwxeTFhdHR5WDJseHVaN3RlMno3U3dsSnNZcHhLTEVxZ2pSR2JHS2NhdkYyNTZuaFYwNzg3LS1oR21PVWlKU2p4SWtQaUVCM2tWY0dvckFlaVVTTTRwWFd0S2w3dE5TeE9MQjhIbEpyOFYteTdRcWlSUQ?oc=5",
+      "published": "Fri, 30 Oct 2026 15:56:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "김정은 `권력 2인자급` 자리도 텅 비었다…北 내부서 무슨 일이 - 매일신문",
+      "summary": "김정은 `권력 2인자급` 자리도 텅 비었다…北 내부서 무슨 일이 매일신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aa0kxTEFhTjZGQ05KcDc5MHlfdW1sS195YV9ESU9TSWJoTWx6N1ZSWDFBM2N3OGRoZGp5XzNnajVUTnN2SWVfVXpILWRqbHZXWHVKOVlhbVJlR25GV3g0cmZB?oc=5",
+      "published": "Fri, 30 Oct 2026 22:42:39 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "트럼프, 김정은과 대화 재개 시사…한국서 ‘패싱’ 우려 - 미주중앙일보",
+      "summary": "트럼프, 김정은과 대화 재개 시사…한국서 ‘패싱’ 우려 미주중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByck1BdW9sc29UdjVJY0Y4c0pyVGRodXNKTW1JT0lBUTlnQUhlc0x2dHdjbmV6Zm9sRVBHbE9kNFppc0hKQ3VINXZuSjdCTWhtOUc0MWp1ekFLWEVwQzlyYk9B?oc=5",
+      "published": "Fri, 30 Oct 2026 21:34:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea says sanctions don't work to deny its status as nuclear weapons state - Reuters",
+      "summary": "North Korea says sanctions don't work to deny its status as nuclear weapons state Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbVo5aGdRLXQ0a3ltRnJzMUVTRjBjNUJKNW5fWGxtTmh2NEVMZ0ZUUTRqSktEeXotdkNNWk9TS2ExREYtQWZmdFVZUV9MWUZVaGNIaVk0RXJtdXk0LXN5V29CNmY3ME54ZkRueXh5YzB4OXVEakVOYUVBSlFzaVUtV3hBLVZ0WnNHSmwwcGd4ZHJmVzFwR2VPMndoZGxObmtQRVJxM3dEZmdobnlWOGpCYjEwNFRrTERnUFd5S2NEcVhITjFxSndtaw?oc=5",
+      "published": "Fri, 30 Oct 2026 21:44:09 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Trump’s engagement with Kim falls flat as North Korea’s nuclear arsenal grows - The Washington Post",
+      "summary": "Trump’s engagement with Kim falls flat as North Korea’s nuclear arsenal grows The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX09vU011MGc4anRkQ3Z4eDlWc0d2Y3l6ZUl4bm5rcGVvT194cWgxTFU0MjlHYUhPNTVwSllNd1JzVVJuY1hxYm5XTFJVaGRpckt6Ym1FY3c1ZXR1U2JhLVZ0MS1kWmRNQjlDek4xekNmOWM4bzRDazM0ZjF0Z2FtUm9sS1ZsVzJBTzR4bnNfbkxRcDZBUzdwbG1wVjRfaEFEZENYZERaOWhxUU1qbVA4VkRZM2t4Z1drREk1enoxS1hRcnNFSklxQlp2THl0UQ?oc=5",
+      "published": "Sat, 31 Oct 2026 00:24:02 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Russia, North Korea Test Missiles in the Western Pacific - USNI News",
+      "summary": "Russia, North Korea Test Missiles in the Western Pacific USNI News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZFlUVWtwRFlMVDF2ZnVFOHJCY0h0bFZGNjNzUWxzMmx1c1lnLXAtdjhLbzFiRGc1QXlpZVlkbEZhMVhzSUZUeEliVnNTaVdCM0dpeW1oVTduUHAyV3pWZlRGbzhETXZLem9vVm8wUE91QnB4MWNWc1k4dzRzZHV6blpMQkxoVlJsS3djUDFkVzV4Zw?oc=5",
+      "published": "Fri, 30 Oct 2026 20:50:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea's Kim Jong Un tours a drone exhibition - NBC News",
+      "summary": "North Korea's Kim Jong Un tours a drone exhibition NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaVEwTnF4aWFBdzd3NXpjZV9jd0pkV0R1dFk3OTluRzhkc2RaX0pCcjkwRjB3NEdyTVVVTGktcmhzX181d3hNUnVQTTFmWUJnMXdvSWNCT1VVYnZ4OUtMSDFKbm5PeUxzUE4wRHQ1Sy0zYXFLbEVzYU82QUVmdk5KOU4xaFpvN0YyZXRhQ3JYSlg5SEJkY2dsRldIMUpjdVo3c1E?oc=5",
+      "published": "Fri, 30 Oct 2026 19:48:28 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "How crypto hacking funds isolated North Korea’s nuclear programme - The Guardian",
+      "summary": "How crypto hacking funds isolated North Korea’s nuclear programme The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUk0tVDZsMEx4M1NtS1BVd2FFWGlnMDJob2l5Nk41MWhSc05uOEhWRWNDUDNfbUdHTzFzT3p2VUl0a3o0RENWTXhTZTExc2o2eDQ3S2RiTm1VYS0yRDkzendqZ1kxeWVaMXRvUGd6Z1pWZDNHVEZQcEk5UjdaOWpnSmFjVXEtb2wzNDUxQ3VMeFV2SVVpYlBFdlZleFdtUzJDVnBWYkthV2Q1R211amc?oc=5",
+      "published": "Fri, 30 Oct 2026 17:58:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un calls for drone advances at North Korea weapons display - upi",
+      "summary": "Kim Jong Un calls for drone advances at North Korea weapons display upi",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUHlQRVoxZTlLZDE4TTA3OEc0QlZQeW1IMmlGYWVWWEZ0dzIwTDN6ZW9jOWxCNXlOTG5lcFh5OVY3cUowdFJXUXJmOGptTGF1Y09pZmlGejNwT1F6Z1lYNDF2ZHA1eVdqYzFjQlNZb0tRWXRsUk9yUm5uc0xLZk9YSURiN3dVVXdyZnBRMC0zTC1rQWlCUHFPcUgxZ3cxdFYwa1BPN0xjQkJqaV8tOFFfR3pR0gG3AUFVX3lxTE81STkySFZ5RTQzYVlDYlh4S2FzaFZPYmxNX2VDampkWUFXSGVuRzZST09xdXZBLVBSVHZjbm4taG5faXpTcFlYajZUT2VYT0JaZ2lJdmJYN0dScHdkc2swVUo4NDA0SzIxYXAtb2ZIV1lhTUM4V1ZoR0VIOUNaQm9HU2dueTE0MkdQU1diU3FzUmlBVGUzblhfTG8zS2NtYUtsR2RvbFVFTnhmbjY5WXozUV9ILXVkRQ?oc=5",
+      "published": "Fri, 30 Oct 2026 09:38:33 GMT"
+    },
+    {
+      "source": "38 North",
+      "title": "Saying It With Pictures: North Korea Flashes Its Latest ICBM, Old “New” SLBMs, and “Tactical Nuclear Attack” Sub",
+      "summary": "North Korean media announced the October 11 “inauguration” of the “National Defense Revolution ... The post Saying It With Pictures: North Korea Flashes Its Latest ICBM, Old “New” SLBMs, and “Tactical Nuclear Attack” Sub appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/10/saying-it-with-pictures-north-korea-flashes-its-latest-icbm-old-new-slbms-and-tactical-nuclear-attack-sub/",
+      "published": "Thu, 29 Oct 2026 17:08:59 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "All the world’s a stage: Why North Korea put artillery on display at the border",
+      "summary": "Earlier this week, a small park on the inter-Korean border, about an hour’s drive from Seoul, became the center of media attention. The reason was that North Korean artillery had appeared across the river from the Aegibong observatory, with its barrels pointed toward South Korea. The sight of artillery guns positioned within view of a […]",
+      "link": "https://www.nknews.org/2026/10/all-the-worlds-a-stage-why-north-korea-put-artillery-on-display-at-the-border/",
+      "published": "Fri, 30 Oct 2026 08:52:47 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "US curbed intel sharing over Seoul’s disclosure of North Korean nuke site: NIS",
+      "summary": "The public disclosure of information about a suspected North Korean nuclear facility by Seoul’s unification minister triggered the U.S. to start restricting intelligence sharing earlier this year, South Korea’s intelligence agency has confirmed. National Intelligence Service (NIS) Director Lee Jong-seok delivered the agency’s assessment during a briefing for the National Assembly’s Intelligence Committee on Thursday, […]",
+      "link": "https://www.nknews.org/2026/10/us-curbed-intel-sharing-over-seouls-disclosure-of-north-korean-nuke-site-nis/",
+      "published": "Fri, 30 Oct 2026 07:51:49 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea says it launched barrage of 600mm ‘Sniper’ rockets at live-fire demo",
+      "summary": "North Korea staged live-fire demonstrations of suicide drones, cruise missiles and large-caliber rockets for a drone exhibition attended by leader Kim Jong Un, according to state media on Friday, a day after the U.S., South Korea and Japan offered wildly different estimates of the number of projectiles involved. The demonstrations on Thursday featured various tactical […]",
+      "link": "https://www.nknews.org/2026/10/north-korea-says-it-launched-barrage-of-600mm-sniper-rockets-at-live-fire-demo/",
+      "published": "Fri, 30 Oct 2026 06:08:13 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Why a proposed US military unit to counter North Korea could put China on alert",
+      "summary": "A U.S. general’s pitch to bring an advanced military task force to Korea has highlighted Washington’s view of the peninsula as more than a standalone front against North Korea, while raising the specter of another standoff with China. During an event in Washington this month, U.S. Forces Korea (USFK) Commander Gen. Xavier Brunson said he […]",
+      "link": "https://www.nknews.org/2026/10/why-a-proposed-us-military-unit-to-counter-north-korea-could-put-china-on-alert/",
+      "published": "Fri, 30 Oct 2026 03:58:29 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Switzerland officially opens new diplomatic office in North Korea",
+      "summary": "Switzerland formally opened its first diplomatic office in North Korea on Thursday evening, with Bern’s top diplomat in attendance. Foreign Minister Ignazio Cassis and a DPRK diplomat cut a red ribbon at the office’s opening ceremony in Pyongyang, according to photos and footage he shared on social media late Thursday. In the post, the minister […]",
+      "link": "https://www.nknews.org/2026/10/switzerland-officially-opens-new-diplomatic-office-in-north-korea/",
+      "published": "Fri, 30 Oct 2026 03:48:35 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Kim Jong Un inspects new stealth drone, calls for ‘absolute’ UAV superiority",
+      "summary": "North Korean leader Kim Jong Un attended an exhibition showcasing a large new stealth drone and other innovations in the country’s unmanned aerial vehicles (UAVs) on Thursday, calling for “absolute superiority” in drone technology to meet the demands of modern warfare. The “Unmanned Aeronautical Technology Development-2026” exhibition displayed various strategic and tactical multipurpose UAVs, suicide […]",
+      "link": "https://www.nknews.org/2026/10/kim-jong-un-calls-for-absolute-superiority-in-drones-at-north-korean-uav-expo/",
+      "published": "Thu, 29 Oct 2026 23:12:00 +0000"
+    }
+  ]
+}
