@@ -1,0 +1,411 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T10:51:17.503437+09:00",
+  "history_candidates": [
+    {
+      "year": 1792,
+      "text": "Battle of Jemappes in the French Revolutionary Wars.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Jemappes"
+    },
+    {
+      "year": 1936,
+      "text": "Spanish Civil War: The republican government flees from Madrid to Valencia, leading to the formation of the Madrid Defense Council in its stead.",
+      "link": "https://en.wikipedia.org/wiki/Spanish_Civil_War"
+    },
+    {
+      "year": 1943,
+      "text": "World War II: The 1st Ukrainian Front liberates Kyiv from German occupation.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "year": 1956,
+      "text": "Following pressure by US president Eisenhower, Great Britain announces a ceasefire in the Suez crisis, one day after it landed paratroopers together with France at key locations.",
+      "link": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower"
+    },
+    {
+      "year": 2016,
+      "text": "Syrian civil war: The Syrian Democratic Forces launch an offensive to capture the ISIL-held city of Raqqa.",
+      "link": "https://en.wikipedia.org/wiki/Syrian_civil_war"
+    }
+  ],
+  "korean_war_hits": [],
+  "korean_war_date": {
+    "month": 11,
+    "day": 6
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian Offensive Campaign Assessment, November 4, 2026 - Institute for the Study of War",
+      "summary": "Russian Offensive Campaign Assessment, November 4, 2026 Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQUs3b2pfMjM2cGdvOUh0Ylp5elBTekxyWVQ2M0t2M0I3NV9QcmMyaFhiMkFtZm8tME5nMXlnSk1lbFRaUEN6NXE1MlhPQzJkamJxZkgwOWR4T3oyZVhaVXB4UlluM2IwZEl5V19NdVNIRHQxSHdDQnpWbGgtT0E2UGZVVmIwbXFzU3NZVGhvNFluU0w1MWNRVXYtMmpSNzhuMGJnZy1yLUNkRzA?oc=5",
+      "published": "Thu, 05 Nov 2026 01:15:23 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia says Ukrainian postal hub, ship hit; Kyiv strikes Ryazan refinery - Al Jazeera",
+      "summary": "Russia says Ukrainian postal hub, ship hit; Kyiv strikes Ryazan refinery Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPR2hVb2JpTzJSeTNndmFNYTNhUXdXOXc5SzFCM1RpOU1Wb2tQcW9iNXNvOWF2c2l5dTdvX1BnWmQyTFU5LUs2VkU2dVZrc3VBbldSU2lQMDZjaHpiWlVTQWlacEZIY2FDSVlRWXh0MDVKQ1JfeVlOb0lXMmM3eWtmUm9vMWRqYkxfSFhHR1R3T0doSkp0OHZHMlJRRU55MzFnSFp2RmFBNUpZY3MwZGlWMy1ZX05Qd9IBuwFBVV95cUxNQWRLSkJmS2VhN2E1ZEV6RjN5ajJvU3dvdndKcDdzOXdBZnVTN09UalJLMVdoQ1hsYUx1M3cxREZqM19rOHozdE9nR3BtN19LemFGd1R3eVJQOFVtWFlkZlUzaDBVQ2ZjUnVQMFVqU25JZ21VaGF4MGFIZ1p0NkNmR25CSHBZLWhQSEV4SV80eENCNktTcmdSUFVLMlg5dmRhSG1lTkJtY1FVcEJzUG5zQzMzTnZDNS12Uy1Z?oc=5",
+      "published": "Thu, 05 Nov 2026 09:18:39 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "To adapt at scale, Europe must learn from Ukraine - The Parliament Magazine",
+      "summary": "To adapt at scale, Europe must learn from Ukraine The Parliament Magazine",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUUVNZ3pPbm1YRkRIMTQ2Zk1LREpGaFpUMEtyMHZBaWxDZWVNbnVSZ3FETTNRYnNLTkxQcUk1N3lEQzF6QUFOWmQwNUFadmhkZmNXYUZSY0NBVURfSmlZemR1UDd1clEtRlhWektHM0FFaW5BcVl5dXRFV1ExOHExTDg4VjdCYVFjeDBuZEJyb3JaZXpCZ1R4RWxMUFhmblppTlB6NWZBMGtHdzdfX0dvOFBpREZabjh2Ymc?oc=5",
+      "published": "Thu, 05 Nov 2026 20:08:10 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia Tries to Break Through Ukraine’s Defenses Across Multiple Fronts but Fails to Advance, ISW Says - UNITED24 Media",
+      "summary": "Russia Tries to Break Through Ukraine’s Defenses Across Multiple Fronts but Fails to Advance, ISW Says UNITED24 Media",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZGhEN2RDTG1WYi02Qk1FZWxjTWhfbkJ0V0NrX1NOekhpZEVSSG1fMUhtYWlpcE1XUFRaOE9FbFJaaE4tRzB1b3Jqa0tndUhlbEY0X0ljUmxfWE4yVjF4S2QtT2p2WEgwTXlsTWFhSEJWdjlKT25WR0tsMDRFZFFuVTZuMmlhM1R1cUZFbmwtb1BjelUxRFVDVmppUjFGLWJWRUVHQktNNUF5bVhsdmpyWkpRZFk1UXNabGJJbXJ0cWQzNE9TYWE4TVdjTFE5bDRUdHNfb2YxNjFVUFZ4VlVtUA?oc=5",
+      "published": "Thu, 05 Nov 2026 08:45:35 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub - The Guardian",
+      "summary": "Ukraine war briefing: race to free dozens trapped under rubble of Russian strikes on aid hub The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYzduNVhmUVVuYXh2YUp2MFFMSE15WHpVQ3ZJanJQTFhvdzEyU1E3cEI2QUdrdWhQWEFwbUVkaUM4MldGanJMNHlBQmZDNmVqRTBEZTlVMlk2dWpFVUN0WEk2Nko1OVJjZ2VMODVVN1JnUFJDMFd6UUFQc0drcHBHN3BTV3Q3UnNleVQ5X2h5U052bGZHNlpWZ01qNXo1SFRtMlZDVG9JaFI1TlBfSXFV?oc=5",
+      "published": "Thu, 05 Nov 2026 04:18:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Death toll hits 40 after Russian strike on Ukrainian aid site; dozens remain missing - NBC News",
+      "summary": "Death toll hits 40 after Russian strike on Ukrainian aid site; dozens remain missing NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1VCeFk1SXVDWm5XTG1IUEVySGxSLV80RTZMOVQxV2FVa2dLcEZqQmpZdmszZUpTV2phNy1ma1ZZZF9lNmFvTXpVSjMwelNoWXJfcE4zemFpOGdkS0VERHc1SGdYd0lEWnp5MjJIWmNxQ0hPaDZsQ0QzWVN5dHZWV3hCMG96ZlhKejJQSk5fa1ViY2hYU1VHbzdmOVVSbkkwR2pCZWY3ajZ4VUxiSXc?oc=5",
+      "published": "Wed, 04 Nov 2026 20:15:47 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Arab parties endorse Eisenkot for Israeli PM, IDF reports 52 ceasefire violations Oct. 16–Nov. 5 - FDD's Long War Journal",
+      "summary": "Arab parties endorse Eisenkot for Israeli PM, IDF reports 52 ceasefire violations Oct. 16–Nov. 5 FDD's Long War Journal",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZHNsMHdyYVBtNFFEWGlGQkpab3MyV2ZqTWloVXg4b1RDaUQweWdxZS01VF91UUUwUUdNSDlwYXVnNUhCbEI4dFJPNTY4Z3lFems0YnBfRnE1di1FR090QWFYTnJYMHNyVFEwNm9PUEtDLXkySnJtNUZVMVY5VUtDbjVKY1VpaHpzSkhBcUJkWGNFdXdaR2dTNzY3Q2hpcHNJNXFrbGgxMzc5bkpqZ2ZDTDJPNVZqV3BTY1A4Zmg3VVAzYVZUclBTY0RQUUVBMVh2LUhnRGd6NWdwV29CSVE?oc=5",
+      "published": "Thu, 05 Nov 2026 21:30:27 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Four people, including a child, killed in Israeli attacks on Gaza - Al Jazeera",
+      "summary": "Four people, including a child, killed in Israeli attacks on Gaza Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTkd5N1NSdUpxbmd6RnRucHFPNXlUbUxBRTBUTHVSbFIydV9DZDBrUVM3c2M1TE9UcGVoMm1YQlJUZ3JhM3dMcElSRFh2cklYcG5WcGxfdzZOTEh6Mk8yNmRmT3RheGZKaUtWdlNTQVN1S2hPdEd0UFF1UVRaLUZLaXRTMThVdDBPTi1fZ1lfcTdUd3lDSnZpbWNvVUZrbTV3eThkbG9UQdIBrAFBVV95cUxPc0M4ZksyLXpuSUE5ai1TREd6MW1GUGJHajJhRmZMbWdUUEhTQnVQNnhadklLU0t1LW9temxpUEtkUWo2R3Ixd1NKY2JQeDJhbDd4T0N1MnNSYzBYbkdKXzM5Mk82YVVlVWplZnNtVC0xUXdTSGxHNEpXNEs3YXlidkxsZC1nVUQyTi0wOFQ2RFo2MFZpUWp1MUJZcE1RWHZVcm82ZmFBWGRlSV8z?oc=5",
+      "published": "Thu, 05 Nov 2026 13:18:49 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli air strike on refugee camp kills three Palestinians in Gaza - Middle East Eye",
+      "summary": "Israeli air strike on refugee camp kills three Palestinians in Gaza Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcGNzTEFIRno1ZjFoSVhOa1U1RkpaVi1vaG5tRGdiSmRhb05YNF9PTnFUbWhhUkRLTEQtLUY2UlNnbjMwX2hJSU9HOWRGcVVPOHd4Z1lycnc5XzZRdnVydFE2TzhJMm5odVNEZkR0eHpPVmxqd2tpeUJtbDg5U0FqSFo2RlFEX1Rjb2tWaWY2bWZFQmJ2RVRzbkVMN0ZCS2wtMFctTVNEWlhNNVdXWjRkWXBfNjNZMGRrTkE?oc=5",
+      "published": "Thu, 05 Nov 2026 23:13:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli attacks kill 4 Palestinians, wound 11 others across Gaza - Anadolu Ajansı",
+      "summary": "Israeli attacks kill 4 Palestinians, wound 11 others across Gaza Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ0ZtdkxzTmVJeUNxWVVRaE15SFlHUF83NGJSWDF0SXpCSXFlZGpvVndLUERUVzNCNkMteXNpNHVzWkNZNjE3ejhSSWhxLWttTGhsRjBYWDVkQVZXeXNyeWI1cWF1TVQxT2RCVzF5T2hISVh4ZGlPckRzcVNSSmNIQUFsallLV3JKTWVWS0p3YW1LY3FxLWs0cWN2djVfczEwZUk1bHdNN3FGSGdU?oc=5",
+      "published": "Thu, 05 Nov 2026 18:36:07 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israel kills four Palestinians, injure 11 across Gaza - Muslim Network TV",
+      "summary": "Israel kills four Palestinians, injure 11 across Gaza Muslim Network TV",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbmNYVUtkT0dQQURtTjFCMnNrOWlQc01WZTBqZHlBUklmbk9WNVJkM3BhdTFYZFMxaC01eDNWUTExVm1qVHdkSUVob3IwR0FCdXJsejhpbllwLTdEcnFEMnk4MmZuRExVczV0NE9xc2k5T05UUGpRZFJMdTIzTTcyS05hYUNYWjZHOUE?oc=5",
+      "published": "Fri, 06 Nov 2026 01:30:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Four Palestinians, including child, reportedly killed by Israeli fire in Gaza - Haaretz",
+      "summary": "Four Palestinians, including child, reportedly killed by Israeli fire in Gaza Haaretz",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOFRyVXVWSjZ1QVJpTVdVTUp1RGFkc0JoT2VRbnIxWUtLdUxLWV9tU1k0ZjVwSFRlS3hJT09yZzQtcTM5bHFHaWIxQ0RoMzVjYVBUc1lieTZKbmwyWGdPWlpKTVZEcmEwZFlCZkZsVlItMXJxejBiZW1xczQtdlk2SDl0MUdROG5qYzhYR1praXdJSGtDZGNSNDYtTGRTTllBSWUxVGtVZl9sNUtjU2pNaUZhTDBMd21UQ1ExMzZJVG5oOUhpU1ViWUdyazZUOXFCeGtaNl94T01NSUg4eHNkMmh3c2ZZT25kRVl3dzhpUjBWQmNZOHZZWnlVbGtIVHFhbnc?oc=5",
+      "published": "Thu, 05 Nov 2026 19:26:00 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Sudan accuses Ethiopia of allowing RSF drone launches from its territory - France 24",
+      "summary": "Sudan accuses Ethiopia of allowing RSF drone launches from its territory France 24",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc1N1NjlSa05wVFlyS1MtcnNUVktKRjlrSDI3TW5wQ1RadVRYNHFJNzdOS2ZRZGw4S1dDa0xJVl9OM2N6QXhFa0psWnFrQzF6aUhUMXZtS283V3NfUC1qdm92MjRBVUlWSGIyRGd2NENwaEFpNUlVSVVVX2ZNZEFxUl9lVUktaVZPQmZ1TC1obXJoWGszUVFBSlZBc3ZaNXFPeW1zZGVjZ3h3ckVwUzdyc0s5UDRSUQ?oc=5",
+      "published": "Thu, 05 Nov 2026 09:54:56 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Australia sanctions senior commanders responsible For Sudan conflict - Australian Minister for Foreign Affairs",
+      "summary": "Australia sanctions senior commanders responsible For Sudan conflict Australian Minister for Foreign Affairs",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT09aVmpFQkZaLWlieWdNUS1fZXNIa2hyN2VRTFhHOXFXOXNNRDVabGRPZFlkMWlfUzFtWGZ4NVF2b1MtVHZZWEtsNlcxZWF3cWhTR0gwTjZDTEZHSFZCVUxsdXJQWVp4SlJGUnkyQjFERmo3VnlzMkc4VFpnOWdfcERqZTY3d1NtbEdhVm1PdDR5QWJrbVFUUmNFOWlpc3hSQWplQVlvZndwNU1LeXBkOWt1aGliMHVYNDBPV3hVUHo2UlVPUnkxbWhJbDJ0dw?oc=5",
+      "published": "Wed, 04 Nov 2026 19:21:55 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Sudan: Sanctions Against Commanders Implicated in Sudan Rapes 'Seek Accountability', Says UK Minister - allAfrica.com",
+      "summary": "Sudan: Sanctions Against Commanders Implicated in Sudan Rapes 'Seek Accountability', Says UK Minister allAfrica.com",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03ZC05RmRJOWJLTXk4dDJaVk9wUlBHOWh6QnVXUFBRbjlVN21YV1JxMFR4d2Z0bjNrTXRJb1hyR3ZoMDJkN29jVjZhakJCZHNkNWxIeEF5SzRLQ1U?oc=5",
+      "published": "Thu, 05 Nov 2026 10:09:51 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Ethiopia and Sudan Expel Diplomats as Rivalry Threatens to Widen Horn of Africa Conflicts - Modern Diplomacy",
+      "summary": "Ethiopia and Sudan Expel Diplomats as Rivalry Threatens to Widen Horn of Africa Conflicts Modern Diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ19ub2o3cHBRNmtQeVhhdGdoVHZISU9OeFhwR2JBNGphc002di1oanBfZjF6azZUQ1BEdFBKU1lxWEdnTFJYN2dSYXJLaTBCR3FpaXZvamRKdXM4TkZQMWU2XzFnTmVMYWF6V1U1ckF0dHZyY1ZUclItX2RfZHV2YS1peHBhWnd4T0FKWjhXUzhZUHBxNkxhek0wTER2RTZLRnlvdVNnc0N2dTdDRXNKbFVfMV9DNi1SXzJBVm5FMnROMjJ1czJN?oc=5",
+      "published": "Thu, 05 Nov 2026 07:00:44 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Ethiopia expels Sudan diplomats after allegations of RSF support - The New Arab",
+      "summary": "Ethiopia expels Sudan diplomats after allegations of RSF support The New Arab",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbFl4NHJSZG9BcHBxUHVtZFpxcks2eHUtWmhVS2l6MWRPVUNNWmtSRU56bWdpaXRna1FrOVdJc3VmcU4yQzVqLS1QU3BlRHpLLVBadnRRcndlZWF3R2hmLUtVb2ZmYjd5MmUtY2s1OWE4UlBHU0FUb3hoQlU1LXRwTTZJVjJFQllnRW02RGY0TGptc0Zr?oc=5",
+      "published": "Wed, 04 Nov 2026 17:23:40 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Sudan, Ethiopia shut each other’s consulates in tit-for-tat move: Reports - Al Jazeera",
+      "summary": "Sudan, Ethiopia shut each other’s consulates in tit-for-tat move: Reports Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVjJyNmlMc0FKWWNDWFBtaXFYeVd3RVh6XzMzUmpIbWVXOURsMGwzQzI4ZU0zWDRMQkJvMzItclFxa2VobjJwQm1tU0dMYklJSllsMk4tTUE4LWFyMkxzTktzYVRhNm9UVWI3cFNXWDJIaTNSY2VLeVRzNTFWOUhpcHVocWxQY1hKWUdtczMwUWVOanY5WnhHb1BuQdIBoAFBVV95cUxPblBFTFNjMlBkMjVyeDdpZzZHbDBsUnBCdVBQRl9rLUNrTkdoSTRkVVlnOEhSRmVFWVNNa2c5VWNZVUZzRjI1VGYzWUxuYUd1OHYyTjE1MndYaEN5QUVjSGZUaTZEc3hnb05lU3dla1JkbWJrZlMyUG04bGg5dFlKZzRHMkN0S0hjWlBUb3JDaXhRNkNBT3NXV2VUWVdEam9O?oc=5",
+      "published": "Thu, 05 Nov 2026 09:20:15 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar: Civilians under fire from military junta - France 24",
+      "summary": "Myanmar: Civilians under fire from military junta France 24",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVJZN3pQLTFLRllYeDJQbi1IeHlheFYzZDlRczVMVklsdmZPdVIwUXpEVVdNbXJxX3FQbVVUdnVycnk2MkY5VzJwaFhIZW5aODloeExEQ1V2ZUdnVHcxVjNZQVlvVm1OS0FGV3h6OTBjb3lsakVRZ244OEZ3b1NpU3NWcUEtcHdwM1JrcVo0TjBSVVhIVVEwRUhVRGEtYVE?oc=5",
+      "published": "Thu, 05 Nov 2026 17:58:28 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Three students killed in military airstrike on Bible college in Myanmar - Premier Christian News",
+      "summary": "Three students killed in military airstrike on Bible college in Myanmar Premier Christian News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSXVlUi03SlIxZzlUNEYtSWdkUmdWUXFERjBtQmx3QkRBNEp5aExqV2c1bXJtYXBLZDNZeU9BeFpoY041MlhvQVBKZEs5QlA0akxQdWUtUENOYXhaTFk0TC1UQXFzQ25KWTdPcUhQWWlRX1BpdXdMMTRLcjFpMTA4UVFqZWpobU1TenRxQWQ5M3prSnBOSER6a0JYTXo2TjJRT3VrZ1RNOWFHVV92MXY0QVpEeUtsaWI0?oc=5",
+      "published": "Thu, 05 Nov 2026 16:05:00 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Dead Starlink terminals in Myanmar are getting people killed - The Economist",
+      "summary": "Dead Starlink terminals in Myanmar are getting people killed The Economist",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZGgtWXJTWl9tbjhEU1lyY19OS0VoUkZjV1JNdjdXbDdPV3NUa2dGTzlETXVaTmJpRWpqa2NNdkQwcXpvTGktY2lWb0FWZE5HYkt6ZTQ5Sjd3MEl1RUhFcTRYaEtzYkNVUUlTX3VoSWxTbUxCYUlfZUJxLVFoY1ZRUF9xVnRSTEs2Tkx0cl8tdjFWSkRBTGw5WHhOSXJPdkpXNUVuZg?oc=5",
+      "published": "Thu, 05 Nov 2026 13:58:17 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar opposition forces hopeful that U.S. strategy could bring about peace - Radio Free Asia",
+      "summary": "Myanmar opposition forces hopeful that U.S. strategy could bring about peace Radio Free Asia",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRzFfXzJPZ250VUpIMEtyUlJPZjdUeHBoSDJuRWtHXy0teUlXZFRheXMySFkxcy1LcnJDb1dWTmExOEZlOUgtNWx5b2VkZElYejAxZ1pPNWxJNF9aQndSdS15Rnpyejc2TndJaXBWYy1ENDdqbFhUd1NFU1R2RFNkeklmMGpGZWVwUG93Zi1RNmg0Qy1MZjZBSGhMbjFjTEI2ZF9Z?oc=5",
+      "published": "Wed, 04 Nov 2026 16:30:00 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar military blames resistance groups for shooting into Thailand to stir conflict - Khaosod English",
+      "summary": "Myanmar military blames resistance groups for shooting into Thailand to stir conflict Khaosod English",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS1FQYjhJLW1CSWtPVWFLQVExUzBTVFJjaFpNdk8zWHFWTzFQM2t5QUxVSUFkUXU3Yi1UaFJiem1MenVIYVVMQlV4dVJ6WG0waFFlTzNXOXh4NTk5Vm9zQ2p2OV90WS02a0pzVHVsSEV0NWhyemNmUl93dVJaM0lUZm1ZSXJIMzl0SU5NSzhfMWstNnBRRnJTQmNad2FpTGgtNlotbU9zbzBXQ2dKRFhxaVB1LTB1OWFlMk94cGVLOXV0ODN5Rjh5WFg1cmVZOEI1MmJV0gHYAUFVX3lxTFBIOGNjcXpDdi1mYXBrSFZwOTBpWThYTHp2bDZyZ0lfWExPSWdhR3hMeklXek1vV3VCRHR1VjA2Z2h6dXpBMXlnamc3M1cyWFh6amJtSFZoYmFvMkUxNkFPd3JwT1J5TS1Ec2VmdEN0TktwdHRDcEZmWGxfRjdtWGR1ajJiVjMtNE1GZmNVVHJSY0ZJTDdFZnVoS3hIdWc0NE4xa0RZanM4enc2LXRVNjdRNTBLUlV3dk81bE8wN3BfVkJRcXYxYkVKM0k5dDhfbXpEMEFqRS1EaQ?oc=5",
+      "published": "Thu, 05 Nov 2026 06:52:28 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Three students killed in military airstrike on Bible school in Karen State - Christian Solidarity Worldwide",
+      "summary": "Three students killed in military airstrike on Bible school in Karen State Christian Solidarity Worldwide",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRW9HWlowWnA4M1ozRzZUbExyWE50OVBWcm9UeUsyNE9QWVNGbFllLUd1WEdOQ1dWWlR4bTZPOTVyVjlkTnUzU0tXdWIzYUJlQ21XWFltcVQ3Qkx1ZTJzWWF5bFJyMHBwMnVlWkNFd2ZheEV3UFlKTThiQlRDaXBaRkVsQjRBUmtUV1ppTG1zOEZ6VW00MWpEQ3Vvb2hKemJFWFFzVjI3UQ?oc=5",
+      "published": "Thu, 05 Nov 2026 13:53:49 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "HRW Demands Burkina Faso Govt Probe Civilian Killings - allAfrica.com",
+      "summary": "HRW Demands Burkina Faso Govt Probe Civilian Killings allAfrica.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5peTdlTVJZUmV2VGxCcklqTjVidnBSSW9fZERqREgtbE84dnJRR1RDTVF4aHJ2c2tscmlyeE9KTEhuYTQzeE4xclZtcXlOOXhmX2Vzd2dWcWZkVHBGN0h1bkVOTXliRU8zSy1J?oc=5",
+      "published": "Wed, 04 Nov 2026 14:00:51 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+      "summary": "Parliament's approval lays the groundwork for further Turkish involvement in Saudi Arabia's conflict with the Houthis.",
+      "link": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+      "published": "Fri, 06 Nov 2026 00:15:22 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
+      "summary": "Trump again said a major Russia-Ukraine deal is 'very close', but gave no specifics.",
+      "link": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+      "published": "Fri, 06 Nov 2026 00:06:31 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+      "summary": "Trump says the US may have to 'destroy' the rest of Iran, adding that people will 'know soon enough'.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+      "published": "Fri, 06 Nov 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Saudi coalition intercepts missile fired towards Medina",
+      "summary": "Interception comes after Saudi civil defence agency warned of potential danger near the strategic port of Yanbu.",
+      "link": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 20:48:47 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Melania Trump hosts Russia-Ukraine meeting after Oleshky ceasefire",
+      "summary": "US First Lady Melania Trump has brought Russian and Ukrainian representatives together at the White House.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/melania-trump-hosts-russia-ukraine-meeting-after-oleshky-ceasefire?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 20:43:46 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Mass protests in France driven by nationwide strike action",
+      "summary": "More than 250,000 people took to the streets across France on Thursday as five unions called a day of strike action.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mass-protests-in-france-driven-by-nationwide-strike-action?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 20:11:37 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Eight killed in series of shootings in western Turkey",
+      "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
+      "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 19:32:54 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 19:08:08 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+      "summary": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+      "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 10:33:21 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 03:47:56 GMT"
+    },
+    {
+      "source": "Bellingcat (OSINT)",
+      "title": "How Online Maps Lay Bare the US Military Bases Targeted by Iran",
+      "summary": "Sign up here to receive Bellingcat’s biggest investigations by email as soon as they are published. Become a member and support our work here. In September, CBS News obtained new images of the aftermath of attacks on US bases in the Middle East from active service members. One told the news channel: “This is major […] The post How Online Maps Lay Bare the US Military Bases Targeted by Iran appeared first on bellingcat .",
+      "link": "https://www.bellingcat.com/news/2026/11/05/how-online-maps-lay-bare-the-us-military-bases-targeted-by-iran/",
+      "published": "Thu, 05 Nov 2026 09:46:18 +0000"
+    },
+    {
+      "source": "UN News — Peace and Security",
+      "title": "Children at risk as war zone attacks on water and sanitation more than triple",
+      "summary": "Attacks that damaged or destroyed water and sanitation systems in conflict zones tripled between 2021 and 2025, increasing children’s risk of exposure to disease outbreaks, malnutrition and violence.",
+      "link": "https://news.un.org/feed/view/en/story/2026/11/1168743",
+      "published": "Thu, 05 Nov 2026 12:00:00 +0000"
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "[이 시각 핫뉴스] 북한 도발 속 ’모델 걸음걸이’ 교육…비판 확산 外 - 연합뉴스TV",
+      "summary": "[이 시각 핫뉴스] 북한 도발 속 ’모델 걸음걸이’ 교육…비판 확산 外 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zUGJYLXBocDcyVnJudWhDMHU5XzZtdTM5cWJ1Y1F2Um9OWkRNWGxGMS16SjFiRUF5RmdsTENVQnZTZlBud004R25XY3BjYkp5MDc5dzNTMWlaZVNfSGNXUzdIYnEzbTg?oc=5",
+      "published": "Thu, 05 Nov 2026 20:38:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북한 미사일·드론 복합타격 전술, 한미 재래 전력 상쇄 노린다 - 뉴시스",
+      "summary": "북한 미사일·드론 복합타격 전술, 한미 재래 전력 상쇄 노린다 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sdTI0WEdBbzBsT1EwcTFSamZUTXBUaXpXdnpMMlZtQS13MFRVdURKYm9NU0Q4aTJFcTYxMWE5SG5QcUZEaW9uOVVEWWFYN09ZcGJNLTdhTlo2dHFIRnRPdNIBeEFVX3lxTE9TT1NORUE2Q00tSHVYakU1N2hNV3NiclY3cmlxSDF2enNpa2kyMm9nTjljUzViSmNicklyT2JXRzIyR08tVlBPMlFEWE81UzB5N1NsQVFsRVZ0U0pRdUtYYnRHcU9mUlZuNjB4Rk9kS0tZTldTYVcwOA?oc=5",
+      "published": "Thu, 05 Nov 2026 22:16:14 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북한 ‘대화’ 말하며 일주일새 4번의 도발…주도권 노리나 - JTBC",
+      "summary": "북한 ‘대화’ 말하며 일주일새 4번의 도발…주도권 노리나 JTBC",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56b19tT2NSMU92dEtwTWhMOGRjSl91a1dsWHBzV0xuRDlaVF9hZm5hZ2hmTXo3clY0NkFLTWtpdGpLSUd6LTIwTWVkNWhMUXFjSGp1bg?oc=5",
+      "published": "Thu, 05 Nov 2026 10:42:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "[한반도포커스] '김정은 유학' 스위스 끌어당기는 북한? - SBS 뉴스",
+      "summary": "[한반도포커스] '김정은 유학' 스위스 끌어당기는 북한? SBS 뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoMzJuYzY1TXpiLTJjOEFPWFBtUTRfbVhQSGEybVNzVE1rWWN1TUlLN09zNXBiM3BwM3lJY0pGMi13Skd6Nk1Qa0x2Yms3dVFuRmZiWXZVeGRLdW9oQ2VGZ2NhaGNpS3FkaEHSAWZBVV95cUxQTjJmTlUzMERnVmg1YUpBYzAxblkzMGtqMFBjNndCN1hoTGhhMXBZTFhrZDdyNk5VVDNEVVZZYVNGbi03ZkphQVNka3M3ZWcxMXI1YjFMeE9Gd2k3NzdtTXZ1enA3VFE?oc=5",
+      "published": "Thu, 05 Nov 2026 15:51:53 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북한 미사일 쏘는데 우리 군은 워킹 교육…\"제정신이냐\" [지금이뉴스] - YTN",
+      "summary": "북한 미사일 쏘는데 우리 군은 워킹 교육…\"제정신이냐\" [지금이뉴스] YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GeXNRT2VjN3RfUlRCRDctZXlwcXFGY3RpQV9aSUVYeGFVTGJYbUdHVklEMVJHd1JfWnZIdHZnV3VPWGROemtXT0UyZTh1WGp3VmFSd09iVHFkMk5tekE?oc=5",
+      "published": "Thu, 05 Nov 2026 06:20:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "무역 막히자 키보드 잡았다…글로벌 금융망 겨눈 ‘김정은의 사이버 보검’ - 시사저널",
+      "summary": "무역 막히자 키보드 잡았다…글로벌 금융망 겨눈 ‘김정은의 사이버 보검’ 시사저널",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqZzdYY21XazVobG5hQTMwbHBCZUgxVHZoZ3lmSWtGX0NPVFN2eERKZGg3OFRSVnpYc05ZQ1h0T3ZmVzRpQ0hmRXNvY2FrNlJVbTZrbGpBVGRLNzZWdGIxMVVIVnc2VlhXeU50aVZ0QdIBc0FVX3lxTE9jYm1Lb19laTlYSlVybmJhcjNFVXlVTXVKUjZGcm5oS2FpbEdoQnF3T09EalFrLWl2TWwxYUY3UXJDOXF4WXl3V3RrZ25HbU5LQU0xRXJmWUthMlBDVzF2UUZVdkZJMHFvOFhzSDZkMWdxU0E?oc=5",
+      "published": "Thu, 05 Nov 2026 23:00:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korean Leader Inspects New Warship Under Construction at Nampho Shipyard - USNI News",
+      "summary": "North Korean Leader Inspects New Warship Under Construction at Nampho Shipyard USNI News",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQU3piSmhEZ0R1bXM1WmtWUXlKenBMbHhDVlpKeFVuYlp0MnVwMVQ0Q1c2RUo5bTMyZFVJdU1GdzFYRlJMS0FIWENtalowekJYNGUwU1gtN2Fzd2c0c0Zua210djlSMVFUV0wwckktS3Uxc2k5OTVZcGJxeWoxS1JXdWlBMVBCcUNqZXJSeGZDVERBbjRIV3U2Zy1Ra1ltdXdHbng4RTFwdnJDcGVJYnl2dQ?oc=5",
+      "published": "Thu, 05 Nov 2026 22:02:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea Denies Involvement in Binance Hack and Criticizes FBI Probe as 'a Trite Provocation' - Broadband Breakfast",
+      "summary": "North Korea Denies Involvement in Binance Hack and Criticizes FBI Probe as 'a Trite Provocation' Broadband Breakfast",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMlhudndoYlQxYzVESXlwNGQ3akZ5d0ZjeVZaSmtUX0VmdkNhZUlFWU5CTHJYUG5CODdTQzhJOUVWbDY3LW1mR1ZKNUVRcGhOQUJTVUcwTF9SaWY2Wk1EYVdGVDhNdWNMaFBnVUh5V3RFZU9oQktsZlFCWnpUdmNZcUoxMURNUm5kUFF6VXByUGxEb2RjbGFZbVpFOHF0MFpwbElFT3JQcGkxZ2JoTUVfeEpDQng0UUktRnhQYXVEYmk0NlhG?oc=5",
+      "published": "Thu, 05 Nov 2026 21:52:58 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Chinese and North Korean officials step up diplomatic drive in wake of Kim visit - South China Morning Post",
+      "summary": "Chinese and North Korean officials step up diplomatic drive in wake of Kim visit South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOGhSTi1rYS1JcFVBbmF5Q2dVMmpPY3V0eF9OWXo0SHF3eURaMlBEcEU1eHQ4YVRXUDhZal9FVUFVQV9WQXBILXYyZWNYaXlBT0dYZTV2el9pMTR3a0o0SDdKR2M0QVBGZm9JTmw4ZGludUxhVUFZVTB1UDdTdmxGc2NRWkFBLVhxejM3Q0VGZnNIQUs4Ynlzb1VfYU1WTVZNTmpYR0toOEpUTTJja1dETGs3R2tvdUZBUEFMZGZUTklCd0QtN1Z3STloNC1iVENfQjNv0gHTAUFVX3lxTE9nbHBHc2FfS1VyT3hWOUprSHhOdTlMWFo5c3JFYlREcDhZbmNWNFFXM2dqOEJWUjZCVnFiMjVPMldFZC1hWDdQSXd6Zk1OQmpDUVNVTzdGeVBHdHJpV2llUlpLcERBWEFCeWl3cy1ERE1Lck9xenFUNnEySmVrQVR6RUhLM0xzQzFRVnFtdzNvTXRvSlMtNy1HRWV1Tk5ObzNOV0x5SUU4bHRBMVRkQUhsRG9ua0w5eHZMR3dzb0stbFZFeXg4T3JTRG5vcU1HdElTV1E?oc=5",
+      "published": "Thu, 05 Nov 2026 09:01:01 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "China's Wang Yi meets North Korean official, vows closer ties - upi",
+      "summary": "China's Wang Yi meets North Korean official, vows closer ties upi",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUEdWS1UwOW1Pdld3WE9QTTRpdnhFV2dDY2doVVBsTG9pUDNOd013M1I4YUU3Y3Vpc19CY2NuMVVNSG5GMW5kOVNNaWNYazlHQWJnMDdsY3hqeVZ1Q0V3ZzloRkVpVlNQdzhvOElXYnZLLVVncExScVNSUkxBRTRPb3lRUzhDaV9YSjRyellFMTBuS2EtUndGcUFKeVE0a0Y4enkxaNIBqgFBVV95cUxPaTd4MzNaV1BaSzFuQU1MM3o1c19weW1oX3BrdzRWMmFuaGtyQnZtVlpkbmlRdWFfUWtHZEFLNU1NdzJQWkxEN1p3TE9BYmVsUmhTZS01c1Z1U0toUDVqWUExQkZiaUYyVzlhUjdSX3k0OE1Ka24wcVppZmxsUS1ZUEdvRjNTeUhldWFQRHUtSWY5UEY4R1hjMEozQnV1NGhwMUsxTko4NGMzdw?oc=5",
+      "published": "Thu, 05 Nov 2026 23:33:57 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "With Pen and Ink, a Graphic Novelist Gets to Know a Dictator - The New York Times",
+      "summary": "With Pen and Ink, a Graphic Novelist Gets to Know a Dictator The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXl4Y3BGU2tUaFZaODg1T0tDT2VPcXplTUxIU3VDTUh3V3c5VFRMVnJrUTlPOGc5R3BIV1N3TWt4TG9hUlE1X2U3MUR6NDZmb1g4d1BWNnlUNlBsVXZnVTU4RVVZdkNmNXFvYzJsaUxXX1p6Z0ViOXFfQ3oxeHBxR09UN2pNbkZ3RmsxS3dMYkFPOUJ5X05Scw?oc=5",
+      "published": "Thu, 05 Nov 2026 10:00:34 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "The Trump Administration Is Sending Mixed Messages to North Korea - The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "summary": "The Trump Administration Is Sending Mixed Messages to North Korea The Diplomat – Asia-Pacific Current Affairs Magazine",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeXc3bHFGX1l2bjdneTl0Tkt0OUV0QUMwQlBxcFdEQ3dYd2Vldm9xR0pET2JnQmxGNk0wNGxsNThmRkYweWdnRk43M05jOXFLeWhvYksyeTd2aG9KbjFsMWp2cnZaN3lSckJrV3BGQmZuSXp3emtmblpXRXRyMl91cDJ1eFhCcXJMOHYyQVpnZ3UxNXJnUWpzcGtjSERJQlk?oc=5",
+      "published": "Thu, 05 Nov 2026 15:57:49 GMT"
+    },
+    {
+      "source": "38 North",
+      "title": "Soft Reveal of New North Korean Stealth Strategic UAV",
+      "summary": "North Korea held the “unmanned aeronautical technology development-2026” exhibition ... The post Soft Reveal of New North Korean Stealth Strategic UAV appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/11/soft-reveal-of-new-north-korean-stealth-strategic-uav/",
+      "published": "Wed, 04 Nov 2026 23:06:30 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Brazil’s first ambassador to North Korea in a decade takes up post in Pyongyang",
+      "summary": "Brazil’s newest ambassador to North Korea appears to have taken up his post in Pyongyang after a decadelong vacancy, according to the Chinese Embassy in the capital city. According to a Chinese Embassy announcement on social media, Brazilian Ambassador Ricardo Primo Portugal paid a courtesy visit to Chinese Ambassador Wang Yajun in Pyongyang on Wednesday. […]",
+      "link": "https://www.nknews.org/2026/11/brazils-first-ambassador-to-north-korea-in-a-decade-takes-up-post-in-pyongyang/",
+      "published": "Thu, 05 Nov 2026 09:36:23 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "UNESCO body backs North Korean taekwondo listing without South’s involvement",
+      "summary": "A UNESCO evaluation body has recommended inscribing taekwondo as an intangible cultural heritage representing the DPRK, paving the way for its recognition as a standalone North Korean heritage listing ahead of a final decision next month. The recommendation, published Thursday by the evaluation body of the Intergovernmental Committee for the Safeguarding of the Intangible Cultural […]",
+      "link": "https://www.nknews.org/2026/11/unesco-body-backs-north-korean-taekwondo-listing-without-souths-involvement/",
+      "published": "Thu, 05 Nov 2026 08:28:52 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea tests anti-aircraft missiles, conducts attack drill on airport: KCNA",
+      "summary": "North Korea launched surface-to-air missiles (SAMs) and cruise missiles during separate tests on Wednesday, according to state media, claiming to have developed new “intelligent” guidance and targeting systems. Photos published in Thursday’s Korean Central News Agency (KCNA) report on the exercises also show that the cruise missile test involved dropping cluster munitions on a runway […]",
+      "link": "https://www.nknews.org/2026/11/north-korea-tests-anti-aircraft-missiles-conducts-attack-drill-on-airport-kcna/",
+      "published": "Thu, 05 Nov 2026 00:08:28 +0000"
+    }
+  ]
+}
