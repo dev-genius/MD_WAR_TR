@@ -1,0 +1,491 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T11:34:06.732831+09:00",
+  "history_candidates": [
+    {
+      "year": 1330,
+      "text": "Battle of Posada ends: Wallachian Voievode Basarab I defeats the Hungarian army by ambush.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Posada"
+    },
+    {
+      "year": 1614,
+      "text": "The treaty of Xanten ends the Jülich-Cleves Succession Crises, which nearly brought Europe to the brink of war, and divides the disputed lands between Brandenburg and Neuburg.",
+      "link": "https://en.wikipedia.org/wiki/War_of_the_J%C3%BClich_Succession"
+    },
+    {
+      "year": 1912,
+      "text": "First Balkan War: King George I of Greece makes a triumphal entry into Thessaloniki after its liberation from 482 years of Ottoman rule.",
+      "link": "https://en.wikipedia.org/wiki/First_Balkan_War"
+    },
+    {
+      "year": 1918,
+      "text": "Dissolution of Austria-Hungary: Austria becomes a republic. After the proclamation, a coup attempt by the communist Red Guard is defeated by the social-democratic Volkswehr.",
+      "link": "https://en.wikipedia.org/wiki/Dissolution_of_Austria-Hungary"
+    },
+    {
+      "year": 1920,
+      "text": "Italy and the Kingdom of Serbs, Croats and Slovenes sign the Treaty of Rapallo.",
+      "link": "https://en.wikipedia.org/wiki/Kingdom_of_Yugoslavia"
+    },
+    {
+      "year": 1940,
+      "text": "World War II: The Battle of Gabon ends as Free French Forces take Libreville, Gabon, and all of French Equatorial Africa from Vichy French forces.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "year": 1940,
+      "text": "World War II: Soviet Foreign Minister Vyacheslav Molotov arrives in Berlin to discuss the possibility of the Soviet Union joining the Axis Powers.",
+      "link": "https://en.wikipedia.org/wiki/Vyacheslav_Molotov"
+    },
+    {
+      "year": 1941,
+      "text": "World War II: Temperatures around Moscow drop to −12 °C (10 °F) as the Soviet Union launches ski troops for the first time against the freezing German forces near the city.",
+      "link": "https://en.wikipedia.org/wiki/Soviet_Union"
+    },
+    {
+      "year": 1941,
+      "text": "World War II: The Soviet cruiser Chervona Ukraina is destroyed during the Battle of Sevastopol.",
+      "link": "https://en.wikipedia.org/wiki/Soviet_cruiser_Chervona_Ukraina"
+    },
+    {
+      "year": 1942,
+      "text": "World War II: Naval Battle of Guadalcanal between Japanese and American forces begins near Guadalcanal. The battle lasts for three days and ends with an American victory.",
+      "link": "https://en.wikipedia.org/wiki/Naval_Battle_of_Guadalcanal"
+    },
+    {
+      "year": 1944,
+      "text": "World War II: The Royal Air Force sink the German battleship Tirpitz, moored off Tromsø, Norway.",
+      "link": "https://en.wikipedia.org/wiki/Royal_Air_Force"
+    },
+    {
+      "year": 1948,
+      "text": "Aftermath of World War II: In Tokyo, the International Military Tribunal for the Far East sentences seven Japanese military and government officials, including General Hideki Tojo, to death for their roles in World War II.",
+      "link": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_II"
+    },
+    {
+      "year": 1956,
+      "text": "In the midst of the Suez Crisis, Palestinian refugees are shot dead in Rafah by Israel Defense Force soldiers following the invasion of the Gaza Strip.",
+      "link": "https://en.wikipedia.org/wiki/Suez_Crisis"
+    },
+    {
+      "year": 1969,
+      "text": "Vietnam War: Independent investigative journalist Seymour Hersh breaks the story of the My Lai Massacre.",
+      "link": "https://en.wikipedia.org/wiki/Vietnam_War"
+    },
+    {
+      "year": 1971,
+      "text": "Vietnam War: As part of Vietnamization, U.S. President Richard Nixon sets February 1, 1972 as the deadline for the removal of another 45,000 American troops from Vietnam.",
+      "link": "https://en.wikipedia.org/wiki/Vietnamization"
+    },
+    {
+      "year": 1977,
+      "text": "France conducts the Oreste nuclear test as 14th in the group of 29, 1975–78 French nuclear tests series.",
+      "link": "https://en.wikipedia.org/wiki/France"
+    },
+    {
+      "year": 1991,
+      "text": "Santa Cruz massacre: The Indonesian Army open fire on a crowd of student protesters in Dili, East Timor.",
+      "link": "https://en.wikipedia.org/wiki/Santa_Cruz_massacre"
+    },
+    {
+      "year": 1995,
+      "text": "Erdut Agreement regarding the peaceful resolution to the Croatian War of Independence is reached.",
+      "link": "https://en.wikipedia.org/wiki/Erdut_Agreement"
+    },
+    {
+      "year": 1997,
+      "text": "Ramzi Yousef is found guilty of masterminding the 1993 World Trade Center bombing.",
+      "link": "https://en.wikipedia.org/wiki/Ramzi_Yousef"
+    },
+    {
+      "year": 2001,
+      "text": "War in Afghanistan: Taliban forces abandon Kabul, ahead of advancing Afghan Northern Alliance troops.",
+      "link": "https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)"
+    },
+    {
+      "year": 2003,
+      "text": "Iraq War: In Nasiriyah, Iraq, at least 23 people, among them the first Italian casualties of the 2003 invasion of Iraq, are killed in a suicide bomb attack on an Italian police base.",
+      "link": "https://en.wikipedia.org/wiki/Iraq_War"
+    }
+  ],
+  "korean_war_hits": [],
+  "korean_war_date": {
+    "month": 11,
+    "day": 12
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia, Ukraine exchange strikes as Baltic nations issue drone alerts - Al Jazeera",
+      "summary": "Russia, Ukraine exchange strikes as Baltic nations issue drone alerts Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPY19vcnl1bmFEN1RSdHhxYmJlT043aTVRT2YxWEFobXh1UXBtUU91RnhhRF9DM1NDd0lvRmJ5b1RkdVl4SHcwdnFadnNjN2pFMG4tMU92Ml9FVGRpTWZFYmJqZXN6bENyY0JJLVNQcW5GM2ctMWQyMkN5TTdPYXhwQ3lHd2pCMzExWnQ2T1otVmF5ME9JS01naDBfRkxid3h6eWNDb9IBqgFBVV95cUxPem03d3NxUDB4NUdQNi1qYkVidE9LOHRFbUstWGpMaDkzVFlEVWpCNDE2RmhJYno2X21tUkkzcTE2V3oydXRwbGdBVmRrY2x0LUxERTIwbnBtc1BRN1lvZi0tZ0FVTkJaQVNFa2hKZHB3VHN3V285RmNodGhfLS1PMkJBcmpScEF2RFYzU0stOEVVdmctaGtNR3pFSGFkUThhYXVOUHlkM3Z2QQ?oc=5",
+      "published": "Wed, 11 Nov 2026 07:44:59 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russia-Ukraine talks end without breakthrough announcement amid barrage of drones - ABC News - Breaking News, Latest News and Videos",
+      "summary": "Russia-Ukraine talks end without breakthrough announcement amid barrage of drones ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTnBQOXJsM2ZWTUhBbFdhM2lucUlXcVhTejJMZWtDbUtSR0FPekk1ejN4Q25SMW80VmxCM0dXeHRvemtZM3pIRzQwZjdDeXluOW8wRmFMSDZPNU4wakRmVWoxR0ItczVya2EwTmtFa2o3ZEdNa2haUmtoQ3MzMXRlRUxzQXh4eTRITUpYczhueUdHLXR5MkpoZTlFRk0yWFY4bGRUYdIBqgFBVV95cUxPQXlKSURFOXZ5MmZIb3NORkVkZEV3QWxnemxEODNuTnJRa05jNEdQY0s0NDVuZVpsc1dkUjVwcmJYdGQ5eHNaYkZVNmJTR1RBSjNYYzFzbm1FajQ0UXYwbGdyVXlPNzNKZFVsY1lsYld0MnRtRnNjcFA1ekdzenVpLTNteHRUdFgwUFMzSGNqTzBXZDU2QzRYU210YlZTLXpSdTc2TmNma0dQdw?oc=5",
+      "published": "Wed, 11 Nov 2026 14:27:51 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "DW News. . Ukraine's military is scrambling to find better and cheaper ways to intercept Russia's new, jet-powered drones. Ukraine used to shoot down 90 percent of incoming drones before Russia moved to jet propulsion. Now, that figure is closer to 60 perce - Facebook",
+      "summary": "DW News. . Ukraine's military is scrambling to find better and cheaper ways to intercept Russia's new, jet-powered drones. Ukraine used to shoot down 90 percent of incoming drones before Russia moved to jet propulsion. Now, that figure is closer to 60 perce Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZE5ROS01TERSVXdiTTlYUUg0U0sxQ1FRVEl1UTNza1RTMG1Edjc3UnZaY1BJZDZPb0o0dlNGT29tRi1RRWV0a0VuVWdiS3luZDFqRmRhMzk2RTBKSXRmSUh5OFpKSkthaExudnFaU1NNOG9lOG5Cb3BkMnFyLWE4d1dUZTlHY2pEM1RQaWpCUkFUeUpoNzdZd0JkZVMyeXd4RWU5YUNrOTNOWk1hcU1qcHB1QnlwWnVYajVxdUx2eUVzSWpXcmJsaktBREc1WXNBRW5KTTNTUTNZTVJJdXUwOUZB?oc=5",
+      "published": "Wed, 11 Nov 2026 10:00:50 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine Military Situation Report | November 11 - Hudson Institute",
+      "summary": "Ukraine Military Situation Report | November 11 Hudson Institute",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWtDSzl0Q3Z0N05LOFBOLV9vU3VGMmxtOWptX0l0a3dhVFVqTTlUNk9ENzl4RHNWa2gyZWxaTDFIZDAwQ0VocHphVUNwblZqeGhIQmlXREtTTnR6MTVzbzhlSmYxX3MwUjBMWU9iMjFjZkdFNS1vcEZudFF4MHVBeFFOQnI5Mkg0OEZldUVMemhRU19PbzBNb1NwVDNUSTJqRUFPZFNPbVBlaTh5?oc=5",
+      "published": "Wed, 11 Nov 2026 16:18:19 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine’s new drone blitz cuts Russian oil refining capacity by 30 percent - Atlantic Council",
+      "summary": "Ukraine’s new drone blitz cuts Russian oil refining capacity by 30 percent Atlantic Council",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMlhmdTN4ZmVpSzdZQ0FxS0k5aTNob0hEbEVmaHBMNGY4Y3NpaFlCNmIzRHRvazBNa3pycEpEQ3lMMlNFaFhRX3NHelZIbndpTmlSN2ZXMG9yOVNxVWhuam5LRkVQWTRNSVA5N3NJWGZrU3NkdE5sclItU3RDYlgyZXdOeWF2WG9kLU1RcmlLanhIclgzTy13MEdVMWg5YjY0N1ZsRFRyUnowcmJjQ0RqcDdOY01mZnVkOTkta096MTBhQjQ?oc=5",
+      "published": "Tue, 10 Nov 2026 21:54:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment - The Guardian",
+      "summary": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWjZYdEdGclo5TVdOVXhmMWc5c2ZlWmZwN1VsVFlQS1FCQ1ZsZVVhSC1NYWFvQ2cwUEVOWHVFREUzYUJUbFhSUG83U0tYRXlaTzFpOXhsekhwNHJBbHh0WVR5MERnbzRkUnlZWmFUM2hyWWZvZktCLWZpUUs4MnVObmNVdVFlV2gwQ29PV1RibElJdklnM1E?oc=5",
+      "published": "Wed, 11 Nov 2026 19:48:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli strikes hit medical complex as nine killed across Gaza - Al Jazeera",
+      "summary": "Israeli strikes hit medical complex as nine killed across Gaza Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUjFPWWxmYkExQ2pkYVBVZ0N3RFJnUjh4a0pmM0JEQVI2Z09td01Yd1J1Ym14ZEVKaGFFTWczb1NSRnpqWnJvdkhxdEZJU0JCdXVlb3Rjb1JmSFZDWHpHdW94MHlLOHhveDBwZXp1YzliTXd5bG5XM1pra3VqUGZfR1lTaTctWjBQcmdINkdOZ3lvSHdRMkJmclhn0gGfAUFVX3lxTE8xbmxmdzdrZDUtNGx6SnJ3NjlTOFV0YzFZZEhtUjNnSVRuVXd2UXBoQzVheEZCYkF3b21FZHhDWVo3UnFtZlg0NWRTc2ZQVlMtODFid3FhZWRGaGQxbFNhY1JpemZqNTVuRTB5QlVxWVdFSW5yakROZTI0WHdoQ1o2OEh2NU9EUzZtcnVETS1TUUZwLUNvcXJtQlp1aDQ0aw?oc=5",
+      "published": "Thu, 12 Nov 2026 02:23:58 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Deadly floods sweep Gaza’s tents, intensifying pressure on Israel - NBC News",
+      "summary": "Deadly floods sweep Gaza’s tents, intensifying pressure on Israel NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYjkzQWRCcUdGMWtLV1RQd3dQUzBNTFc4Y3VpSVdFek1TZjM5RGNCT09XUWt1aGxfcHlacUwwRy04LXBIMGFtcTFidGk3NFhacW9FeWM0UVpoTWxlVDdIRnRFay1DWG9UYjRhcFpVM3FnQVB2T21kbmhQRkR0NjlFZ2JRelRra3BINlBEMmNBeElfRExYd2xMcVBiLXpEbHZicXRxRHlLMzdKUVhxQkEwaFJLVQ?oc=5",
+      "published": "Wed, 11 Nov 2026 13:50:51 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Trump’s Board of Peace chides Israel for ‘insufficient’ response to Gaza flooding - CNN",
+      "summary": "Trump’s Board of Peace chides Israel for ‘insufficient’ response to Gaza flooding CNN",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVo2dGNOQ1puWENnTnVKZTVuV2p3R1JGR0NfUG1XUVRrYnJXeHpka0VkN1dOdEtOeVpnSFc5V19VY3ZndTk2cnBMNDEzUElkNXRWNHk3YWotTEF0aERvSXAyanBqeG4tczRCUWI1QU8ycW5HWUVUN1ZJZUtEblcyQkRaZHF4OUpzcFRIRmM5VjFSMXQ2cXBMOEpPTUQ?oc=5",
+      "published": "Tue, 10 Nov 2026 15:03:21 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli airstrike kills 6 Palestinians at Nasser Hospital in southern Gaza - Anadolu Ajansı",
+      "summary": "Israeli airstrike kills 6 Palestinians at Nasser Hospital in southern Gaza Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnZ2RDJPS2ZWNk1Md2x0aW5SMGRGQUFaUGhLM3h3WU9fOG9RSkNsS3NiNzNBMW5uS1Nvb0tlX2x3WnZyb0xJSzY1Z1F2MUNjd0JCTVFWRUlHYnFiWHpLVjY4cWpBNFVWNTBmVGJxMVQzRTBockZiRGFBTW9JR3ZJMUNsbVhjX2pqZXlkd0dtM285TFZ2WXVsLUVzU3hBbko2NDlkLUFyUldLUEtibmtlYnhHbTFyamc2dUdj?oc=5",
+      "published": "Thu, 12 Nov 2026 00:47:08 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli strike on south Gaza's Nasser Hospital kills at least six Palestinians - Middle East Eye",
+      "summary": "Israeli strike on south Gaza's Nasser Hospital kills at least six Palestinians Middle East Eye",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSHlLUjJQMmppRkZEWjNjRUJmZVNTcGhNdEsza1BUX3YzUmxLb3poMENBaVN5OE01WHI3X1ZSTkItbHNCWFdYc055aHg0SlVsdmQ5a3FPRGZHUDZLVlBKNEEwQzlScTliUjBlaGlRdi1iTVFFTTBNazlPN01PWE5ib0lvQUpaRFd0ZWxUeDV3c0xOWDlLT2tLYlUyN2NFTmtiSjlfU1VuVk9BSWpqX0IxeGVjelBpSnZzZHl0UVUtY3ZQdGRBYWZv?oc=5",
+      "published": "Thu, 12 Nov 2026 01:26:00 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Gaza Ceasefire Violations Continue as Health Crisis Deepens - - IMEMC News",
+      "summary": "Gaza Ceasefire Violations Continue as Health Crisis Deepens - IMEMC News",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONzA2eFQ5RHZIWEtVclV4X2tDMTRPMHNnSkt6MWtqSjRPUGx1REs3aHZsVU5PNkxJbzVJaDU2UDFYTlFmRl9LeEdvQ0phcjJSR0tuZl9LWFAzSEpvc1M1Mk9jX2FoTmF6ZGY1b3dnbWdzc2NxOWlzTDZOM0JDQjFrbWJfQ092OFFmUEdOVHJxQQ?oc=5",
+      "published": "Wed, 11 Nov 2026 10:49:58 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "#Daily_Brief: RSF drone strike kills nine civilians in #Sudan’s #Blue_Nile region Addis Abeba — At least nine civilians were killed and several others seriously injured in a drone strike attributed to Sudan’s Rapid Support Forces (#RSF) in the Blue Nile region o - Facebook",
+      "summary": "#Daily_Brief: RSF drone strike kills nine civilians in #Sudan’s #Blue_Nile region Addis Abeba — At least nine civilians were killed and several others seriously injured in a drone strike attributed to Sudan’s Rapid Support Forces (#RSF) in the Blue Nile region o Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR09vR2FYMjdCbks5RkZVcDhYRWlPWFkwUUZUd2hmVWlBc1hhZXVZamlxUlRHUWltQzVNeVB1Q21LX3psLV94ODZxYWF1a05mMWoybnBORk9GRlR5REJ0LVlKTUF6MDFqeUhRU2VZUmNNa1JlRjQxYWhVS0MtbmxjaDhSQ2IySFRaRFp4R0QzV2EtUTNOOUgxelR3X1BIVDM4R29ZajBibXprcUdFbDBDUlZqMVAyNEI3TkpSYkdiTTlBSnBRSWZRV2czYjA4cHhrS2Y5VENhYVp3WUJjSmhB?oc=5",
+      "published": "Wed, 11 Nov 2026 05:35:08 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Daily_Brief: #Sudan lifts 20-month ban on Kenyan tea imports due to #Nairobi’s alleged support for #RSF - Addis Standard",
+      "summary": "Daily_Brief: #Sudan lifts 20-month ban on Kenyan tea imports due to #Nairobi’s alleged support for #RSF Addis Standard",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE41aWJOUXp5Vl9DLTAzaTdvME5jSVNkMldzVlAwcVNVU2lObWVSdjNGM3hraXhURXZHWXhqTWI2aGFacjVjVVpUQ2dfcjJWcG5WUFE?oc=5",
+      "published": "Wed, 11 Nov 2026 13:16:47 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Sudan army claims it shot down hostile drone in West Kordofan - Latest news from Azerbaijan",
+      "summary": "Sudan army claims it shot down hostile drone in West Kordofan Latest news from Azerbaijan",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcG9iSDVOY0lmNUZqc3JiQURWX2d6RWxfdGpPMWlyUnp2UEdMSnNxNXpzb1d5V1Q4M1NRcjJYSnRPRXU3eHdGTlBWV21yREc5YVBzUldGSVoyUVZuRG5lZWJrNGEzZ0pPcHR5eUtTdTdHTkNodHJWcEp1YmhwcnYtVHAzSzhpanJLNlE?oc=5",
+      "published": "Wed, 11 Nov 2026 06:36:05 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "ASEAN: Increase Pressure on Myanmar Junta to End Abuses - Human Rights Watch",
+      "summary": "ASEAN: Increase Pressure on Myanmar Junta to End Abuses Human Rights Watch",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcFpwV1ZQVS1HN2tES0tBdk1aRWRfRGhlN1ZxVXlfcndUeF9CdlJqYVk5QWlSWl9qZXhMSEMzSHM3UkJtQ3BNclRJMWZRbTNoaHF6bFZvMlloSmg3RnU5MnFzVTdxWkdBTmduVHcwRE1hc1lTUkNGZi1wemhiQkVrWVhRSGVBNmZ3S0ltU2ZSTG91S1BY?oc=5",
+      "published": "Thu, 12 Nov 2026 02:00:00 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Condolences Do Not Stop Airstrikes: Why WHO Must Stand With Myanmar’s Frontline Medics, Not The Junta - OpEd - Eurasia Review",
+      "summary": "Condolences Do Not Stop Airstrikes: Why WHO Must Stand With Myanmar’s Frontline Medics, Not The Junta - OpEd Eurasia Review",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjdUY2dmcTFPS19xWDJaV2tvREo0SzlGTTVqNUtzTDE4UGlLLU8zLV85RHRaOFdqNEF6am9BV05GREw0QlhKS3VBcE85NEtpVWxzaE1zYWxrX0xDd0NIS0pMMWNFVHpPb3BsbnNyWWMtTlhsM0N3OWFiRHVzeEVJS0ZnenpWR2RUN1JrZVRKVXd5NHBNeF8tTTRFY0FpaUxPUG96ZlN3MGh2NEh6ZENKSVFhVUpCV2lFS3duQjdocTFHXzcyRW1EZW9OaUhCZDNQMERmM3JiSFVkcFk?oc=5",
+      "published": "Wed, 11 Nov 2026 23:55:54 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar Junta Seeks Record Military Budget as Millions Struggle With Poverty - The Irrawaddy",
+      "summary": "Myanmar Junta Seeks Record Military Budget as Millions Struggle With Poverty The Irrawaddy",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVndCMnVUWmRhdFRiMHRqUUdZcHFqYzl6X25EVVRfVFBZNWNVZnRDVGxubm9NUnhkT0NadXowT2Jtc3FYaEIzdjBjcWVvbnJjcHI5MDhva3o0bHFfVXZ0RGNiZDRsZGRnVzNxSzU3ZUdlRllzT2ZMTlpGMXcwSnAzV0VPSjc3UUhDSDN5VF9LWjBGeWY4bHlkb08tSWY2Y25WVWpPU3lzQmpsVWF6Ym1lSmMzM24zN2VDeEE?oc=5",
+      "published": "Wed, 11 Nov 2026 12:35:33 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar junta seizes NUG Special Military Region and PDF camps - Myanmar Now",
+      "summary": "Myanmar junta seizes NUG Special Military Region and PDF camps Myanmar Now",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTB1dzUxaGk1RGlncTF1YkQyM2VHSGpwQUYtaGFnWHpCX1gwZDh6aDItYk0wU05DN2k4N09LcVBJUHQ3cV9tY1h3NDR0REhuTzVoMlNzRGtyWXNIOXRHOFFlMmlFeUdkYUR3aEhCZU5pUGl5NXBQUFhZSVBXNUlwekx1eVBiUXYxajVQNU9NMHdtUmJ4bmV3U3l2WQ?oc=5",
+      "published": "Wed, 11 Nov 2026 11:14:15 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar junta from ASEAN, Marcos urged - Philstar.com",
+      "summary": "Myanmar junta from ASEAN, Marcos urged Philstar.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOUZ3THFaUlFFWWgtOGZMY29HRVN0LU1IOVFJa0ZKTERzcVM5Q1hTNy1sMGE1WjhiMHJacjBTeVBuSk9RN1JkX3YwcGo1VnY0ZW9fRV9ENkFfUU13ODdqVWlfTlc4SVZZd0NmRmRUajNLaE01dXZqYzNBeUFPRU1qMnRjOVNPNVVnQ3lGekY0c9IBlgFBVV95cUxOWDlHa2FLMnZISFdYamUzcWVLWm44V3g5amJvNkpFV3Q2UXVqODBPNVRITUVnM2p1aFVuVDdnX1Zwb0RWY1E1azFia3V0WGQ5cGd0R3p5S0NQWmFuMVpUS0FPems2X19uREFHMW9fVHZsMWJScDNhMk13MVhaRzllRVd6c1g1QXk2ekQ0WWZFTVNYZjFOMnc?oc=5",
+      "published": "Wed, 11 Nov 2026 16:00:00 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "THE IDENTITY TRAP: How Myanmar’s Military Exploits Workers in Thailand - Shan Herald Agency for News",
+      "summary": "THE IDENTITY TRAP: How Myanmar’s Military Exploits Workers in Thailand Shan Herald Agency for News",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9LbGROYnVxSjV2NmFZMV9neHppUVhyYlIxVVl2YmtHUVdWUk9FZGctcVpCQkstamtiWUI4TnhTRk5yUHFQZVFWUXpsYjJGUVRJbXFiNE5n?oc=5",
+      "published": "Wed, 11 Nov 2026 08:56:03 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "Rival Terror Groups Devastate the Sahel - Africa Defense Forum",
+      "summary": "Rival Terror Groups Devastate the Sahel Africa Defense Forum",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UQlpzd2M4NmtSQ3J1OGR0UDRlaDFJakRpWU9JVmFHTlB2WEo3MENRTUNwTjVLbHZsWkJFYU9FNWprTExsU1lpU1psd1E2cURQcVlweUFLYXFya1lMYUE1NTVOVHZFZ1JZbDRHenBLYk9Rek1zQ2lobERLcmJRQQ?oc=5",
+      "published": "Tue, 10 Nov 2026 18:07:06 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+      "summary": "Gaza's Civil Defence says an Israeli strike on Nasser Hospital has killed at least six people.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 01:20:55 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Hegseth scolded by security at Tomb of the Unknown Soldier",
+      "summary": "An army sentinel guarding the Tomb of the Unknown Soldier in the Arlington National Cemetery has reprimanded Hegseth.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 00:18:46 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US election results could be positive for Lebanon, Hezbollah chief says",
+      "summary": "Naim Qassem says Republican losses and Israel's election result could help Lebanon maintain sovereignty.",
+      "link": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 00:06:50 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
+      "summary": "Israel orders military to step up preparations for possible attack on Iran as Tehran says it will retaliate if attacked.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 00:00:44 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Barcelona erupts in violence after general strike",
+      "summary": "Protesters hurled fireworks at police and set rubbish bins ablaze in Barcelona after Spain’s general strike.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss",
+      "published": "Wed, 11 Nov 2026 23:50:01 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israeli strikes hit medical complex as nine killed across Gaza",
+      "summary": "Nasser Medical Complex in Khan Younis attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.",
+      "link": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
+      "published": "Wed, 11 Nov 2026 22:55:37 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 22:07:37 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+      "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 18:04:58 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 16:45:11 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+      "summary": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
+      "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 13:24:29 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
+      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 00:19:42 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Haitian PM praises El Salvador after joint strike on alleged home of gang leader",
+      "summary": "The 400 Mawozo gang was targeted by El Salvador's military, which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "link": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 11 Nov 2026 12:14:12 GMT"
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "EU 추가 대북제재…노르웨이·우크라이나 등 10개국 참여 - VOA 한국어 홈페이지",
+      "summary": "EU 추가 대북제재…노르웨이·우크라이나 등 10개국 참여 VOA 한국어 홈페이지",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbk5WZzJGWnpFcnJhMlZkZUQwOEdHa1J2enRTMTd5cDNjUUJfR0Rvd3V3cW9PZmJ5WC01ZF9OV3EzZDRjeXNpbVhac1Y3b0RlbWxpaW41NVltZUN0MTAtYWRKMm1UR0J6dElDQ3pqcEZ2UTk2ZWo4UzhaMUFvd3VyYUFvRU0xWWh1MVQ5clZR0gGQAUFVX3lxTE9VcWhzdGFKb3p6eGFORmVabGdhdUFZeVRDVEhibTZpUmlLMlBCZkIyLXdfRXd6YUY5RTZOcl9DcnVyR2s1V1VQMFpCWi1yTmI3cHd3b1Vubmc2Tm03TGk4TXVJSVNmMEF2OGNzTDBaakFzaEIya2NqUXQxWFl1QjRJdEptcUhJaktzcHFlcWQ3VA?oc=5",
+      "published": "Wed, 11 Nov 2026 20:09:57 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "김정은, 동해안 해군기지 건설 시찰 “무조건 기간내 완결해야” - 한겨레",
+      "summary": "김정은, 동해안 해군기지 건설 시찰 “무조건 기간내 완결해야” 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85OTM3OFRhLTV6MTV1dVlUUERVa01kX054VE43RnhWZE8xZ3FZdGdIdWZ5WnN4WE1jNW9XMkZGX3BhczJsLWxBYkk5bVRmZElvbmRkamF3aElwSk1ZWGw3S1otOU0teHls?oc=5",
+      "published": "Thu, 12 Nov 2026 01:12:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "김정은, 동해 해군기지 건설 현장 방문…\"현대화·요새화\" 강조 - 뉴스핌",
+      "summary": "김정은, 동해 해군기지 건설 현장 방문…\"현대화·요새화\" 강조 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tNkZEMkJ6aXRxbk5zRHJkTnpMbDhBcFU2eVFTelluZXBSQm1IYnlubnJlWnJfV0VERjhUT3BDcFphWnVHYW9FNjc2VGZheWc4WDRrV000WnhlVFVU?oc=5",
+      "published": "Wed, 11 Nov 2026 22:15:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "北, 동해 해군기지 건설 추진… 김정은 현장 시찰 - Chosunbiz",
+      "summary": "北, 동해 해군기지 건설 추진… 김정은 현장 시찰 Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYmdGbnBONGpGc09TWkNycE9Ha0ZBM1RXX3lITGROT0pOZGpVQzlNblJKa09qWU80cFlaak1JN3lMR3BfNkRUZTBjWXdYNTJDWW9iM2Z2S0RBbFplcFFlR1l3WWVZOXYtTnRtbnktQlhwWllaU1FId0U4QzQ5RTYwUjlSZmtvd9IBmgFBVV95cUxNV3J1Y0VJXzVKOTZ4MFJCbXMxbU1CMDFUN19yTDFZNXdxQzBieXN1V1FValZyU21KdlFLT2xKLXhZZk9ZMnlQd2JsNnExYjhHWUtlV3daYXk3cEYwdEJaaS1yN0pRenZfaUp0ckk4NnlJcHFieHlJOXpmZzhnbC1GTm5KRVM2ZHVQTHllenBIbnF6VTdJUDRqM1hB?oc=5",
+      "published": "Thu, 12 Nov 2026 01:07:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "지상 핵무력 완성한 김정은, 이젠 바다로… 北 동해안에 ‘핵잠수함 전진기지’ 구축하나 - 아시아투데이",
+      "summary": "지상 핵무력 완성한 김정은, 이젠 바다로… 北 동해안에 ‘핵잠수함 전진기지’ 구축하나 아시아투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RMFVNSjlyNEtyYWYySTQ2RlBVdDdUQlo5UG03MjRFeWViRXExSW42OUlVZElnczJNdkZNVU1QZDA5dkI4V3RHQm1VUkEta001eUxIUTVvNmM3ZE9HQkhaVDhTaDRlVXdNbzRzNWhB?oc=5",
+      "published": "Thu, 12 Nov 2026 01:52:28 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "김정은, 동해안 해군기지 건설현장 시찰…\"정해진 기간내 완결\" - 연합뉴스",
+      "summary": "김정은, 동해안 해군기지 건설현장 시찰…\"정해진 기간내 완결\" 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16aUNQUGd3ODQwTlpidTFHaWZCS21UZlQ0UXRMZTFyX20xVkNUUnhKcmtHQ3hVbVdGMXYtNHRVdHY0UHBIVzV0SHNaNnllVXB0MDdPczFGMXE4SnfSAWBBVV95cUxPaGY0YXlVRElLMVZCaExTSkk5MVJEN1lTb2swVnVGVkFUR3Fod2ZtZkpkMHV4R1VieGpTR2IzeUtKMFZjSEJXQUNvOFRlRWdvZVJ5SFJxdDZQNUNoX3JwMFY?oc=5",
+      "published": "Wed, 11 Nov 2026 21:56:56 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea's Kim inspects construction of key naval base, KCNA says - Reuters",
+      "summary": "North Korea's Kim inspects construction of key naval base, KCNA says Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDNKZUVkc3hWOFZhTW9ZV0hWT3VQSFNmNWRVTlhGcV9DZTdxRWRpRmV1VV9KVlo3VUlDMEVFYXVsbG93WGhtYXlxUE9kNjlqdkVZRDJyNGRLUm5BTnVxbHBTRm5mRkpZdXJKR05DTVBXSDVweGFwTDNwYkJOYzRVNlozU3ZMUk1hQkExNGFXOWFfd3ZaMEl2cC1BaXZMQ3FkNzdTZDBMWVlnZ3czVXA0T2V4eXBCZnpsWXc?oc=5",
+      "published": "Wed, 11 Nov 2026 22:18:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Trump Is Facing a Very Different North Korea - Foreign Affairs",
+      "summary": "Trump Is Facing a Very Different North Korea Foreign Affairs",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUVhXVDNrdFJJRmFOSk9jZWYtSkVZVkFqWjZNVHJLU2dkS2hlV3RVVnRuQUcyTGtLYS1DU2xoQ3Q3OU53YjR5SWpWMVhqNW1tM2pCVkhNOHRMcjM4aEtsLVZNX3Btc0drUi1XTmtBT1JVXzlibGJyNlk1dVBZSDlDclRmY3pWcXVhSFE?oc=5",
+      "published": "Wed, 11 Nov 2026 09:00:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un inspects new naval base construction on east coast - NK News",
+      "summary": "Kim Jong Un inspects new naval base construction on east coast NK News",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5zSld3OUJsdlJjbWFZa2NYYjdkaWhWeUVVSGVEUEtSLVVib1dFYW9DV2NEQlJ6MjMwREhZN1EtbEY4djdRUGVN?oc=5",
+      "published": "Wed, 11 Nov 2026 22:28:20 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "N. Korea's Kim inspects east coast naval base under construction, urges timely completion - The Korea Herald",
+      "summary": "N. Korea's Kim inspects east coast naval base under construction, urges timely completion The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ORGJTUnB1VkpGM1Nsb0RFNTI4b3Vhek5hWFAySTRDSDRqYk9wbm1ybG5uLU90RllKVXM3NVlzV3F3TW9lWktyR0gzUW5VVllEQTM2aUQtNA?oc=5",
+      "published": "Thu, 12 Nov 2026 00:37:01 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korean Escapee Exposes The Truth About The ‘World's Most Dangerous 13YO' Tipped As Kim Jong-Un's Heir - Yahoo Lifestyle Canada",
+      "summary": "North Korean Escapee Exposes The Truth About The ‘World's Most Dangerous 13YO' Tipped As Kim Jong-Un's Heir Yahoo Lifestyle Canada",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHY4S01QSUF6dTdMMXFLLWwyVDVZSDc3bU9Fcjd3elVRX3hJeXVCWlRobnpOV05jSFdqUnFkMUpwZnlKb0ZxdG5UWERHM3ozTzhZZFd6SHpEU3lBakJwdS1aaE9yMFpycm5iQ2gwTU5IazdNVzdpYjRJYXN5T1c2Vkxn?oc=5",
+      "published": "Wed, 11 Nov 2026 23:39:30 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Why did North Korea give up on reunification? Kim now calls the Koreas two hostile states - Nacionale",
+      "summary": "Why did North Korea give up on reunification? Kim now calls the Koreas two hostile states Nacionale",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGdrbm5ONFluYXlPcUJiRVlyVHhWczZCV3Q1UFhSRXJoRS14LWJHZTV0OVRpdVFqSDB0bWlVN0hkOVJQdDl5RzctSERFSTBhc0ZXMmxlUzI4ME1zXzA5ejlncV9OLU04Vk15ODRJU2ZUX25DLUNJcXF4WmpZY1FZelN1eVlTWU1CM0Z1Tk1hR0thREY4VDNnRXJYZ1FaalhwUFNFLUM4Q2J6Z05lRzZoRlBzWnVFTEZ4aVhxcQ?oc=5",
+      "published": "Wed, 11 Nov 2026 21:38:20 GMT"
+    },
+    {
+      "source": "38 North",
+      "title": "The Choe Hyon, North Korean Navy Surface Ship, and Its Strategic Implications",
+      "summary": "Overview of Series Analysis Most existing analysis of North Korea’s Choe Hyon destroyer has ... The post The Choe Hyon, North Korean Navy Surface Ship, and Its Strategic Implications appeared first on 38 North .",
+      "link": "https://www.38north.org/2026/11/the-choe-hyon-north-korean-navy-surface-ship-and-its-strategic-implications/",
+      "published": "Tue, 10 Nov 2026 21:21:03 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Kim Jong Un inspects new naval base construction on east coast",
+      "summary": "North Korean leader Kim Jong Un inspected ongoing “major naval base” construction on the east coast on Wednesday, according to state media. The Korean Central News Agency (KCNA) reported Thursday that Kim guided officials on the “prospect for building the center of the Korean-style naval command, the center of naval culture and the center of […]",
+      "link": "https://www.nknews.org/2026/11/kim-jong-un-inspects-new-naval-base-construction-on-east-coast/",
+      "published": "Wed, 11 Nov 2026 22:26:43 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea posts text of revised constitution, confirming Kim’s expanded powers",
+      "summary": "North Korea has published the full text of its amended constitution for the first time since the parliament revised it in March, confirming previously reported changes redefining the country’s territory and strengthening leader Kim Jong Un’s authority. The official web portal Naenara published the text on Tuesday, restoring its constitution section for the first time […]",
+      "link": "https://www.nknews.org/2026/11/north-korea-posts-text-of-revised-constitution-confirming-kims-expanded-powers/",
+      "published": "Wed, 11 Nov 2026 08:42:00 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea puts embassy building in Mexico up for sale for over $2M",
+      "summary": "North Korea has put its longtime embassy building in Mexico up for sale for over $2 million, NK News has confirmed, though it’s unclear what this means for its future diplomatic operations in the country. Photos obtained by NK News show that the DPRK flag, national coat of arms and a plaque identifying the mission […]",
+      "link": "https://www.nknews.org/2026/11/north-korea-puts-embassy-building-in-mexico-up-for-sale-for-2m/",
+      "published": "Wed, 11 Nov 2026 07:26:57 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "South Korea’s top diplomat discusses North Korea with US, Ukraine counterparts",
+      "summary": "South Korea’s top diplomat met U.S. and Ukrainian counterparts and discussed North Korea issues on the sidelines of the G7 foreign ministers’ meeting in Paris on Tuesday, according to Seoul. ROK Foreign Minister Cho Hyun met with U.S. Secretary of State Marco Rubio and exchanged views on a range of issues, including overall bilateral relations, […]",
+      "link": "https://www.nknews.org/2026/11/south-koreas-top-diplomat-discusses-north-korea-with-us-ukraine-counterparts/",
+      "published": "Wed, 11 Nov 2026 07:19:47 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "North Korea’s $6.36B crypto heist, and the hidden lives of its IT workers",
+      "summary": "NK News Lead Correspondent Shreyas Reddy joins the podcast to discuss North Korea’s record-breaking $6.36 billion cryptocurrency theft from Binance, the sophisticated laundering operation that followed and Pyongyang’s unusual diplomatic response to the allegations. He explains how North Korean hackers allegedly compromised a Binance engineer through a fake recruitment offer, allowing them to steal billions […]",
+      "link": "https://www.nknews.org/2026/11/north-koreas-6-36b-crypto-heist-and-the-hidden-lives-of-its-it-workers/",
+      "published": "Wed, 11 Nov 2026 06:39:51 +0000"
+    },
+    {
+      "source": "NK News",
+      "title": "Czech Republic’s new ambassador to North Korea takes up post at embassy",
+      "summary": "The Czech Republic has appointed a new ambassador to North Korea, more than five years after Prague suspended embassy operations in Pyongyang during the pandemic. The website of the Czech Embassy lists Karel Šrol as the new envoy, stating he took up the post in October. Šrol paid a courtesy visit on Monday to the […]",
+      "link": "https://www.nknews.org/2026/11/czech-republics-new-ambassador-to-north-korea-takes-up-post-at-embassy/",
+      "published": "Wed, 11 Nov 2026 06:39:00 +0000"
+    }
+  ]
+}
