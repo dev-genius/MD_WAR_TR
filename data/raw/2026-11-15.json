@@ -1,0 +1,395 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T10:23:07.879135+09:00",
+  "history_candidates": [
+    {
+      "year": 655,
+      "text": "Battle of the Winwaed: Penda of Mercia is defeated by Oswiu of Northumbria.",
+      "link": "https://en.wikipedia.org/wiki/Battle_of_the_Winwaed"
+    },
+    {
+      "year": 1315,
+      "text": "Growth of the Old Swiss Confederacy: The Schweizer Eidgenossenschaft ambushes the army of Leopold I in the Battle of Morgarten.",
+      "link": "https://en.wikipedia.org/wiki/Growth_of_the_Old_Swiss_Confederacy"
+    },
+    {
+      "year": 1688,
+      "text": "Prince William III of Orange lands a Dutch army at Brixham, beginning the 1688 invasion of England to challenge the rule of King James II and setting in motion the events that would lead to the Glorious Revolution.",
+      "link": "https://en.wikipedia.org/wiki/William_III_of_England"
+    },
+    {
+      "year": 1705,
+      "text": "Rákóczi's War of Independence: The Habsburg Empire and Denmark win a military victory over the Kurucs from Hungary in the Battle of Zsibó.",
+      "link": "https://en.wikipedia.org/wiki/R%C3%A1k%C3%B3czi's_War_of_Independence"
+    },
+    {
+      "year": 1777,
+      "text": "American Revolutionary War: After 16 months of debate the Continental Congress approves the Articles of Confederation.",
+      "link": "https://en.wikipedia.org/wiki/American_Revolutionary_War"
+    },
+    {
+      "year": 1842,
+      "text": "A slave revolt in the Cherokee Nation commences.",
+      "link": "https://en.wikipedia.org/wiki/1842_Slave_Revolt_in_the_Cherokee_Nation"
+    },
+    {
+      "year": 1864,
+      "text": "American Civil War: Union General William Tecumseh Sherman begins his March to the Sea through Georgia towards the city of Savannah.",
+      "link": "https://en.wikipedia.org/wiki/American_Civil_War"
+    },
+    {
+      "year": 1889,
+      "text": "Brazil is declared a republic by Marshal Deodoro da Fonseca as Emperor Pedro II is deposed in a military coup.",
+      "link": "https://en.wikipedia.org/wiki/Brazil"
+    },
+    {
+      "year": 1899,
+      "text": "Second Boer War: Battle of Chieveley, a British armored train is ambushed and partially derailed. British lose the battle, with 80 soldiers captured, along with war correspondent Winston Churchill.",
+      "link": "https://en.wikipedia.org/wiki/Second_Boer_War"
+    },
+    {
+      "year": 1942,
+      "text": "World War II: The Battle of Guadalcanal ends in a decisive Allied victory.",
+      "link": "https://en.wikipedia.org/wiki/World_War_II"
+    },
+    {
+      "year": 1967,
+      "text": "The only fatality of the North American X-15 program occurs during the 191st flight when Air Force test pilot Michael J. Adams loses control of his aircraft which is destroyed mid-air over the Mojave Desert.",
+      "link": "https://en.wikipedia.org/wiki/North_American_X-15"
+    },
+    {
+      "year": 1969,
+      "text": "Cold War: The Soviet submarine K-19 collides with the American submarine USS Gato in the Barents Sea.",
+      "link": "https://en.wikipedia.org/wiki/Cold_War"
+    },
+    {
+      "year": 1969,
+      "text": "Vietnam War: In Washington, D.C., 250,000–500,000 protesters staged a peaceful demonstration against the war, including a symbolic \"March Against Death\".",
+      "link": "https://en.wikipedia.org/wiki/Vietnam_War"
+    }
+  ],
+  "korean_war_hits": [],
+  "korean_war_date": {
+    "month": 11,
+    "day": 15
+  },
+  "news": [
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Russian Offensive Campaign Assessment, November 13, 2026 - Institute for the Study of War",
+      "summary": "Russian Offensive Campaign Assessment, November 13, 2026 Institute for the Study of War",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQclBWaUFmS1p3dUlMYzVncklFbVpIeE1IRnlQc2NRZlY3WXRqNkViU3JpbzM5VUYyWmVBV2NuLU4tanJOZV9ybjl5cXNfRUdtZEhWalVyVjAwa1NBVUREdkZISk1yMktONXRCZEo0bk1VbjNiUkxoakgybldWenF6WFFRelE1a3Uwa0l6V3cwYk1CMDNSb1ZyTHlJTFlNbXdHS3F5SFR1eUpZRFZq?oc=5",
+      "published": "Sat, 14 Nov 2026 02:36:38 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine War, Day 1,724: Zelensky — Starshield Restrictions Continue on Frontline - EA WorldView",
+      "summary": "Ukraine War, Day 1,724: Zelensky — Starshield Restrictions Continue on Frontline EA WorldView",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPR1FJb3lWS2hua0ktcDRKOFR2UGQ3MDVuVW53R1ZNUWVLRHY4amxseWFueXJ5NWg5Z3c1ZFlZemZheHBNN2Z2X0laeC0zSHN0bEVxSHNESVBNbm55WmlPbVJST29CLWxfQkZienk4bU0tZFpOTHFvTFA1WFF3eXBKNFlUSXI1WWZQNTA5ZkZQZmVqeWNIUng0ajMzVjhxSUxY?oc=5",
+      "published": "Sat, 14 Nov 2026 16:27:04 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option - Al Jazeera",
+      "summary": "Three killed in Russia as Ukraine claims US floated NATO membership option Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM3BSZGZYdTBnMGgwZ2pfM1FVWWdtQUlNT0xVci1Tb0VSYUVZVUIta05tSER2dHV1WDlpY0lzSkFfaXl2R0FvRUgxYUd0MEtXOUVYeVVGRzFfU3k0a3hGOXkxUnVBTVlEQVBib0N4N1VUN0REX3N2QUt5c0ZuZTVwNnVxUXhNazV6Y0dKV2VjWEhHLUVFU3RyeUdweEdwSUNyVjd5RUxSTHBBRFFuLTBEOGNNcFc0MDTSAbwBQVVfeXFMTWFfeHZ6ZE9JTlpTT0k2Qkt6c0FXamE3N1FEa25TTEQ5NVh3dmxvS3Y0NlJGelo4d2RQVTEyaTZmeW1aT0xUQnFpblk1dmhWTUNJV1ZXa2JKSlI2bUdLNm44Tlc3ZU1nZGd1UEFDY2lhZWFNUHhyVGlJSThuQy0zb2VhaHViYVZzbVJMMWNDOWZ4Z0ljM0hLY0djQ0sySU9BY2U1ekRVY0pnbkRfMmpwcElzRWVwMnZSbGs2c0E?oc=5",
+      "published": "Sat, 14 Nov 2026 11:51:53 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal | Ukraine - The Guardian",
+      "summary": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal | Ukraine The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMXlzLUQtSFlMUmxtemZJTk13emUzT2stSmpjb1M1UC1oUS0wRFhtOVVSOUJ2TE5NNTVzVmQtc2VIN25GZ3k5dTJNTmJidDRoUnFaVHZtdFljXzB5aFY4R2pvbk1kN05Kb2hrYjdNM2w0bG1lOFdPUjUtbzU2MHdEemI1aFFYTWtNd3k3RzFscThLREFGenJvR3BBdngySWczdlZuc19KR1JSaGk3RG15ZEJB?oc=5",
+      "published": "Sat, 14 Nov 2026 21:02:00 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Ukraine Strikes Key Russian Urals Oil Export Hub and Damages Military Airfield in Lipetsk - UNITED24 Media",
+      "summary": "Ukraine Strikes Key Russian Urals Oil Export Hub and Damages Military Airfield in Lipetsk UNITED24 Media",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN09td21oQ2lTanUyNXN4Zlh0RFJ4OGw4bElIOEZVZVpEZGtmZGVKWjBDQjgxaDk1Vi1wLUIzdnQwRXRBbF9JMm1KMWVNc1FaSnVUSWxub1A2eFV4R0k4SnB5RWhsd2RrMmM1ZnR0RUxpbk1mVmdLNjhiWEpnemJ0WGh2aXhjUlM2OTJGcjBCalJ4MzQ4aDJld1RYRXNJdzloN2hfa0VfQ1VrNTlFNmN1eG04ZDlfSExSUmwzcXY3Wk9aMmkwX0hRckJzeEl1TGJfalE?oc=5",
+      "published": "Sat, 14 Nov 2026 14:36:18 GMT"
+    },
+    {
+      "source": "우크라이나 전쟁",
+      "title": "Whose Eyes? Whose Sky? Drone Capabilities and AI Diffusion Risks From Ukraine to the Sahel - Georgetown University",
+      "summary": "Whose Eyes? Whose Sky? Drone Capabilities and AI Diffusion Risks From Ukraine to the Sahel Georgetown University",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZWRNYWQ2ZDVhQTNNNW1rR09LOVJhdE03M1YxbTNicjg4bHR6dnZOTFEtaGNaTTlzZ1lOWWZrUW9uOWdUWHY1elI2ajdqbUYtRmpTdGJBamZTZ01fc0xfRDg0VTJqSmJaZWx6SS0zQW9MbXJOWFVHZG9BOWMzaW1JRFRfZXIwTnI5c3l0UjdFbktfZnM1LVNSaFdfRG5yRERwRkZaWExDNlZDNF9acXVKRWdmd295TGN1aUdIUWkxMHZUdHQ5NEU5TGg5Y05QbFo3c0dCMzN3UGE5NmRjdGlsMEdXM2kza3d1c0YtTw?oc=5",
+      "published": "Sat, 14 Nov 2026 18:02:45 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli military says it struck senior armed Hamas commander - Reuters",
+      "summary": "Israeli military says it struck senior armed Hamas commander Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5",
+      "published": "Sat, 14 Nov 2026 23:29:51 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli air strike kills senior Hamas commander in Gaza - Al Jazeera",
+      "summary": "Israeli air strike kills senior Hamas commander in Gaza Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQmdDLWFKempfNHV5cGpqdWU0ampmWS1iVXNKSTFkQnhxZmtlOENuV1Vfbm80VVBpNVNEZ0l4VGZYdGF0NkU1eDFsbUVmVXNEOFZCMF9Bd04xUUZVd0J1bmtvRHhBbmVad1NJMkZybFhpYVQyTGtFOEdPeGJPT1JCaERyR0RiQ2YwSDlvZ2VKQVhqZnF4ekFXRmJ4OGpZQdIBowFBVV95cUxONk9IY0QxMlRKTzVKaXJ0Rk9RMnJrczJSMUtjS3cxeGQ5cDhET0VkRDJ3eEtfWFZaOE96dGVJbllJb0duNVMyODVRcUpfMVRBWnlIQkZOVUc5OVBWalpiR1p3dGNvc0RrWUphbjVnQ29RZ0tHZ1dVRFAtMmsxQm1uN05mektmVGtpS3FMSHZ0QWdFdmppRTVVSzcwaDFBbVdhRkFV?oc=5",
+      "published": "Sun, 15 Nov 2026 01:05:02 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli Strike on Hospital Highlights the Devastation to Gaza's Healthcare System - MedPage Today",
+      "summary": "Israeli Strike on Hospital Highlights the Devastation to Gaza's Healthcare System MedPage Today",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xcWlNejJEdlk4Q2NrejRuQmh5ZzlTZnFlRF8weEYwSWhGRTl3MmZtQ0MweUJabE5TV1pJM3pOeWJKdHVUaXBEVWkzREVUOXJKNkVTSW9GX2xhNmtWVkwwRWpqZHZQNkdfYzMxNFFFR3NYbENONDBmOXZ3?oc=5",
+      "published": "Sat, 14 Nov 2026 21:00:11 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "ISRAEL/PALESTINE: Statement by the High Representative on behalf of the European Union on the humanitarian developments in Gaza - Council, European Union",
+      "summary": "ISRAEL/PALESTINE: Statement by the High Representative on behalf of the European Union on the humanitarian developments in Gaza Council, European Union",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNV1F5RG5Sa1RGYXBBdkwteWVCTEZyeUJXajBhYTk1SHltMDRmWjZERTBHVzlkbjhCSDFOZmNjYnRQcTgtaHpRdHNLa0M2aG9FUy1TYi1ueF9SdGYwdTRPN2wzZHdGeVdwM3FLODdxTk0xc1drMkVVMnZWY3J5NXEzT0J0aw?oc=5",
+      "published": "Sat, 14 Nov 2026 12:23:16 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news - ClickOnDetroit | WDIV Local 4",
+      "summary": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news ClickOnDetroit | WDIV Local 4",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX0lIMjh0QzZ3UXM3Z0FaejRIVjVSb0p1RDJ5T2pIb3pjTE5RaUZDX1FxOFlqRDQyaWZET29qaEwxZ3BnM04xNGRvVGhQOHFOS0JFWDJObFNPMnVTdzQyaDVna3RxWTQtOGx3T1gyajNsQjZ5bDBfLUd4RkdqbmxvdWJ3VHFaVy12dnFQRXRXeVVRTlAwNTBrTEtaWE54MVJvbWVCeXFaNjhhQWU4ZkRjT1B1dXJwZDhxSm9kVA?oc=5",
+      "published": "Sat, 14 Nov 2026 13:53:30 GMT"
+    },
+    {
+      "source": "이스라엘·가자·레바논",
+      "title": "The Ceaseless Ceasefire - The Intercept",
+      "summary": "The Ceaseless Ceasefire The Intercept",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSYmJMWGlVUjM4ek1mX0xRUVNOdFZ3cGd5SGtpQUNJZE5teFJnb19VT2Z0YkI5YWhveEttbXNJTmNwSkladklPdkFvY0toM2IwT2lVMkpVWGU5S0EtY0NiM0VFeWF1eG5fNXozMDBtOHN2T052TzV3Zw?oc=5",
+      "published": "Sat, 14 Nov 2026 18:59:33 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF - Al Jazeera",
+      "summary": "How SAF successes in Sudan’s Kordofan could turn tide against the RSF Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNkJmM3UzMlNSRkw2MDNRMUNzZmw1d2Zja21STWpNQUdtenRGRE4wVDlpRlNmdGJkM3FOZzFYV01PWVZxc2Y0S1MydktyME9FZUlRVDhpcmtHTENfdUtTa1czRDBVRDRRQ0lSLTFRdXEyS2JtSjM3eUZraG15SVE5azFNOXBrTzJLYlZVTmhBT3NKYkJHNExuanBDQ3NHNGJGNHozZXB4U3lNU3dXcFg00gG0AUFVX3lxTFBKTkdiU0JuTU1QNVQxTm1MVVhzNWl4dVBpZWFnSnNEak5JbFNjbE9GNEkxS2YwNjRISTNoNHloMkR2WE5JWDNqSU1odk1OOGJzeVY3Ujg0cUNCamgtM25MVEtlV2tjeFZpaEZRYjJXSTdiVDEyalk4Ykw1S0lqb2ViSng2V1pfRk9oQmJucVhsZmJmOWNSeXZSVUpIcno5VG1ZWDVCTnFfX0ZBQi05YmptQTZmTQ?oc=5",
+      "published": "Sat, 14 Nov 2026 12:53:47 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Why Ethiopia and Sudan seek to avoid direct conflict despite tension - Al-Monitor",
+      "summary": "Why Ethiopia and Sudan seek to avoid direct conflict despite tension Al-Monitor",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd0w4QmZJdlJiQy1QZXA5bjdCbFRMbE01R3ZfZWFfZDNRRnJubjVpNTJ3blhLa21pX0tMdlRjY1FoYVlWdUM4b2xKTV9QRUpMTVotN1NEaWp4X0p5ZWwzQ041LURqZGZxQ3pYUEhreVZSODFjVWpodXN0bWtRR3JWSlhqQ09JRzEzYmttamhUMmN3Q1ctcHBCMWNkZ0ZKZnNMQzY2R1RCNVpsZmhtZ2pZ?oc=5",
+      "published": "Sat, 14 Nov 2026 07:46:15 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "Sudan's Social Safety Nets Collapse Amid Ongoing War - Sudan Tribune",
+      "summary": "Sudan's Social Safety Nets Collapse Amid Ongoing War Sudan Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iVWxEekFjam9mTTIxQTJZZUJTaWhiRDVSX0Zyd2xRYy1HZEc3X0o2MTJKN3gyVlN1Vkg4cmd4U2JpQlQ5akhSenRIMy1GS1dl?oc=5",
+      "published": "Sat, 14 Nov 2026 20:14:33 GMT"
+    },
+    {
+      "source": "수단 내전",
+      "title": "#Daily_Brief: #UAE remains main destination for #Sudanese smuggled gold routed through #Ethiopia, neighbouring countries: report Addis Abeba — The United Arab Emirates (UAE) remains the main destination for gold smuggled out of Sudan and other #Afr - Facebook",
+      "summary": "#Daily_Brief: #UAE remains main destination for #Sudanese smuggled gold routed through #Ethiopia, neighbouring countries: report Addis Abeba — The United Arab Emirates (UAE) remains the main destination for gold smuggled out of Sudan and other #Afr Facebook",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcFBGYjNlak1yVHRDRzl5WW1MZVdmWE1rR0plMXFmQ3RuakxYSGdsNFZxRTV3aWZOQThRUVgzMlE1cV9NMWdOMDI2VG9fWWdrWHdCOHpEeWZwb2tSYnA3QTFnMzRRNmRfZnR6NlhNc0pjZEI0YlgyV2RFVmNrQlkyMXVqOTRjb1VjNXlVUDd6Wm0wUUxXS210aE5YTDBEWDJBOTYtY1Uwc2MzTGJRVUxmaU1yZEhTWE9yOEtKYk1RSGdmT00wQzk2QlhscUJEenNVdUpQNHZXTzZvOUdHd2NB?oc=5",
+      "published": "Sat, 14 Nov 2026 11:45:35 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar Military Destroys Two Bridges; Naval Artillery Sets Seven Homes Ablaze - Narinjara News",
+      "summary": "Myanmar Military Destroys Two Bridges; Naval Artillery Sets Seven Homes Ablaze Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53NjlYZ0RmX3lKX3kzcEh0OUR5MVJaOGtIejlWakdSR2hZbGtZc3JFVzlwM1J6d2sxWjB2SFN6c2Vob1JmQzdJRHlxOHBraWhNOWY4Q2NwYWszTTVPRGdRb216d0NtNEw2SHFpUHBsNA?oc=5",
+      "published": "Sat, 14 Nov 2026 19:41:12 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar Junta Troops Advance West of Sittaung River, Forcing Civilians to Flee - Karen News",
+      "summary": "Myanmar Junta Troops Advance West of Sittaung River, Forcing Civilians to Flee Karen News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnZuV18yX3B0ZzNZV0VlYjFWRVlHTDh4a0pOcXdQejNNajhneEFoazZFemZmWHhHa1k5QVBtc0tuUXA3SVIzNy1iN3c5eDFRM1lRTXFDZHFweWp1VWpYeDhLdzVSTXU5MXAxSlBfV280MTZCb2szSTFYMGZzNUxFSU9UTTEwZTlLTWtOaElZYmp5eGV1eWhoUzI3SFUyd2RvbzlFUzAzRDlCdFJD?oc=5",
+      "published": "Sat, 14 Nov 2026 03:12:11 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "The Observers - Myanmar: Junta carries out double-tap airstrikes targeting civilians - France 24",
+      "summary": "The Observers - Myanmar: Junta carries out double-tap airstrikes targeting civilians France 24",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOelhQTXluM0EyUV9QWEJ4NFdkWk5NQVFzTm5kWUFyQkk3UXdUMlVsOVFlNmpNMzZ1ZVlDYy1nbldweC00RW1uQnFQU1NnT0RzNTZzS3ZHN0w5RDZiQ1dOVjlkZk03djltN1VEZUlNci14NFdSYXRqZEZLbzNFZ2dSbUNCcW9ZQl9ZSmdTcXdkd05raUJoZl9INTh3?oc=5",
+      "published": "Fri, 13 Nov 2026 16:41:45 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar airstrike on displaced persons camp kills 12 - CNA",
+      "summary": "Myanmar airstrike on displaced persons camp kills 12 CNA",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR2kwSW5VOW9ralNSRTJybDFXTnFwNWR3WGVlNXZQREp2YjNmX0szbEhTTUNXZHZjZWxVVXRGb0M5eTd2V3pXRzlIQklUM0pCN0pucHYycWx0VUd5T05YZkJnd24tVURnMnVlRmE0RDJJU3Q5bkdwMUxZa2FYNGpSanVURzU5Y2RvQkxtb2lB?oc=5",
+      "published": "Sat, 14 Nov 2026 11:49:32 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Airstrike on displaced persons camp in Myanmar kills 12 — Channel NewsAsia - UA.NEWS",
+      "summary": "Airstrike on displaced persons camp in Myanmar kills 12 — Channel NewsAsia UA.NEWS",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWVNUSUkyT3JCbEFCU0dvaEg4Sk5YY2VZMkpDYXBTc0NEd2otMW92VWcwX0ZvZGV1RWs0VXZBa2hRR1NndFNCbTFmdEc0WlRVOUJVTGdhSUM3dFN5SVFCT2lfV1FxcjRLdlVHUUdyRW5sSTlXM2gxbUM1QTFDTWFyWUVCMHpoVnVCakV4SlBCenpxQjN3bkduWG83c21QUmpuUUVxNlpQRXJqREtVczUzRWdOUGI4OU0?oc=5",
+      "published": "Sat, 14 Nov 2026 12:01:19 GMT"
+    },
+    {
+      "source": "미얀마 내전",
+      "title": "Myanmar airstrike on displaced persons camp kills 12 - Narinjara News",
+      "summary": "Myanmar airstrike on displaced persons camp kills 12 Narinjara News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiSHY2ODF3cGU5SG5RbzNqT212dDVqTWE2ZXUwWl96OU00YWxsR1RqM0JyRm1SQjNqZDMtc1lGSGJCQThaVWRGbW5kZjFhcGNtVm1fVFlhNW96SGhsLXVhS25RU2tHYUlNaGdBR2tYU1dZcFQ4RW85eE4zaw?oc=5",
+      "published": "Sat, 14 Nov 2026 18:06:29 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "Algeria’s army chief says Niger deployment guards shared energy sites - Military Africa",
+      "summary": "Algeria’s army chief says Niger deployment guards shared energy sites Military Africa",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaWJqejNaUVJLQmFQQUlWT19SVUpFS21ZOWVpXzFyOFh6LVRpRmNFVlRfbWJJRHVWbFhuNXpfTnljNlhZM2o5VWdrTjNkWWlEX251QkRFZmd3cnBfamNrZGZGR0Z0cWVoTWEyaXhZNmNvVF83REJRNThINzVWb1FLQ3lpSzdZMzltY0w1RUh5U0x6ZWUxcnNjRlNGUzNCMFdy?oc=5",
+      "published": "Sat, 14 Nov 2026 05:47:49 GMT"
+    },
+    {
+      "source": "사헬·서아프리카",
+      "title": "Armed Men Kill Dozens Of Civilians In Niger Flashpoint - TVC News",
+      "summary": "Armed Men Kill Dozens Of Civilians In Niger Flashpoint TVC News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnpTN0xXQVlWbDJld0RQSnBGLXQ3TTd0RThTLWVBa2d1dTV1NUIybWdjQUFRb2NqcS0zbzdFdkZza3NIdlNndHEzV1FVcVdFWWtTVnZkc3FjX1lLWVZLT0JCTlU3Si1lSDJISFMtX2tYTC1ac2RablhWdGJHb3lLRGZQYnk?oc=5",
+      "published": "Sat, 14 Nov 2026 01:56:00 GMT"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israeli air strike kills senior Hamas commander in Gaza",
+      "summary": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+      "link": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+      "published": "Sun, 15 Nov 2026 01:00:42 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+      "summary": "Israel has pledged to continue its 'offensive policy' on Gaza, as fighting in Yemen grips the region.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+      "published": "Sun, 15 Nov 2026 00:00:08 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+      "summary": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+      "published": "Sat, 14 Nov 2026 23:34:37 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+      "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
+      "link": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+      "published": "Sat, 14 Nov 2026 21:10:26 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Deadly car bomb blast kills two near Syria’s capital",
+      "summary": "At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria's capital Damascus.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss",
+      "published": "Sat, 14 Nov 2026 19:46:36 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
+      "summary": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
+      "link": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
+      "published": "Sat, 14 Nov 2026 16:53:39 +0000"
+    },
+    {
+      "source": "BBC World",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 22:37:25 GMT"
+    },
+    {
+      "source": "BBC World",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 00:03:52 GMT"
+    }
+  ],
+  "north_korea": [
+    {
+      "source": "북한 (한국어)",
+      "title": "김정은 최측근 조용원 북한 노동당 비서, 러시아 방문 - BBS불교방송",
+      "summary": "김정은 최측근 조용원 북한 노동당 비서, 러시아 방문 BBS불교방송",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KWTY2QTNSeWVqY0JjWjVuRlhIc0t3RUxCVnlEMy1ucFN4ZGliOVRQTkZHbm1mbWpqb3JHN0RodDFIc3BrUUhUVkY0VjVYcTNKLXNtdWI3YktxZHVBS3V5aEsyZnBHeEZ5SEpn?oc=5",
+      "published": "Sun, 15 Nov 2026 01:04:39 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "北 김정은 최측근 조용원, APEC 앞두고 러시아 방문 - 동아일보",
+      "summary": "北 김정은 최측근 조용원, APEC 앞두고 러시아 방문 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CUTB1NFRFX2Q3bnJoS3czdEEtNTRDUm90cU8tSmsxY3REY3gySDFzMlhLc1JXQVVfLWlFT2ZGdG1GcENpRlNRN01rbngwN0VEU0tyUEJoemdzZ0NORWpSOG9BNnlraHo2bkZxbDNOQnBlX09SQ3lj0gFmQVVfeXFMTzhkUkFXOXpUTEdTMmFBOTQ1UERJakVtNHlVS3VuaXBHMDI0Qm50RFd1amI2cVF0R09GTDBxaDBDZjBWS184di1BalRuRXctSEc1TVlkeDBUSzJ2dXFMQ2ItdVZSeTRR?oc=5",
+      "published": "Sat, 14 Nov 2026 22:27:49 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "\"北김정은 최측근 조용원 당비서, 대표단 이끌고 러시아행\" - 연합뉴스",
+      "summary": "\"北김정은 최측근 조용원 당비서, 대표단 이끌고 러시아행\" 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SMnBqbVNQVWtpcDltcXNTRjVTNGd0aG5OMEJiUG1sMzZDV1NGcmNSLXlvTkhMOFRWTWN0N3lnTUNOd3NuMDAtMjc3OVJPbm02VHY5WDFzN2ZJUmfSAWBBVV95cUxOSGdmZDNGbWN3UXQtRFlpRTNkS1dKNlhSSUhxZzNkU1J6X0doT2VMR2FxcU5xbTRoR0R1SVg4aFdKU01zU19QTThoWHFRYWN2OTJ6VzFwZWRTYmVZRElYclU?oc=5",
+      "published": "Sat, 14 Nov 2026 12:40:54 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "김정은 최측근 조용원, 러시아 방문···“북·러 관계 강화 예상” - 경향신문",
+      "summary": "김정은 최측근 조용원, 러시아 방문···“북·러 관계 강화 예상” 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mRFdBQi1iT3BPNEpMSWtoR0xoeHd3NzE0ZHR6WUtMYnlIZDAwNVJyYW52RjZKSFpRaElfNWtlbEJUQVlNanduMEZWLUN1akhtZ2Vta1hiQXlYQdIBX0FVX3lxTE5BeFVXOGc4S0wtTEVMWHJTWktBX19FcDNmdnk3UDNFaEhtc3gzLWI4WHBqanZBYUJrZjNFYXVWRElaZ1YwWGpaN29lakg0anR2SlJUY1Q1cFJxY3FYMW93?oc=5",
+      "published": "Sat, 14 Nov 2026 13:03:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "북한, 재래식 무기 잇단 공개…‘전략적 노출’ 노림수는? - 한겨레",
+      "summary": "북한, 재래식 무기 잇단 공개…‘전략적 노출’ 노림수는? 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9lei05Q1RhdFZydFNnUnlJWG1DT3lTWVdPQU5RaUVYdE9sLWFXTlJITmpTYXJYSDZKTEJEdWVPVjlyV3pZdzFxQWRfRXhNMmFXYTZ1SnRLWHRLaU1JWDA5cGdhNy15WXJF?oc=5",
+      "published": "Sat, 14 Nov 2026 20:05:00 GMT"
+    },
+    {
+      "source": "북한 (한국어)",
+      "title": "\"北김정은 최측근 조용원 당비서, 러시아행…러 메드베데프 초청\" - 연합뉴스TV",
+      "summary": "\"北김정은 최측근 조용원 당비서, 러시아행…러 메드베데프 초청\" 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aYm1XWF9EaE1vczU4ck1CV2VRc2sxUEN1THVlRWpkdTh4V25nZzdaWHh6UFBVUlFmckh0TUtOWEJmdjZKQUg4cnRVbkhRbkpyQ0tWSGNheEVMWW9iWlIwLVFCN3hac2s?oc=5",
+      "published": "Sat, 14 Nov 2026 13:25:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un’s top aide heads to Moscow, days before Putin-Xi-Trump summit - NK News",
+      "summary": "Kim Jong Un’s top aide heads to Moscow, days before Putin-Xi-Trump summit NK News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVzBNdWhHVzY0RVlfSVNzd2FQYXhxT2VMQjJUbHZmaDlfd1lfbDlUbUQ2QlA0WTdvVlhVaExFd0U3X2ZYd1kzWDBERUYxUWliSDhhQ1pTaFJaTWVadWl6WkpkS1ZZbS1vWXh3UDI5TlNVVXlsOGptcEphakpRTUJ4bVhVUjFFd0h0YVR6ekxqOVVnX0dpZS15bVRUR0tiY2xVZjhmZTRR?oc=5",
+      "published": "Sat, 14 Nov 2026 23:51:12 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Exclusive: Internal ledgers show how Pyongyang steals wages from its workers in China - Radio Free Asia",
+      "summary": "Exclusive: Internal ledgers show how Pyongyang steals wages from its workers in China Radio Free Asia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbVRoV0M0RVRXMlU0clItbjRCNUd5bm05Ykc0MTJYVHNWZXNZUzFiM0dyWG1kdFVWblVTZjMxemVVYWVNX0xxdl9mbnVRYngtTTZUaUc2eFRjT3diakp6U1pLQjI4ZVNnRUNhcHFEQWJZQlZJUm1NSnBtM0Q0bnNKOF8xWllzSXNJMEE?oc=5",
+      "published": "Sat, 14 Nov 2026 23:35:35 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Rubio Contrasts North Korea, Iran Nuclear Threats - 조선일보",
+      "summary": "Rubio Contrasts North Korea, Iran Nuclear Threats 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUo0ZUhEal9HN2RHc3ZKb2JHSEZ4NkJkNU1MY1QyXy1EcHlvMGlCczBVR1NuTTRFUjhoclRiZmxUSnkyeEF4YWxsc2o4bmV4NXViSkNycWp0M05fZlB3eDhSeE00U3h4dlhZRFJ5QVhYN3BwSVJmcnM4cGpxc0ZfLU90S3U?oc=5",
+      "published": "Sat, 14 Nov 2026 15:15:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "Kim Jong Un’s Flag Redesign and the Legal Meaning of ‘Two Hostile States’ - Diplomacy and Law",
+      "summary": "Kim Jong Un’s Flag Redesign and the Legal Meaning of ‘Two Hostile States’ Diplomacy and Law",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HVWUzTU1RZExVa1g4dDR6ZVo1bW1EMVl0ekZ2bG5ISUREYlFWTGRxZ1V2YTFTck44bGY5UENsWFU2ODVBWUhhWnE1aW5jQjk1VHBvby1LQm9GYTdWVUNRT2cxcmFpLTNNLVowZ0RYYw?oc=5",
+      "published": "Fri, 13 Nov 2026 16:07:30 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "How Trump might be tempted to orchestrate an 'end to the Korean War' - Nikkei Asia",
+      "summary": "How Trump might be tempted to orchestrate an 'end to the Korean War' Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORUF4VlN5ZWJFZTRsb1hOMWlfV1RHcWM3eDhGUXpVa2JTT2pwTGgzcUJPcGc1aTdJRHI0S3l6NDA0czJXZkZFMUgyS1I2NUhhZDNGT1JGUDlqTW0wTklrV3pZdWRqRXZfb2pqQlBVQk5RZExtcEJqZkFmSmV4dUlTOEt3UzhUeTViM3FjaHZjX0NTN0JRSmdhQnR6bEM1UmxQS1p2eXRzZ0pwUmVS?oc=5",
+      "published": "Sat, 14 Nov 2026 09:40:00 GMT"
+    },
+    {
+      "source": "North Korea (EN)",
+      "title": "North Korea changes flag for first time since 1948 as Kim Jong Un seeks sweeping change - AOL.com",
+      "summary": "North Korea changes flag for first time since 1948 as Kim Jong Un seeks sweeping change AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYX3JueUwzbmp3NHZDRTlRaGtsWVhQOXFVUjdZQU9PV0hpaHhPVHl6TGo1LWdGVzBrSGFiWkJFQWw2OHZXVDJCRXdFVDBNS3VNMDdtUU5xWndIVkpjOTJsQmNKdV9nTVV6eEZINEJZVS05bGhjc1lmc3hUSTZrXzg?oc=5",
+      "published": "Sat, 14 Nov 2026 16:35:04 GMT"
+    },
+    {
+      "source": "NK News",
+      "title": "Kim Jong Un’s top aide heads to Moscow, days before Putin-Xi-Trump summit",
+      "summary": "North Korean leader Kim Jong Un’s right-hand man Jo Yong Won arrived in Moscow for talks with former Russian president Dmitry Medvedev on Saturday, state media reported, days before the U.S., Chinese and Russian leaders are set to hold their first-ever trilateral meeting in China. The official is leading a party and government delegation at […]",
+      "link": "https://www.nknews.org/2026/11/kim-jong-uns-top-aide-heads-to-moscow-days-before-putin-xi-trump-summit/",
+      "published": "Sat, 14 Nov 2026 23:50:48 +0000"
+    }
+  ]
+}
